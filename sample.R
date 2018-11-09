@@ -1,2 +1,3 @@
 
-print("sample")
+setwd("~/data/ctr")
+library(data.table)
