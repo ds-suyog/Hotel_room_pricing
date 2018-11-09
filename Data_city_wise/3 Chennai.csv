@@ -1,0 +1,417 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Accord Metropolitan,4000,4,11,"35, GN Chetty Road, T Nagar, Chennai, Tamil Nadu",600017,"Luxury hotel in Chennai with 3 restaurants, spa",1,0,162,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Accord Metropolitan,4000,4,11,"35, GN Chetty Road, T Nagar, Chennai, Tamil Nadu",600017,"Luxury hotel in Chennai with 3 restaurants, spa",1,0,162,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Accord Metropolitan,4000,4,11,"35, GN Chetty Road, T Nagar, Chennai, Tamil Nadu",600017,"Luxury hotel in Chennai with 3 restaurants, spa",1,0,162,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Accord Metropolitan,4000,4,11,"35, GN Chetty Road, T Nagar, Chennai, Tamil Nadu",600017,"Luxury hotel in Chennai with 3 restaurants, spa",1,0,162,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Accord Metropolitan,5000,4,11,"35, GN Chetty Road, T Nagar, Chennai, Tamil Nadu",600017,"Luxury hotel in Chennai with 3 restaurants, spa",1,0,162,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Accord Metropolitan,5000,4,11,"35, GN Chetty Road, T Nagar, Chennai, Tamil Nadu",600017,"Luxury hotel in Chennai with 3 restaurants, spa",1,0,162,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Accord Metropolitan,5000,4,11,"35, GN Chetty Road, T Nagar, Chennai, Tamil Nadu",600017,"Luxury hotel in Chennai with 3 restaurants, spa",1,0,162,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Accord Metropolitan,5000,4,11,"35, GN Chetty Road, T Nagar, Chennai, Tamil Nadu",600017,"Luxury hotel in Chennai with 3 restaurants, spa",1,0,162,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Avnb Towers,1200,2.5,2.6,"No 7 Dharga Road, Pallavaram, Chennai, Tamil Nadu, 600043 India",600043,No-frills hotel in Pallavaram,1,0,17,0
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Avnb Towers,1200,2.5,2.6,"No 7 Dharga Road, Pallavaram, Chennai, Tamil Nadu, 600043 India",600043,No-frills hotel in Pallavaram,1,0,17,0
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Avnb Towers,1200,2.5,2.6,"No 7 Dharga Road, Pallavaram, Chennai, Tamil Nadu, 600043 India",600043,No-frills hotel in Pallavaram,1,0,17,0
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Avnb Towers,1200,2.5,2.6,"No 7 Dharga Road, Pallavaram, Chennai, Tamil Nadu, 600043 India",600043,No-frills hotel in Pallavaram,1,0,17,0
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Avnb Towers,1200,2.5,2.6,"No 7 Dharga Road, Pallavaram, Chennai, Tamil Nadu, 600043 India",600043,No-frills hotel in Pallavaram,1,0,17,0
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Avnb Towers,1200,2.5,2.6,"No 7 Dharga Road, Pallavaram, Chennai, Tamil Nadu, 600043 India",600043,No-frills hotel in Pallavaram,1,0,17,0
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Avnb Towers,1600,2.5,2.6,"No 7 Dharga Road, Pallavaram, Chennai, Tamil Nadu, 600043 India",600043,No-frills hotel in Pallavaram,1,0,17,0
+Chennai,7088416,3,1,0,0,0,Jan 8 2017,Avnb Towers,1600,2.5,2.6,"No 7 Dharga Road, Pallavaram, Chennai, Tamil Nadu, 600043 India",600043,No-frills hotel in Pallavaram,1,0,17,0
+Chennai,7088416,3,1,1,1,0,Dec 18 2016,Clarion Hotel Chennai,2864,4,13,"25, Dr. Radhakrishnan Salai, Chennai, Tamil Nadu, India",600004,"4-star hotel in Mylapore with outdoor pool, restaurant",0,1,129,1
+Chennai,7088416,3,1,1,0,0,Dec 21 2016,Clarion Hotel Chennai,2714,4,13,"25, Dr. Radhakrishnan Salai, Chennai, Tamil Nadu, India",600004,"4-star hotel in Mylapore with outdoor pool, restaurant",0,1,129,1
+Chennai,7088416,3,1,1,1,0,Dec 24 2016,Clarion Hotel Chennai,2714,4,13,"25, Dr. Radhakrishnan Salai, Chennai, Tamil Nadu, India",600004,"4-star hotel in Mylapore with outdoor pool, restaurant",0,1,129,1
+Chennai,7088416,3,1,1,1,0,Dec 25 2016,Clarion Hotel Chennai,2714,4,13,"25, Dr. Radhakrishnan Salai, Chennai, Tamil Nadu, India",600004,"4-star hotel in Mylapore with outdoor pool, restaurant",0,1,129,1
+Chennai,7088416,3,1,1,0,0,Dec 28 2016,Clarion Hotel Chennai,2714,4,13,"25, Dr. Radhakrishnan Salai, Chennai, Tamil Nadu, India",600004,"4-star hotel in Mylapore with outdoor pool, restaurant",0,1,129,1
+Chennai,7088416,3,1,1,1,1,Dec 31 2016,Clarion Hotel Chennai,2714,4,13,"25, Dr. Radhakrishnan Salai, Chennai, Tamil Nadu, India",600004,"4-star hotel in Mylapore with outdoor pool, restaurant",0,1,129,1
+Chennai,7088416,3,1,1,0,0,Jan 4 2017,Clarion Hotel Chennai,2714,4,13,"25, Dr. Radhakrishnan Salai, Chennai, Tamil Nadu, India",600004,"4-star hotel in Mylapore with outdoor pool, restaurant",0,1,129,1
+Chennai,7088416,3,1,1,1,0,Jan 8 2017,Clarion Hotel Chennai,2714,4,13,"25, Dr. Radhakrishnan Salai, Chennai, Tamil Nadu, India",600004,"4-star hotel in Mylapore with outdoor pool, restaurant",0,1,129,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Courtyard by Marriott,6950,4,11,"564 Anna Salai, Teynampet, Chennai, Tamil Nadu",600018,"4-star hotel in Chennai with 3 restaurants, spa",1,1,236,0
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Courtyard by Marriott,6550,4,11,"564 Anna Salai, Teynampet, Chennai, Tamil Nadu",600018,"4-star hotel in Chennai with 3 restaurants, spa",1,1,236,0
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Courtyard by Marriott,4450,4,11,"564 Anna Salai, Teynampet, Chennai, Tamil Nadu",600018,"4-star hotel in Chennai with 3 restaurants, spa",1,1,236,0
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Courtyard by Marriott,5250,4,11,"564 Anna Salai, Teynampet, Chennai, Tamil Nadu",600018,"4-star hotel in Chennai with 3 restaurants, spa",1,1,236,0
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Courtyard by Marriott,6050,4,11,"564 Anna Salai, Teynampet, Chennai, Tamil Nadu",600018,"4-star hotel in Chennai with 3 restaurants, spa",1,1,236,0
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Courtyard by Marriott,4750,4,11,"564 Anna Salai, Teynampet, Chennai, Tamil Nadu",600018,"4-star hotel in Chennai with 3 restaurants, spa",1,1,236,0
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Courtyard by Marriott,6350,4,11,"564 Anna Salai, Teynampet, Chennai, Tamil Nadu",600018,"4-star hotel in Chennai with 3 restaurants, spa",1,1,236,0
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Courtyard by Marriott,6650,4,11,"564 Anna Salai, Teynampet, Chennai, Tamil Nadu",600018,"4-star hotel in Chennai with 3 restaurants, spa",1,1,236,0
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Crowne Plaza,7100,5,11,"132 TTK Road, Alwarpet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with 4 restaurants, 2 bars/lounges",0,0,286,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Crowne Plaza,7170,5,11,"132 TTK Road, Alwarpet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with 4 restaurants, 2 bars/lounges",0,0,286,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Crowne Plaza,5688,5,11,"132 TTK Road, Alwarpet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with 4 restaurants, 2 bars/lounges",0,0,286,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Crowne Plaza,6430,5,11,"132 TTK Road, Alwarpet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with 4 restaurants, 2 bars/lounges",0,0,286,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Crowne Plaza,7200,5,11,"132 TTK Road, Alwarpet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with 4 restaurants, 2 bars/lounges",0,0,286,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Crowne Plaza,5778,5,11,"132 TTK Road, Alwarpet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with 4 restaurants, 2 bars/lounges",0,0,286,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Crowne Plaza,7460,5,11,"132 TTK Road, Alwarpet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with 4 restaurants, 2 bars/lounges",0,0,286,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Crowne Plaza,6850,5,11,"132 TTK Road, Alwarpet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with 4 restaurants, 2 bars/lounges",0,0,286,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Design Hotel Chennai by jüSTa,3999,4,5.8,"142, Velachery Main Road, Phoenix Market City Mall, Velachery, Chennai, Tamil Nadu",600042,"4-star hotel in Guindy with spa, outdoor pool",1,1,26,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Design Hotel Chennai by jüSTa,4250,4,5.8,"142, Velachery Main Road, Phoenix Market City Mall, Velachery, Chennai, Tamil Nadu",600042,"4-star hotel in Guindy with spa, outdoor pool",1,1,26,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Design Hotel Chennai by jüSTa,3999,4,5.8,"142, Velachery Main Road, Phoenix Market City Mall, Velachery, Chennai, Tamil Nadu",600042,"4-star hotel in Guindy with spa, outdoor pool",1,1,26,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Design Hotel Chennai by jüSTa,3999,4,5.8,"142, Velachery Main Road, Phoenix Market City Mall, Velachery, Chennai, Tamil Nadu",600042,"4-star hotel in Guindy with spa, outdoor pool",1,1,26,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Design Hotel Chennai by jüSTa,4250,4,5.8,"142, Velachery Main Road, Phoenix Market City Mall, Velachery, Chennai, Tamil Nadu",600042,"4-star hotel in Guindy with spa, outdoor pool",1,1,26,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Design Hotel Chennai by jüSTa,3999,4,5.8,"142, Velachery Main Road, Phoenix Market City Mall, Velachery, Chennai, Tamil Nadu",600042,"4-star hotel in Guindy with spa, outdoor pool",1,1,26,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Design Hotel Chennai by jüSTa,4250,4,5.8,"142, Velachery Main Road, Phoenix Market City Mall, Velachery, Chennai, Tamil Nadu",600042,"4-star hotel in Guindy with spa, outdoor pool",1,1,26,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Design Hotel Chennai by jüSTa,3999,4,5.8,"142, Velachery Main Road, Phoenix Market City Mall, Velachery, Chennai, Tamil Nadu",600042,"4-star hotel in Guindy with spa, outdoor pool",1,1,26,1
+Chennai,7088416,3,1,1,1,0,Dec 18 2016,E Hotel,4435,3.5,14,"Express Avenue Mall, Gate # 1, Patullos Road, Chennai, Tamil Nadu, India",600002,"Family hotel in Royapettah with restaurant, bar/lounge",1,0,44,0
+Chennai,7088416,3,1,1,0,0,Dec 21 2016,E Hotel,4435,3.5,14,"Express Avenue Mall, Gate # 1, Patullos Road, Chennai, Tamil Nadu, India",600002,"Family hotel in Royapettah with restaurant, bar/lounge",1,0,44,0
+Chennai,7088416,3,1,1,1,0,Dec 24 2016,E Hotel,4435,3.5,14,"Express Avenue Mall, Gate # 1, Patullos Road, Chennai, Tamil Nadu, India",600002,"Family hotel in Royapettah with restaurant, bar/lounge",1,0,44,0
+Chennai,7088416,3,1,1,1,0,Dec 25 2016,E Hotel,4435,3.5,14,"Express Avenue Mall, Gate # 1, Patullos Road, Chennai, Tamil Nadu, India",600002,"Family hotel in Royapettah with restaurant, bar/lounge",1,0,44,0
+Chennai,7088416,3,1,1,0,0,Dec 28 2016,E Hotel,4435,3.5,14,"Express Avenue Mall, Gate # 1, Patullos Road, Chennai, Tamil Nadu, India",600002,"Family hotel in Royapettah with restaurant, bar/lounge",1,0,44,0
+Chennai,7088416,3,1,1,1,1,Dec 31 2016,E Hotel,4435,3.5,14,"Express Avenue Mall, Gate # 1, Patullos Road, Chennai, Tamil Nadu, India",600002,"Family hotel in Royapettah with restaurant, bar/lounge",1,0,44,0
+Chennai,7088416,3,1,1,0,0,Jan 4 2017,E Hotel,3927,3.5,14,"Express Avenue Mall, Gate # 1, Patullos Road, Chennai, Tamil Nadu, India",600002,"Family hotel in Royapettah with restaurant, bar/lounge",1,0,44,0
+Chennai,7088416,3,1,1,1,0,Jan 8 2017,E Hotel,3927,3.5,14,"Express Avenue Mall, Gate # 1, Patullos Road, Chennai, Tamil Nadu, India",600002,"Family hotel in Royapettah with restaurant, bar/lounge",1,0,44,0
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Formule1 Chennai Omr-An AccorHotels Brand,1599,2,9.4,"Survey No 267 Plot No 1B, Old Mahabalipuram Rd, Chennai, 600097 India",600097,No-frills hotel in Chennai,1,1,149,0
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Formule1 Chennai Omr-An AccorHotels Brand,1599,2,9.4,"Survey No 267 Plot No 1B, Old Mahabalipuram Rd, Chennai, 600097 India",600097,No-frills hotel in Chennai,1,1,149,0
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Formule1 Chennai Omr-An AccorHotels Brand,1599,2,9.4,"Survey No 267 Plot No 1B, Old Mahabalipuram Rd, Chennai, 600097 India",600097,No-frills hotel in Chennai,1,1,149,0
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Formule1 Chennai Omr-An AccorHotels Brand,1599,2,9.4,"Survey No 267 Plot No 1B, Old Mahabalipuram Rd, Chennai, 600097 India",600097,No-frills hotel in Chennai,1,1,149,0
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Formule1 Chennai Omr-An AccorHotels Brand,1599,2,9.4,"Survey No 267 Plot No 1B, Old Mahabalipuram Rd, Chennai, 600097 India",600097,No-frills hotel in Chennai,1,1,149,0
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Formule1 Chennai Omr-An AccorHotels Brand,1599,2,9.4,"Survey No 267 Plot No 1B, Old Mahabalipuram Rd, Chennai, 600097 India",600097,No-frills hotel in Chennai,1,1,149,0
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Formule1 Chennai Omr-An AccorHotels Brand,1699,2,9.4,"Survey No 267 Plot No 1B, Old Mahabalipuram Rd, Chennai, 600097 India",600097,No-frills hotel in Chennai,1,1,149,0
+Chennai,7088416,3,1,0,0,0,Jan 8 2017,Formule1 Chennai Omr-An AccorHotels Brand,1699,2,9.4,"Survey No 267 Plot No 1B, Old Mahabalipuram Rd, Chennai, 600097 India",600097,No-frills hotel in Chennai,1,1,149,0
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Fortune Select Palms ,4270,4,9,"142, Rajiv Gandhi Salai, Thoraipakkam, Chennai, Tamil Nadu",600096,#NAME?,1,1,129,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Fortune Select Palms ,4270,4,9,"142, Rajiv Gandhi Salai, Thoraipakkam, Chennai, Tamil Nadu",600096,#NAME?,1,1,129,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Fortune Select Palms ,4270,4,9,"142, Rajiv Gandhi Salai, Thoraipakkam, Chennai, Tamil Nadu",600096,#NAME?,1,1,129,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Fortune Select Palms ,4270,4,9,"142, Rajiv Gandhi Salai, Thoraipakkam, Chennai, Tamil Nadu",600096,#NAME?,1,1,129,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Fortune Select Palms ,3965,4,9,"142, Rajiv Gandhi Salai, Thoraipakkam, Chennai, Tamil Nadu",600096,#NAME?,1,1,129,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Fortune Select Palms ,3965,4,9,"142, Rajiv Gandhi Salai, Thoraipakkam, Chennai, Tamil Nadu",600096,#NAME?,1,1,129,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Fortune Select Palms ,3965,4,9,"142, Rajiv Gandhi Salai, Thoraipakkam, Chennai, Tamil Nadu",600096,#NAME?,1,1,129,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Fortune Select Palms ,3965,4,9,"142, Rajiv Gandhi Salai, Thoraipakkam, Chennai, Tamil Nadu",600096,#NAME?,1,1,129,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Grand Chennai,4700,4,11,"120, Sir Thyagaraya Road, Chennai, Tamil Nadu",600017,"4-star hotel in Chennai with 3 restaurants, indoor pool",1,1,133,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Grand Chennai,4875,4,11,"120, Sir Thyagaraya Road, Chennai, Tamil Nadu",600017,"4-star hotel in Chennai with 3 restaurants, indoor pool",1,1,133,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Grand Chennai,4700,4,11,"120, Sir Thyagaraya Road, Chennai, Tamil Nadu",600017,"4-star hotel in Chennai with 3 restaurants, indoor pool",1,1,133,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Grand Chennai,4700,4,11,"120, Sir Thyagaraya Road, Chennai, Tamil Nadu",600017,"4-star hotel in Chennai with 3 restaurants, indoor pool",1,1,133,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Grand Chennai,4875,4,11,"120, Sir Thyagaraya Road, Chennai, Tamil Nadu",600017,"4-star hotel in Chennai with 3 restaurants, indoor pool",1,1,133,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Grand Chennai,4700,4,11,"120, Sir Thyagaraya Road, Chennai, Tamil Nadu",600017,"4-star hotel in Chennai with 3 restaurants, indoor pool",1,1,133,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Grand Chennai,4875,4,11,"120, Sir Thyagaraya Road, Chennai, Tamil Nadu",600017,"4-star hotel in Chennai with 3 restaurants, indoor pool",1,1,133,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Grand Chennai,4700,4,11,"120, Sir Thyagaraya Road, Chennai, Tamil Nadu",600017,"4-star hotel in Chennai with 3 restaurants, indoor pool",1,1,133,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Green Park Hotel,4357,4.5,8.8,"183 N S K Salai, Vadapalani, Chennai, Tamil Nadu, India",600026,"Luxury hotel in Chennai with outdoor pool, restaurant",1,1,171,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Green Park Hotel,5950,4.5,8.8,"184 N S K Salai, Vadapalani, Chennai, Tamil Nadu, India",600026,"Luxury hotel in Chennai with outdoor pool, restaurant",1,1,171,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Green Park Hotel,3785,4.5,8.8,"185 N S K Salai, Vadapalani, Chennai, Tamil Nadu, India",600026,"Luxury hotel in Chennai with outdoor pool, restaurant",1,1,171,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Green Park Hotel,3785,4.5,8.8,"186 N S K Salai, Vadapalani, Chennai, Tamil Nadu, India",600026,"Luxury hotel in Chennai with outdoor pool, restaurant",1,1,171,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Green Park Hotel,3575,4.5,8.8,"187 N S K Salai, Vadapalani, Chennai, Tamil Nadu, India",600026,"Luxury hotel in Chennai with outdoor pool, restaurant",1,1,171,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Green Park Hotel,3575,4.5,8.8,"188 N S K Salai, Vadapalani, Chennai, Tamil Nadu, India",600026,"Luxury hotel in Chennai with outdoor pool, restaurant",1,1,171,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Green Park Hotel,5950,4.5,8.8,"189 N S K Salai, Vadapalani, Chennai, Tamil Nadu, India",600026,"Luxury hotel in Chennai with outdoor pool, restaurant",1,1,171,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Green Park Hotel,4250,4.5,8.8,"190 N S K Salai, Vadapalani, Chennai, Tamil Nadu, India",600026,"Luxury hotel in Chennai with outdoor pool, restaurant",1,1,171,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Hablis Hotel,4500,4,5.4,"19, GST Road, Guindy, Chennai, Tamil Nadu",600032,"Luxury hotel in Guindy with 3 restaurants, pool bar",1,1,120,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Hablis Hotel,5000,4,5.4,"19, GST Road, Guindy, Chennai, Tamil Nadu",600032,"Luxury hotel in Guindy with 3 restaurants, pool bar",1,1,120,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Hablis Hotel,4500,4,5.4,"19, GST Road, Guindy, Chennai, Tamil Nadu",600032,"Luxury hotel in Guindy with 3 restaurants, pool bar",1,1,120,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Hablis Hotel,4500,4,5.4,"19, GST Road, Guindy, Chennai, Tamil Nadu",600032,"Luxury hotel in Guindy with 3 restaurants, pool bar",1,1,120,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Hablis Hotel,4750,4,5.4,"19, GST Road, Guindy, Chennai, Tamil Nadu",600032,"Luxury hotel in Guindy with 3 restaurants, pool bar",1,1,120,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Hablis Hotel,4500,4,5.4,"19, GST Road, Guindy, Chennai, Tamil Nadu",600032,"Luxury hotel in Guindy with 3 restaurants, pool bar",1,1,120,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Hablis Hotel,7000,4,5.4,"19, GST Road, Guindy, Chennai, Tamil Nadu",600032,"Luxury hotel in Guindy with 3 restaurants, pool bar",1,1,120,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Hablis Hotel,4500,4,5.4,"19, GST Road, Guindy, Chennai, Tamil Nadu",600032,"Luxury hotel in Guindy with 3 restaurants, pool bar",1,1,120,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Hanu Reddy Residences Poes Garden,3600,3,12,"41/19 Poes Garden, Chennai ",600086,3-star hotel in Chennai,1,1,31,0
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Hanu Reddy Residences Poes Garden,3600,3,12,"41/19 Poes Garden, Chennai ",600086,3-star hotel in Chennai,1,1,31,0
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Hanu Reddy Residences Poes Garden,3600,3,12,"41/19 Poes Garden, Chennai ",600086,3-star hotel in Chennai,1,1,31,0
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Hanu Reddy Residences Poes Garden,3600,3,12,"41/19 Poes Garden, Chennai ",600086,3-star hotel in Chennai,1,1,31,0
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Hanu Reddy Residences Poes Garden,3600,3,12,"41/19 Poes Garden, Chennai ",600086,3-star hotel in Chennai,1,1,31,0
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Hanu Reddy Residences Poes Garden,4000,3,12,"41/19 Poes Garden, Chennai ",600086,3-star hotel in Chennai,1,1,31,0
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Hanu Reddy Residences Poes Garden,4000,3,12,"41/19 Poes Garden, Chennai ",600086,3-star hotel in Chennai,1,1,31,0
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Hanu Reddy Residences Poes Garden,4000,3,12,"41/19 Poes Garden, Chennai ",600086,3-star hotel in Chennai,1,1,31,0
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Hilton Hotel,7999,5,5.7,"124/1 J.N. Salai, Guindy, Chennai, Tamil Nadu",600032,"Luxury hotel in Guindy with 5 restaurants, spa",1,0,204,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Hilton Hotel,7999,5,5.7,"124/1 J.N. Salai, Guindy, Chennai, Tamil Nadu",600032,"Luxury hotel in Guindy with 5 restaurants, spa",1,0,204,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Hilton Hotel,6999,5,5.7,"124/1 J.N. Salai, Guindy, Chennai, Tamil Nadu",600032,"Luxury hotel in Guindy with 5 restaurants, spa",1,0,204,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Hilton Hotel,7499,5,5.7,"124/1 J.N. Salai, Guindy, Chennai, Tamil Nadu",600032,"Luxury hotel in Guindy with 5 restaurants, spa",1,0,204,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Hilton Hotel,7999,5,5.7,"124/1 J.N. Salai, Guindy, Chennai, Tamil Nadu",600032,"Luxury hotel in Guindy with 5 restaurants, spa",1,0,204,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Hilton Hotel,7943,5,5.7,"124/1 J.N. Salai, Guindy, Chennai, Tamil Nadu",600032,"Luxury hotel in Guindy with 5 restaurants, spa",1,0,204,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Hilton Hotel,8999,5,5.7,"124/1 J.N. Salai, Guindy, Chennai, Tamil Nadu",600032,"Luxury hotel in Guindy with 5 restaurants, spa",1,0,204,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Hilton Hotel,7999,5,5.7,"124/1 J.N. Salai, Guindy, Chennai, Tamil Nadu",600032,"Luxury hotel in Guindy with 5 restaurants, spa",1,0,204,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Holiday Inn Express Chennai Mahindra World City,3400,4,33,"Mahindra World City, Near Main Entrance, Mahindra World City, Tamil Nadu",603002,"4-star hotel in Mahindra World City with restaurant, bar/lounge",1,1,140,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Holiday Inn Express Chennai Mahindra World City,3400,4,33,"Mahindra World City, Near Main Entrance, Mahindra World City, Tamil Nadu",603002,"4-star hotel in Mahindra World City with restaurant, bar/lounge",1,1,140,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Holiday Inn Express Chennai Mahindra World City,3040,4,33,"Mahindra World City, Near Main Entrance, Mahindra World City, Tamil Nadu",603002,"4-star hotel in Mahindra World City with restaurant, bar/lounge",1,1,140,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Holiday Inn Express Chennai Mahindra World City,3040,4,33,"Mahindra World City, Near Main Entrance, Mahindra World City, Tamil Nadu",603002,"4-star hotel in Mahindra World City with restaurant, bar/lounge",1,1,140,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Holiday Inn Express Chennai Mahindra World City,3040,4,33,"Mahindra World City, Near Main Entrance, Mahindra World City, Tamil Nadu",603002,"4-star hotel in Mahindra World City with restaurant, bar/lounge",1,1,140,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Holiday Inn Express Chennai Mahindra World City,3040,4,33,"Mahindra World City, Near Main Entrance, Mahindra World City, Tamil Nadu",603002,"4-star hotel in Mahindra World City with restaurant, bar/lounge",1,1,140,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Holiday Inn Express Chennai Mahindra World City,3040,4,33,"Mahindra World City, Near Main Entrance, Mahindra World City, Tamil Nadu",603002,"4-star hotel in Mahindra World City with restaurant, bar/lounge",1,1,140,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Holiday Inn Express Chennai Mahindra World City,3040,4,33,"Mahindra World City, Near Main Entrance, Mahindra World City, Tamil Nadu",603002,"4-star hotel in Mahindra World City with restaurant, bar/lounge",1,1,140,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Hotel Pratap Plaza,2000,3,11,"168, Kodambakkam High Road, Mahalingapuram, Chennai, Tamil Nadu ",600034,"3-star hotel in Chennai with 2 restaurants, bar/lounge",1,1,42,0
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Hotel Pratap Plaza,2200,3,11,"168, Kodambakkam High Road, Mahalingapuram, Chennai, Tamil Nadu ",600034,"3-star hotel in Chennai with 2 restaurants, bar/lounge",1,1,42,0
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Hotel Pratap Plaza,1900,3,11,"168, Kodambakkam High Road, Mahalingapuram, Chennai, Tamil Nadu ",600034,"3-star hotel in Chennai with 2 restaurants, bar/lounge",1,1,42,0
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Hotel Pratap Plaza,1900,3,11,"168, Kodambakkam High Road, Mahalingapuram, Chennai, Tamil Nadu ",600034,"3-star hotel in Chennai with 2 restaurants, bar/lounge",1,1,42,0
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Hotel Pratap Plaza,2200,3,11,"168, Kodambakkam High Road, Mahalingapuram, Chennai, Tamil Nadu ",600034,"3-star hotel in Chennai with 2 restaurants, bar/lounge",1,1,42,0
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Hotel Pratap Plaza,1900,3,11,"168, Kodambakkam High Road, Mahalingapuram, Chennai, Tamil Nadu ",600034,"3-star hotel in Chennai with 2 restaurants, bar/lounge",1,1,42,0
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Hotel Pratap Plaza,2200,3,11,"168, Kodambakkam High Road, Mahalingapuram, Chennai, Tamil Nadu ",600034,"3-star hotel in Chennai with 2 restaurants, bar/lounge",1,1,42,0
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Hotel Pratap Plaza,2200,3,11,"168, Kodambakkam High Road, Mahalingapuram, Chennai, Tamil Nadu ",600034,"3-star hotel in Chennai with 2 restaurants, bar/lounge",1,1,42,0
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Hyatt Regency ,5650,5,11,"365 Anna Salai, Teynampet, Chennai, Tamil Nadu",600018,"Luxury hotel in Chennai with 5 restaurants, spa",1,1,327,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Hyatt Regency ,6500,5,11,"365 Anna Salai, Teynampet, Chennai, Tamil Nadu",600018,"Luxury hotel in Chennai with 5 restaurants, spa",1,1,327,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Hyatt Regency ,5400,5,11,"365 Anna Salai, Teynampet, Chennai, Tamil Nadu",600018,"Luxury hotel in Chennai with 5 restaurants, spa",1,1,327,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Hyatt Regency ,7000,5,11,"365 Anna Salai, Teynampet, Chennai, Tamil Nadu",600018,"Luxury hotel in Chennai with 5 restaurants, spa",1,1,327,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Hyatt Regency ,6500,5,11,"365 Anna Salai, Teynampet, Chennai, Tamil Nadu",600018,"Luxury hotel in Chennai with 5 restaurants, spa",1,1,327,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Hyatt Regency ,5400,5,11,"365 Anna Salai, Teynampet, Chennai, Tamil Nadu",600018,"Luxury hotel in Chennai with 5 restaurants, spa",1,1,327,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Hyatt Regency ,8500,5,11,"365 Anna Salai, Teynampet, Chennai, Tamil Nadu",600018,"Luxury hotel in Chennai with 5 restaurants, spa",1,1,327,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Hyatt Regency ,7250,5,11,"365 Anna Salai, Teynampet, Chennai, Tamil Nadu",600018,"Luxury hotel in Chennai with 5 restaurants, spa",1,1,327,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,ibis Chennai City Centre - An AccorHotels Brand,3199,4,13,"144/7, Rajiv Gandi Salai (OMR), Kottivakkam, Chennai, Tamil Nadu",600006,"4-star hotel in Chennai with restaurant, bar/lounge",1,1,155,0
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,ibis Chennai City Centre - An AccorHotels Brand,3999,4,13,"144/7, Rajiv Gandi Salai (OMR), Kottivakkam, Chennai, Tamil Nadu",600006,"4-star hotel in Chennai with restaurant, bar/lounge",1,1,155,0
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,ibis Chennai City Centre - An AccorHotels Brand,2879,4,13,"144/7, Rajiv Gandi Salai (OMR), Kottivakkam, Chennai, Tamil Nadu",600006,"4-star hotel in Chennai with restaurant, bar/lounge",1,1,155,0
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,ibis Chennai City Centre - An AccorHotels Brand,2841,4,13,"144/7, Rajiv Gandi Salai (OMR), Kottivakkam, Chennai, Tamil Nadu",600006,"4-star hotel in Chennai with restaurant, bar/lounge",1,1,155,0
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,ibis Chennai City Centre - An AccorHotels Brand,3599,4,13,"144/7, Rajiv Gandi Salai (OMR), Kottivakkam, Chennai, Tamil Nadu",600006,"4-star hotel in Chennai with restaurant, bar/lounge",1,1,155,0
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,ibis Chennai City Centre - An AccorHotels Brand,2160,4,13,"144/7, Rajiv Gandi Salai (OMR), Kottivakkam, Chennai, Tamil Nadu",600006,"4-star hotel in Chennai with restaurant, bar/lounge",1,1,155,0
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,ibis Chennai City Centre - An AccorHotels Brand,3899,4,13,"144/7, Rajiv Gandi Salai (OMR), Kottivakkam, Chennai, Tamil Nadu",600006,"4-star hotel in Chennai with restaurant, bar/lounge",1,1,155,0
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,ibis Chennai City Centre - An AccorHotels Brand,3899,4,13,"144/7, Rajiv Gandi Salai (OMR), Kottivakkam, Chennai, Tamil Nadu",600006,"4-star hotel in Chennai with restaurant, bar/lounge",1,1,155,0
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Ideal Beach Resort,12000,3,38,"East Coast Road, Devangri Village, Kovalam Road, Mahabalipuram, Tamil Nadu, 603104 India",603104,"Beach hotel in Mahabalipuram with free water park, outdoor pool",1,1,68,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Ideal Beach Resort,12000,3,38,"East Coast Road, Devangri Village, Kovalam Road, Mahabalipuram, Tamil Nadu, 603104 India",603104,"Beach hotel in Mahabalipuram with free water park, outdoor pool",1,1,68,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Ideal Beach Resort,12000,3,38,"East Coast Road, Devangri Village, Kovalam Road, Mahabalipuram, Tamil Nadu, 603104 India",603104,"Beach hotel in Mahabalipuram with free water park, outdoor pool",1,1,68,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Ideal Beach Resort,12000,3,38,"East Coast Road, Devangri Village, Kovalam Road, Mahabalipuram, Tamil Nadu, 603104 India",603104,"Beach hotel in Mahabalipuram with free water park, outdoor pool",1,1,68,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Ideal Beach Resort,12000,3,38,"East Coast Road, Devangri Village, Kovalam Road, Mahabalipuram, Tamil Nadu, 603104 India",603104,"Beach hotel in Mahabalipuram with free water park, outdoor pool",1,1,68,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Ideal Beach Resort,8000,3,38,"East Coast Road, Devangri Village, Kovalam Road, Mahabalipuram, Tamil Nadu, 603104 India",603104,"Beach hotel in Mahabalipuram with free water park, outdoor pool",1,1,68,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Ideal Beach Resort,8000,3,38,"East Coast Road, Devangri Village, Kovalam Road, Mahabalipuram, Tamil Nadu, 603104 India",603104,"Beach hotel in Mahabalipuram with free water park, outdoor pool",1,1,68,1
+Chennai,7088416,3,1,0,0,0,Jan 8 2017,Ideal Beach Resort,8000,3,38,"East Coast Road, Devangri Village, Kovalam Road, Mahabalipuram, Tamil Nadu, 603104 India",603104,"Beach hotel in Mahabalipuram with free water park, outdoor pool",1,1,68,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Keys Hotel Katti-Ma,2890,3,10,"11/23 Kalakshetra Road, Thiruvanmiyur, Chennai, Tamil Nadu, 600041 India",600041,3-star hotel in Chennai,1,1,26,0
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Keys Hotel Katti-Ma,2890,3,10,"11/23 Kalakshetra Road, Thiruvanmiyur, Chennai, Tamil Nadu, 600041 India",600041,3-star hotel in Chennai,1,1,26,0
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Keys Hotel Katti-Ma,2890,3,10,"11/23 Kalakshetra Road, Thiruvanmiyur, Chennai, Tamil Nadu, 600041 India",600041,3-star hotel in Chennai,1,1,26,0
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Keys Hotel Katti-Ma,2890,3,10,"11/23 Kalakshetra Road, Thiruvanmiyur, Chennai, Tamil Nadu, 600041 India",600041,3-star hotel in Chennai,1,1,26,0
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Keys Hotel Katti-Ma,2890,3,10,"11/23 Kalakshetra Road, Thiruvanmiyur, Chennai, Tamil Nadu, 600041 India",600041,3-star hotel in Chennai,1,1,26,0
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Keys Hotel Katti-Ma,2890,3,10,"11/23 Kalakshetra Road, Thiruvanmiyur, Chennai, Tamil Nadu, 600041 India",600041,3-star hotel in Chennai,1,1,26,0
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Keys Hotel Katti-Ma,3400,3,10,"11/23 Kalakshetra Road, Thiruvanmiyur, Chennai, Tamil Nadu, 600041 India",600041,3-star hotel in Chennai,1,1,26,0
+Chennai,7088416,3,1,0,0,0,Jan 8 2017,Keys Hotel Katti-Ma,3400,3,10,"11/23 Kalakshetra Road, Thiruvanmiyur, Chennai, Tamil Nadu, 600041 India",600041,3-star hotel in Chennai,1,1,26,0
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Kohinoor Asiana Hotel,3900,4,15,"1/238, Old Mahabalipuram Road, IT Expressway, Semmencherry, Chennai, Tamil Nadu",600119,"Luxury hotel in Semmencherry with spa, outdoor pool",1,1,178,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Kohinoor Asiana Hotel,4200,4,15,"1/238, Old Mahabalipuram Road, IT Expressway, Semmencherry, Chennai, Tamil Nadu",600119,"Luxury hotel in Semmencherry with spa, outdoor pool",1,1,178,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Kohinoor Asiana Hotel,3900,4,15,"1/238, Old Mahabalipuram Road, IT Expressway, Semmencherry, Chennai, Tamil Nadu",600119,"Luxury hotel in Semmencherry with spa, outdoor pool",1,1,178,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Kohinoor Asiana Hotel,4200,4,15,"1/238, Old Mahabalipuram Road, IT Expressway, Semmencherry, Chennai, Tamil Nadu",600119,"Luxury hotel in Semmencherry with spa, outdoor pool",1,1,178,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Kohinoor Asiana Hotel,3900,4,15,"1/238, Old Mahabalipuram Road, IT Expressway, Semmencherry, Chennai, Tamil Nadu",600119,"Luxury hotel in Semmencherry with spa, outdoor pool",1,1,178,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Kohinoor Asiana Hotel,4200,4,15,"1/238, Old Mahabalipuram Road, IT Expressway, Semmencherry, Chennai, Tamil Nadu",600119,"Luxury hotel in Semmencherry with spa, outdoor pool",1,1,178,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Kohinoor Asiana Hotel,3900,4,15,"1/238, Old Mahabalipuram Road, IT Expressway, Semmencherry, Chennai, Tamil Nadu",600119,"Luxury hotel in Semmencherry with spa, outdoor pool",1,1,178,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Kohinoor Asiana Hotel,4200,4,15,"1/238, Old Mahabalipuram Road, IT Expressway, Semmencherry, Chennai, Tamil Nadu",600119,"Luxury hotel in Semmencherry with spa, outdoor pool",1,1,178,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Leisure Stays,4500,3,12,"No 88C, ECR, Injambakkam, Chennai, Tamil Nadu, 600115 India",600015,"3-star hotel in Injambakkam with outdoor pool, restaurant",1,1,37,0
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Leisure Stays,4500,3,12,"No 88C, ECR, Injambakkam, Chennai, Tamil Nadu, 600115 India",600015,"3-star hotel in Injambakkam with outdoor pool, restaurant",1,1,37,0
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Leisure Stays,4500,3,12,"No 88C, ECR, Injambakkam, Chennai, Tamil Nadu, 600115 India",600015,"3-star hotel in Injambakkam with outdoor pool, restaurant",1,1,37,0
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Leisure Stays,4500,3,12,"No 88C, ECR, Injambakkam, Chennai, Tamil Nadu, 600115 India",600015,"3-star hotel in Injambakkam with outdoor pool, restaurant",1,1,37,0
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Leisure Stays,4500,3,12,"No 88C, ECR, Injambakkam, Chennai, Tamil Nadu, 600115 India",600015,"3-star hotel in Injambakkam with outdoor pool, restaurant",1,1,37,0
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Leisure Stays,4500,3,12,"No 88C, ECR, Injambakkam, Chennai, Tamil Nadu, 600115 India",600015,"3-star hotel in Injambakkam with outdoor pool, restaurant",1,1,37,0
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Leisure Stays,4500,3,12,"No 88C, ECR, Injambakkam, Chennai, Tamil Nadu, 600115 India",600015,"3-star hotel in Injambakkam with outdoor pool, restaurant",1,1,37,0
+Chennai,7088416,3,1,0,0,0,Jan 8 2017,Leisure Stays,3500,3,12,"No 88C, ECR, Injambakkam, Chennai, Tamil Nadu, 600115 India",600015,"3-star hotel in Injambakkam with outdoor pool, restaurant",1,1,37,0
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Lloyds Guest House - US Consulate,1775,2.5,13,"201, Avvai Shanmugam Salai, Lloyds Road, Royapettah, Chennai, Tamil Nadu, 600014 India",600014,No-frills guesthouse in Royapettah,1,1,26,0
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Lloyds Guest House - US Consulate,1775,2.5,13,"201, Avvai Shanmugam Salai, Lloyds Road, Royapettah, Chennai, Tamil Nadu, 600014 India",600014,No-frills guesthouse in Royapettah,1,1,26,0
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Lloyds Guest House - US Consulate,1775,2.5,13,"201, Avvai Shanmugam Salai, Lloyds Road, Royapettah, Chennai, Tamil Nadu, 600014 India",600014,No-frills guesthouse in Royapettah,1,1,26,0
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Lloyds Guest House - US Consulate,1775,2.5,13,"201, Avvai Shanmugam Salai, Lloyds Road, Royapettah, Chennai, Tamil Nadu, 600014 India",600014,No-frills guesthouse in Royapettah,1,1,26,0
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Lloyds Guest House - US Consulate,1775,2.5,13,"201, Avvai Shanmugam Salai, Lloyds Road, Royapettah, Chennai, Tamil Nadu, 600014 India",600014,No-frills guesthouse in Royapettah,1,1,26,0
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Lloyds Guest House - US Consulate,1775,2.5,13,"201, Avvai Shanmugam Salai, Lloyds Road, Royapettah, Chennai, Tamil Nadu, 600014 India",600014,No-frills guesthouse in Royapettah,1,1,26,0
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Lloyds Guest House - US Consulate,1900,2.5,13,"201, Avvai Shanmugam Salai, Lloyds Road, Royapettah, Chennai, Tamil Nadu, 600014 India",600014,No-frills guesthouse in Royapettah,1,1,26,0
+Chennai,7088416,3,1,0,0,0,Jan 8 2017,Lloyds Guest House - US Consulate,1900,2.5,13,"201, Avvai Shanmugam Salai, Lloyds Road, Royapettah, Chennai, Tamil Nadu, 600014 India",600014,No-frills guesthouse in Royapettah,1,1,26,0
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,My Fortune ,6240,4,8.5,"10 Cathedral Street, Chennai, Tamil Nadu",600086,"Luxury hotel in Chennai with 2 restaurants, 2 bars/lounges",1,1,90,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,My Fortune ,4960,4,8.5,"10 Cathedral Street, Chennai, Tamil Nadu",600086,"Luxury hotel in Chennai with 2 restaurants, 2 bars/lounges",1,1,90,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,My Fortune ,4640,4,8.5,"10 Cathedral Street, Chennai, Tamil Nadu",600086,"Luxury hotel in Chennai with 2 restaurants, 2 bars/lounges",1,1,90,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,My Fortune ,4640,4,8.5,"10 Cathedral Street, Chennai, Tamil Nadu",600086,"Luxury hotel in Chennai with 2 restaurants, 2 bars/lounges",1,1,90,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,My Fortune ,4960,4,8.5,"10 Cathedral Street, Chennai, Tamil Nadu",600086,"Luxury hotel in Chennai with 2 restaurants, 2 bars/lounges",1,1,90,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,My Fortune ,4640,4,8.5,"10 Cathedral Street, Chennai, Tamil Nadu",600086,"Luxury hotel in Chennai with 2 restaurants, 2 bars/lounges",1,1,90,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,My Fortune ,5440,4,8.5,"10 Cathedral Street, Chennai, Tamil Nadu",600086,"Luxury hotel in Chennai with 2 restaurants, 2 bars/lounges",1,1,90,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,My Fortune ,5440,4,8.5,"10 Cathedral Street, Chennai, Tamil Nadu",600086,"Luxury hotel in Chennai with 2 restaurants, 2 bars/lounges",1,1,90,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,NGH Transit Hotel,2399,2.5,2.5,"No 1, Kannika Colony, 100 Feet Road, Lakshmi Nagar, Nanganallur, Chennai, 600061, India",600061,No-frills Chennai guestrooms with kitchens,1,1,4,0
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,NGH Transit Hotel,2399,2.5,2.5,"No 1, Kannika Colony, 100 Feet Road, Lakshmi Nagar, Nanganallur, Chennai, 600061, India",600061,No-frills Chennai guestrooms with kitchens,1,1,4,0
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,NGH Transit Hotel,2399,2.5,2.5,"No 1, Kannika Colony, 100 Feet Road, Lakshmi Nagar, Nanganallur, Chennai, 600061, India",600061,No-frills Chennai guestrooms with kitchens,1,1,4,0
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,NGH Transit Hotel,2399,2.5,2.5,"No 1, Kannika Colony, 100 Feet Road, Lakshmi Nagar, Nanganallur, Chennai, 600061, India",600061,No-frills Chennai guestrooms with kitchens,1,1,4,0
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,NGH Transit Hotel,2399,2.5,2.5,"No 1, Kannika Colony, 100 Feet Road, Lakshmi Nagar, Nanganallur, Chennai, 600061, India",600061,No-frills Chennai guestrooms with kitchens,1,1,4,0
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,NGH Transit Hotel,2399,2.5,2.5,"No 1, Kannika Colony, 100 Feet Road, Lakshmi Nagar, Nanganallur, Chennai, 600061, India",600061,No-frills Chennai guestrooms with kitchens,1,1,4,0
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,NGH Transit Hotel,2500,2.5,2.5,"No 1, Kannika Colony, 100 Feet Road, Lakshmi Nagar, Nanganallur, Chennai, 600061, India",600061,No-frills Chennai guestrooms with kitchens,1,1,4,0
+Chennai,7088416,3,1,0,0,0,Jan 8 2017,NGH Transit Hotel,2500,2.5,2.5,"No 1, Kannika Colony, 100 Feet Road, Lakshmi Nagar, Nanganallur, Chennai, 600061, India",600061,No-frills Chennai guestrooms with kitchens,1,1,4,0
+Chennai,7088416,3,1,1,1,0,Dec 18 2016,Novotel Chennai Sipcot,4199,3.5,18,"Plot No 36, Old Mahabalipuram Road, Chennai, Tamil Nadu, India",603103,"Family hotel in Chennai with outdoor pool, restaurant",1,1,180,1
+Chennai,7088416,3,1,1,0,0,Dec 21 2016,Novotel Chennai Sipcot,4799,3.5,18,"Plot No 36, Old Mahabalipuram Road, Chennai, Tamil Nadu, India",603103,"Family hotel in Chennai with outdoor pool, restaurant",1,1,180,1
+Chennai,7088416,3,1,1,1,0,Dec 24 2016,Novotel Chennai Sipcot,4199,3.5,18,"Plot No 36, Old Mahabalipuram Road, Chennai, Tamil Nadu, India",603103,"Family hotel in Chennai with outdoor pool, restaurant",1,1,180,1
+Chennai,7088416,3,1,1,1,0,Dec 25 2016,Novotel Chennai Sipcot,4199,3.5,18,"Plot No 36, Old Mahabalipuram Road, Chennai, Tamil Nadu, India",603103,"Family hotel in Chennai with outdoor pool, restaurant",1,1,180,1
+Chennai,7088416,3,1,1,0,0,Dec 28 2016,Novotel Chennai Sipcot,4799,3.5,18,"Plot No 36, Old Mahabalipuram Road, Chennai, Tamil Nadu, India",603103,"Family hotel in Chennai with outdoor pool, restaurant",1,1,180,1
+Chennai,7088416,3,1,1,1,1,Dec 31 2016,Novotel Chennai Sipcot,4799,3.5,18,"Plot No 36, Old Mahabalipuram Road, Chennai, Tamil Nadu, India",603103,"Family hotel in Chennai with outdoor pool, restaurant",1,1,180,1
+Chennai,7088416,3,1,1,0,0,Jan 4 2017,Novotel Chennai Sipcot,4799,3.5,18,"Plot No 36, Old Mahabalipuram Road, Chennai, Tamil Nadu, India",603103,"Family hotel in Chennai with outdoor pool, restaurant",1,1,180,1
+Chennai,7088416,3,1,1,1,0,Jan 8 2017,Novotel Chennai Sipcot,4799,3.5,18,"Plot No 36, Old Mahabalipuram Road, Chennai, Tamil Nadu, India",603103,"Family hotel in Chennai with outdoor pool, restaurant",1,1,180,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,OYO Apartments Velachery Railway Station,1307,3,5.5,"2&3 Vallal Kumaran Street, Bahirathi Nagar, Madipakkam, Chennai",600091,Chennai aparthotel next to shopping,1,1,15,0
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,OYO Apartments Velachery Railway Station,1307,3,5.5,"2&3 Vallal Kumaran Street, Bahirathi Nagar, Madipakkam, Chennai",600091,Chennai aparthotel next to shopping,1,1,15,0
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,OYO Apartments Velachery Railway Station,1307,3,5.5,"2&3 Vallal Kumaran Street, Bahirathi Nagar, Madipakkam, Chennai",600091,Chennai aparthotel next to shopping,1,1,15,0
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,OYO Apartments Velachery Railway Station,1979,3,5.5,"2&3 Vallal Kumaran Street, Bahirathi Nagar, Madipakkam, Chennai",600091,Chennai aparthotel next to shopping,1,1,15,0
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,OYO Apartments Velachery Railway Station,1979,3,5.5,"2&3 Vallal Kumaran Street, Bahirathi Nagar, Madipakkam, Chennai",600091,Chennai aparthotel next to shopping,1,1,15,0
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,OYO Apartments Velachery Railway Station,1979,3,5.5,"2&3 Vallal Kumaran Street, Bahirathi Nagar, Madipakkam, Chennai",600091,Chennai aparthotel next to shopping,1,1,15,0
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,OYO Apartments Velachery Railway Station,1979,3,5.5,"2&3 Vallal Kumaran Street, Bahirathi Nagar, Madipakkam, Chennai",600091,Chennai aparthotel next to shopping,1,1,15,0
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,OYO Apartments Velachery Railway Station,1979,3,5.5,"2&3 Vallal Kumaran Street, Bahirathi Nagar, Madipakkam, Chennai",600091,Chennai aparthotel next to shopping,1,1,15,0
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,OYO Rooms T Nagar Off Pondy Bazaar,1645,3,10,"15/8, Neelakanta Metha Street, T Nagar, Chennai,",600017,Chennai hotel next to shopping,1,1,15,0
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,OYO Rooms T Nagar Off Pondy Bazaar,1645,3,10,"15/8, Neelakanta Metha Street, T Nagar, Chennai,",600017,Chennai hotel next to shopping,1,1,15,0
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,OYO Rooms T Nagar Off Pondy Bazaar,1645,3,10,"15/8, Neelakanta Metha Street, T Nagar, Chennai,",600017,Chennai hotel next to shopping,1,1,15,0
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,OYO Rooms T Nagar Off Pondy Bazaar,1645,3,10,"15/8, Neelakanta Metha Street, T Nagar, Chennai,",600017,Chennai hotel next to shopping,1,1,15,0
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,OYO Rooms T Nagar Off Pondy Bazaar,1645,3,10,"15/8, Neelakanta Metha Street, T Nagar, Chennai,",600017,Chennai hotel next to shopping,1,1,15,0
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,OYO Rooms T Nagar Off Pondy Bazaar,1645,3,10,"15/8, Neelakanta Metha Street, T Nagar, Chennai,",600017,Chennai hotel next to shopping,1,1,15,0
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,OYO Rooms T Nagar Off Pondy Bazaar,2001,3,10,"15/8, Neelakanta Metha Street, T Nagar, Chennai,",600017,Chennai hotel next to shopping,1,1,15,0
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,OYO Rooms T Nagar Off Pondy Bazaar,2001,3,10,"15/8, Neelakanta Metha Street, T Nagar, Chennai,",600017,Chennai hotel next to shopping,1,1,15,0
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Park Hyatt,8500,5,7,"9 Velachery Road, Raj Bhavan, Chennai, Tamil Nadu",600031,"Luxury hotel in Guindy with 2 restaurants, spa",1,1,201,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Park Hyatt,9000,5,7,"9 Velachery Road, Raj Bhavan, Chennai, Tamil Nadu",600031,"Luxury hotel in Guindy with 2 restaurants, spa",1,1,201,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Park Hyatt,6500,5,7,"9 Velachery Road, Raj Bhavan, Chennai, Tamil Nadu",600031,"Luxury hotel in Guindy with 2 restaurants, spa",1,1,201,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Park Hyatt,8500,5,7,"9 Velachery Road, Raj Bhavan, Chennai, Tamil Nadu",600031,"Luxury hotel in Guindy with 2 restaurants, spa",1,1,201,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Park Hyatt,9000,5,7,"9 Velachery Road, Raj Bhavan, Chennai, Tamil Nadu",600031,"Luxury hotel in Guindy with 2 restaurants, spa",1,1,201,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Park Hyatt,6750,5,7,"9 Velachery Road, Raj Bhavan, Chennai, Tamil Nadu",600031,"Luxury hotel in Guindy with 2 restaurants, spa",1,1,201,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Park Hyatt,9500,5,7,"9 Velachery Road, Raj Bhavan, Chennai, Tamil Nadu",600031,"Luxury hotel in Guindy with 2 restaurants, spa",1,1,201,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Park Hyatt,8500,5,7,"9 Velachery Road, Raj Bhavan, Chennai, Tamil Nadu",600031,"Luxury hotel in Guindy with 2 restaurants, spa",1,1,201,1
+Chennai,7088416,3,1,1,1,0,Dec 18 2016,Raaj Residency,1422,2.5,2.9,"329 A GST Road Pallavaram, Chennai, Tamilnadu, India",600043,No-frills hotel in Chennai,1,0,19,0
+Chennai,7088416,3,1,1,0,0,Dec 21 2016,Raaj Residency,1422,2.5,2.9,"329 A GST Road Pallavaram, Chennai, Tamilnadu, India",600043,No-frills hotel in Chennai,1,0,19,0
+Chennai,7088416,3,1,1,1,0,Dec 24 2016,Raaj Residency,1422,2.5,2.9,"329 A GST Road Pallavaram, Chennai, Tamilnadu, India",600043,No-frills hotel in Chennai,1,0,19,0
+Chennai,7088416,3,1,1,1,0,Dec 25 2016,Raaj Residency,1422,2.5,2.9,"329 A GST Road Pallavaram, Chennai, Tamilnadu, India",600043,No-frills hotel in Chennai,1,0,19,0
+Chennai,7088416,3,1,1,0,0,Dec 28 2016,Raaj Residency,1200,2.5,2.9,"329 A GST Road Pallavaram, Chennai, Tamilnadu, India",600043,No-frills hotel in Chennai,1,0,19,0
+Chennai,7088416,3,1,1,1,1,Dec 31 2016,Raaj Residency,1200,2.5,2.9,"329 A GST Road Pallavaram, Chennai, Tamilnadu, India",600043,No-frills hotel in Chennai,1,0,19,0
+Chennai,7088416,3,1,1,0,0,Jan 4 2017,Raaj Residency,1200,2.5,2.9,"329 A GST Road Pallavaram, Chennai, Tamilnadu, India",600043,No-frills hotel in Chennai,1,0,19,0
+Chennai,7088416,3,1,1,1,0,Jan 8 2017,Raaj Residency,1200,2.5,2.9,"329 A GST Road Pallavaram, Chennai, Tamilnadu, India",600043,No-frills hotel in Chennai,1,0,19,0
+Chennai,7088416,3,1,1,1,0,Dec 18 2016,Rainbow Hotel,1641,3,12,"10, CV Raman Road, Alwarpet, Chennai, Tamil Nadu, India",600018,City-center Chennai hotel with restaurant,1,1,31,0
+Chennai,7088416,3,1,1,0,0,Dec 21 2016,Rainbow Hotel,1641,3,12,"10, CV Raman Road, Alwarpet, Chennai, Tamil Nadu, India",600018,City-center Chennai hotel with restaurant,1,1,31,0
+Chennai,7088416,3,1,1,1,0,Dec 24 2016,Rainbow Hotel,1641,3,12,"10, CV Raman Road, Alwarpet, Chennai, Tamil Nadu, India",600018,City-center Chennai hotel with restaurant,1,1,31,0
+Chennai,7088416,3,1,1,1,0,Dec 25 2016,Rainbow Hotel,1641,3,12,"10, CV Raman Road, Alwarpet, Chennai, Tamil Nadu, India",600018,City-center Chennai hotel with restaurant,1,1,31,0
+Chennai,7088416,3,1,1,0,0,Dec 28 2016,Rainbow Hotel,1641,3,12,"10, CV Raman Road, Alwarpet, Chennai, Tamil Nadu, India",600018,City-center Chennai hotel with restaurant,1,1,31,0
+Chennai,7088416,3,1,1,1,1,Dec 31 2016,Rainbow Hotel,1641,3,12,"10, CV Raman Road, Alwarpet, Chennai, Tamil Nadu, India",600018,City-center Chennai hotel with restaurant,1,1,31,0
+Chennai,7088416,3,1,1,0,0,Jan 4 2017,Rainbow Hotel,2238,3,12,"10, CV Raman Road, Alwarpet, Chennai, Tamil Nadu, India",600018,City-center Chennai hotel with restaurant,1,1,31,0
+Chennai,7088416,3,1,1,1,0,Jan 8 2017,Rainbow Hotel,2238,3,12,"10, CV Raman Road, Alwarpet, Chennai, Tamil Nadu, India",600018,City-center Chennai hotel with restaurant,1,1,31,0
+Chennai,7088416,3,1,1,1,0,Dec 18 2016,Ramada Chennai Egmore,3729,4,15,"Gandhi Irwin Road Egmore, Chennai, Tamil Nadu,India",600008,"4-star hotel in Chennai with 2 restaurants, spa",1,1,113,1
+Chennai,7088416,3,1,1,0,0,Dec 21 2016,Ramada Chennai Egmore,3729,4,15,"Gandhi Irwin Road Egmore, Chennai, Tamil Nadu,India",600008,"4-star hotel in Chennai with 2 restaurants, spa",1,1,113,1
+Chennai,7088416,3,1,1,1,0,Dec 24 2016,Ramada Chennai Egmore,3729,4,15,"Gandhi Irwin Road Egmore, Chennai, Tamil Nadu,India",600008,"4-star hotel in Chennai with 2 restaurants, spa",1,1,113,1
+Chennai,7088416,3,1,1,1,0,Dec 25 2016,Ramada Chennai Egmore,3729,4,15,"Gandhi Irwin Road Egmore, Chennai, Tamil Nadu,India",600008,"4-star hotel in Chennai with 2 restaurants, spa",1,1,113,1
+Chennai,7088416,3,1,1,0,0,Dec 28 2016,Ramada Chennai Egmore,3729,4,15,"Gandhi Irwin Road Egmore, Chennai, Tamil Nadu,India",600008,"4-star hotel in Chennai with 2 restaurants, spa",1,1,113,1
+Chennai,7088416,3,1,1,1,1,Dec 31 2016,Ramada Chennai Egmore,3729,4,15,"Gandhi Irwin Road Egmore, Chennai, Tamil Nadu,India",600008,"4-star hotel in Chennai with 2 restaurants, spa",1,1,113,1
+Chennai,7088416,3,1,1,0,0,Jan 4 2017,Ramada Chennai Egmore,5529,4,15,"Gandhi Irwin Road Egmore, Chennai, Tamil Nadu,India",600008,"4-star hotel in Chennai with 2 restaurants, spa",1,1,113,1
+Chennai,7088416,3,1,1,1,0,Jan 8 2017,Ramada Chennai Egmore,5529,4,15,"Gandhi Irwin Road Egmore, Chennai, Tamil Nadu,India",600008,"4-star hotel in Chennai with 2 restaurants, spa",1,1,113,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Rameshwarm Inn,3729,4,13,"Gandhi Irwin Road Egmore, Chennai, Tamil Nadu",600008,"4-star hotel in Chennai with 2 restaurants, spa",1,1,113,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Rameshwarm Inn,3729,4,13,"Gandhi Irwin Road Egmore, Chennai, Tamil Nadu",600008,"4-star hotel in Chennai with 2 restaurants, spa",1,1,113,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Rameshwarm Inn,3729,4,13,"Gandhi Irwin Road Egmore, Chennai, Tamil Nadu",600008,"4-star hotel in Chennai with 2 restaurants, spa",1,1,113,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Rameshwarm Inn,3729,4,13,"Gandhi Irwin Road Egmore, Chennai, Tamil Nadu",600008,"4-star hotel in Chennai with 2 restaurants, spa",1,1,113,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Rameshwarm Inn,3729,4,13,"Gandhi Irwin Road Egmore, Chennai, Tamil Nadu",600008,"4-star hotel in Chennai with 2 restaurants, spa",1,1,113,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Rameshwarm Inn,3729,4,13,"Gandhi Irwin Road Egmore, Chennai, Tamil Nadu",600008,"4-star hotel in Chennai with 2 restaurants, spa",1,1,113,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Rameshwarm Inn,5529,4,13,"Gandhi Irwin Road Egmore, Chennai, Tamil Nadu",600008,"4-star hotel in Chennai with 2 restaurants, spa",1,1,113,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Rameshwarm Inn,5529,4,13,"Gandhi Irwin Road Egmore, Chennai, Tamil Nadu",600008,"4-star hotel in Chennai with 2 restaurants, spa",1,1,113,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Somerset Greenways,5250,5,13,"No. 94 Sathyadev Avenue, MRC Nagar, Santhome, Chennai, Tamil Nadu",600028,"Luxury Chennai apartment with kitchen, soaking bathtub",1,1,187,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Somerset Greenways,5250,5,13,"No. 94 Sathyadev Avenue, MRC Nagar, Santhome, Chennai, Tamil Nadu",600028,"Luxury Chennai apartment with kitchen, soaking bathtub",1,1,187,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Somerset Greenways,5250,5,13,"No. 94 Sathyadev Avenue, MRC Nagar, Santhome, Chennai, Tamil Nadu",600028,"Luxury Chennai apartment with kitchen, soaking bathtub",1,1,187,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Somerset Greenways,5250,5,13,"No. 94 Sathyadev Avenue, MRC Nagar, Santhome, Chennai, Tamil Nadu",600028,"Luxury Chennai apartment with kitchen, soaking bathtub",1,1,187,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Somerset Greenways,5250,5,13,"No. 94 Sathyadev Avenue, MRC Nagar, Santhome, Chennai, Tamil Nadu",600028,"Luxury Chennai apartment with kitchen, soaking bathtub",1,1,187,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Somerset Greenways,5250,5,13,"No. 94 Sathyadev Avenue, MRC Nagar, Santhome, Chennai, Tamil Nadu",600028,"Luxury Chennai apartment with kitchen, soaking bathtub",1,1,187,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Somerset Greenways,5300,5,13,"No. 94 Sathyadev Avenue, MRC Nagar, Santhome, Chennai, Tamil Nadu",600028,"Luxury Chennai apartment with kitchen, soaking bathtub",1,1,187,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Somerset Greenways,5300,5,13,"No. 94 Sathyadev Avenue, MRC Nagar, Santhome, Chennai, Tamil Nadu",600028,"Luxury Chennai apartment with kitchen, soaking bathtub",1,1,187,1
+Chennai,7088416,3,1,1,1,0,Dec 18 2016,Taj Club House,6072,5,14,"No 2 Club House Road, Off Mount Road, Chennai, Tamil Nadu,India",600002,"Luxury hotel in Royapettah with 2 restaurants, spa",1,0,220,1
+Chennai,7088416,3,1,1,0,0,Dec 21 2016,Taj Club House,6072,5,14,"No 2 Club House Road, Off Mount Road, Chennai, Tamil Nadu,India",600002,"Luxury hotel in Royapettah with 2 restaurants, spa",1,0,220,1
+Chennai,7088416,3,1,1,1,0,Dec 24 2016,Taj Club House,4950,5,14,"No 2 Club House Road, Off Mount Road, Chennai, Tamil Nadu,India",600002,"Luxury hotel in Royapettah with 2 restaurants, spa",1,0,220,1
+Chennai,7088416,3,1,1,1,0,Dec 25 2016,Taj Club House,4950,5,14,"No 2 Club House Road, Off Mount Road, Chennai, Tamil Nadu,India",600002,"Luxury hotel in Royapettah with 2 restaurants, spa",1,0,220,1
+Chennai,7088416,3,1,1,0,0,Dec 28 2016,Taj Club House,5060,5,14,"No 2 Club House Road, Off Mount Road, Chennai, Tamil Nadu,India",600002,"Luxury hotel in Royapettah with 2 restaurants, spa",1,0,220,1
+Chennai,7088416,3,1,1,1,1,Dec 31 2016,Taj Club House,4950,5,14,"No 2 Club House Road, Off Mount Road, Chennai, Tamil Nadu,India",600002,"Luxury hotel in Royapettah with 2 restaurants, spa",1,0,220,1
+Chennai,7088416,3,1,1,0,0,Jan 4 2017,Taj Club House,6992,5,14,"No 2 Club House Road, Off Mount Road, Chennai, Tamil Nadu,India",600002,"Luxury hotel in Royapettah with 2 restaurants, spa",1,0,220,1
+Chennai,7088416,3,1,1,1,0,Jan 8 2017,Taj Club House,6840,5,14,"No 2 Club House Road, Off Mount Road, Chennai, Tamil Nadu,India",600002,"Luxury hotel in Royapettah with 2 restaurants, spa",1,0,220,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Taj Coromandel,12150,5,12,"37 Mahatma Gandi Road, Chennai, Tamil Nadu",600034,"Luxury hotel in Nungambakkam with outdoor pool, bar/lounge",1,1,212,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Taj Coromandel,9200,5,12,"37 Mahatma Gandi Road, Chennai, Tamil Nadu",600034,"Luxury hotel in Nungambakkam with outdoor pool, bar/lounge",1,1,212,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Taj Coromandel,9900,5,12,"37 Mahatma Gandi Road, Chennai, Tamil Nadu",600034,"Luxury hotel in Nungambakkam with outdoor pool, bar/lounge",1,1,212,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Taj Coromandel,9900,5,12,"37 Mahatma Gandi Road, Chennai, Tamil Nadu",600034,"Luxury hotel in Nungambakkam with outdoor pool, bar/lounge",1,1,212,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Taj Coromandel,9200,5,12,"37 Mahatma Gandi Road, Chennai, Tamil Nadu",600034,"Luxury hotel in Nungambakkam with outdoor pool, bar/lounge",1,1,212,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Taj Coromandel,9900,5,12,"37 Mahatma Gandi Road, Chennai, Tamil Nadu",600034,"Luxury hotel in Nungambakkam with outdoor pool, bar/lounge",1,1,212,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Taj Coromandel,11500,5,12,"37 Mahatma Gandi Road, Chennai, Tamil Nadu",600034,"Luxury hotel in Nungambakkam with outdoor pool, bar/lounge",1,1,212,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Taj Coromandel,11250,5,12,"37 Mahatma Gandi Road, Chennai, Tamil Nadu",600034,"Luxury hotel in Nungambakkam with outdoor pool, bar/lounge",1,1,212,1
+Chennai,7088416,3,1,1,1,0,Dec 18 2016,The Gateway Hotel IT Expressway Chennai,5100,4.5,11,"309, Old Mahabalipuram Road, Chennai, Tamil Nadu, India",600119,"Luxury hotel in Sholinganallur with 2 restaurants, spa",1,0,200,1
+Chennai,7088416,3,1,1,0,0,Dec 21 2016,The Gateway Hotel IT Expressway Chennai,5170,4.5,11,"309, Old Mahabalipuram Road, Chennai, Tamil Nadu, India",600119,"Luxury hotel in Sholinganallur with 2 restaurants, spa",1,0,200,1
+Chennai,7088416,3,1,1,1,0,Dec 24 2016,The Gateway Hotel IT Expressway Chennai,4866,4.5,11,"309, Old Mahabalipuram Road, Chennai, Tamil Nadu, India",600119,"Luxury hotel in Sholinganallur with 2 restaurants, spa",1,0,200,1
+Chennai,7088416,3,1,1,1,0,Dec 25 2016,The Gateway Hotel IT Expressway Chennai,4866,4.5,11,"309, Old Mahabalipuram Road, Chennai, Tamil Nadu, India",600119,"Luxury hotel in Sholinganallur with 2 restaurants, spa",1,0,200,1
+Chennai,7088416,3,1,1,0,0,Dec 28 2016,The Gateway Hotel IT Expressway Chennai,4866,4.5,11,"309, Old Mahabalipuram Road, Chennai, Tamil Nadu, India",600119,"Luxury hotel in Sholinganallur with 2 restaurants, spa",1,0,200,1
+Chennai,7088416,3,1,1,1,1,Dec 31 2016,The Gateway Hotel IT Expressway Chennai,4845,4.5,11,"309, Old Mahabalipuram Road, Chennai, Tamil Nadu, India",600119,"Luxury hotel in Sholinganallur with 2 restaurants, spa",1,0,200,1
+Chennai,7088416,3,1,1,0,0,Jan 4 2017,The Gateway Hotel IT Expressway Chennai,5800,4.5,11,"309, Old Mahabalipuram Road, Chennai, Tamil Nadu, India",600119,"Luxury hotel in Sholinganallur with 2 restaurants, spa",1,0,200,1
+Chennai,7088416,3,1,1,1,0,Jan 8 2017,The Gateway Hotel IT Expressway Chennai,5355,4.5,11,"309, Old Mahabalipuram Road, Chennai, Tamil Nadu, India",600119,"Luxury hotel in Sholinganallur with 2 restaurants, spa",1,0,200,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,The Leela Palace Chennai,8325,5,12,"175 Sathya Dev Avenue Extn, MRC Nagar, Chennai, Tamil Nadu, India",600028,"Luxury hotel in Chennai with 3 restaurants, spa",1,1,326,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,The Leela Palace Chennai,9000,5,12,"176 Sathya Dev Avenue Extn, MRC Nagar, Chennai, Tamil Nadu, India",600028,"Luxury hotel in Chennai with 3 restaurants, spa",1,1,326,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,The Leela Palace Chennai,8325,5,12,"177 Sathya Dev Avenue Extn, MRC Nagar, Chennai, Tamil Nadu, India",600028,"Luxury hotel in Chennai with 3 restaurants, spa",1,1,326,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,The Leela Palace Chennai,8325,5,12,"178 Sathya Dev Avenue Extn, MRC Nagar, Chennai, Tamil Nadu, India",600028,"Luxury hotel in Chennai with 3 restaurants, spa",1,1,326,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,The Leela Palace Chennai,9000,5,12,"179 Sathya Dev Avenue Extn, MRC Nagar, Chennai, Tamil Nadu, India",600028,"Luxury hotel in Chennai with 3 restaurants, spa",1,1,326,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,The Leela Palace Chennai,8325,5,12,"180 Sathya Dev Avenue Extn, MRC Nagar, Chennai, Tamil Nadu, India",600028,"Luxury hotel in Chennai with 3 restaurants, spa",1,1,326,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,The Leela Palace Chennai,9900,5,12,"181 Sathya Dev Avenue Extn, MRC Nagar, Chennai, Tamil Nadu, India",600028,"Luxury hotel in Chennai with 3 restaurants, spa",1,1,326,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,The Leela Palace Chennai,9900,5,12,"182 Sathya Dev Avenue Extn, MRC Nagar, Chennai, Tamil Nadu, India",600028,"Luxury hotel in Chennai with 3 restaurants, spa",1,1,326,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,The Lotus Apartment Hotels,2160,2.5,9.3,"15, Burkit Road T. Nagar, Chennai, Tamil Nadu, 600017 India",600017,No-frills Chennai apartment with kitchenette,1,1,39,0
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,The Lotus Apartment Hotels,2160,2.5,9.3,"15, Burkit Road T. Nagar, Chennai, Tamil Nadu, 600017 India",600017,No-frills Chennai apartment with kitchenette,1,1,39,0
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,The Lotus Apartment Hotels,2160,2.5,9.3,"15, Burkit Road T. Nagar, Chennai, Tamil Nadu, 600017 India",600017,No-frills Chennai apartment with kitchenette,1,1,39,0
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,The Lotus Apartment Hotels,2160,2.5,9.3,"15, Burkit Road T. Nagar, Chennai, Tamil Nadu, 600017 India",600017,No-frills Chennai apartment with kitchenette,1,1,39,0
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,The Lotus Apartment Hotels,2160,2.5,9.3,"15, Burkit Road T. Nagar, Chennai, Tamil Nadu, 600017 India",600017,No-frills Chennai apartment with kitchenette,1,1,39,0
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,The Lotus Apartment Hotels,2160,2.5,9.3,"15, Burkit Road T. Nagar, Chennai, Tamil Nadu, 600017 India",600017,No-frills Chennai apartment with kitchenette,1,1,39,0
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,The Lotus Apartment Hotels,2412,2.5,9.3,"15, Burkit Road T. Nagar, Chennai, Tamil Nadu, 600017 India",600017,No-frills Chennai apartment with kitchenette,1,1,39,0
+Chennai,7088416,3,1,0,0,0,Jan 8 2017,The Lotus Apartment Hotels,2412,2.5,9.3,"15, Burkit Road T. Nagar, Chennai, Tamil Nadu, 600017 India",600017,No-frills Chennai apartment with kitchenette,1,1,39,0
+Chennai,7088416,3,1,1,1,0,Dec 18 2016,The Lotus Hotel Sameera,3770,3.5,15,"47, Anna Salai, Chintadripet, Chennai, Tamilnadu, India",600002,"3.5-star hotel in Chennai with restaurant, 24-hour fitness",1,0,59,0
+Chennai,7088416,3,1,1,0,0,Dec 21 2016,The Lotus Hotel Sameera,3770,3.5,15,"47, Anna Salai, Chintadripet, Chennai, Tamilnadu, India",600002,"3.5-star hotel in Chennai with restaurant, 24-hour fitness",1,0,59,0
+Chennai,7088416,3,1,1,1,0,Dec 24 2016,The Lotus Hotel Sameera,3770,3.5,15,"47, Anna Salai, Chintadripet, Chennai, Tamilnadu, India",600002,"3.5-star hotel in Chennai with restaurant, 24-hour fitness",1,0,59,0
+Chennai,7088416,3,1,1,1,0,Dec 25 2016,The Lotus Hotel Sameera,3770,3.5,15,"47, Anna Salai, Chintadripet, Chennai, Tamilnadu, India",600002,"3.5-star hotel in Chennai with restaurant, 24-hour fitness",1,0,59,0
+Chennai,7088416,3,1,1,0,0,Dec 28 2016,The Lotus Hotel Sameera,3770,3.5,15,"47, Anna Salai, Chintadripet, Chennai, Tamilnadu, India",600002,"3.5-star hotel in Chennai with restaurant, 24-hour fitness",1,0,59,0
+Chennai,7088416,3,1,1,1,1,Dec 31 2016,The Lotus Hotel Sameera,3770,3.5,15,"47, Anna Salai, Chintadripet, Chennai, Tamilnadu, India",600002,"3.5-star hotel in Chennai with restaurant, 24-hour fitness",1,0,59,0
+Chennai,7088416,3,1,1,0,0,Jan 4 2017,The Lotus Hotel Sameera,4720,3.5,15,"47, Anna Salai, Chintadripet, Chennai, Tamilnadu, India",600002,"3.5-star hotel in Chennai with restaurant, 24-hour fitness",1,0,59,0
+Chennai,7088416,3,1,1,1,0,Jan 8 2017,The Lotus Hotel Sameera,4720,3.5,15,"47, Anna Salai, Chintadripet, Chennai, Tamilnadu, India",600002,"3.5-star hotel in Chennai with restaurant, 24-hour fitness",1,0,59,0
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,The Park,4990,4,12,"601 Anna Salai Road, Chennai, Tamil Nadu",600006,"Luxury hotel in Chennai with spa, outdoor pool",1,1,214,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,The Park,5250,4,12,"601 Anna Salai Road, Chennai, Tamil Nadu",600006,"Luxury hotel in Chennai with spa, outdoor pool",1,1,214,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,The Park,3750,4,12,"601 Anna Salai Road, Chennai, Tamil Nadu",600006,"Luxury hotel in Chennai with spa, outdoor pool",1,1,214,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,The Park,4950,4,12,"601 Anna Salai Road, Chennai, Tamil Nadu",600006,"Luxury hotel in Chennai with spa, outdoor pool",1,1,214,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,The Park,5250,4,12,"601 Anna Salai Road, Chennai, Tamil Nadu",600006,"Luxury hotel in Chennai with spa, outdoor pool",1,1,214,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,The Park,3750,4,12,"601 Anna Salai Road, Chennai, Tamil Nadu",600006,"Luxury hotel in Chennai with spa, outdoor pool",1,1,214,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,The Park,4950,4,12,"601 Anna Salai Road, Chennai, Tamil Nadu",600006,"Luxury hotel in Chennai with spa, outdoor pool",1,1,214,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,The Park,4950,4,12,"601 Anna Salai Road, Chennai, Tamil Nadu",600006,"Luxury hotel in Chennai with spa, outdoor pool",1,1,214,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,The Raintree Anna Salai,4844,4,10,"636 Anna Salai Teynampet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with 3 restaurants, spa",1,1,230,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,The Raintree Anna Salai,4844,4,10,"636 Anna Salai Teynampet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with 3 restaurants, spa",1,1,230,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,The Raintree Anna Salai,4844,4,10,"636 Anna Salai Teynampet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with 3 restaurants, spa",1,1,230,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,The Raintree Anna Salai,4844,4,10,"636 Anna Salai Teynampet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with 3 restaurants, spa",1,1,230,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,The Raintree Anna Salai,4844,4,10,"636 Anna Salai Teynampet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with 3 restaurants, spa",1,1,230,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,The Raintree Anna Salai,4844,4,10,"636 Anna Salai Teynampet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with 3 restaurants, spa",1,1,230,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,The Raintree Anna Salai,5014,4,10,"636 Anna Salai Teynampet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with 3 restaurants, spa",1,1,230,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,The Raintree Anna Salai,5014,4,10,"636 Anna Salai Teynampet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with 3 restaurants, spa",1,1,230,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,The Raintree St Mary's Road,5359,4,11,"120 St. Mary's Road, Alwarpet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with outdoor pool, 24-hour health club",1,1,108,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,The Raintree St Mary's Road,5354,4,11,"120 St. Mary's Road, Alwarpet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with outdoor pool, 24-hour health club",1,1,108,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,The Raintree St Mary's Road,5039,4,11,"120 St. Mary's Road, Alwarpet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with outdoor pool, 24-hour health club",1,1,108,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,The Raintree St Mary's Road,5039,4,11,"120 St. Mary's Road, Alwarpet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with outdoor pool, 24-hour health club",1,1,108,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,The Raintree St Mary's Road,5100,4,11,"120 St. Mary's Road, Alwarpet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with outdoor pool, 24-hour health club",1,1,108,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,The Raintree St Mary's Road,5039,4,11,"120 St. Mary's Road, Alwarpet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with outdoor pool, 24-hour health club",1,1,108,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,The Raintree St Mary's Road,5354,4,11,"120 St. Mary's Road, Alwarpet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with outdoor pool, 24-hour health club",1,1,108,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,The Raintree St Mary's Road,5039,4,11,"120 St. Mary's Road, Alwarpet, Chennai, Tamil Nadu",600018,"Luxury hotel in Alwarpet with outdoor pool, 24-hour health club",1,1,108,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,The Residency,2848,4,11,"No.49, G.N.Chetty Road, T-Nagar, Chennai, Tamil Nadu",600017,Chennai upscale hotel with restaurant,1,0,112,0
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,The Residency,3280,4,11,"No.49, G.N.Chetty Road, T-Nagar, Chennai, Tamil Nadu",600017,Chennai upscale hotel with restaurant,1,0,112,0
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,The Residency,2848,4,11,"No.49, G.N.Chetty Road, T-Nagar, Chennai, Tamil Nadu",600017,Chennai upscale hotel with restaurant,1,0,112,0
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,The Residency,2848,4,11,"No.49, G.N.Chetty Road, T-Nagar, Chennai, Tamil Nadu",600017,Chennai upscale hotel with restaurant,1,0,112,0
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,The Residency,3485,4,11,"No.49, G.N.Chetty Road, T-Nagar, Chennai, Tamil Nadu",600017,Chennai upscale hotel with restaurant,1,0,112,0
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,The Residency,2975,4,11,"No.49, G.N.Chetty Road, T-Nagar, Chennai, Tamil Nadu",600017,Chennai upscale hotel with restaurant,1,0,112,0
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,The Residency,3995,4,11,"No.49, G.N.Chetty Road, T-Nagar, Chennai, Tamil Nadu",600017,Chennai upscale hotel with restaurant,1,0,112,0
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,The Residency,3060,4,11,"No.49, G.N.Chetty Road, T-Nagar, Chennai, Tamil Nadu",600017,Chennai upscale hotel with restaurant,1,0,112,0
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Treebo Cozee Stay,1728,2,11,"6/11 East Abhiramapuram First Street, Mylapore, Chennai, Tamil Nadu, 600014 India",600014,No-frills hotel in Chennai,1,1,15,0
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Treebo Cozee Stay,1728,2,11,"6/11 East Abhiramapuram First Street, Mylapore, Chennai, Tamil Nadu, 600014 India",600014,No-frills hotel in Chennai,1,1,15,0
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Treebo Cozee Stay,1728,2,11,"6/11 East Abhiramapuram First Street, Mylapore, Chennai, Tamil Nadu, 600014 India",600014,No-frills hotel in Chennai,1,1,15,0
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Treebo Cozee Stay,1728,2,11,"6/11 East Abhiramapuram First Street, Mylapore, Chennai, Tamil Nadu, 600014 India",600014,No-frills hotel in Chennai,1,1,15,0
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Treebo Cozee Stay,1728,2,11,"6/11 East Abhiramapuram First Street, Mylapore, Chennai, Tamil Nadu, 600014 India",600014,No-frills hotel in Chennai,1,1,15,0
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Treebo Cozee Stay,2168,2,11,"6/11 East Abhiramapuram First Street, Mylapore, Chennai, Tamil Nadu, 600014 India",600014,No-frills hotel in Chennai,1,1,15,0
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Treebo Cozee Stay,2168,2,11,"6/11 East Abhiramapuram First Street, Mylapore, Chennai, Tamil Nadu, 600014 India",600014,No-frills hotel in Chennai,1,1,15,0
+Chennai,7088416,3,1,0,0,0,Jan 8 2017,Treebo Cozee Stay,2168,2,11,"6/11 East Abhiramapuram First Street, Mylapore, Chennai, Tamil Nadu, 600014 India",600014,No-frills hotel in Chennai,1,1,15,0
+Chennai,7088416,3,1,1,1,0,Dec 18 2016,Treebo Hive,1244,2,9.6,"No 5/371, Annai Indira Nagar, Okkiam, Thoraipakkam, OMR, Chennai, India",600097,No-frills Chennai hotel with restaurant,1,1,17,0
+Chennai,7088416,3,1,1,0,0,Dec 21 2016,Treebo Hive,1244,2,9.6,"No 5/371, Annai Indira Nagar, Okkiam, Thoraipakkam, OMR, Chennai, India",600097,No-frills Chennai hotel with restaurant,1,1,17,0
+Chennai,7088416,3,1,1,1,0,Dec 24 2016,Treebo Hive,1244,2,9.6,"No 5/371, Annai Indira Nagar, Okkiam, Thoraipakkam, OMR, Chennai, India",600097,No-frills Chennai hotel with restaurant,1,1,17,0
+Chennai,7088416,3,1,1,1,0,Dec 25 2016,Treebo Hive,1244,2,9.6,"No 5/371, Annai Indira Nagar, Okkiam, Thoraipakkam, OMR, Chennai, India",600097,No-frills Chennai hotel with restaurant,1,1,17,0
+Chennai,7088416,3,1,1,0,0,Dec 28 2016,Treebo Hive,1468,2,9.6,"No 5/371, Annai Indira Nagar, Okkiam, Thoraipakkam, OMR, Chennai, India",600097,No-frills Chennai hotel with restaurant,1,1,17,0
+Chennai,7088416,3,1,1,1,1,Dec 31 2016,Treebo Hive,1468,2,9.6,"No 5/371, Annai Indira Nagar, Okkiam, Thoraipakkam, OMR, Chennai, India",600097,No-frills Chennai hotel with restaurant,1,1,17,0
+Chennai,7088416,3,1,1,0,0,Jan 4 2017,Treebo Hive,1468,2,9.6,"No 5/371, Annai Indira Nagar, Okkiam, Thoraipakkam, OMR, Chennai, India",600097,No-frills Chennai hotel with restaurant,1,1,17,0
+Chennai,7088416,3,1,1,1,0,Jan 8 2017,Treebo Hive,1468,2,9.6,"No 5/371, Annai Indira Nagar, Okkiam, Thoraipakkam, OMR, Chennai, India",600097,No-frills Chennai hotel with restaurant,1,1,17,0
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Treebo Hive,1244,2,9.6,"No 5/371, Annai Indira Nagar, Okkiam, Thoraipakkam, OMR, Chennai, 600097 India",600097,No-frills Chennai hotel with restaurant,1,1,17,0
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Treebo Hive,1244,2,9.6,"No 5/371, Annai Indira Nagar, Okkiam, Thoraipakkam, OMR, Chennai, 600097 India",600097,No-frills Chennai hotel with restaurant,1,1,17,0
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Treebo Hive,1244,2,9.6,"No 5/371, Annai Indira Nagar, Okkiam, Thoraipakkam, OMR, Chennai, 600097 India",600097,No-frills Chennai hotel with restaurant,1,1,17,0
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Treebo Hive,1244,2,9.6,"No 5/371, Annai Indira Nagar, Okkiam, Thoraipakkam, OMR, Chennai, 600097 India",600097,No-frills Chennai hotel with restaurant,1,1,17,0
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Treebo Hive,1468,2,9.6,"No 5/371, Annai Indira Nagar, Okkiam, Thoraipakkam, OMR, Chennai, 600097 India",600097,No-frills Chennai hotel with restaurant,1,1,17,0
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Treebo Hive,1468,2,9.6,"No 5/371, Annai Indira Nagar, Okkiam, Thoraipakkam, OMR, Chennai, 600097 India",600097,No-frills Chennai hotel with restaurant,1,1,17,0
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Treebo Hive,1468,2,9.6,"No 5/371, Annai Indira Nagar, Okkiam, Thoraipakkam, OMR, Chennai, 600097 India",600097,No-frills Chennai hotel with restaurant,1,1,17,0
+Chennai,7088416,3,1,0,0,0,Jan 8 2017,Treebo Hive,1468,2,9.6,"No 5/371, Annai Indira Nagar, Okkiam, Thoraipakkam, OMR, Chennai, 600097 India",600097,No-frills Chennai hotel with restaurant,1,1,17,0
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Trident,8000,4,1,"1-24 G S T Road, Chennai, Tamil Nadu,",600027,"Luxury hotel in Chennai with 2 restaurants, outdoor pool",1,1,167,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Trident,5500,4,1,"1-24 G S T Road, Chennai, Tamil Nadu,",600027,"Luxury hotel in Chennai with 2 restaurants, outdoor pool",1,1,167,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Trident,5500,4,1,"1-24 G S T Road, Chennai, Tamil Nadu,",600027,"Luxury hotel in Chennai with 2 restaurants, outdoor pool",1,1,167,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Trident,5500,4,1,"1-24 G S T Road, Chennai, Tamil Nadu,",600027,"Luxury hotel in Chennai with 2 restaurants, outdoor pool",1,1,167,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Trident,5500,4,1,"1-24 G S T Road, Chennai, Tamil Nadu,",600027,"Luxury hotel in Chennai with 2 restaurants, outdoor pool",1,1,167,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Trident,5500,4,1,"1-24 G S T Road, Chennai, Tamil Nadu,",600027,"Luxury hotel in Chennai with 2 restaurants, outdoor pool",1,1,167,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Trident,5500,4,1,"1-24 G S T Road, Chennai, Tamil Nadu,",600027,"Luxury hotel in Chennai with 2 restaurants, outdoor pool",1,1,167,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Trident,5500,4,1,"1-24 G S T Road, Chennai, Tamil Nadu,",600027,"Luxury hotel in Chennai with 2 restaurants, outdoor pool",1,1,167,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Turyaa Chennai,3740,5,9.3,"144/7, Rajiv Gandi Salai (OMR), Kottivakkam, Chennai, Tamil Nadu",600041,"Luxury hotel in Chennai with outdoor pool, health club",1,0,140,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Turyaa Chennai,4199,5,9.3,"144/7, Rajiv Gandi Salai (OMR), Kottivakkam, Chennai, Tamil Nadu",600041,"Luxury hotel in Chennai with outdoor pool, health club",1,0,140,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Turyaa Chennai,3740,5,9.3,"144/7, Rajiv Gandi Salai (OMR), Kottivakkam, Chennai, Tamil Nadu",600041,"Luxury hotel in Chennai with outdoor pool, health club",1,0,140,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Turyaa Chennai,3740,5,9.3,"144/7, Rajiv Gandi Salai (OMR), Kottivakkam, Chennai, Tamil Nadu",600041,"Luxury hotel in Chennai with outdoor pool, health club",1,0,140,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Turyaa Chennai,4199,5,9.3,"144/7, Rajiv Gandi Salai (OMR), Kottivakkam, Chennai, Tamil Nadu",600041,"Luxury hotel in Chennai with outdoor pool, health club",1,0,140,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Turyaa Chennai,3740,5,9.3,"144/7, Rajiv Gandi Salai (OMR), Kottivakkam, Chennai, Tamil Nadu",600041,"Luxury hotel in Chennai with outdoor pool, health club",1,0,140,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Turyaa Chennai,4940,5,9.3,"144/7, Rajiv Gandi Salai (OMR), Kottivakkam, Chennai, Tamil Nadu",600041,"Luxury hotel in Chennai with outdoor pool, health club",1,0,140,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Turyaa Chennai,4400,5,9.3,"144/7, Rajiv Gandi Salai (OMR), Kottivakkam, Chennai, Tamil Nadu",600041,"Luxury hotel in Chennai with outdoor pool, health club",1,0,140,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,V7 Hotel,2500,4,6.2,"3/191, Mount Poonamalle Road, By Sri Ramachandra Medical College, Chennai",600116,hotel with restaurant,1,1,64,0
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,V7 Hotel,4000,4,6.2,"3/191, Mount Poonamalle Road, By Sri Ramachandra Medical College, Chennai",600116,hotel with restaurant,1,1,64,0
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,V7 Hotel,2500,4,6.2,"3/191, Mount Poonamalle Road, By Sri Ramachandra Medical College, Chennai",600116,hotel with restaurant,1,1,64,0
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,V7 Hotel,2500,4,6.2,"3/191, Mount Poonamalle Road, By Sri Ramachandra Medical College, Chennai",600116,hotel with restaurant,1,1,64,0
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,V7 Hotel,4000,4,6.2,"3/191, Mount Poonamalle Road, By Sri Ramachandra Medical College, Chennai",600116,hotel with restaurant,1,1,64,0
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,V7 Hotel,2500,4,6.2,"3/191, Mount Poonamalle Road, By Sri Ramachandra Medical College, Chennai",600116,hotel with restaurant,1,1,64,0
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,V7 Hotel,4430,4,6.2,"3/191, Mount Poonamalle Road, By Sri Ramachandra Medical College, Chennai",600116,hotel with restaurant,1,1,64,0
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,V7 Hotel,4430,4,6.2,"3/191, Mount Poonamalle Road, By Sri Ramachandra Medical College, Chennai",600116,hotel with restaurant,1,1,64,0
+Chennai,7088416,3,1,1,1,0,Dec 18 2016,"Vivanta by Taj - Fisherman's Cove, Chennai",9000,5,23,"Covelong Beach, Kancheepuram Dist., Muttukadu, Tamil Nadu, India",603112,"Beachfront resort in Muttukadu with outdoor pool, restaurant",1,0,128,1
+Chennai,7088416,3,1,1,0,0,Dec 21 2016,"Vivanta by Taj - Fisherman's Cove, Chennai",9000,5,23,"Covelong Beach, Kancheepuram Dist., Muttukadu, Tamil Nadu, India",603112,"Beachfront resort in Muttukadu with outdoor pool, restaurant",1,0,128,1
+Chennai,7088416,3,1,1,1,0,Dec 24 2016,"Vivanta by Taj - Fisherman's Cove, Chennai",9000,5,23,"Covelong Beach, Kancheepuram Dist., Muttukadu, Tamil Nadu, India",603112,"Beachfront resort in Muttukadu with outdoor pool, restaurant",1,0,128,1
+Chennai,7088416,3,1,1,1,0,Dec 25 2016,"Vivanta by Taj - Fisherman's Cove, Chennai",9000,5,23,"Covelong Beach, Kancheepuram Dist., Muttukadu, Tamil Nadu, India",603112,"Beachfront resort in Muttukadu with outdoor pool, restaurant",1,0,128,1
+Chennai,7088416,3,1,1,0,0,Dec 28 2016,"Vivanta by Taj - Fisherman's Cove, Chennai",9000,5,23,"Covelong Beach, Kancheepuram Dist., Muttukadu, Tamil Nadu, India",603112,"Beachfront resort in Muttukadu with outdoor pool, restaurant",1,0,128,1
+Chennai,7088416,3,1,1,1,1,Dec 31 2016,"Vivanta by Taj - Fisherman's Cove, Chennai",9000,5,23,"Covelong Beach, Kancheepuram Dist., Muttukadu, Tamil Nadu, India",603112,"Beachfront resort in Muttukadu with outdoor pool, restaurant",1,0,128,1
+Chennai,7088416,3,1,1,0,0,Jan 4 2017,"Vivanta by Taj - Fisherman's Cove, Chennai",9000,5,23,"Covelong Beach, Kancheepuram Dist., Muttukadu, Tamil Nadu, India",603112,"Beachfront resort in Muttukadu with outdoor pool, restaurant",1,0,128,1
+Chennai,7088416,3,1,1,1,0,Jan 8 2017,"Vivanta by Taj - Fisherman's Cove, Chennai",9000,5,23,"Covelong Beach, Kancheepuram Dist., Muttukadu, Tamil Nadu, India",603112,"Beachfront resort in Muttukadu with outdoor pool, restaurant",1,0,128,1
+Chennai,7088416,3,1,0,1,0,Dec 18 2016,Zone by the Park ORR Chennai,3158,4,5.5,"430, Viduthalai Nagar, Outer Ring Road, Kovilambakkam, Nr Kamakshi Hospital, Chennai",600117,"Boutique hotel in Chennai with 3 restaurants, spa",1,1,40,1
+Chennai,7088416,3,1,0,0,0,Dec 21 2016,Zone by the Park ORR Chennai,3559,4,5.5,"430, Viduthalai Nagar, Outer Ring Road, Kovilambakkam, Nr Kamakshi Hospital, Chennai",600117,"Boutique hotel in Chennai with 3 restaurants, spa",1,1,40,1
+Chennai,7088416,3,1,0,1,0,Dec 24 2016,Zone by the Park ORR Chennai,3158,4,5.5,"430, Viduthalai Nagar, Outer Ring Road, Kovilambakkam, Nr Kamakshi Hospital, Chennai",600117,"Boutique hotel in Chennai with 3 restaurants, spa",1,1,40,1
+Chennai,7088416,3,1,0,1,0,Dec 25 2016,Zone by the Park ORR Chennai,3158,4,5.5,"430, Viduthalai Nagar, Outer Ring Road, Kovilambakkam, Nr Kamakshi Hospital, Chennai",600117,"Boutique hotel in Chennai with 3 restaurants, spa",1,1,40,1
+Chennai,7088416,3,1,0,0,0,Dec 28 2016,Zone by the Park ORR Chennai,3559,4,5.5,"430, Viduthalai Nagar, Outer Ring Road, Kovilambakkam, Nr Kamakshi Hospital, Chennai",600117,"Boutique hotel in Chennai with 3 restaurants, spa",1,1,40,1
+Chennai,7088416,3,1,0,1,1,Dec 31 2016,Zone by the Park ORR Chennai,3158,4,5.5,"430, Viduthalai Nagar, Outer Ring Road, Kovilambakkam, Nr Kamakshi Hospital, Chennai",600117,"Boutique hotel in Chennai with 3 restaurants, spa",1,1,40,1
+Chennai,7088416,3,1,0,0,0,Jan 4 2017,Zone by the Park ORR Chennai,3559,4,5.5,"430, Viduthalai Nagar, Outer Ring Road, Kovilambakkam, Nr Kamakshi Hospital, Chennai",600117,"Boutique hotel in Chennai with 3 restaurants, spa",1,1,40,1
+Chennai,7088416,3,1,0,1,0,Jan 8 2017,Zone by the Park ORR Chennai,3158,4,5.5,"430, Viduthalai Nagar, Outer Ring Road, Kovilambakkam, Nr Kamakshi Hospital, Chennai",600117,"Boutique hotel in Chennai with 3 restaurants, spa",1,1,40,1

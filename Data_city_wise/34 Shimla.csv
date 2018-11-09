@@ -1,0 +1,281 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Aditya Home Stay,3999,3.5,21.4,"Shoghi, Shimla",171219,"Family hotel in Shoghi with restaurant, conference center",1,1,4,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Aditya Home Stay,3999,3.5,21.4,"Shoghi, Shimla",171219,"Family hotel in Shoghi with restaurant, conference center",1,1,4,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Aditya Home Stay,3999,3.5,21.4,"Shoghi, Shimla",171219,"Family hotel in Shoghi with restaurant, conference center",1,1,4,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Aditya Home Stay,3999,3.5,21.4,"Shoghi, Shimla",171219,"Family hotel in Shoghi with restaurant, conference center",1,1,4,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Aditya Home Stay,3999,3.5,21.4,"Shoghi, Shimla",171219,"Family hotel in Shoghi with restaurant, conference center",1,1,4,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Aditya Home Stay,3999,3.5,21.4,"Shoghi, Shimla",171219,"Family hotel in Shoghi with restaurant, conference center",1,1,4,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Aditya Home Stay,2999,3.5,21.4,"Shoghi, Shimla",171219,"Family hotel in Shoghi with restaurant, conference center",1,1,4,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Aditya Home Stay,3249,3.5,21.4,"Shoghi, Shimla",171219,"Family hotel in Shoghi with restaurant, conference center",1,1,4,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,OYO Rooms Mall Road,1702,3,20.3," H.P. High Court Mall Road, Shimla",171001,Shimla hotel next to shopping,1,1,5,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,OYO Rooms Mall Road,1702,3,20.3," H.P. High Court Mall Road, Shimla",171001,Shimla hotel next to shopping,1,1,5,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,OYO Rooms Mall Road,2639,3,20.3," H.P. High Court Mall Road, Shimla",171001,Shimla hotel next to shopping,1,1,5,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,OYO Rooms Mall Road,2639,3,20.3," H.P. High Court Mall Road, Shimla",171001,Shimla hotel next to shopping,1,1,5,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,OYO Rooms Mall Road,2639,3,20.3," H.P. High Court Mall Road, Shimla",171001,Shimla hotel next to shopping,1,1,5,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,OYO Rooms Mall Road,2639,3,20.3," H.P. High Court Mall Road, Shimla",171001,Shimla hotel next to shopping,1,1,5,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,OYO Rooms Mall Road,2639,3,20.3," H.P. High Court Mall Road, Shimla",171001,Shimla hotel next to shopping,1,1,5,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,OYO Rooms Mall Road,1702,3,20.3," H.P. High Court Mall Road, Shimla",171001,Shimla hotel next to shopping,1,1,5,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Hotel Chail Residency,2000,2.5,63.6,"Chail Road, Chail,Shimla",173217,Mountain Chail hotel with restaurant,0,1,8,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Hotel Chail Residency,2000,2.5,63.6,"Chail Road, Chail,Shimla",173217,Mountain Chail hotel with restaurant,0,1,8,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Hotel Chail Residency,4150,2.5,63.6,"Chail Road, Chail,Shimla",173217,Mountain Chail hotel with restaurant,0,1,8,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Hotel Chail Residency,2350,2.5,63.6,"Chail Road, Chail,Shimla",173217,Mountain Chail hotel with restaurant,0,1,8,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Hotel Chail Residency,2350,2.5,63.6,"Chail Road, Chail,Shimla",173217,Mountain Chail hotel with restaurant,0,1,8,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Hotel Chail Residency,4150,2.5,63.6,"Chail Road, Chail,Shimla",173217,Mountain Chail hotel with restaurant,0,1,8,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Hotel Chail Residency,2000,2.5,63.6,"Chail Road, Chail,Shimla",173217,Mountain Chail hotel with restaurant,0,1,8,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Hotel Chail Residency,2000,2.5,63.6,"Chail Road, Chail,Shimla",173217,Mountain Chail hotel with restaurant,0,1,8,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Hotel Springfields,5800,3,25.7,"Chotta Shim, HP, Shimla",171002,"3-star hotel in Chhota Shimla with restaurant, bar/lounge",1,0,10,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Hotel Springfields,5800,3,25.7,"Chotta Shim, HP, Shimla",171002,"3-star hotel in Chhota Shimla with restaurant, bar/lounge",1,0,10,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Hotel Springfields,6300,3,25.7,"Chotta Shim, HP, Shimla",171002,"3-star hotel in Chhota Shimla with restaurant, bar/lounge",1,0,10,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Hotel Springfields,6500,3,25.7,"Chotta Shim, HP, Shimla",171002,"3-star hotel in Chhota Shimla with restaurant, bar/lounge",1,0,10,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Hotel Springfields,6500,3,25.7,"Chotta Shim, HP, Shimla",171002,"3-star hotel in Chhota Shimla with restaurant, bar/lounge",1,0,10,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Hotel Springfields,7200,3,25.7,"Chotta Shim, HP, Shimla",171002,"3-star hotel in Chhota Shimla with restaurant, bar/lounge",1,0,10,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Hotel Springfields,5500,3,25.7,"Chotta Shim, HP, Shimla",171002,"3-star hotel in Chhota Shimla with restaurant, bar/lounge",1,0,10,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Hotel Springfields,5500,3,25.7,"Chotta Shim, HP, Shimla",171002,"3-star hotel in Chhota Shimla with restaurant, bar/lounge",1,0,10,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,The Woodstock Resort,1689,2.5,39.9,"Naldehra, Shimla",171007,No-frills Shimla hotel with restaurant,1,1,14,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,The Woodstock Resort,1689,2.5,39.9,"Naldehra, Shimla",171007,No-frills Shimla hotel with restaurant,1,1,14,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,The Woodstock Resort,2449,2.5,39.9,"Naldehra, Shimla",171007,No-frills Shimla hotel with restaurant,1,1,14,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,The Woodstock Resort,2449,2.5,39.9,"Naldehra, Shimla",171007,No-frills Shimla hotel with restaurant,1,1,14,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,The Woodstock Resort,2449,2.5,39.9,"Naldehra, Shimla",171007,No-frills Shimla hotel with restaurant,1,1,14,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,The Woodstock Resort,2889,2.5,39.9,"Naldehra, Shimla",171007,No-frills Shimla hotel with restaurant,1,1,14,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,The Woodstock Resort,2349,2.5,39.9,"Naldehra, Shimla",171007,No-frills Shimla hotel with restaurant,1,1,14,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,The Woodstock Resort,1689,2.5,39.9,"Naldehra, Shimla",171007,No-frills Shimla hotel with restaurant,1,1,14,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Hotel Himalayan Escape,2500,3,48,"Shimla Hills, Kufri",173217,3-star Shilon Bagh hotel with restaurant,1,1,15,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Hotel Himalayan Escape,2500,3,48,"Shimla Hills, Kufri",173217,3-star Shilon Bagh hotel with restaurant,1,1,15,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Hotel Himalayan Escape,4800,3,48,"Shimla Hills, Kufri",173217,3-star Shilon Bagh hotel with restaurant,1,1,15,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Hotel Himalayan Escape,3850,3,48,"Shimla Hills, Kufri",173217,3-star Shilon Bagh hotel with restaurant,1,1,15,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Hotel Himalayan Escape,2800,3,48,"Shimla Hills, Kufri",173217,3-star Shilon Bagh hotel with restaurant,1,1,15,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Hotel Himalayan Escape,4800,3,48,"Shimla Hills, Kufri",173217,3-star Shilon Bagh hotel with restaurant,1,1,15,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Hotel Himalayan Escape,2800,3,48,"Shimla Hills, Kufri",173217,3-star Shilon Bagh hotel with restaurant,1,1,15,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Hotel Himalayan Escape,2500,3,48,"Shimla Hills, Kufri",173217,3-star Shilon Bagh hotel with restaurant,1,1,15,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Oyo Rooms Sankat Mochan Shimla,2469,3,16.5,"Kachi Ghati Tara Devi, Shimla",171010,Shimla hotel next to shopping,0,1,15,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Oyo Rooms Sankat Mochan Shimla,2469,3,16.5,"Kachi Ghati Tara Devi, Shimla",171010,Shimla hotel next to shopping,0,1,15,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Oyo Rooms Sankat Mochan Shimla,5279,3,16.5,"Kachi Ghati Tara Devi, Shimla",171010,Shimla hotel next to shopping,0,1,15,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Oyo Rooms Sankat Mochan Shimla,5279,3,16.5,"Kachi Ghati Tara Devi, Shimla",171010,Shimla hotel next to shopping,0,1,15,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Oyo Rooms Sankat Mochan Shimla,5279,3,16.5,"Kachi Ghati Tara Devi, Shimla",171010,Shimla hotel next to shopping,0,1,15,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Oyo Rooms Sankat Mochan Shimla,6599,3,16.5,"Kachi Ghati Tara Devi, Shimla",171010,Shimla hotel next to shopping,0,1,15,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Oyo Rooms Sankat Mochan Shimla,5279,3,16.5,"Kachi Ghati Tara Devi, Shimla",171010,Shimla hotel next to shopping,0,1,15,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Oyo Rooms Sankat Mochan Shimla,5279,3,16.5,"Kachi Ghati Tara Devi, Shimla",171010,Shimla hotel next to shopping,0,1,15,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,OYO Rooms Waknaghat Shimla,3832,3,28.1,"Solan Shimla Highway, Shoghi",173215,"3-star hotel in Shoghi with restaurant, bar/lounge",0,1,15,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,OYO Rooms Waknaghat Shimla,3832,3,28.1,"Solan Shimla Highway, Shoghi",173215,"3-star hotel in Shoghi with restaurant, bar/lounge",0,1,15,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,OYO Rooms Waknaghat Shimla,6482,3,28.1,"Solan Shimla Highway, Shoghi",173215,"3-star hotel in Shoghi with restaurant, bar/lounge",0,1,15,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,OYO Rooms Waknaghat Shimla,6482,3,28.1,"Solan Shimla Highway, Shoghi",173215,"3-star hotel in Shoghi with restaurant, bar/lounge",0,1,15,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,OYO Rooms Waknaghat Shimla,6482,3,28.1,"Solan Shimla Highway, Shoghi",173215,"3-star hotel in Shoghi with restaurant, bar/lounge",0,1,15,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,OYO Rooms Waknaghat Shimla,10005,3,28.1,"Solan Shimla Highway, Shoghi",173215,"3-star hotel in Shoghi with restaurant, bar/lounge",0,1,15,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,OYO Rooms Waknaghat Shimla,10005,3,28.1,"Solan Shimla Highway, Shoghi",173215,"3-star hotel in Shoghi with restaurant, bar/lounge",0,1,15,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,OYO Rooms Waknaghat Shimla,10005,3,28.1,"Solan Shimla Highway, Shoghi",173215,"3-star hotel in Shoghi with restaurant, bar/lounge",0,1,15,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Hotel Chaman Palace,2000,2.5,19.5," Kali Bari Temple, Shimla",171003,No-frills Shimla hotel with restaurant,1,1,16,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Hotel Chaman Palace,2000,2.5,19.5," Kali Bari Temple, Shimla",171003,No-frills Shimla hotel with restaurant,1,1,16,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Hotel Chaman Palace,2600,2.5,19.5," Kali Bari Temple, Shimla",171003,No-frills Shimla hotel with restaurant,1,1,16,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Hotel Chaman Palace,2600,2.5,19.5," Kali Bari Temple, Shimla",171003,No-frills Shimla hotel with restaurant,1,1,16,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Hotel Chaman Palace,2600,2.5,19.5," Kali Bari Temple, Shimla",171003,No-frills Shimla hotel with restaurant,1,1,16,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Hotel Chaman Palace,2800,2.5,19.5," Kali Bari Temple, Shimla",171003,No-frills Shimla hotel with restaurant,1,1,16,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Hotel Chaman Palace,2000,2.5,19.5," Kali Bari Temple, Shimla",171003,No-frills Shimla hotel with restaurant,1,1,16,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Hotel Chaman Palace,1500,2.5,19.5," Kali Bari Temple, Shimla",171003,No-frills Shimla hotel with restaurant,1,1,16,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Honeymoon Inn,6000,3,26.5,"The Mall, Shimla",171001,Mountain Shimla hotel with restaurant,1,1,20,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Honeymoon Inn,6000,3,26.5,"The Mall, Shimla",171001,Mountain Shimla hotel with restaurant,1,1,20,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Honeymoon Inn,6200,3,26.5,"The Mall, Shimla",171001,Mountain Shimla hotel with restaurant,1,1,20,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Honeymoon Inn,6500,3,26.5,"The Mall, Shimla",171001,Mountain Shimla hotel with restaurant,1,1,20,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Honeymoon Inn,6500,3,26.5,"The Mall, Shimla",171001,Mountain Shimla hotel with restaurant,1,1,20,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Honeymoon Inn,7500,3,26.5,"The Mall, Shimla",171001,Mountain Shimla hotel with restaurant,1,1,20,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Honeymoon Inn,6000,3,26.5,"The Mall, Shimla",171001,Mountain Shimla hotel with restaurant,1,1,20,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Honeymoon Inn,4200,3,26.5,"The Mall, Shimla",171001,Mountain Shimla hotel with restaurant,1,1,20,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Hotel Grand Sunset,2900,2.5,63.5,"Kandhaghat-Chail Road, Chail,",173217,"Mountain hotel in Chail with restaurant, conference center",0,0,20,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Hotel Grand Sunset,2900,2.5,63.5,"Kandhaghat-Chail Road, Chail,",173217,"Mountain hotel in Chail with restaurant, conference center",0,0,20,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Hotel Grand Sunset,6900,2.5,63.5,"Kandhaghat-Chail Road, Chail,",173217,"Mountain hotel in Chail with restaurant, conference center",0,0,20,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Hotel Grand Sunset,2900,2.5,63.5,"Kandhaghat-Chail Road, Chail,",173217,"Mountain hotel in Chail with restaurant, conference center",0,0,20,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Hotel Grand Sunset,2900,2.5,63.5,"Kandhaghat-Chail Road, Chail,",173217,"Mountain hotel in Chail with restaurant, conference center",0,0,20,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Hotel Grand Sunset,6900,2.5,63.5,"Kandhaghat-Chail Road, Chail,",173217,"Mountain hotel in Chail with restaurant, conference center",0,0,20,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Hotel Grand Sunset,2900,2.5,63.5,"Kandhaghat-Chail Road, Chail,",173217,"Mountain hotel in Chail with restaurant, conference center",0,0,20,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Hotel Grand Sunset,2900,2.5,63.5,"Kandhaghat-Chail Road, Chail,",173217,"Mountain hotel in Chail with restaurant, conference center",0,0,20,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Woodsmoke Resort & Spa,5250,3.5,23.3,"Village Anandpur, Shoghi, Shimla",173219,3.5-star Shimla hotel with restaurant,1,1,20,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Woodsmoke Resort & Spa,7000,3.5,23.3,"Village Anandpur, Shoghi, Shimla",173219,3.5-star Shimla hotel with restaurant,1,1,20,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Woodsmoke Resort & Spa,8500,3.5,23.3,"Village Anandpur, Shoghi, Shimla",173219,3.5-star Shimla hotel with restaurant,1,1,20,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Woodsmoke Resort & Spa,8500,3.5,23.3,"Village Anandpur, Shoghi, Shimla",173219,3.5-star Shimla hotel with restaurant,1,1,20,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Woodsmoke Resort & Spa,7000,3.5,23.3,"Village Anandpur, Shoghi, Shimla",173219,3.5-star Shimla hotel with restaurant,1,1,20,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Woodsmoke Resort & Spa,8900,3.5,23.3,"Village Anandpur, Shoghi, Shimla",173219,3.5-star Shimla hotel with restaurant,1,1,20,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Woodsmoke Resort & Spa,8500,3.5,23.3,"Village Anandpur, Shoghi, Shimla",173219,3.5-star Shimla hotel with restaurant,1,1,20,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Woodsmoke Resort & Spa,7000,3.5,23.3,"Village Anandpur, Shoghi, Shimla",173219,3.5-star Shimla hotel with restaurant,1,1,20,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Treebo Varuna,2604,3,18.7,"5 Sherwood Estate, Gorton Castle Square",171003,3-star hotel in Shimla,1,1,24,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Treebo Varuna,2604,3,18.7,"5 Sherwood Estate, Gorton Castle Square",171003,3-star hotel in Shimla,1,1,24,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Treebo Varuna,2352,3,18.7,"5 Sherwood Estate, Gorton Castle Square",171003,3-star hotel in Shimla,1,1,24,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Treebo Varuna,2352,3,18.7,"5 Sherwood Estate, Gorton Castle Square",171003,3-star hotel in Shimla,1,1,24,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Treebo Varuna,3192,3,18.7,"5 Sherwood Estate, Gorton Castle Square",171004,3-star hotel in Shimla,1,1,24,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Treebo Varuna,3613,3,18.7,"5 Sherwood Estate, Gorton Castle Square",171003,3-star hotel in Shimla,1,1,24,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Treebo Varuna,3192,3,18.7,"5 Sherwood Estate, Gorton Castle Square",171003,3-star hotel in Shimla,1,1,24,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Treebo Varuna,2352,3,18.7,"5 Sherwood Estate, Gorton Castle Square",171003,3-star hotel in Shimla,1,1,24,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Tethys Ski Resort,5800,3,82,"Village Nagrot,Narkanda",171213,3-star Narkanda hotel with 2 restaurants,1,1,31,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Tethys Ski Resort,5800,3,82,"Village Nagrot,Narkanda",171213,3-star Narkanda hotel with 2 restaurants,1,1,31,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Tethys Ski Resort,12500,3,82,"Village Nagrot,Narkanda",171213,3-star Narkanda hotel with 2 restaurants,1,1,31,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Tethys Ski Resort,5800,3,82,"Village Nagrot,Narkanda",171213,3-star Narkanda hotel with 2 restaurants,1,1,31,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Tethys Ski Resort,7000,3,82,"Village Nagrot,Narkanda",171213,3-star Narkanda hotel with 2 restaurants,1,1,31,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Tethys Ski Resort,7000,3,82,"Village Nagrot,Narkanda",171213,3-star Narkanda hotel with 2 restaurants,1,1,31,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Tethys Ski Resort,7000,3,82,"Village Nagrot,Narkanda",171213,3-star Narkanda hotel with 2 restaurants,1,1,31,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Tethys Ski Resort,7000,3,82,"Village Nagrot,Narkanda",171213,3-star Narkanda hotel with 2 restaurants,1,1,31,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Clarke's Hotel Shimla,6500,4,20.2,"The Mall, Shimla",171001,"4-star hotel in Shimla with restaurant, bar/lounge",1,0,32,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Clarke's Hotel Shimla,7500,4,20.2,"The Mall, Shimla",171001,"4-star hotel in Shimla with restaurant, bar/lounge",1,0,32,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Clarke's Hotel Shimla,8500,4,20.2,"The Mall, Shimla",171001,"4-star hotel in Shimla with restaurant, bar/lounge",1,0,32,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Clarke's Hotel Shimla,8500,4,20.2,"The Mall, Shimla",171001,"4-star hotel in Shimla with restaurant, bar/lounge",1,0,32,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Clarke's Hotel Shimla,9000,4,20.2,"The Mall, Shimla",171001,"4-star hotel in Shimla with restaurant, bar/lounge",1,0,32,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Clarke's Hotel Shimla,9300,4,20.2,"The Mall, Shimla",171001,"4-star hotel in Shimla with restaurant, bar/lounge",1,0,32,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Clarke's Hotel Shimla,9000,4,20.2,"The Mall, Shimla",171001,"4-star hotel in Shimla with restaurant, bar/lounge",1,0,32,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Clarke's Hotel Shimla,9000,4,20.2,"The Mall, Shimla",171001,"4-star hotel in Shimla with restaurant, bar/lounge",1,0,32,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Fernhill Resort Chail,2236,2.5,67.6,Blossom Hill Chail Shimla,173217,"Chail resort with restaurant, conference center",1,0,32,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Fernhill Resort Chail,2236,2.5,67.6,Blossom Hill Chail Shimla,173217,"Chail resort with restaurant, conference center",1,0,32,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Fernhill Resort Chail,4816,2.5,67.6,Blossom Hill Chail Shimla,173217,"Chail resort with restaurant, conference center",1,0,32,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Fernhill Resort Chail,4864,2.5,67.6,Blossom Hill Chail Shimla,173217,"Chail resort with restaurant, conference center",1,0,32,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Fernhill Resort Chail,4864,2.5,67.6,Blossom Hill Chail Shimla,173217,"Chail resort with restaurant, conference center",1,0,32,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Fernhill Resort Chail,5259,2.5,67.6,Blossom Hill Chail Shimla,173217,"Chail resort with restaurant, conference center",1,0,32,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Fernhill Resort Chail,4249,2.5,67.6,Blossom Hill Chail Shimla,173217,"Chail resort with restaurant, conference center",1,0,32,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Fernhill Resort Chail,4674,2.5,67.6,Blossom Hill Chail Shimla,173217,"Chail resort with restaurant, conference center",1,0,32,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Cedar Height Resorts,2500,2,48.4,"CHAIL-KUFRI ROAD, KOTI SHIMLA",171218,Hill-view resort with parking & dining available,1,1,36,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Cedar Height Resorts,2500,2,48.4,"CHAIL-KUFRI ROAD, KOTI SHIMLA",171218,Hill-view resort with parking & dining available,1,1,36,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Cedar Height Resorts,3000,2,48.4,"CHAIL-KUFRI ROAD, KOTI SHIMLA",171218,Hill-view resort with parking & dining available,1,1,36,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Cedar Height Resorts,3000,2,48.4,"CHAIL-KUFRI ROAD, KOTI SHIMLA",171218,Hill-view resort with parking & dining available,1,1,36,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Cedar Height Resorts,2500,2,48.4,"CHAIL-KUFRI ROAD, KOTI SHIMLA",171218,Hill-view resort with parking & dining available,1,1,36,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Cedar Height Resorts,3500,2,48.4,"CHAIL-KUFRI ROAD, KOTI SHIMLA",171218,Hill-view resort with parking & dining available,1,1,36,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Cedar Height Resorts,3500,2,48.4,"CHAIL-KUFRI ROAD, KOTI SHIMLA",171218,Hill-view resort with parking & dining available,1,1,36,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Cedar Height Resorts,3500,2,48.4,"CHAIL-KUFRI ROAD, KOTI SHIMLA",171218,Hill-view resort with parking & dining available,1,1,36,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Oyo Premium Baddi Nalagarh,2256,3,73.1,"Baddi-Nalagarh Highway (NH- 21A),",174101,3-star hotel in Baddi,1,1,36,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Oyo Premium Baddi Nalagarh,2256,3,73.1,"Baddi-Nalagarh Highway (NH- 21A),",174101,3-star hotel in Baddi,1,1,36,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Oyo Premium Baddi Nalagarh,2256,3,73.1,"Baddi-Nalagarh Highway (NH- 21A),",174101,3-star hotel in Baddi,1,1,36,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Oyo Premium Baddi Nalagarh,2256,3,73.1,"Baddi-Nalagarh Highway (NH- 21A),",174101,3-star hotel in Baddi,1,1,36,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Oyo Premium Baddi Nalagarh,2256,3,73.1,"Baddi-Nalagarh Highway (NH- 21A),",174101,3-star hotel in Baddi,1,1,36,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Oyo Premium Baddi Nalagarh,2820,3,73.1,"Baddi-Nalagarh Highway (NH- 21A),",174101,3-star hotel in Baddi,1,1,36,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Oyo Premium Baddi Nalagarh,5640,3,73.1,"Baddi-Nalagarh Highway (NH- 21A),",174101,3-star hotel in Baddi,1,1,36,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Oyo Premium Baddi Nalagarh,5640,3,73.1,"Baddi-Nalagarh Highway (NH- 21A),",174101,3-star hotel in Baddi,1,1,36,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Hotel Combermere,5460,3.5,19.9,"The Mall, Shimla",171001,3.5-star Shimla hotel with restaurant,1,1,41,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Hotel Combermere,7000,3.5,19.9,"The Mall, Shimla",171001,3.5-star Shimla hotel with restaurant,1,1,41,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Hotel Combermere,7500,3.5,19.9,"The Mall, Shimla",171001,3.5-star Shimla hotel with restaurant,1,1,41,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Hotel Combermere,7600,3.5,19.9,"The Mall, Shimla",171001,3.5-star Shimla hotel with restaurant,1,1,41,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Hotel Combermere,7600,3.5,19.9,"The Mall, Shimla",171001,3.5-star Shimla hotel with restaurant,1,1,41,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Hotel Combermere,8200,3.5,19.9,"The Mall, Shimla",171001,3.5-star Shimla hotel with restaurant,1,1,41,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Hotel Combermere,7500,3.5,19.9,"The Mall, Shimla",171001,3.5-star Shimla hotel with restaurant,1,1,41,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Hotel Combermere,7000,3.5,19.9,"The Mall, Shimla",171001,3.5-star Shimla hotel with restaurant,1,1,41,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Hotel Asia The Dawn,2097,3,16.4,"Tara Devi, Kachi Ghati",171010,"3-star hotel in Shimla with restaurant, bar/lounge",1,1,42,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Hotel Asia The Dawn,2097,3,16.4,"Tara Devi, Kachi Ghati",171010,"3-star hotel in Shimla with restaurant, bar/lounge",1,1,42,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Hotel Asia The Dawn,2500,3,16.4,"Tara Devi, Kachi Ghati",171010,"3-star hotel in Shimla with restaurant, bar/lounge",1,1,42,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Hotel Asia The Dawn,2500,3,16.4,"Tara Devi, Kachi Ghati",171010,"3-star hotel in Shimla with restaurant, bar/lounge",1,1,42,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Hotel Asia The Dawn,2500,3,16.4,"Tara Devi, Kachi Ghati",171010,"3-star hotel in Shimla with restaurant, bar/lounge",1,1,42,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Hotel Asia The Dawn,3000,3,16.4,"Tara Devi, Kachi Ghati",171010,"3-star hotel in Shimla with restaurant, bar/lounge",1,1,42,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Hotel Asia The Dawn,2390,3,16.4,"Tara Devi, Kachi Ghati",171010,"3-star hotel in Shimla with restaurant, bar/lounge",1,1,42,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Hotel Asia The Dawn,2150,3,16.4,"Tara Devi, Kachi Ghati",171010,"3-star hotel in Shimla with restaurant, bar/lounge",1,1,42,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Baba Resort,7000,4,44.6,"Subathu Road, Kasauli, Dharampur,",173209,Dharampur upscale hotel with restaurant,1,1,44,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Baba Resort,7000,4,44.6,"Subathu Road, Kasauli, Dharampur,",173209,Dharampur upscale hotel with restaurant,1,1,44,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Baba Resort,7000,4,44.6,"Subathu Road, Kasauli, Dharampur,",173209,Dharampur upscale hotel with restaurant,1,1,44,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Baba Resort,7000,4,44.6,"Subathu Road, Kasauli, Dharampur,",173209,Dharampur upscale hotel with restaurant,1,1,44,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Baba Resort,7000,4,44.6,"Subathu Road, Kasauli, Dharampur,",173209,Dharampur upscale hotel with restaurant,1,1,44,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Baba Resort,8176,4,44.6,"Subathu Road, Kasauli, Dharampur,",173209,Dharampur upscale hotel with restaurant,1,1,44,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Baba Resort,7000,4,44.6,"Subathu Road, Kasauli, Dharampur,",173209,Dharampur upscale hotel with restaurant,1,1,44,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Baba Resort,7000,4,44.6,"Subathu Road, Kasauli, Dharampur,",173209,Dharampur upscale hotel with restaurant,1,1,44,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Hotel Willow Banks,5440,4,26.7,"Near Tourism Lift, The Mall, Shimla",171001,"4-star hotel in Shimla with 2 restaurants, bar/lounge",0,1,45,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Hotel Willow Banks,8300,4,26.7,"Near Tourism Lift, The Mall, Shimla",171001,"4-star hotel in Shimla with 2 restaurants, bar/lounge",0,1,45,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Hotel Willow Banks,8600,4,26.7,"Near Tourism Lift, The Mall, Shimla",171001,"4-star hotel in Shimla with 2 restaurants, bar/lounge",0,1,45,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Hotel Willow Banks,8600,4,26.7,"Near Tourism Lift, The Mall, Shimla",171001,"4-star hotel in Shimla with 2 restaurants, bar/lounge",0,1,45,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Hotel Willow Banks,8600,4,26.7,"Near Tourism Lift, The Mall, Shimla",171001,"4-star hotel in Shimla with 2 restaurants, bar/lounge",0,1,45,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Hotel Willow Banks,9000,4,26.7,"Near Tourism Lift, The Mall, Shimla",171001,"4-star hotel in Shimla with 2 restaurants, bar/lounge",0,1,45,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Hotel Willow Banks,8600,4,26.7,"Near Tourism Lift, The Mall, Shimla",171001,"4-star hotel in Shimla with 2 restaurants, bar/lounge",0,1,45,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Hotel Willow Banks,6800,4,26.7,"Near Tourism Lift, The Mall, Shimla",171001,"4-star hotel in Shimla with 2 restaurants, bar/lounge",0,1,45,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Hotel Shimla Inn,1688,3,24,"The Mall, Shimla",171001,"3-star hotel in Shimla with indoor pool, restaurant",1,1,46,1
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Hotel Shimla Inn,1080,3,24,"The Mall, Shimla",171001,"3-star hotel in Shimla with indoor pool, restaurant",1,1,46,1
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Hotel Shimla Inn,1080,3,24,"The Mall, Shimla",171001,"3-star hotel in Shimla with indoor pool, restaurant",1,1,46,1
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Hotel Shimla Inn,1080,3,24,"The Mall, Shimla",171001,"3-star hotel in Shimla with indoor pool, restaurant",1,1,46,1
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Hotel Shimla Inn,1080,3,24,"The Mall, Shimla",171001,"3-star hotel in Shimla with indoor pool, restaurant",1,1,46,1
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Hotel Shimla Inn,1080,3,24,"The Mall, Shimla",171001,"3-star hotel in Shimla with indoor pool, restaurant",1,1,46,1
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Hotel Shimla Inn,1080,3,24,"The Mall, Shimla",171001,"3-star hotel in Shimla with indoor pool, restaurant",1,1,46,1
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Hotel Shimla Inn,1080,3,24,"The Mall, Shimla",171001,"3-star hotel in Shimla with indoor pool, restaurant",1,1,46,1
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Kufri WhiteRidge ,3499,4,36.2,"NH 22, Post Office Fagu, Tehsil Theog, District Shimla",171004,"4-star hotel in Kufri with restaurant, bar/lounge",1,1,46,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Kufri WhiteRidge ,5129,4,36.2,"NH 22, Post Office Fagu, Tehsil Theog, District Shimla",171004,"4-star hotel in Kufri with restaurant, bar/lounge",1,1,46,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Kufri WhiteRidge ,8099,4,36.2,"NH 22, Post Office Fagu, Tehsil Theog, District Shimla",171004,"4-star hotel in Kufri with restaurant, bar/lounge",1,1,46,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Kufri WhiteRidge ,8999,4,36.2,"NH 22, Post Office Fagu, Tehsil Theog, District Shimla",171004,"4-star hotel in Kufri with restaurant, bar/lounge",1,1,46,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Kufri WhiteRidge ,8999,4,36.2,"NH 22, Post Office Fagu, Tehsil Theog, District Shimla",171004,"4-star hotel in Kufri with restaurant, bar/lounge",1,1,46,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Kufri WhiteRidge ,9899,4,36.2,"NH 22, Post Office Fagu, Tehsil Theog, District Shimla",171004,"4-star hotel in Kufri with restaurant, bar/lounge",1,1,46,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Kufri WhiteRidge ,4949,4,36.2,"NH 22, Post Office Fagu, Tehsil Theog, District Shimla",171004,"4-star hotel in Kufri with restaurant, bar/lounge",1,1,46,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Kufri WhiteRidge ,5399,4,36.2,"NH 22, Post Office Fagu, Tehsil Theog, District Shimla",171004,"4-star hotel in Kufri with restaurant, bar/lounge",1,1,46,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Golden Palms Hotel & Spa,1741,3.5,91.3,"Haripur Road, Barotiwala",173205,"Baddi ski-in/ski-out hotel with spa, ski shuttle",1,1,48,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Golden Palms Hotel & Spa,1741,3.5,91.3,"Haripur Road, Barotiwala",173205,"Baddi ski-in/ski-out hotel with spa, ski shuttle",1,1,48,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Golden Palms Hotel & Spa,1741,3.5,91.3,"Haripur Road, Barotiwala",173205,"Baddi ski-in/ski-out hotel with spa, ski shuttle",1,1,48,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Golden Palms Hotel & Spa,1741,3.5,91.3,"Haripur Road, Barotiwala",173205,"Baddi ski-in/ski-out hotel with spa, ski shuttle",1,1,48,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Golden Palms Hotel & Spa,1741,3.5,91.3,"Haripur Road, Barotiwala",173205,"Baddi ski-in/ski-out hotel with spa, ski shuttle",1,1,48,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Golden Palms Hotel & Spa,1884,3.5,91.3,"Haripur Road, Barotiwala",173205,"Baddi ski-in/ski-out hotel with spa, ski shuttle",1,1,48,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Golden Palms Hotel & Spa,1741,3.5,91.3,"Haripur Road, Barotiwala",173205,"Baddi ski-in/ski-out hotel with spa, ski shuttle",1,1,48,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Golden Palms Hotel & Spa,1741,3.5,91.3,"Haripur Road, Barotiwala",173205,"Baddi ski-in/ski-out hotel with spa, ski shuttle",1,1,48,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Radisson Hotel,6400,4.5,21.4,"Good Wood Estate Lower Bharari Road, Shimla,",171001,"Luxury hotel in Shimla with outdoor pool, restaurant",1,1,59,1
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Radisson Hotel,6400,4.5,21.4,"Good Wood Estate Lower Bharari Road, Shimla,",171001,"Luxury hotel in Shimla with outdoor pool, restaurant",1,1,59,1
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Radisson Hotel,19500,4.5,21.4,"Good Wood Estate Lower Bharari Road, Shimla,",171001,"Luxury hotel in Shimla with outdoor pool, restaurant",1,1,59,1
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Radisson Hotel,13000,4.5,21.4,"Good Wood Estate Lower Bharari Road, Shimla,",171001,"Luxury hotel in Shimla with outdoor pool, restaurant",1,1,59,1
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Radisson Hotel,10000,4.5,21.4,"Good Wood Estate Lower Bharari Road, Shimla,",171001,"Luxury hotel in Shimla with outdoor pool, restaurant",1,1,59,1
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Radisson Hotel,27500,4.5,21.4,"Good Wood Estate Lower Bharari Road, Shimla,",171001,"Luxury hotel in Shimla with outdoor pool, restaurant",1,1,59,1
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Radisson Hotel,13000,4.5,21.4,"Good Wood Estate Lower Bharari Road, Shimla,",171001,"Luxury hotel in Shimla with outdoor pool, restaurant",1,1,59,1
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Radisson Hotel,6400,4.5,21.4,"Good Wood Estate Lower Bharari Road, Shimla,",171001,"Luxury hotel in Shimla with outdoor pool, restaurant",1,1,59,1
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Club Mahindra Kandaghat,7399,3.5,33.4,"Shimla Hills, Kalka ",173215,"3.5-star resort in Shoghi with bar/lounge, conference center",1,0,66,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Club Mahindra Kandaghat,7399,3.5,33.4,"Shimla Hills, Kalka ",173215,"3.5-star resort in Shoghi with bar/lounge, conference center",1,0,66,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Club Mahindra Kandaghat,8400,3.5,33.4,"Shimla Hills, Kalka ",173215,"3.5-star resort in Shoghi with bar/lounge, conference center",1,0,66,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Club Mahindra Kandaghat,8799,3.5,33.4,"Shimla Hills, Kalka ",173215,"3.5-star resort in Shoghi with bar/lounge, conference center",1,0,66,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Club Mahindra Kandaghat,8990,3.5,33.4,"Shimla Hills, Kalka ",173215,"3.5-star resort in Shoghi with bar/lounge, conference center",1,0,66,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Club Mahindra Kandaghat,9499,3.5,33.4,"Shimla Hills, Kalka ",173215,"3.5-star resort in Shoghi with bar/lounge, conference center",1,0,66,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Club Mahindra Kandaghat,8000,3.5,33.4,"Shimla Hills, Kalka ",173215,"3.5-star resort in Shoghi with bar/lounge, conference center",1,0,66,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Club Mahindra Kandaghat,6800,3.5,33.4,"Shimla Hills, Kalka ",173215,"3.5-star resort in Shoghi with bar/lounge, conference center",1,0,66,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Club Mahindra Mashobra,4674,3,30,"Mashobra, Chharabra, Shimla",171007,"Mountain hotel in Shimla with 2 restaurants, bar/lounge",1,0,67,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Club Mahindra Mashobra,4674,3,30,"Mashobra, Chharabra, Shimla",171007,"Mountain hotel in Shimla with 2 restaurants, bar/lounge",1,0,67,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Club Mahindra Mashobra,4816,3,30,"Mashobra, Chharabra, Shimla",171007,"Mountain hotel in Shimla with 2 restaurants, bar/lounge",1,0,67,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Club Mahindra Mashobra,4864,3,30,"Mashobra, Chharabra, Shimla",171007,"Mountain hotel in Shimla with 2 restaurants, bar/lounge",1,0,67,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Club Mahindra Mashobra,4864,3,30,"Mashobra, Chharabra, Shimla",171007,"Mountain hotel in Shimla with 2 restaurants, bar/lounge",1,0,67,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Club Mahindra Mashobra,5259,3,30,"Mashobra, Chharabra, Shimla",171007,"Mountain hotel in Shimla with 2 restaurants, bar/lounge",1,0,67,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Club Mahindra Mashobra,4249,3,30,"Mashobra, Chharabra, Shimla",171007,"Mountain hotel in Shimla with 2 restaurants, bar/lounge",1,0,67,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Club Mahindra Mashobra,4674,3,30,"Mashobra, Chharabra, Shimla",171007,"Mountain hotel in Shimla with 2 restaurants, bar/lounge",1,0,67,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,East Bourne Resort & Spa,4625,4,25.6,"Bishop Cotton School, Khallini, Shimla",171002,"4-star hotel in Shimla with 3 restaurants, spa",1,0,72,1
+Shimla,169578,34,0,1,0,0,Dec 21 2016,East Bourne Resort & Spa,7500,4,25.6,"Bishop Cotton School, Khallini, Shimla",171002,"4-star hotel in Shimla with 3 restaurants, spa",1,0,72,1
+Shimla,169578,34,0,1,1,0,Dec 24 2016,East Bourne Resort & Spa,7500,4,25.6,"Bishop Cotton School, Khallini, Shimla",171002,"4-star hotel in Shimla with 3 restaurants, spa",1,0,72,1
+Shimla,169578,34,0,1,1,0,Dec 25 2016,East Bourne Resort & Spa,7500,4,25.6,"Bishop Cotton School, Khallini, Shimla",171002,"4-star hotel in Shimla with 3 restaurants, spa",1,0,72,1
+Shimla,169578,34,0,1,0,0,Dec 28 2016,East Bourne Resort & Spa,7500,4,25.6,"Bishop Cotton School, Khallini, Shimla",171002,"4-star hotel in Shimla with 3 restaurants, spa",1,0,72,1
+Shimla,169578,34,0,1,1,1,Dec 31 2016,East Bourne Resort & Spa,7500,4,25.6,"Bishop Cotton School, Khallini, Shimla",171002,"4-star hotel in Shimla with 3 restaurants, spa",1,0,72,1
+Shimla,169578,34,0,1,0,0,Jan 04 2017,East Bourne Resort & Spa,7500,4,25.6,"Bishop Cotton School, Khallini, Shimla",171002,"4-star hotel in Shimla with 3 restaurants, spa",1,0,72,1
+Shimla,169578,34,0,1,1,0,Jan 08 2017,East Bourne Resort & Spa,7500,4,25.6,"Bishop Cotton School, Khallini, Shimla",171002,"4-star hotel in Shimla with 3 restaurants, spa",1,0,72,1
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Snow Valley Resorts,5000,3.5,17.6,Ghora Chowki (NH22),171005,"3.5-star hotel in Shimla with restaurant, health club",1,1,72,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Snow Valley Resorts,6500,3.5,17.6,Ghora Chowki (NH22),171005,"3.5-star hotel in Shimla with restaurant, health club",1,1,72,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Snow Valley Resorts,7500,3.5,17.6,Ghora Chowki (NH22),171005,"3.5-star hotel in Shimla with restaurant, health club",1,1,72,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Snow Valley Resorts,7500,3.5,17.6,Ghora Chowki (NH22),171005,"3.5-star hotel in Shimla with restaurant, health club",1,1,72,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Snow Valley Resorts,7500,3.5,17.6,Ghora Chowki (NH22),171005,"3.5-star hotel in Shimla with restaurant, health club",1,1,72,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Snow Valley Resorts,8500,3.5,17.6,Ghora Chowki (NH22),171005,"3.5-star hotel in Shimla with restaurant, health club",1,1,72,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Snow Valley Resorts,3842,3.5,17.6,Ghora Chowki (NH22),171005,"3.5-star hotel in Shimla with restaurant, health club",1,1,72,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Snow Valley Resorts,3842,3.5,17.6,Ghora Chowki (NH22),171005,"3.5-star hotel in Shimla with restaurant, health club",1,1,72,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,The Oberoi Cecil,12000,5,17.5,"Chaura Maiden, Shimla",171004,"Luxury hotel in Shimla with spa, indoor pool",1,1,75,1
+Shimla,169578,34,0,1,0,0,Dec 21 2016,The Oberoi Cecil,12000,5,17.5,"Chaura Maiden, Shimla",171004,"Luxury hotel in Shimla with spa, indoor pool",1,1,75,1
+Shimla,169578,34,0,1,1,0,Dec 24 2016,The Oberoi Cecil,19000,5,17.5,"Chaura Maiden, Shimla",171004,"Luxury hotel in Shimla with spa, indoor pool",1,1,75,1
+Shimla,169578,34,0,1,1,0,Dec 25 2016,The Oberoi Cecil,20000,5,17.5,"Chaura Maiden, Shimla",171004,"Luxury hotel in Shimla with spa, indoor pool",1,1,75,1
+Shimla,169578,34,0,1,0,0,Dec 28 2016,The Oberoi Cecil,19000,5,17.5,"Chaura Maiden, Shimla",171004,"Luxury hotel in Shimla with spa, indoor pool",1,1,75,1
+Shimla,169578,34,0,1,1,1,Dec 31 2016,The Oberoi Cecil,20500,5,17.5,"Chaura Maiden, Shimla",171004,"Luxury hotel in Shimla with spa, indoor pool",1,1,75,1
+Shimla,169578,34,0,1,0,0,Jan 04 2017,The Oberoi Cecil,12000,5,17.5,"Chaura Maiden, Shimla",171004,"Luxury hotel in Shimla with spa, indoor pool",1,1,75,1
+Shimla,169578,34,0,1,1,0,Jan 08 2017,The Oberoi Cecil,12000,5,17.5,"Chaura Maiden, Shimla",171004,"Luxury hotel in Shimla with spa, indoor pool",1,1,75,1
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Toshali Royal View,3500,3,42.7,"Kanda Ghat, Kufri Chail Road",171012,"Mountain resort in Shilon Bagh with restaurant, bar/lounge",0,1,77,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Toshali Royal View,3500,3,42.7,"Kanda Ghat, Kufri Chail Road",171012,"Mountain resort in Shilon Bagh with restaurant, bar/lounge",0,1,77,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Toshali Royal View,4500,3,42.7,"Kanda Ghat, Kufri Chail Road",171012,"Mountain resort in Shilon Bagh with restaurant, bar/lounge",0,1,77,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Toshali Royal View,4900,3,42.7,"Kanda Ghat, Kufri Chail Road",171012,"Mountain resort in Shilon Bagh with restaurant, bar/lounge",0,1,77,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Toshali Royal View,4500,3,42.7,"Kanda Ghat, Kufri Chail Road",171012,"Mountain resort in Shilon Bagh with restaurant, bar/lounge",0,1,77,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Toshali Royal View,5200,3,42.7,"Kanda Ghat, Kufri Chail Road",171012,"Mountain resort in Shilon Bagh with restaurant, bar/lounge",0,1,77,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Toshali Royal View,3500,3,42.7,"Kanda Ghat, Kufri Chail Road",171012,"Mountain resort in Shilon Bagh with restaurant, bar/lounge",0,1,77,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Toshali Royal View,3500,3,42.7,"Kanda Ghat, Kufri Chail Road",171012,"Mountain resort in Shilon Bagh with restaurant, bar/lounge",0,1,77,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Toshali Royal View Resort,3500,3,42.7,"PO Munda Ghat, Via Kanda Ghat, Kufri Chail Road, Shilon Bagh, Himachal Pradesh, India",171012,"Mountain resort in Shilon Bagh with restaurant, bar/lounge",0,0,77,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Toshali Royal View Resort,3500,3,42.7,"PO Munda Ghat, Via Kanda Ghat, Kufri Chail Road, Shilon Bagh, Himachal Pradesh, India",171012,"Mountain resort in Shilon Bagh with restaurant, bar/lounge",0,0,77,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Toshali Royal View Resort,4500,3,42.7,"PO Munda Ghat, Via Kanda Ghat, Kufri Chail Road, Shilon Bagh, Himachal Pradesh, India",171012,"Mountain resort in Shilon Bagh with restaurant, bar/lounge",0,0,77,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Toshali Royal View Resort,4900,3,42.7,"PO Munda Ghat, Via Kanda Ghat, Kufri Chail Road, Shilon Bagh, Himachal Pradesh, India",171012,"Mountain resort in Shilon Bagh with restaurant, bar/lounge",0,0,77,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Toshali Royal View Resort,4500,3,42.7,"PO Munda Ghat, Via Kanda Ghat, Kufri Chail Road, Shilon Bagh, Himachal Pradesh, India",171012,"Mountain resort in Shilon Bagh with restaurant, bar/lounge",0,0,77,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Toshali Royal View Resort,4900,3,42.7,"PO Munda Ghat, Via Kanda Ghat, Kufri Chail Road, Shilon Bagh, Himachal Pradesh, India",171012,"Mountain resort in Shilon Bagh with restaurant, bar/lounge",0,0,77,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Toshali Royal View Resort,3500,3,42.7,"PO Munda Ghat, Via Kanda Ghat, Kufri Chail Road, Shilon Bagh, Himachal Pradesh, India",171012,"Mountain resort in Shilon Bagh with restaurant, bar/lounge",0,0,77,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Toshali Royal View Resort,3500,3,42.7,"PO Munda Ghat, Via Kanda Ghat, Kufri Chail Road, Shilon Bagh, Himachal Pradesh, India",171012,"Mountain resort in Shilon Bagh with restaurant, bar/lounge",0,0,77,0
+Shimla,169578,34,0,1,1,0,Dec 18 2016,"Wildflower Hall, In the Himalayas",18000,5,30.5,"Mashobra, Chharabra, Shimla, Himachal Pradesh, India",171012,"Luxury hotel in Chharabra with 2 restaurants, spa",1,1,85,1
+Shimla,169578,34,0,1,0,0,Dec 21 2016,"Wildflower Hall, In the Himalayas",18000,5,30.5,"Mashobra, Chharabra, Shimla, Himachal Pradesh, India",171012,"Luxury hotel in Chharabra with 2 restaurants, spa",1,1,85,1
+Shimla,169578,34,0,1,1,0,Dec 24 2016,"Wildflower Hall, In the Himalayas",22500,5,30.5,"Mashobra, Chharabra, Shimla, Himachal Pradesh, India",171012,"Luxury hotel in Chharabra with 2 restaurants, spa",1,1,85,1
+Shimla,169578,34,0,1,1,0,Dec 25 2016,"Wildflower Hall, In the Himalayas",22500,5,30.5,"Mashobra, Chharabra, Shimla, Himachal Pradesh, India",171012,"Luxury hotel in Chharabra with 2 restaurants, spa",1,1,85,1
+Shimla,169578,34,0,1,0,0,Dec 28 2016,"Wildflower Hall, In the Himalayas",22500,5,30.5,"Mashobra, Chharabra, Shimla, Himachal Pradesh, India",171012,"Luxury hotel in Chharabra with 2 restaurants, spa",1,1,85,1
+Shimla,169578,34,0,1,1,1,Dec 31 2016,"Wildflower Hall, In the Himalayas",22500,5,30.5,"Mashobra, Chharabra, Shimla, Himachal Pradesh, India",171012,"Luxury hotel in Chharabra with 2 restaurants, spa",1,1,85,1
+Shimla,169578,34,0,1,0,0,Jan 04 2017,"Wildflower Hall, In the Himalayas",18000,5,30.5,"Mashobra, Chharabra, Shimla, Himachal Pradesh, India",171012,"Luxury hotel in Chharabra with 2 restaurants, spa",1,1,85,1
+Shimla,169578,34,0,1,1,0,Jan 08 2017,"Wildflower Hall, In the Himalayas",20000,5,30.5,"Mashobra, Chharabra, Shimla, Himachal Pradesh, India",171012,"Luxury hotel in Chharabra with 2 restaurants, spa",1,1,85,1
+Shimla,169578,34,0,1,1,0,Dec 18 2016,Kachighati Valley View,2299,3,17.1,"Sankat Mochan Temple, Kachighati, Shimla",171010,"Free continental breakfast, free WiFi, and free parking",1,1,92,0
+Shimla,169578,34,0,1,0,0,Dec 21 2016,Kachighati Valley View,2299,3,17.1,"Sankat Mochan Temple, Kachighati, Shimla",171010,"Free continental breakfast, free WiFi, and free parking",1,1,92,0
+Shimla,169578,34,0,1,1,0,Dec 24 2016,Kachighati Valley View,3065,3,17.1,"Sankat Mochan Temple, Kachighati, Shimla",171010,"Free continental breakfast, free WiFi, and free parking",1,1,92,0
+Shimla,169578,34,0,1,1,0,Dec 25 2016,Kachighati Valley View,3065,3,17.1,"Sankat Mochan Temple, Kachighati, Shimla",171010,"Free continental breakfast, free WiFi, and free parking",1,1,92,0
+Shimla,169578,34,0,1,0,0,Dec 28 2016,Kachighati Valley View,3065,3,17.1,"Sankat Mochan Temple, Kachighati, Shimla",171010,"Free continental breakfast, free WiFi, and free parking",1,1,92,0
+Shimla,169578,34,0,1,1,1,Dec 31 2016,Kachighati Valley View,3065,3,17.1,"Sankat Mochan Temple, Kachighati, Shimla",171010,"Free continental breakfast, free WiFi, and free parking",1,1,92,0
+Shimla,169578,34,0,1,0,0,Jan 04 2017,Kachighati Valley View,4575,3,17.1,"Sankat Mochan Temple, Kachighati, Shimla",171010,"Free continental breakfast, free WiFi, and free parking",1,1,92,0
+Shimla,169578,34,0,1,1,0,Jan 08 2017,Kachighati Valley View,4575,3,17.1,"Sankat Mochan Temple, Kachighati, Shimla",171010,"Free continental breakfast, free WiFi, and free parking",1,1,92,0

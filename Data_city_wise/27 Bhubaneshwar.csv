@@ -1,0 +1,121 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Bhubaneswar,885363,27,0,0,1,0,Dec 18 2016,Ginger Bhubaneswar,2771,3,5.1,"Opp Nalco Headquarters, Jaidev Vihar Nayapalli, Bhubaneshwar, Orissa",751013,3-star Bhubaneshwar hotel with restaurant,1,0,101,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 21 2016,Ginger Bhubaneswar,2771,3,5.1,"Opp Nalco Headquarters, Jaidev Vihar Nayapalli, Bhubaneshwar, Orissa",751013,3-star Bhubaneshwar hotel with restaurant,1,0,101,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 24 2016,Ginger Bhubaneswar,2771,3,5.1,"Opp Nalco Headquarters, Jaidev Vihar Nayapalli, Bhubaneshwar, Orissa",751013,3-star Bhubaneshwar hotel with restaurant,1,0,101,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 25 2016,Ginger Bhubaneswar,2771,3,5.1,"Opp Nalco Headquarters, Jaidev Vihar Nayapalli, Bhubaneshwar, Orissa",751013,3-star Bhubaneshwar hotel with restaurant,1,0,101,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 28 2016,Ginger Bhubaneswar,2771,3,5.1,"Opp Nalco Headquarters, Jaidev Vihar Nayapalli, Bhubaneshwar, Orissa",751013,3-star Bhubaneshwar hotel with restaurant,1,0,101,0
+Bhubaneswar,885363,27,0,0,1,1,Dec 31 2016,Ginger Bhubaneswar,2683,3,5.1,"Opp Nalco Headquarters, Jaidev Vihar Nayapalli, Bhubaneshwar, Orissa",751013,3-star Bhubaneshwar hotel with restaurant,1,0,101,0
+Bhubaneswar,885363,27,0,0,0,0,Jan 04 2017,Ginger Bhubaneswar,2683,3,5.1,"Opp Nalco Headquarters, Jaidev Vihar Nayapalli, Bhubaneshwar, Orissa",751013,3-star Bhubaneshwar hotel with restaurant,1,0,101,0
+Bhubaneswar,885363,27,0,0,1,0,Jan 08 2017,Ginger Bhubaneswar,2683,3,5.1,"Opp Nalco Headquarters, Jaidev Vihar Nayapalli, Bhubaneshwar, Orissa",751013,3-star Bhubaneshwar hotel with restaurant,1,0,101,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 18 2016,Hotel Pushpak,1950,3.5,2.6,"68, Budhanagar, Kalpana Square, Bhubaneshwar, Orissa",751006,"3.5-star hotel in Bhubaneshwar with 3 restaurants, bar/lounge",1,1,31,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 21 2016,Hotel Pushpak,1950,3.5,2.6,"68, Budhanagar, Kalpana Square, Bhubaneshwar, Orissa",751006,"3.5-star hotel in Bhubaneshwar with 3 restaurants, bar/lounge",1,1,31,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 24 2016,Hotel Pushpak,1950,3.5,2.6,"68, Budhanagar, Kalpana Square, Bhubaneshwar, Orissa",751006,"3.5-star hotel in Bhubaneshwar with 3 restaurants, bar/lounge",1,1,31,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 25 2016,Hotel Pushpak,1950,3.5,2.6,"68, Budhanagar, Kalpana Square, Bhubaneshwar, Orissa",751006,"3.5-star hotel in Bhubaneshwar with 3 restaurants, bar/lounge",1,1,31,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 28 2016,Hotel Pushpak,2400,3.5,2.6,"68, Budhanagar, Kalpana Square, Bhubaneshwar, Orissa",751006,"3.5-star hotel in Bhubaneshwar with 3 restaurants, bar/lounge",1,1,31,0
+Bhubaneswar,885363,27,0,0,1,1,Dec 31 2016,Hotel Pushpak,2400,3.5,2.6,"68, Budhanagar, Kalpana Square, Bhubaneshwar, Orissa",751006,"3.5-star hotel in Bhubaneshwar with 3 restaurants, bar/lounge",1,1,31,0
+Bhubaneswar,885363,27,0,0,0,0,Jan 04 2017,Hotel Pushpak,1950,3.5,2.6,"68, Budhanagar, Kalpana Square, Bhubaneshwar, Orissa",751006,"3.5-star hotel in Bhubaneshwar with 3 restaurants, bar/lounge",1,1,31,0
+Bhubaneswar,885363,27,0,0,1,0,Jan 08 2017,Hotel Pushpak,1950,3.5,2.6,"68, Budhanagar, Kalpana Square, Bhubaneshwar, Orissa",751006,"3.5-star hotel in Bhubaneshwar with 3 restaurants, bar/lounge",1,1,31,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 18 2016,Mango Hotels Prangan,2499,3,4.2,"Plot no 692, Cuttack Road, Near Budheswari Temple, Bhubaneshwar, Odisha",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,0,45,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 21 2016,Mango Hotels Prangan,2299,3,4.2,"Plot no 692, Cuttack Road, Near Budheswari Temple, Bhubaneshwar, Odisha",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,0,45,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 24 2016,Mango Hotels Prangan,2699,3,4.2,"Plot no 692, Cuttack Road, Near Budheswari Temple, Bhubaneshwar, Odisha",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,0,45,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 25 2016,Mango Hotels Prangan,4499,3,4.2,"Plot no 692, Cuttack Road, Near Budheswari Temple, Bhubaneshwar, Odisha",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,0,45,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 28 2016,Mango Hotels Prangan,4499,3,4.2,"Plot no 692, Cuttack Road, Near Budheswari Temple, Bhubaneshwar, Odisha",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,0,45,0
+Bhubaneswar,885363,27,0,0,1,1,Dec 31 2016,Mango Hotels Prangan,4499,3,4.2,"Plot no 692, Cuttack Road, Near Budheswari Temple, Bhubaneshwar, Odisha",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,0,45,0
+Bhubaneswar,885363,27,0,0,0,0,Jan 04 2017,Mango Hotels Prangan,2499,3,4.2,"Plot no 692, Cuttack Road, Near Budheswari Temple, Bhubaneshwar, Odisha",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,0,45,0
+Bhubaneswar,885363,27,0,0,1,0,Jan 08 2017,Mango Hotels Prangan,2499,3,4.2,"Plot no 692, Cuttack Road, Near Budheswari Temple, Bhubaneshwar, Odisha",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,0,45,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 18 2016,OYO Premium Nayapalli IRC Village,3661,3,4.8,"A1/2, NH5IRC Village, Nayapalli, Bhubaneshwar",751012,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 21 2016,OYO Premium Nayapalli IRC Village,3661,3,4.8,"A1/2, NH5IRC Village, Nayapalli, Bhubaneshwar",751012,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 24 2016,OYO Premium Nayapalli IRC Village,3661,3,4.8,"A1/2, NH5IRC Village, Nayapalli, Bhubaneshwar",751012,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 25 2016,OYO Premium Nayapalli IRC Village,3661,3,4.8,"A1/2, NH5IRC Village, Nayapalli, Bhubaneshwar",751012,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 28 2016,OYO Premium Nayapalli IRC Village,3661,3,4.8,"A1/2, NH5IRC Village, Nayapalli, Bhubaneshwar",751012,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,1,Dec 31 2016,OYO Premium Nayapalli IRC Village,4577,3,4.8,"A1/2, NH5IRC Village, Nayapalli, Bhubaneshwar",751012,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Jan 04 2017,OYO Premium Nayapalli IRC Village,9472,3,4.8,"A1/2, NH5IRC Village, Nayapalli, Bhubaneshwar",751012,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Jan 08 2017,OYO Premium Nayapalli IRC Village,9472,3,4.8,"A1/2, NH5IRC Village, Nayapalli, Bhubaneshwar",751012,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 18 2016,OYO Premium Old Station Rd Bhubaneswar 4,2426,3,3.2,"Old Station Bazar, Near Platform No 6, Bhubaneshwar, Orissa",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 21 2016,OYO Premium Old Station Rd Bhubaneswar 4,2426,3,3.2,"Old Station Bazar, Near Platform No 6, Bhubaneshwar, Orissa",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 24 2016,OYO Premium Old Station Rd Bhubaneswar 4,2426,3,3.2,"Old Station Bazar, Near Platform No 6, Bhubaneshwar, Orissa",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 25 2016,OYO Premium Old Station Rd Bhubaneswar 4,2426,3,3.2,"Old Station Bazar, Near Platform No 6, Bhubaneshwar, Orissa",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 28 2016,OYO Premium Old Station Rd Bhubaneswar 4,2426,3,3.2,"Old Station Bazar, Near Platform No 6, Bhubaneshwar, Orissa",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,10,0
+Bhubaneswar,885363,27,0,0,1,1,Dec 31 2016,OYO Premium Old Station Rd Bhubaneswar 4,3033,3,3.2,"Old Station Bazar, Near Platform No 6, Bhubaneshwar, Orissa",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Jan 04 2017,OYO Premium Old Station Rd Bhubaneswar 4,6705,3,3.2,"Old Station Bazar, Near Platform No 6, Bhubaneshwar, Orissa",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Jan 08 2017,OYO Premium Old Station Rd Bhubaneswar 4,6705,3,3.2,"Old Station Bazar, Near Platform No 6, Bhubaneshwar, Orissa",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 18 2016,OYO Premium Vani Vihar,3917,3,5.8,"A-15, NH-5, Vani Vihar, Bhubaneshwar",751015,3-star Bhubaneshwar hotel with bar/lounge,1,1,15,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 21 2016,OYO Premium Vani Vihar,3917,3,5.8,"A-15, NH-5, Vani Vihar, Bhubaneshwar",751015,3-star Bhubaneshwar hotel with bar/lounge,1,1,15,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 24 2016,OYO Premium Vani Vihar,3917,3,5.8,"A-15, NH-5, Vani Vihar, Bhubaneshwar",751015,3-star Bhubaneshwar hotel with bar/lounge,1,1,15,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 25 2016,OYO Premium Vani Vihar,3917,3,5.8,"A-15, NH-5, Vani Vihar, Bhubaneshwar",751015,3-star Bhubaneshwar hotel with bar/lounge,1,1,15,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 28 2016,OYO Premium Vani Vihar,3917,3,5.8,"A-15, NH-5, Vani Vihar, Bhubaneshwar",751015,3-star Bhubaneshwar hotel with bar/lounge,1,1,15,0
+Bhubaneswar,885363,27,0,0,1,1,Dec 31 2016,OYO Premium Vani Vihar,4896,3,5.8,"A-15, NH-5, Vani Vihar, Bhubaneshwar",751015,3-star Bhubaneshwar hotel with bar/lounge,1,1,15,0
+Bhubaneswar,885363,27,0,0,0,0,Jan 04 2017,OYO Premium Vani Vihar,9472,3,5.8,"A-15, NH-5, Vani Vihar, Bhubaneshwar",751015,3-star Bhubaneshwar hotel with bar/lounge,1,1,15,0
+Bhubaneswar,885363,27,0,0,1,0,Jan 08 2017,OYO Premium Vani Vihar,9472,3,5.8,"A-15, NH-5, Vani Vihar, Bhubaneshwar",751015,3-star Bhubaneshwar hotel with bar/lounge,1,1,15,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 18 2016,OYO Rooms Bapuji Nagar,1745,3,2.1,"221, Bapuji Nagar, Bhubaneshwar",751009,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 21 2016,OYO Rooms Bapuji Nagar,1745,3,2.1,"221, Bapuji Nagar, Bhubaneshwar",751009,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 24 2016,OYO Rooms Bapuji Nagar,1745,3,2.1,"221, Bapuji Nagar, Bhubaneshwar",751009,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 25 2016,OYO Rooms Bapuji Nagar,1745,3,2.1,"221, Bapuji Nagar, Bhubaneshwar",751009,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 28 2016,OYO Rooms Bapuji Nagar,1745,3,2.1,"221, Bapuji Nagar, Bhubaneshwar",751009,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,1,Dec 31 2016,OYO Rooms Bapuji Nagar,1745,3,2.1,"221, Bapuji Nagar, Bhubaneshwar",751009,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Jan 04 2017,OYO Rooms Bapuji Nagar,1851,3,2.1,"221, Bapuji Nagar, Bhubaneshwar",751009,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Jan 08 2017,OYO Rooms Bapuji Nagar,1851,3,2.1,"221, Bapuji Nagar, Bhubaneshwar",751009,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 18 2016,OYO Rooms Infocity Road,1617,3,10,"HIG-117, Kanan Vihar Phase 1, Bhubaneshwar",751031,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 21 2016,OYO Rooms Infocity Road,1617,3,10,"HIG-117, Kanan Vihar Phase 1, Bhubaneshwar",751031,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 24 2016,OYO Rooms Infocity Road,1617,3,10,"HIG-117, Kanan Vihar Phase 1, Bhubaneshwar",751031,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 25 2016,OYO Rooms Infocity Road,1617,3,10,"HIG-117, Kanan Vihar Phase 1, Bhubaneshwar",751031,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 28 2016,OYO Rooms Infocity Road,1617,3,10,"HIG-117, Kanan Vihar Phase 1, Bhubaneshwar",751031,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,1,Dec 31 2016,OYO Rooms Infocity Road,1617,3,10,"HIG-117, Kanan Vihar Phase 1, Bhubaneshwar",751031,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Jan 04 2017,OYO Rooms Infocity Road,4150,3,10,"HIG-117, Kanan Vihar Phase 1, Bhubaneshwar",751031,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Jan 08 2017,OYO Rooms Infocity Road,4150,3,10,"HIG-117, Kanan Vihar Phase 1, Bhubaneshwar",751031,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 18 2016,OYO Rooms Nayapalli,1430,3,5.2,"N-5/539, Nayapalli, Bhubaneshwar, Orissa",751015,"3-star hotel in Bhubaneshwar with outdoor pool, bar/lounge",1,1,15,1
+Bhubaneswar,885363,27,0,0,0,0,Dec 21 2016,OYO Rooms Nayapalli,1547,3,5.2,"N-5/539, Nayapalli, Bhubaneshwar, Orissa",751015,"3-star hotel in Bhubaneshwar with outdoor pool, bar/lounge",1,1,15,1
+Bhubaneswar,885363,27,0,0,1,0,Dec 24 2016,OYO Rooms Nayapalli,1460,3,5.2,"N-5/539, Nayapalli, Bhubaneshwar, Orissa",751015,"3-star hotel in Bhubaneshwar with outdoor pool, bar/lounge",1,1,15,1
+Bhubaneswar,885363,27,0,0,1,0,Dec 25 2016,OYO Rooms Nayapalli,1654,3,5.2,"N-5/539, Nayapalli, Bhubaneshwar, Orissa",751015,"3-star hotel in Bhubaneshwar with outdoor pool, bar/lounge",1,1,15,1
+Bhubaneswar,885363,27,0,0,0,0,Dec 28 2016,OYO Rooms Nayapalli,1914,3,5.2,"N-5/539, Nayapalli, Bhubaneshwar, Orissa",751015,"3-star hotel in Bhubaneshwar with outdoor pool, bar/lounge",1,1,15,1
+Bhubaneswar,885363,27,0,0,1,1,Dec 31 2016,OYO Rooms Nayapalli,1825,3,5.2,"N-5/539, Nayapalli, Bhubaneshwar, Orissa",751015,"3-star hotel in Bhubaneshwar with outdoor pool, bar/lounge",1,1,15,1
+Bhubaneswar,885363,27,0,0,0,0,Jan 04 2017,OYO Rooms Nayapalli,3134,3,5.2,"N-5/539, Nayapalli, Bhubaneshwar, Orissa",751015,"3-star hotel in Bhubaneshwar with outdoor pool, bar/lounge",1,1,15,1
+Bhubaneswar,885363,27,0,0,1,0,Jan 08 2017,OYO Rooms Nayapalli,3134,3,5.2,"N-5/539, Nayapalli, Bhubaneshwar, Orissa",751015,"3-star hotel in Bhubaneshwar with outdoor pool, bar/lounge",1,1,15,1
+Bhubaneswar,885363,27,0,0,1,0,Dec 18 2016,OYO Rooms Old Station Lane,2426,3,2.6,"366 A Old Station Bazar, Bhubaneshwar, Orissa",751006,Bhubaneshwar hotel next to shopping mall,1,1,15,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 21 2016,OYO Rooms Old Station Lane,2426,3,2.6,"366 A Old Station Bazar, Bhubaneshwar, Orissa",751006,Bhubaneshwar hotel next to shopping mall,1,1,15,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 24 2016,OYO Rooms Old Station Lane,2426,3,2.6,"366 A Old Station Bazar, Bhubaneshwar, Orissa",751006,Bhubaneshwar hotel next to shopping mall,1,1,15,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 25 2016,OYO Rooms Old Station Lane,2426,3,2.6,"366 A Old Station Bazar, Bhubaneshwar, Orissa",751006,Bhubaneshwar hotel next to shopping mall,1,1,15,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 28 2016,OYO Rooms Old Station Lane,2426,3,2.6,"366 A Old Station Bazar, Bhubaneshwar, Orissa",751006,Bhubaneshwar hotel next to shopping mall,1,1,15,0
+Bhubaneswar,885363,27,0,0,1,1,Dec 31 2016,OYO Rooms Old Station Lane,3033,3,2.6,"366 A Old Station Bazar, Bhubaneshwar, Orissa",751006,Bhubaneshwar hotel next to shopping mall,1,1,15,0
+Bhubaneswar,885363,27,0,0,0,0,Jan 04 2017,OYO Rooms Old Station Lane,6492,3,2.6,"366 A Old Station Bazar, Bhubaneshwar, Orissa",751006,Bhubaneshwar hotel next to shopping mall,1,1,15,0
+Bhubaneswar,885363,27,0,0,1,0,Jan 08 2017,OYO Rooms Old Station Lane,6492,3,2.6,"366 A Old Station Bazar, Bhubaneshwar, Orissa",751006,Bhubaneshwar hotel next to shopping mall,1,1,15,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 18 2016,OYO Rooms Old Station Road 2,1745,3,3,"2271, Biswal Commercial Complex, Cuttak Road, Bhubaneshwar, Orissa",751006,3-star Bhubaneshwar hotel with bar/lounge,1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 21 2016,OYO Rooms Old Station Road 2,1745,3,3,"2271, Biswal Commercial Complex, Cuttak Road, Bhubaneshwar, Orissa",751006,3-star Bhubaneshwar hotel with bar/lounge,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 24 2016,OYO Rooms Old Station Road 2,1745,3,3,"2271, Biswal Commercial Complex, Cuttak Road, Bhubaneshwar, Orissa",751006,3-star Bhubaneshwar hotel with bar/lounge,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 25 2016,OYO Rooms Old Station Road 2,1745,3,3,"2271, Biswal Commercial Complex, Cuttak Road, Bhubaneshwar, Orissa",751006,3-star Bhubaneshwar hotel with bar/lounge,1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 28 2016,OYO Rooms Old Station Road 2,2181,3,3,"2271, Biswal Commercial Complex, Cuttak Road, Bhubaneshwar, Orissa",751006,3-star Bhubaneshwar hotel with bar/lounge,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,1,Dec 31 2016,OYO Rooms Old Station Road 2,2181,3,3,"2271, Biswal Commercial Complex, Cuttak Road, Bhubaneshwar, Orissa",751006,3-star Bhubaneshwar hotel with bar/lounge,1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Jan 04 2017,OYO Rooms Old Station Road 2,2181,3,3,"2271, Biswal Commercial Complex, Cuttak Road, Bhubaneshwar, Orissa",751006,3-star Bhubaneshwar hotel with bar/lounge,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Jan 08 2017,OYO Rooms Old Station Road 2,2181,3,3,"2271, Biswal Commercial Complex, Cuttak Road, Bhubaneshwar, Orissa",751006,3-star Bhubaneshwar hotel with bar/lounge,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 18 2016,OYO Rooms Rajmahal Square 2,2213,3,2.6,"A/7, Ashok Nagar, Bhubaneshwar, Orissa",751009,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 21 2016,OYO Rooms Rajmahal Square 2,2213,3,2.6,"A/7, Ashok Nagar, Bhubaneshwar, Orissa",751009,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 24 2016,OYO Rooms Rajmahal Square 2,2213,3,2.6,"A/7, Ashok Nagar, Bhubaneshwar, Orissa",751009,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 25 2016,OYO Rooms Rajmahal Square 2,2213,3,2.6,"A/7, Ashok Nagar, Bhubaneshwar, Orissa",751009,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 28 2016,OYO Rooms Rajmahal Square 2,2213,3,2.6,"A/7, Ashok Nagar, Bhubaneshwar, Orissa",751009,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,10,0
+Bhubaneswar,885363,27,0,0,1,1,Dec 31 2016,OYO Rooms Rajmahal Square 2,5853,3,2.6,"A/7, Ashok Nagar, Bhubaneshwar, Orissa",751009,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Jan 04 2017,OYO Rooms Rajmahal Square 2,5853,3,2.6,"A/7, Ashok Nagar, Bhubaneshwar, Orissa",751009,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Jan 08 2017,OYO Rooms Rajmahal Square 2,5853,3,2.6,"A/7, Ashok Nagar, Bhubaneshwar, Orissa",751009,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 18 2016,OYO Rooms Sum Hospital,1575,3,6.8,"2nd Floor, Plot No 831/3823, Sampur, Kalinga Vihar, near SUM Hospital, Bhubaneshwar",751019,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 21 2016,OYO Rooms Sum Hospital,1575,3,6.8,"2nd Floor, Plot No 831/3823, Sampur, Kalinga Vihar, near SUM Hospital, Bhubaneshwar",751019,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 24 2016,OYO Rooms Sum Hospital,1575,3,6.8,"2nd Floor, Plot No 831/3823, Sampur, Kalinga Vihar, near SUM Hospital, Bhubaneshwar",751019,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 25 2016,OYO Rooms Sum Hospital,1575,3,6.8,"2nd Floor, Plot No 831/3823, Sampur, Kalinga Vihar, near SUM Hospital, Bhubaneshwar",751019,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Dec 28 2016,OYO Rooms Sum Hospital,1575,3,6.8,"2nd Floor, Plot No 831/3823, Sampur, Kalinga Vihar, near SUM Hospital, Bhubaneshwar",751019,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,1,Dec 31 2016,OYO Rooms Sum Hospital,1575,3,6.8,"2nd Floor, Plot No 831/3823, Sampur, Kalinga Vihar, near SUM Hospital, Bhubaneshwar",751019,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,0,0,Jan 04 2017,OYO Rooms Sum Hospital,1617,3,6.8,"2nd Floor, Plot No 831/3823, Sampur, Kalinga Vihar, near SUM Hospital, Bhubaneshwar",751019,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Jan 08 2017,OYO Rooms Sum Hospital,1617,3,6.8,"2nd Floor, Plot No 831/3823, Sampur, Kalinga Vihar, near SUM Hospital, Bhubaneshwar",751019,3-star hotel in Bhubaneshwar,1,1,10,0
+Bhubaneswar,885363,27,0,0,1,0,Dec 18 2016,"Trident, Bhubaneswar",9500,5,6.1,"Cb-i Nayapalli, Bhubaneshwar, Orissa",751013,"Luxury hotel in Bhubaneshwar with outdoor pool, restaurant",1,0,62,1
+Bhubaneswar,885363,27,0,0,0,0,Dec 21 2016,"Trident, Bhubaneswar",13000,5,6.1,"Cb-i Nayapalli, Bhubaneshwar, Orissa",751013,"Luxury hotel in Bhubaneshwar with outdoor pool, restaurant",1,0,62,1
+Bhubaneswar,885363,27,0,0,1,0,Dec 24 2016,"Trident, Bhubaneswar",9500,5,6.1,"Cb-i Nayapalli, Bhubaneshwar, Orissa",751013,"Luxury hotel in Bhubaneshwar with outdoor pool, restaurant",1,0,62,1
+Bhubaneswar,885363,27,0,0,1,0,Dec 25 2016,"Trident, Bhubaneswar",9500,5,6.1,"Cb-i Nayapalli, Bhubaneshwar, Orissa",751013,"Luxury hotel in Bhubaneshwar with outdoor pool, restaurant",1,0,62,1
+Bhubaneswar,885363,27,0,0,0,0,Dec 28 2016,"Trident, Bhubaneswar",13000,5,6.1,"Cb-i Nayapalli, Bhubaneshwar, Orissa",751013,"Luxury hotel in Bhubaneshwar with outdoor pool, restaurant",1,0,62,1
+Bhubaneswar,885363,27,0,0,1,1,Dec 31 2016,"Trident, Bhubaneswar",9500,5,6.1,"Cb-i Nayapalli, Bhubaneshwar, Orissa",751013,"Luxury hotel in Bhubaneshwar with outdoor pool, restaurant",1,0,62,1
+Bhubaneswar,885363,27,0,0,0,0,Jan 04 2017,"Trident, Bhubaneswar",9500,5,6.1,"Cb-i Nayapalli, Bhubaneshwar, Orissa",751013,"Luxury hotel in Bhubaneshwar with outdoor pool, restaurant",1,0,62,1
+Bhubaneswar,885363,27,0,0,1,0,Jan 08 2017,"Trident, Bhubaneswar",9500,5,6.1,"Cb-i Nayapalli, Bhubaneshwar, Orissa",751013,"Luxury hotel in Bhubaneshwar with outdoor pool, restaurant",1,0,62,1
+Bhubaneswar,885363,27,0,0,1,0,Dec 18 2016,VITS Bhubaneswar,2899,3.5,4.4,"A-19 Cuttack Puri Road, Laxmisagar, Bhubaneshwar, Odisha",751006,"3.5-star hotel in Bhubaneshwar with outdoor pool, restaurant",1,0,64,1
+Bhubaneswar,885363,27,0,0,0,0,Dec 21 2016,VITS Bhubaneswar,3099,3.5,4.4,"A-19 Cuttack Puri Road, Laxmisagar, Bhubaneshwar, Odisha",751006,"3.5-star hotel in Bhubaneshwar with outdoor pool, restaurant",1,0,64,1
+Bhubaneswar,885363,27,0,0,1,0,Dec 24 2016,VITS Bhubaneswar,2899,3.5,4.4,"A-19 Cuttack Puri Road, Laxmisagar, Bhubaneshwar, Odisha",751006,"3.5-star hotel in Bhubaneshwar with outdoor pool, restaurant",1,0,64,1
+Bhubaneswar,885363,27,0,0,1,0,Dec 25 2016,VITS Bhubaneswar,2899,3.5,4.4,"A-19 Cuttack Puri Road, Laxmisagar, Bhubaneshwar, Odisha",751006,"3.5-star hotel in Bhubaneshwar with outdoor pool, restaurant",1,0,64,1
+Bhubaneswar,885363,27,0,0,0,0,Dec 28 2016,VITS Bhubaneswar,7049,3.5,4.4,"A-19 Cuttack Puri Road, Laxmisagar, Bhubaneshwar, Odisha",751006,"3.5-star hotel in Bhubaneshwar with outdoor pool, restaurant",1,0,64,1
+Bhubaneswar,885363,27,0,0,1,1,Dec 31 2016,VITS Bhubaneswar,10999,3.5,4.4,"A-19 Cuttack Puri Road, Laxmisagar, Bhubaneshwar, Odisha",751006,"3.5-star hotel in Bhubaneshwar with outdoor pool, restaurant",1,0,64,1
+Bhubaneswar,885363,27,0,0,0,0,Jan 04 2017,VITS Bhubaneswar,3099,3.5,4.4,"A-19 Cuttack Puri Road, Laxmisagar, Bhubaneshwar, Odisha",751006,"3.5-star hotel in Bhubaneshwar with outdoor pool, restaurant",1,0,64,1
+Bhubaneswar,885363,27,0,0,1,0,Jan 08 2017,VITS Bhubaneswar,2899,3.5,4.4,"A-19 Cuttack Puri Road, Laxmisagar, Bhubaneshwar, Odisha",751006,"3.5-star hotel in Bhubaneshwar with outdoor pool, restaurant",1,0,64,1

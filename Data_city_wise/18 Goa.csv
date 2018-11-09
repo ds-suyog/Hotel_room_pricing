@@ -1,0 +1,625 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Aguada Anchorage,23000,4,15,"Near Fort Aguada, Sinquerim, Candolim, Goa",403515,"4-star hotel with 2 outdoor pools, near Fort Aguada",1,1,65,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Aguada Anchorage,23000,4,15,"Near Fort Aguada, Sinquerim, Candolim, Goa",403515,"4-star hotel with 2 outdoor pools, near Fort Aguada",1,1,65,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Aguada Anchorage,24000,4,15,"Near Fort Aguada, Sinquerim, Candolim, Goa",403515,"4-star hotel with 2 outdoor pools, near Fort Aguada",1,1,65,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Aguada Anchorage,24000,4,15,"Near Fort Aguada, Sinquerim, Candolim, Goa",403515,"4-star hotel with 2 outdoor pools, near Fort Aguada",1,1,65,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Aguada Anchorage,24000,4,15,"Near Fort Aguada, Sinquerim, Candolim, Goa",403515,"4-star hotel with 2 outdoor pools, near Fort Aguada",1,1,65,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Aguada Anchorage,24000,4,15,"Near Fort Aguada, Sinquerim, Candolim, Goa",403515,"4-star hotel with 2 outdoor pools, near Fort Aguada",1,1,65,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Aguada Anchorage,7000,4,15,"Near Fort Aguada, Sinquerim, Candolim, Goa",403515,"4-star hotel with 2 outdoor pools, near Fort Aguada",1,1,65,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Aguada Anchorage,24000,4,15,"Near Fort Aguada, Sinquerim, Candolim, Goa",403515,"4-star hotel with 2 outdoor pools, near Fort Aguada",1,1,65,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Alegria - The Goan Village,3852,2,17,"Next to Health Center, Candolim - North Goa, Candolim, Goa",403515,"Hotel with outdoor pool, near Candolim Beach",0,1,28,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Alegria - The Goan Village,6699,2,17,"Next to Health Center, Candolim - North Goa, Candolim, Goa",403515,"Hotel with outdoor pool, near Candolim Beach",0,1,28,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Alegria - The Goan Village,6699,2,17,"Next to Health Center, Candolim - North Goa, Candolim, Goa",403515,"Hotel with outdoor pool, near Candolim Beach",0,1,28,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Alegria - The Goan Village,6699,2,17,"Next to Health Center, Candolim - North Goa, Candolim, Goa",403515,"Hotel with outdoor pool, near Candolim Beach",0,1,28,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Alegria - The Goan Village,6699,2,17,"Next to Health Center, Candolim - North Goa, Candolim, Goa",403515,"Hotel with outdoor pool, near Candolim Beach",0,1,28,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Alegria - The Goan Village,6699,2,17,"Next to Health Center, Candolim - North Goa, Candolim, Goa",403515,"Hotel with outdoor pool, near Candolim Beach",0,1,28,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Alegria - The Goan Village,4354,2,17,"Next to Health Center, Candolim - North Goa, Candolim, Goa",403515,"Hotel with outdoor pool, near Candolim Beach",0,1,28,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Alegria - The Goan Village,4354,2,17,"Next to Health Center, Candolim - North Goa, Candolim, Goa",403515,"Hotel with outdoor pool, near Candolim Beach",0,1,28,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Anjuna Beach Resort,2167,2.5,25,"Near Starco Junction, Behind Oxford Arcade, DMello Vaddo, Anjuna, Goa",403509,"Resort with outdoor pool, near Anjuna Beach",1,1,23,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Anjuna Beach Resort,2333,2.5,25,"Near Starco Junction, Behind Oxford Arcade, DMello Vaddo, Anjuna, Goa",403510,"Resort with outdoor pool, near Anjuna Beach",1,1,23,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Anjuna Beach Resort,4500,2.5,25,"Near Starco Junction, Behind Oxford Arcade, DMello Vaddo, Anjuna, Goa",403511,"Resort with outdoor pool, near Anjuna Beach",1,1,23,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Anjuna Beach Resort,4500,2.5,25,"Near Starco Junction, Behind Oxford Arcade, DMello Vaddo, Anjuna, Goa",403512,"Resort with outdoor pool, near Anjuna Beach",1,1,23,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Anjuna Beach Resort,4500,2.5,25,"Near Starco Junction, Behind Oxford Arcade, DMello Vaddo, Anjuna, Goa",403513,"Resort with outdoor pool, near Anjuna Beach",1,1,23,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Anjuna Beach Resort,4500,2.5,25,"Near Starco Junction, Behind Oxford Arcade, DMello Vaddo, Anjuna, Goa",403514,"Resort with outdoor pool, near Anjuna Beach",1,1,23,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Anjuna Beach Resort,2333,2.5,25,"Near Starco Junction, Behind Oxford Arcade, DMello Vaddo, Anjuna, Goa",403515,"Resort with outdoor pool, near Anjuna Beach",1,1,23,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Anjuna Beach Resort,2083,2.5,25,"Near Starco Junction, Behind Oxford Arcade, DMello Vaddo, Anjuna, Goa",403516,"Resort with outdoor pool, near Anjuna Beach",1,1,23,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Beach Bay Cottages,3400,3,1.5,"PO Bogmallo, Marmagao, Goa",403806,3-star beachfront hotel in Marmagao with restaurant,1,1,15,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Beach Bay Cottages,5100,3,1.5,"PO Bogmallo, Marmagao, Goa",403806,3-star beachfront hotel in Marmagao with restaurant,1,1,15,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Beach Bay Cottages,6375,3,1.5,"PO Bogmallo, Marmagao, Goa",403806,3-star beachfront hotel in Marmagao with restaurant,1,1,15,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Beach Bay Cottages,6375,3,1.5,"PO Bogmallo, Marmagao, Goa",403806,3-star beachfront hotel in Marmagao with restaurant,1,1,15,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Beach Bay Cottages,6375,3,1.5,"PO Bogmallo, Marmagao, Goa",403806,3-star beachfront hotel in Marmagao with restaurant,1,1,15,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Beach Bay Cottages,7650,3,1.5,"PO Bogmallo, Marmagao, Goa",403806,3-star beachfront hotel in Marmagao with restaurant,1,1,15,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Beach Bay Cottages,4250,3,1.5,"PO Bogmallo, Marmagao, Goa",403806,3-star beachfront hotel in Marmagao with restaurant,1,1,15,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Beach Bay Cottages,3825,3,1.5,"PO Bogmallo, Marmagao, Goa",403806,3-star beachfront hotel in Marmagao with restaurant,1,1,15,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Beleza By The Beach,7000,4,13,"Thandwaddo, Betalbatim, Salcete, Colva, Goa",403708,"4-star resort in Colva with 2 restaurants, 2 bars/lounges",1,1,30,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Beleza By The Beach,8000,4,13,"Thandwaddo, Betalbatim, Salcete, Colva, Goa",403708,"4-star resort in Colva with 2 restaurants, 2 bars/lounges",1,1,30,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Beleza By The Beach,12500,4,13,"Thandwaddo, Betalbatim, Salcete, Colva, Goa",403708,"4-star resort in Colva with 2 restaurants, 2 bars/lounges",1,1,30,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Beleza By The Beach,15000,4,13,"Thandwaddo, Betalbatim, Salcete, Colva, Goa",403708,"4-star resort in Colva with 2 restaurants, 2 bars/lounges",1,1,30,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Beleza By The Beach,10000,4,13,"Thandwaddo, Betalbatim, Salcete, Colva, Goa",403708,"4-star resort in Colva with 2 restaurants, 2 bars/lounges",1,1,30,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Beleza By The Beach,15000,4,13,"Thandwaddo, Betalbatim, Salcete, Colva, Goa",403708,"4-star resort in Colva with 2 restaurants, 2 bars/lounges",1,1,30,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Beleza By The Beach,9000,4,13,"Thandwaddo, Betalbatim, Salcete, Colva, Goa",403708,"4-star resort in Colva with 2 restaurants, 2 bars/lounges",1,1,30,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Beleza By The Beach,7500,4,13,"Thandwaddo, Betalbatim, Salcete, Colva, Goa",403708,"4-star resort in Colva with 2 restaurants, 2 bars/lounges",1,1,30,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Bogmallo Beach Resort,6000,4,1.6,"Bogmalo Beach, Marmagao, Goa",403806,"Bogmolo beachfront hotel with casino, outdoor pool",0,1,141,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Bogmallo Beach Resort,6500,4,1.6,"Bogmalo Beach, Marmagao, Goa",403806,"Bogmolo beachfront hotel with casino, outdoor pool",0,1,141,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Bogmallo Beach Resort,6000,4,1.6,"Bogmalo Beach, Marmagao, Goa",403806,"Bogmolo beachfront hotel with casino, outdoor pool",0,1,141,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Bogmallo Beach Resort,6000,4,1.6,"Bogmalo Beach, Marmagao, Goa",403806,"Bogmolo beachfront hotel with casino, outdoor pool",0,1,141,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Bogmallo Beach Resort,10000,4,1.6,"Bogmalo Beach, Marmagao, Goa",403806,"Bogmolo beachfront hotel with casino, outdoor pool",0,1,141,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Bogmallo Beach Resort,18000,4,1.6,"Bogmalo Beach, Marmagao, Goa",403806,"Bogmolo beachfront hotel with casino, outdoor pool",0,1,141,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Bogmallo Beach Resort,10000,4,1.6,"Bogmalo Beach, Marmagao, Goa",403806,"Bogmolo beachfront hotel with casino, outdoor pool",0,1,141,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Bogmallo Beach Resort,7500,4,1.6,"Bogmalo Beach, Marmagao, Goa",403806,"Bogmolo beachfront hotel with casino, outdoor pool",0,1,141,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Cuba Agonda,4235,2,42,"Agonda Beach, Canacona, Goa",403702,"Beachfront tentalow in Agonda with restaurant, bar/lounge",1,0,12,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Cuba Agonda,4924,2,42,"Agonda Beach, Canacona, Goa",403702,"Beachfront tentalow in Agonda with restaurant, bar/lounge",1,0,12,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Cuba Agonda,4924,2,42,"Agonda Beach, Canacona, Goa",403702,"Beachfront tentalow in Agonda with restaurant, bar/lounge",1,0,12,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Cuba Agonda,4924,2,42,"Agonda Beach, Canacona, Goa",403702,"Beachfront tentalow in Agonda with restaurant, bar/lounge",1,0,12,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Cuba Agonda,4924,2,42,"Agonda Beach, Canacona, Goa",403702,"Beachfront tentalow in Agonda with restaurant, bar/lounge",1,0,12,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Cuba Agonda,4924,2,42,"Agonda Beach, Canacona, Goa",403702,"Beachfront tentalow in Agonda with restaurant, bar/lounge",1,0,12,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Cuba Agonda,4924,2,42,"Agonda Beach, Canacona, Goa",403702,"Beachfront tentalow in Agonda with restaurant, bar/lounge",1,0,12,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Cuba Agonda,4373,2,42,"Agonda Beach, Canacona, Goa",403702,"Beachfront tentalow in Agonda with restaurant, bar/lounge",1,0,12,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,De Alturas Resort,4950,4,18,"Bamanvado, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,73,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,De Alturas Resort,4950,4,18,"Bamanvado, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,73,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,De Alturas Resort,7250,4,18,"Bamanvado, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,73,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,De Alturas Resort,7250,4,18,"Bamanvado, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,73,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,De Alturas Resort,7900,4,18,"Bamanvado, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,73,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,De Alturas Resort,12000,4,18,"Bamanvado, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,73,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,De Alturas Resort,5250,4,18,"Bamanvado, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,73,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,De Alturas Resort,7500,4,18,"Bamanvado, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,73,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Deltin Suites,6729,5,15,"Candolim Road, Nerul, Goa",403114,"Luxury hotel with 2 restaurants, near Candolim Beach",1,1,106,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Deltin Suites,6500,5,15,"Candolim Road, Nerul, Goa",403114,"Luxury hotel with 2 restaurants, near Candolim Beach",1,1,106,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Deltin Suites,9836,5,15,"Candolim Road, Nerul, Goa",403114,"Luxury hotel with 2 restaurants, near Candolim Beach",1,1,106,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Deltin Suites,9836,5,15,"Candolim Road, Nerul, Goa",403114,"Luxury hotel with 2 restaurants, near Candolim Beach",1,1,106,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Deltin Suites,9836,5,15,"Candolim Road, Nerul, Goa",403114,"Luxury hotel with 2 restaurants, near Candolim Beach",1,1,106,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Deltin Suites,22744,5,15,"Candolim Road, Nerul, Goa",403114,"Luxury hotel with 2 restaurants, near Candolim Beach",1,1,106,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Deltin Suites,22744,5,15,"Candolim Road, Nerul, Goa",403114,"Luxury hotel with 2 restaurants, near Candolim Beach",1,1,106,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Deltin Suites,9425,5,15,"Candolim Road, Nerul, Goa",403114,"Luxury hotel with 2 restaurants, near Candolim Beach",1,1,106,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Devasthali - The Valley of Gods,4999,4,1.9,"Village Issorcim, Hollant Beach, Dabolim, Marmagao, Goa",403712,"4-star resort in Bogmolo with outdoor pool, restaurant",1,0,32,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Devasthali - The Valley of Gods,4999,4,1.9,"Village Issorcim, Hollant Beach, Dabolim, Marmagao, Goa",403712,"4-star resort in Bogmolo with outdoor pool, restaurant",1,0,32,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Devasthali - The Valley of Gods,6999,4,1.9,"Village Issorcim, Hollant Beach, Dabolim, Marmagao, Goa",403712,"4-star resort in Bogmolo with outdoor pool, restaurant",1,0,32,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Devasthali - The Valley of Gods,6999,4,1.9,"Village Issorcim, Hollant Beach, Dabolim, Marmagao, Goa",403712,"4-star resort in Bogmolo with outdoor pool, restaurant",1,0,32,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Devasthali - The Valley of Gods,11999,4,1.9,"Village Issorcim, Hollant Beach, Dabolim, Marmagao, Goa",403712,"4-star resort in Bogmolo with outdoor pool, restaurant",1,0,32,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Devasthali - The Valley of Gods,11999,4,1.9,"Village Issorcim, Hollant Beach, Dabolim, Marmagao, Goa",403712,"4-star resort in Bogmolo with outdoor pool, restaurant",1,0,32,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Devasthali - The Valley of Gods,6999,4,1.9,"Village Issorcim, Hollant Beach, Dabolim, Marmagao, Goa",403712,"4-star resort in Bogmolo with outdoor pool, restaurant",1,0,32,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Devasthali - The Valley of Gods,6999,4,1.9,"Village Issorcim, Hollant Beach, Dabolim, Marmagao, Goa",403712,"4-star resort in Bogmolo with outdoor pool, restaurant",1,0,32,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Double Tree by Hilton Hotel Goa,7549,5,23,"Ximer Arpora Bardez, Arpora, Goa, 403518, India",403518,"Luxury resort with 2 restaurants, near Anjuna Beach",0,0,104,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Double Tree by Hilton Hotel Goa,7000,5,23,"Ximer Arpora Bardez, Arpora, Goa, 403518, India",403518,"Luxury resort with 2 restaurants, near Anjuna Beach",0,0,104,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Double Tree by Hilton Hotel Goa,11049,5,23,"Ximer Arpora Bardez, Arpora, Goa, 403518, India",403518,"Luxury resort with 2 restaurants, near Anjuna Beach",0,0,104,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Double Tree by Hilton Hotel Goa,12549,5,23,"Ximer Arpora Bardez, Arpora, Goa, 403518, India",403518,"Luxury resort with 2 restaurants, near Anjuna Beach",0,0,104,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Double Tree by Hilton Hotel Goa,12549,5,23,"Ximer Arpora Bardez, Arpora, Goa, 403518, India",403518,"Luxury resort with 2 restaurants, near Anjuna Beach",0,0,104,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Double Tree by Hilton Hotel Goa,12549,5,23,"Ximer Arpora Bardez, Arpora, Goa, 403518, India",403518,"Luxury resort with 2 restaurants, near Anjuna Beach",0,0,104,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Double Tree by Hilton Hotel Goa,9500,5,23,"Ximer Arpora Bardez, Arpora, Goa, 403518, India",403518,"Luxury resort with 2 restaurants, near Anjuna Beach",0,0,104,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Double Tree by Hilton Hotel Goa,12549,5,23,"Ximer Arpora Bardez, Arpora, Goa, 403518, India",403518,"Luxury resort with 2 restaurants, near Anjuna Beach",0,0,104,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Fortune Acron Regina,6499,4.5,16,"376, off Fort Aguada, Candolim, Bardez, Candolim, Goa",403507,"Luxury hotel with spa, near Candolim Beach",1,1,102,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Fortune Acron Regina,7999,4.5,16,"376, off Fort Aguada, Candolim, Bardez, Candolim, Goa",403507,"Luxury hotel with spa, near Candolim Beach",1,1,102,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Fortune Acron Regina,8999,4.5,16,"376, off Fort Aguada, Candolim, Bardez, Candolim, Goa",403507,"Luxury hotel with spa, near Candolim Beach",1,1,102,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Fortune Acron Regina,10999,4.5,16,"376, off Fort Aguada, Candolim, Bardez, Candolim, Goa",403507,"Luxury hotel with spa, near Candolim Beach",1,1,102,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Fortune Acron Regina,15999,4.5,16,"376, off Fort Aguada, Candolim, Bardez, Candolim, Goa",403507,"Luxury hotel with spa, near Candolim Beach",1,1,102,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Fortune Acron Regina,14999,4.5,16,"376, off Fort Aguada, Candolim, Bardez, Candolim, Goa",403507,"Luxury hotel with spa, near Candolim Beach",1,1,102,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Fortune Acron Regina,15999,4.5,16,"376, off Fort Aguada, Candolim, Bardez, Candolim, Goa",403507,"Luxury hotel with spa, near Candolim Beach",1,1,102,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Fortune Acron Regina,7199,4.5,16,"376, off Fort Aguada, Candolim, Bardez, Candolim, Goa",403507,"Luxury hotel with spa, near Candolim Beach",1,1,102,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Golden Tulip Goa Candolim,5496,4,16,"315 A/G1-G5 & 315/B/G1-G2, Bamon Vaddo, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,52,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Golden Tulip Goa Candolim,5496,4,16,"316 A/G1-G5 & 315/B/G1-G2, Bamon Vaddo, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,52,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Golden Tulip Goa Candolim,11570,4,16,"317 A/G1-G5 & 315/B/G1-G2, Bamon Vaddo, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,52,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Golden Tulip Goa Candolim,11570,4,16,"318 A/G1-G5 & 315/B/G1-G2, Bamon Vaddo, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,52,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Golden Tulip Goa Candolim,11570,4,16,"319 A/G1-G5 & 315/B/G1-G2, Bamon Vaddo, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,52,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Golden Tulip Goa Candolim,11570,4,16,"320 A/G1-G5 & 315/B/G1-G2, Bamon Vaddo, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,52,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Golden Tulip Goa Candolim,5496,4,16,"321 A/G1-G5 & 315/B/G1-G2, Bamon Vaddo, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,52,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Golden Tulip Goa Candolim,5496,4,16,"322 A/G1-G5 & 315/B/G1-G2, Bamon Vaddo, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,52,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Graciano Cottages,2499,2,14,"4th Ward, Colva Beach Road, Colva, Goa",403708,"Colva hotel with restaurant, bar/lounge",0,0,22,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Graciano Cottages,2499,2,14,"4th Ward, Colva Beach Road, Colva, Goa",403708,"Colva hotel with restaurant, bar/lounge",0,0,22,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Graciano Cottages,2499,2,14,"4th Ward, Colva Beach Road, Colva, Goa",403708,"Colva hotel with restaurant, bar/lounge",0,0,22,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Graciano Cottages,2499,2,14,"4th Ward, Colva Beach Road, Colva, Goa",403708,"Colva hotel with restaurant, bar/lounge",0,0,22,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Graciano Cottages,2499,2,14,"4th Ward, Colva Beach Road, Colva, Goa",403708,"Colva hotel with restaurant, bar/lounge",0,0,22,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Graciano Cottages,2499,2,14,"4th Ward, Colva Beach Road, Colva, Goa",403708,"Colva hotel with restaurant, bar/lounge",0,0,22,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Graciano Cottages,2499,2,14,"4th Ward, Colva Beach Road, Colva, Goa",403708,"Colva hotel with restaurant, bar/lounge",0,0,22,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Graciano Cottages,2499,2,14,"4th Ward, Colva Beach Road, Colva, Goa",403708,"Colva hotel with restaurant, bar/lounge",0,0,22,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Harmonium Resorts Agonda,9000,4,40,"Agonda, Dovallkazan Canacona, Canacona, Goa",403721,"Agonda beachfront hotel with restaurant, bar/lounge",1,1,15,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Harmonium Resorts Agonda,9000,4,40,"Agonda, Dovallkazan Canacona, Canacona, Goa",403721,"Agonda beachfront hotel with restaurant, bar/lounge",1,1,15,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Harmonium Resorts Agonda,9000,4,40,"Agonda, Dovallkazan Canacona, Canacona, Goa",403721,"Agonda beachfront hotel with restaurant, bar/lounge",1,1,15,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Harmonium Resorts Agonda,10714,4,40,"Agonda, Dovallkazan Canacona, Canacona, Goa",403721,"Agonda beachfront hotel with restaurant, bar/lounge",1,1,15,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Harmonium Resorts Agonda,10714,4,40,"Agonda, Dovallkazan Canacona, Canacona, Goa",403721,"Agonda beachfront hotel with restaurant, bar/lounge",1,1,15,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Harmonium Resorts Agonda,10714,4,40,"Agonda, Dovallkazan Canacona, Canacona, Goa",403721,"Agonda beachfront hotel with restaurant, bar/lounge",1,1,15,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Harmonium Resorts Agonda,10714,4,40,"Agonda, Dovallkazan Canacona, Canacona, Goa",403721,"Agonda beachfront hotel with restaurant, bar/lounge",1,1,15,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Harmonium Resorts Agonda,9000,4,40,"Agonda, Dovallkazan Canacona, Canacona, Goa",403721,"Agonda beachfront hotel with restaurant, bar/lounge",1,1,15,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Highland Beach Resort,4503,3,17,"Candolim, Candolim, Goa, India",403515,"3.5-star hotel with 2 restaurants, near Candolim Beach",0,1,100,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Highland Beach Resort,9135,3,17,"Candolim, Candolim, Goa, India",403515,"3.5-star hotel with 2 restaurants, near Candolim Beach",0,1,100,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Highland Beach Resort,9135,3,17,"Candolim, Candolim, Goa, India",403515,"3.5-star hotel with 2 restaurants, near Candolim Beach",0,1,100,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Highland Beach Resort,9135,3,17,"Candolim, Candolim, Goa, India",403515,"3.5-star hotel with 2 restaurants, near Candolim Beach",0,1,100,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Highland Beach Resort,9135,3,17,"Candolim, Candolim, Goa, India",403515,"3.5-star hotel with 2 restaurants, near Candolim Beach",0,1,100,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Highland Beach Resort,9135,3,17,"Candolim, Candolim, Goa, India",403515,"3.5-star hotel with 2 restaurants, near Candolim Beach",0,1,100,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Highland Beach Resort,9135,3,17,"Candolim, Candolim, Goa, India",403515,"3.5-star hotel with 2 restaurants, near Candolim Beach",0,1,100,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Highland Beach Resort,9135,3,17,"Candolim, Candolim, Goa, India",403515,"3.5-star hotel with 2 restaurants, near Candolim Beach",0,1,100,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Hotel La Paz Gardens,3112,3,3,"Swatantra Path, Vasco da Gama, Goa",403802,"3.5-star hotel in Vasco da Gama with outdoor pool, pool bar",1,1,73,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Hotel La Paz Gardens,4205,3,3,"Swatantra Path, Vasco da Gama, Goa",403802,"3.5-star hotel in Vasco da Gama with outdoor pool, pool bar",1,1,73,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Hotel La Paz Gardens,4205,3,3,"Swatantra Path, Vasco da Gama, Goa",403802,"3.5-star hotel in Vasco da Gama with outdoor pool, pool bar",1,1,73,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Hotel La Paz Gardens,4205,3,3,"Swatantra Path, Vasco da Gama, Goa",403802,"3.5-star hotel in Vasco da Gama with outdoor pool, pool bar",1,1,73,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Hotel La Paz Gardens,4205,3,3,"Swatantra Path, Vasco da Gama, Goa",403802,"3.5-star hotel in Vasco da Gama with outdoor pool, pool bar",1,1,73,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Hotel La Paz Gardens,4205,3,3,"Swatantra Path, Vasco da Gama, Goa",403802,"3.5-star hotel in Vasco da Gama with outdoor pool, pool bar",1,1,73,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Hotel La Paz Gardens,3112,3,3,"Swatantra Path, Vasco da Gama, Goa",403802,"3.5-star hotel in Vasco da Gama with outdoor pool, pool bar",1,1,73,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Hotel La Paz Gardens,3112,3,3,"Swatantra Path, Vasco da Gama, Goa",403802,"3.5-star hotel in Vasco da Gama with outdoor pool, pool bar",1,1,73,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Joecons Beach Resort,6446,3,18,"1795/H, Calwaddo, Benaulim, Goa",403716,"Art Deco resort with 2 restaurants, near Varca Beach",1,1,41,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Joecons Beach Resort,6446,3,18,"1795/H, Calwaddo, Benaulim, Goa",403716,"Art Deco resort with 2 restaurants, near Varca Beach",1,1,41,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Joecons Beach Resort,6529,3,18,"1795/H, Calwaddo, Benaulim, Goa",403716,"Art Deco resort with 2 restaurants, near Varca Beach",1,1,41,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Joecons Beach Resort,7438,3,18,"1795/H, Calwaddo, Benaulim, Goa",403716,"Art Deco resort with 2 restaurants, near Varca Beach",1,1,41,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Joecons Beach Resort,10774,3,18,"1795/H, Calwaddo, Benaulim, Goa",403716,"Art Deco resort with 2 restaurants, near Varca Beach",1,1,41,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Joecons Beach Resort,10774,3,18,"1795/H, Calwaddo, Benaulim, Goa",403716,"Art Deco resort with 2 restaurants, near Varca Beach",1,1,41,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Joecons Beach Resort,10774,3,18,"1795/H, Calwaddo, Benaulim, Goa",403716,"Art Deco resort with 2 restaurants, near Varca Beach",1,1,41,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Joecons Beach Resort,10774,3,18,"1795/H, Calwaddo, Benaulim, Goa",403716,"Art Deco resort with 2 restaurants, near Varca Beach",1,1,41,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Lazy Lagoon Sarovar Portico Suites,6000,3.5,23,"Baga - Arpora Goa, Bardez, Arpora, Goa, 403518, India",403518,"3.5-star resort with 2 restaurants, near Baga Beach",1,1,39,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Lazy Lagoon Sarovar Portico Suites,6250,3.5,23,"Baga - Arpora Goa, Bardez, Arpora, Goa, 403518, India",403518,"3.5-star resort with 2 restaurants, near Baga Beach",1,1,39,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Lazy Lagoon Sarovar Portico Suites,14000,3.5,23,"Baga - Arpora Goa, Bardez, Arpora, Goa, 403518, India",403518,"3.5-star resort with 2 restaurants, near Baga Beach",1,1,39,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Lazy Lagoon Sarovar Portico Suites,5500,3.5,23,"Baga - Arpora Goa, Bardez, Arpora, Goa, 403518, India",403518,"3.5-star resort with 2 restaurants, near Baga Beach",1,1,39,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Lazy Lagoon Sarovar Portico Suites,9500,3.5,23,"Baga - Arpora Goa, Bardez, Arpora, Goa, 403518, India",403518,"3.5-star resort with 2 restaurants, near Baga Beach",1,1,39,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Lazy Lagoon Sarovar Portico Suites,14000,3.5,23,"Baga - Arpora Goa, Bardez, Arpora, Goa, 403518, India",403518,"3.5-star resort with 2 restaurants, near Baga Beach",1,1,39,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Lazy Lagoon Sarovar Portico Suites,5500,3.5,23,"Baga - Arpora Goa, Bardez, Arpora, Goa, 403518, India",403518,"3.5-star resort with 2 restaurants, near Baga Beach",1,1,39,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Lazy Lagoon Sarovar Portico Suites,6000,3.5,23,"Baga - Arpora Goa, Bardez, Arpora, Goa, 403518, India",403518,"3.5-star resort with 2 restaurants, near Baga Beach",1,1,39,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,"Lemon Tree Amarante Beach Resort, Goa",12442,4,16,"Vadi Candolim Bardez Goa, Candolim, Goa",403515,"Waterfront resort with spa, near Candolim Beach",1,1,65,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,"Lemon Tree Amarante Beach Resort, Goa",8887,4,16,"Vadi Candolim Bardez Goa, Candolim, Goa",403515,"Waterfront resort with spa, near Candolim Beach",1,1,65,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,"Lemon Tree Amarante Beach Resort, Goa",11554,4,16,"Vadi Candolim Bardez Goa, Candolim, Goa",403515,"Waterfront resort with spa, near Candolim Beach",1,1,65,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,"Lemon Tree Amarante Beach Resort, Goa",11554,4,16,"Vadi Candolim Bardez Goa, Candolim, Goa",403515,"Waterfront resort with spa, near Candolim Beach",1,1,65,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,"Lemon Tree Amarante Beach Resort, Goa",18220,4,16,"Vadi Candolim Bardez Goa, Candolim, Goa",403515,"Waterfront resort with spa, near Candolim Beach",1,1,65,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,"Lemon Tree Amarante Beach Resort, Goa",18220,4,16,"Vadi Candolim Bardez Goa, Candolim, Goa",403515,"Waterfront resort with spa, near Candolim Beach",1,1,65,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,"Lemon Tree Amarante Beach Resort, Goa",15998,4,16,"Vadi Candolim Bardez Goa, Candolim, Goa",403515,"Waterfront resort with spa, near Candolim Beach",1,1,65,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,"Lemon Tree Amarante Beach Resort, Goa",8887,4,16,"Vadi Candolim Bardez Goa, Candolim, Goa",403515,"Waterfront resort with spa, near Candolim Beach",1,1,65,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Lemon Tree Hotel Candolim Goa,7098,4,17,"Pinto Waddo, Candolim, Bardez, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,34,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Lemon Tree Hotel Candolim Goa,7098,4,17,"Pinto Waddo, Candolim, Bardez, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,34,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Lemon Tree Hotel Candolim Goa,10259,4,17,"Pinto Waddo, Candolim, Bardez, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,34,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Lemon Tree Hotel Candolim Goa,10259,4,17,"Pinto Waddo, Candolim, Bardez, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,34,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Lemon Tree Hotel Candolim Goa,12864,4,17,"Pinto Waddo, Candolim, Bardez, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,34,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Lemon Tree Hotel Candolim Goa,12864,4,17,"Pinto Waddo, Candolim, Bardez, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,34,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Lemon Tree Hotel Candolim Goa,8699,4,17,"Pinto Waddo, Candolim, Bardez, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,34,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Lemon Tree Hotel Candolim Goa,7098,4,17,"Pinto Waddo, Candolim, Bardez, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,34,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Leoney Resort,3183,3,26,"Ozran Beach Rd, Vagator, Anjuna, Bardez, Vagator, Goa",403509,"3-star hotel with outdoor pool, near Vagator Beach",1,0,36,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Leoney Resort,3769,3,26,"Ozran Beach Rd, Vagator, Anjuna, Bardez, Vagator, Goa",403509,"3-star hotel with outdoor pool, near Vagator Beach",1,0,36,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Leoney Resort,5025,3,26,"Ozran Beach Rd, Vagator, Anjuna, Bardez, Vagator, Goa",403509,"3-star hotel with outdoor pool, near Vagator Beach",1,0,36,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Leoney Resort,4188,3,26,"Ozran Beach Rd, Vagator, Anjuna, Bardez, Vagator, Goa",403509,"3-star hotel with outdoor pool, near Vagator Beach",1,0,36,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Leoney Resort,6700,3,26,"Ozran Beach Rd, Vagator, Anjuna, Bardez, Vagator, Goa",403509,"3-star hotel with outdoor pool, near Vagator Beach",1,0,36,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Leoney Resort,6700,3,26,"Ozran Beach Rd, Vagator, Anjuna, Bardez, Vagator, Goa",403509,"3-star hotel with outdoor pool, near Vagator Beach",1,0,36,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Leoney Resort,6700,3,26,"Ozran Beach Rd, Vagator, Anjuna, Bardez, Vagator, Goa",403509,"3-star hotel with outdoor pool, near Vagator Beach",1,0,36,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Leoney Resort,4188,3,26,"Ozran Beach Rd, Vagator, Anjuna, Bardez, Vagator, Goa",403509,"3-star hotel with outdoor pool, near Vagator Beach",1,0,36,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Mango Hotels Jasminn,18499,3,13,"No.79, Nagvaddo, Salcete, A Unit Of Rammi Khanna And Company, Betalbatim, Goa",403713,"Family hotel in Betalbatim with indoor pool, restaurant",1,0,24,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Mango Hotels Jasminn,7999,3,13,"No.79, Nagvaddo, Salcete, A Unit Of Rammi Khanna And Company, Betalbatim, Goa",403713,"Family hotel in Betalbatim with indoor pool, restaurant",1,0,24,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Mango Hotels Jasminn,8999,3,13,"No.79, Nagvaddo, Salcete, A Unit Of Rammi Khanna And Company, Betalbatim, Goa",403713,"Family hotel in Betalbatim with indoor pool, restaurant",1,0,24,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Mango Hotels Jasminn,8999,3,13,"No.79, Nagvaddo, Salcete, A Unit Of Rammi Khanna And Company, Betalbatim, Goa",403713,"Family hotel in Betalbatim with indoor pool, restaurant",1,0,24,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Mango Hotels Jasminn,18499,3,13,"No.79, Nagvaddo, Salcete, A Unit Of Rammi Khanna And Company, Betalbatim, Goa",403713,"Family hotel in Betalbatim with indoor pool, restaurant",1,0,24,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Mango Hotels Jasminn,18499,3,13,"No.79, Nagvaddo, Salcete, A Unit Of Rammi Khanna And Company, Betalbatim, Goa",403713,"Family hotel in Betalbatim with indoor pool, restaurant",1,0,24,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Mango Hotels Jasminn,6999,3,13,"No.79, Nagvaddo, Salcete, A Unit Of Rammi Khanna And Company, Betalbatim, Goa",403713,"Family hotel in Betalbatim with indoor pool, restaurant",1,0,24,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Mango Hotels Jasminn,6999,3,13,"No.79, Nagvaddo, Salcete, A Unit Of Rammi Khanna And Company, Betalbatim, Goa",403713,"Family hotel in Betalbatim with indoor pool, restaurant",1,0,24,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Margao Residency,1300,2,17,"Opposite Margao Municipal Council, Margao, Goa",403601,"Margao hotel with restaurant, bar/lounge",0,0,71,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Margao Residency,1300,2,17,"Opposite Margao Municipal Council, Margao, Goa",403601,"Margao hotel with restaurant, bar/lounge",0,0,71,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Margao Residency,2300,2,17,"Opposite Margao Municipal Council, Margao, Goa",403601,"Margao hotel with restaurant, bar/lounge",0,0,71,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Margao Residency,2300,2,17,"Opposite Margao Municipal Council, Margao, Goa",403601,"Margao hotel with restaurant, bar/lounge",0,0,71,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Margao Residency,2300,2,17,"Opposite Margao Municipal Council, Margao, Goa",403601,"Margao hotel with restaurant, bar/lounge",0,0,71,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Margao Residency,2300,2,17,"Opposite Margao Municipal Council, Margao, Goa",403601,"Margao hotel with restaurant, bar/lounge",0,0,71,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Margao Residency,1300,2,17,"Opposite Margao Municipal Council, Margao, Goa",403601,"Margao hotel with restaurant, bar/lounge",0,0,71,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Margao Residency,1300,2,17,"Opposite Margao Municipal Council, Margao, Goa",403601,"Margao hotel with restaurant, bar/lounge",0,0,71,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Mayfair Hideaway Spa Resort,5508,4,30,"Rangali, Betul, Goa",403723,"Riverfront resort in Betul with 2 restaurants, spa",1,0,30,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Mayfair Hideaway Spa Resort,8300,4,30,"Rangali, Betul, Goa",403723,"Riverfront resort in Betul with 2 restaurants, spa",1,0,30,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Mayfair Hideaway Spa Resort,17200,4,30,"Rangali, Betul, Goa",403723,"Riverfront resort in Betul with 2 restaurants, spa",1,0,30,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Mayfair Hideaway Spa Resort,25200,4,30,"Rangali, Betul, Goa",403723,"Riverfront resort in Betul with 2 restaurants, spa",1,0,30,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Mayfair Hideaway Spa Resort,17200,4,30,"Rangali, Betul, Goa",403723,"Riverfront resort in Betul with 2 restaurants, spa",1,0,30,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Mayfair Hideaway Spa Resort,25200,4,30,"Rangali, Betul, Goa",403723,"Riverfront resort in Betul with 2 restaurants, spa",1,0,30,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Mayfair Hideaway Spa Resort,17200,4,30,"Rangali, Betul, Goa",403723,"Riverfront resort in Betul with 2 restaurants, spa",1,0,30,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Mayfair Hideaway Spa Resort,5202,4,30,"Rangali, Betul, Goa",403723,"Riverfront resort in Betul with 2 restaurants, spa",1,0,30,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Mayfair Lagoon,9200,5,5,"Jaydev Vihar, Bhubaneshwar, Orissa",751013,"Luxury resort in Bhubaneshwar with 4 restaurants, spa",1,1,97,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Mayfair Lagoon,9200,5,5,"Jaydev Vihar, Bhubaneshwar, Orissa",751013,"Luxury resort in Bhubaneshwar with 4 restaurants, spa",1,1,97,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Mayfair Lagoon,9200,5,5,"Jaydev Vihar, Bhubaneshwar, Orissa",751013,"Luxury resort in Bhubaneshwar with 4 restaurants, spa",1,1,97,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Mayfair Lagoon,9200,5,5,"Jaydev Vihar, Bhubaneshwar, Orissa",751013,"Luxury resort in Bhubaneshwar with 4 restaurants, spa",1,1,97,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Mayfair Lagoon,9200,5,5,"Jaydev Vihar, Bhubaneshwar, Orissa",751013,"Luxury resort in Bhubaneshwar with 4 restaurants, spa",1,1,97,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Mayfair Lagoon,9200,5,5,"Jaydev Vihar, Bhubaneshwar, Orissa",751013,"Luxury resort in Bhubaneshwar with 4 restaurants, spa",1,1,97,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Mayfair Lagoon,8280,5,5,"Jaydev Vihar, Bhubaneshwar, Orissa",751013,"Luxury resort in Bhubaneshwar with 4 restaurants, spa",1,1,97,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Mayfair Lagoon,9200,5,5,"Jaydev Vihar, Bhubaneshwar, Orissa",751013,"Luxury resort in Bhubaneshwar with 4 restaurants, spa",1,1,97,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Micasa By The Sea,3037,2.5,17,"Camotin Vaddo, Candolim Beach Street, Candolim, Goa",403515,Beachfront guesthouse within easy reach of Candolim Beach,0,0,8,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Micasa By The Sea,3037,2.5,17,"Camotin Vaddo, Candolim Beach Street, Candolim, Goa",403516,Beachfront guesthouse within easy reach of Candolim Beach,0,0,8,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Micasa By The Sea,5858,2.5,17,"Camotin Vaddo, Candolim Beach Street, Candolim, Goa",403517,Beachfront guesthouse within easy reach of Candolim Beach,0,0,8,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Micasa By The Sea,5858,2.5,17,"Camotin Vaddo, Candolim Beach Street, Candolim, Goa",403518,Beachfront guesthouse within easy reach of Candolim Beach,0,0,8,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Micasa By The Sea,5858,2.5,17,"Camotin Vaddo, Candolim Beach Street, Candolim, Goa",403519,Beachfront guesthouse within easy reach of Candolim Beach,0,0,8,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Micasa By The Sea,5858,2.5,17,"Camotin Vaddo, Candolim Beach Street, Candolim, Goa",403520,Beachfront guesthouse within easy reach of Candolim Beach,0,0,8,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Micasa By The Sea,3037,2.5,17,"Camotin Vaddo, Candolim Beach Street, Candolim, Goa",403521,Beachfront guesthouse within easy reach of Candolim Beach,0,0,8,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Micasa By The Sea,3037,2.5,17,"Camotin Vaddo, Candolim Beach Street, Candolim, Goa",403522,Beachfront guesthouse within easy reach of Candolim Beach,0,0,8,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Neptune point beach resort,1733,2,46,"Palolem Beach, Canacona, Goa, India",403702,"Beachfront hotel with restaurant, near Palolem Beach",1,1,22,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Neptune point beach resort,3032,2,46,"Palolem Beach, Canacona, Goa, India",403702,"Beachfront hotel with restaurant, near Palolem Beach",1,1,22,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Neptune point beach resort,3032,2,46,"Palolem Beach, Canacona, Goa, India",403702,"Beachfront hotel with restaurant, near Palolem Beach",1,1,22,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Neptune point beach resort,3032,2,46,"Palolem Beach, Canacona, Goa, India",403702,"Beachfront hotel with restaurant, near Palolem Beach",1,1,22,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Neptune point beach resort,3032,2,46,"Palolem Beach, Canacona, Goa, India",403702,"Beachfront hotel with restaurant, near Palolem Beach",1,1,22,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Neptune point beach resort,3032,2,46,"Palolem Beach, Canacona, Goa, India",403702,"Beachfront hotel with restaurant, near Palolem Beach",1,1,22,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Neptune point beach resort,3032,2,46,"Palolem Beach, Canacona, Goa, India",403702,"Beachfront hotel with restaurant, near Palolem Beach",1,1,22,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Neptune point beach resort,3032,2,46,"Palolem Beach, Canacona, Goa, India",403702,"Beachfront hotel with restaurant, near Palolem Beach",1,1,22,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Neptune Point Hill Cottages,3032,2,47,"Colomb Beach, Canacona, Goa",403702,"Resort with restaurant, near Palolem Beach",1,1,13,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Neptune Point Hill Cottages,3032,2,47,"Colomb Beach, Canacona, Goa",403702,"Resort with restaurant, near Palolem Beach",1,1,13,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Neptune Point Hill Cottages,8664,2,47,"Colomb Beach, Canacona, Goa",403702,"Resort with restaurant, near Palolem Beach",1,1,13,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Neptune Point Hill Cottages,8664,2,47,"Colomb Beach, Canacona, Goa",403702,"Resort with restaurant, near Palolem Beach",1,1,13,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Neptune Point Hill Cottages,8664,2,47,"Colomb Beach, Canacona, Goa",403702,"Resort with restaurant, near Palolem Beach",1,1,13,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Neptune Point Hill Cottages,8664,2,47,"Colomb Beach, Canacona, Goa",403702,"Resort with restaurant, near Palolem Beach",1,1,13,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Neptune Point Hill Cottages,8664,2,47,"Colomb Beach, Canacona, Goa",403702,"Resort with restaurant, near Palolem Beach",1,1,13,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Neptune Point Hill Cottages,8664,2,47,"Colomb Beach, Canacona, Goa",403702,"Resort with restaurant, near Palolem Beach",1,1,13,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Nirvana Hermitage,4250,3,23,"955/2 Pequem Peddem, Flea Market Rd, Bardez, Anjuna, Goa",403509,"3-star resort with outdoor pool, near Anjuna Beach",1,1,27,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Nirvana Hermitage,4250,3,23,"955/2 Pequem Peddem, Flea Market Rd, Bardez, Anjuna, Goa",403510,"3-star resort with outdoor pool, near Anjuna Beach",1,1,27,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Nirvana Hermitage,8500,3,23,"955/2 Pequem Peddem, Flea Market Rd, Bardez, Anjuna, Goa",403511,"3-star resort with outdoor pool, near Anjuna Beach",1,1,27,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Nirvana Hermitage,8500,3,23,"955/2 Pequem Peddem, Flea Market Rd, Bardez, Anjuna, Goa",403512,"3-star resort with outdoor pool, near Anjuna Beach",1,1,27,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Nirvana Hermitage,14000,3,23,"955/2 Pequem Peddem, Flea Market Rd, Bardez, Anjuna, Goa",403513,"3-star resort with outdoor pool, near Anjuna Beach",1,1,27,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Nirvana Hermitage,14000,3,23,"955/2 Pequem Peddem, Flea Market Rd, Bardez, Anjuna, Goa",403514,"3-star resort with outdoor pool, near Anjuna Beach",1,1,27,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Nirvana Hermitage,14000,3,23,"955/2 Pequem Peddem, Flea Market Rd, Bardez, Anjuna, Goa",403515,"3-star resort with outdoor pool, near Anjuna Beach",1,1,27,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Nirvana Hermitage,5000,3,23,"955/2 Pequem Peddem, Flea Market Rd, Bardez, Anjuna, Goa",403516,"3-star resort with outdoor pool, near Anjuna Beach",1,1,27,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Novotel Goa Shrem,7673,5,18,"Anna Waddo, Main Candolim Road, Bardez, Candolim, Goa",403515,"Luxury hotel with spa, near Candolim Beach",1,1,85,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Novotel Goa Shrem,9738,5,18,"Anna Waddo, Main Candolim Road, Bardez, Candolim, Goa",403515,"Luxury hotel with spa, near Candolim Beach",1,1,85,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Novotel Goa Shrem,12225,5,18,"Anna Waddo, Main Candolim Road, Bardez, Candolim, Goa",403515,"Luxury hotel with spa, near Candolim Beach",1,1,85,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Novotel Goa Shrem,12225,5,18,"Anna Waddo, Main Candolim Road, Bardez, Candolim, Goa",403515,"Luxury hotel with spa, near Candolim Beach",1,1,85,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Novotel Goa Shrem,18525,5,18,"Anna Waddo, Main Candolim Road, Bardez, Candolim, Goa",403515,"Luxury hotel with spa, near Candolim Beach",1,1,85,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Novotel Goa Shrem,20700,5,18,"Anna Waddo, Main Candolim Road, Bardez, Candolim, Goa",403515,"Luxury hotel with spa, near Candolim Beach",1,1,85,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Novotel Goa Shrem,15525,5,18,"Anna Waddo, Main Candolim Road, Bardez, Candolim, Goa",403515,"Luxury hotel with spa, near Candolim Beach",1,1,85,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Novotel Goa Shrem,10820,5,18,"Anna Waddo, Main Candolim Road, Bardez, Candolim, Goa",403515,"Luxury hotel with spa, near Candolim Beach",1,1,85,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,OYO Premium Old Station Rd Bhubaneswar 4,3033,3,3,"Old Station Bazar, Near Platform No 6, Bhubaneshwar, Orissa",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,11,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,OYO Premium Old Station Rd Bhubaneswar 4,2426,3,3,"Old Station Bazar, Near Platform No 6, Bhubaneshwar, Orissa",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,11,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,OYO Premium Old Station Rd Bhubaneswar 4,2426,3,3,"Old Station Bazar, Near Platform No 6, Bhubaneshwar, Orissa",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,11,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,OYO Premium Old Station Rd Bhubaneswar 4,2426,3,3,"Old Station Bazar, Near Platform No 6, Bhubaneshwar, Orissa",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,11,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,OYO Premium Old Station Rd Bhubaneswar 4,2426,3,3,"Old Station Bazar, Near Platform No 6, Bhubaneshwar, Orissa",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,11,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,OYO Premium Old Station Rd Bhubaneswar 4,3033,3,3,"Old Station Bazar, Near Platform No 6, Bhubaneshwar, Orissa",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,11,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,OYO Premium Old Station Rd Bhubaneswar 4,6034,3,3,"Old Station Bazar, Near Platform No 6, Bhubaneshwar, Orissa",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,11,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,OYO Premium Old Station Rd Bhubaneswar 4,6034,3,3,"Old Station Bazar, Near Platform No 6, Bhubaneshwar, Orissa",751006,"3-star hotel in Bhubaneshwar with restaurant, bar/lounge",1,1,11,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,OYO Rooms Link Road,1702,3,24,"Link Road, PO Arunodaya Market, Palamandap, Opp. Mahaveer Apartment, Orissa",753012,3-star Cuttack hotel with restaurant,1,1,17,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,OYO Rooms Link Road,1702,3,24,"Link Road, PO Arunodaya Market, Palamandap, Opp. Mahaveer Apartment, Orissa",753012,3-star Cuttack hotel with restaurant,1,1,17,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,OYO Rooms Link Road,1702,3,24,"Link Road, PO Arunodaya Market, Palamandap, Opp. Mahaveer Apartment, Orissa",753012,3-star Cuttack hotel with restaurant,1,1,17,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,OYO Rooms Link Road,1702,3,24,"Link Road, PO Arunodaya Market, Palamandap, Opp. Mahaveer Apartment, Orissa",753012,3-star Cuttack hotel with restaurant,1,1,17,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,OYO Rooms Link Road,1702,3,24,"Link Road, PO Arunodaya Market, Palamandap, Opp. Mahaveer Apartment, Orissa",753012,3-star Cuttack hotel with restaurant,1,1,17,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,OYO Rooms Link Road,1702,3,24,"Link Road, PO Arunodaya Market, Palamandap, Opp. Mahaveer Apartment, Orissa",753012,3-star Cuttack hotel with restaurant,1,1,17,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,OYO Rooms Link Road,4256,3,24,"Link Road, PO Arunodaya Market, Palamandap, Opp. Mahaveer Apartment, Orissa",753012,3-star Cuttack hotel with restaurant,1,1,17,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,OYO Rooms Link Road,4256,3,24,"Link Road, PO Arunodaya Market, Palamandap, Opp. Mahaveer Apartment, Orissa",753012,3-star Cuttack hotel with restaurant,1,1,17,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,OYO StayOut 1BHK Betalbatim Beach,2128,3,14,"Serrao Villa, House No. 31-1 & 2, Gandaulim, Colva, Goa",403708,3-star hotel in Colva,0,0,1,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,OYO StayOut 1BHK Betalbatim Beach,2128,3,14,"Serrao Villa, House No. 31-1 & 2, Gandaulim, Colva, Goa",403708,3-star hotel in Colva,0,0,1,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,OYO StayOut 1BHK Betalbatim Beach,3321,3,14,"Serrao Villa, House No. 31-1 & 2, Gandaulim, Colva, Goa",403708,3-star hotel in Colva,0,0,1,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,OYO StayOut 1BHK Betalbatim Beach,3321,3,14,"Serrao Villa, House No. 31-1 & 2, Gandaulim, Colva, Goa",403708,3-star hotel in Colva,0,0,1,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,OYO StayOut 1BHK Betalbatim Beach,3321,3,14,"Serrao Villa, House No. 31-1 & 2, Gandaulim, Colva, Goa",403708,3-star hotel in Colva,0,0,1,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,OYO StayOut 1BHK Betalbatim Beach,3321,3,14,"Serrao Villa, House No. 31-1 & 2, Gandaulim, Colva, Goa",403708,3-star hotel in Colva,0,0,1,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,OYO StayOut 1BHK Betalbatim Beach,3321,3,14,"Serrao Villa, House No. 31-1 & 2, Gandaulim, Colva, Goa",403708,3-star hotel in Colva,0,0,1,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,OYO StayOut 1BHK Betalbatim Beach,3321,3,14,"Serrao Villa, House No. 31-1 & 2, Gandaulim, Colva, Goa",403708,3-star hotel in Colva,0,0,1,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Palolem Beach Resort,2692,2,46,"Entrance of Palolem Beach, Palolem Beach, Canacona",403702,"Beachfront cabin with restaurant, near Palolem Beach",0,0,35,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Palolem Beach Resort,3035,2,46,"Entrance of Palolem Beach, Palolem Beach, Canacona",403702,"Beachfront cabin with restaurant, near Palolem Beach",0,0,35,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Palolem Beach Resort,3823,2,46,"Entrance of Palolem Beach, Palolem Beach, Canacona",403702,"Beachfront cabin with restaurant, near Palolem Beach",0,0,35,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Palolem Beach Resort,3823,2,46,"Entrance of Palolem Beach, Palolem Beach, Canacona",403702,"Beachfront cabin with restaurant, near Palolem Beach",0,0,35,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Palolem Beach Resort,3823,2,46,"Entrance of Palolem Beach, Palolem Beach, Canacona",403702,"Beachfront cabin with restaurant, near Palolem Beach",0,0,35,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Palolem Beach Resort,3823,2,46,"Entrance of Palolem Beach, Palolem Beach, Canacona",403702,"Beachfront cabin with restaurant, near Palolem Beach",0,0,35,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Palolem Beach Resort,3823,2,46,"Entrance of Palolem Beach, Palolem Beach, Canacona",403702,"Beachfront cabin with restaurant, near Palolem Beach",0,0,35,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Palolem Beach Resort,2955,2,46,"Entrance of Palolem Beach, Palolem Beach, Canacona",403702,"Beachfront cabin with restaurant, near Palolem Beach",0,0,35,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Palolem Green Inn,5000,2,46,"Davabag, Palolem, Canacona, Goa",403716,Within easy reach of Palolem Beach,1,1,10,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Palolem Green Inn,5000,2,46,"Davabag, Palolem, Canacona, Goa",403716,Within easy reach of Palolem Beach,1,1,10,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Palolem Green Inn,5000,2,46,"Davabag, Palolem, Canacona, Goa",403716,Within easy reach of Palolem Beach,1,1,10,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Palolem Green Inn,5000,2,46,"Davabag, Palolem, Canacona, Goa",403716,Within easy reach of Palolem Beach,1,1,10,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Palolem Green Inn,5000,2,46,"Davabag, Palolem, Canacona, Goa",403716,Within easy reach of Palolem Beach,1,1,10,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Palolem Green Inn,5000,2,46,"Davabag, Palolem, Canacona, Goa",403716,Within easy reach of Palolem Beach,1,1,10,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Palolem Green Inn,5000,2,46,"Davabag, Palolem, Canacona, Goa",403716,Within easy reach of Palolem Beach,1,1,10,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Palolem Green Inn,3000,2,46,"Davabag, Palolem, Canacona, Goa",403716,Within easy reach of Palolem Beach,1,1,10,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Palolem Guest House,2846,2,60,"Ourem, Palolem, Canacona, Goa",403702,"Guesthouse with restaurant, near Palolem Beach",1,0,25,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Palolem Guest House,2846,2,60,"Ourem, Palolem, Canacona, Goa",403702,"Guesthouse with restaurant, near Palolem Beach",1,0,25,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Palolem Guest House,2846,2,60,"Ourem, Palolem, Canacona, Goa",403702,"Guesthouse with restaurant, near Palolem Beach",1,0,25,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Palolem Guest House,2846,2,60,"Ourem, Palolem, Canacona, Goa",403702,"Guesthouse with restaurant, near Palolem Beach",1,0,25,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Palolem Guest House,2846,2,60,"Ourem, Palolem, Canacona, Goa",403702,"Guesthouse with restaurant, near Palolem Beach",1,0,25,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Palolem Guest House,2846,2,60,"Ourem, Palolem, Canacona, Goa",403702,"Guesthouse with restaurant, near Palolem Beach",1,0,25,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Palolem Guest House,2846,2,60,"Ourem, Palolem, Canacona, Goa",403702,"Guesthouse with restaurant, near Palolem Beach",1,0,25,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Palolem Guest House,2846,2,60,"Ourem, Palolem, Canacona, Goa",403702,"Guesthouse with restaurant, near Palolem Beach",1,0,25,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Park Regis Goa,8979,4,23,"Saqwadi, Bardez, Arpora, Goa, 403516, India",403516,"4-star hotel with outdoor pool, near Anjuna Beach",1,0,2,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Park Regis Goa,8979,4,23,"Saqwadi, Bardez, Arpora, Goa, 403516, India",403516,"4-star hotel with outdoor pool, near Anjuna Beach",1,0,2,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Park Regis Goa,19979,4,23,"Saqwadi, Bardez, Arpora, Goa, 403516, India",403516,"4-star hotel with outdoor pool, near Anjuna Beach",1,0,2,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Park Regis Goa,19979,4,23,"Saqwadi, Bardez, Arpora, Goa, 403516, India",403516,"4-star hotel with outdoor pool, near Anjuna Beach",1,0,2,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Park Regis Goa,19979,4,23,"Saqwadi, Bardez, Arpora, Goa, 403516, India",403516,"4-star hotel with outdoor pool, near Anjuna Beach",1,0,2,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Park Regis Goa,19979,4,23,"Saqwadi, Bardez, Arpora, Goa, 403516, India",403516,"4-star hotel with outdoor pool, near Anjuna Beach",1,0,2,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Park Regis Goa,19979,4,23,"Saqwadi, Bardez, Arpora, Goa, 403516, India",403516,"4-star hotel with outdoor pool, near Anjuna Beach",1,0,2,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Park Regis Goa,8979,4,23,"Saqwadi, Bardez, Arpora, Goa, 403516, India",403516,"4-star hotel with outdoor pool, near Anjuna Beach",1,0,2,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Pebbles Guesthouse,1667,3,24,"Flea Market Road, Montero Waddo, Anjuna, Goa",403509,"3-star guesthouse with restaurant, near Anjuna Beach",1,1,10,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Pebbles Guesthouse,2500,3,24,"Flea Market Road, Montero Waddo, Anjuna, Goa",403509,"3-star guesthouse with restaurant, near Anjuna Beach",1,1,10,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Pebbles Guesthouse,3583,3,24,"Flea Market Road, Montero Waddo, Anjuna, Goa",403509,"3-star guesthouse with restaurant, near Anjuna Beach",1,1,10,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Pebbles Guesthouse,3583,3,24,"Flea Market Road, Montero Waddo, Anjuna, Goa",403509,"3-star guesthouse with restaurant, near Anjuna Beach",1,1,10,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Pebbles Guesthouse,3583,3,24,"Flea Market Road, Montero Waddo, Anjuna, Goa",403509,"3-star guesthouse with restaurant, near Anjuna Beach",1,1,10,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Pebbles Guesthouse,3583,3,24,"Flea Market Road, Montero Waddo, Anjuna, Goa",403509,"3-star guesthouse with restaurant, near Anjuna Beach",1,1,10,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Pebbles Guesthouse,3583,3,24,"Flea Market Road, Montero Waddo, Anjuna, Goa",403509,"3-star guesthouse with restaurant, near Anjuna Beach",1,1,10,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Pebbles Guesthouse,1667,3,24,"Flea Market Road, Montero Waddo, Anjuna, Goa",403509,"3-star guesthouse with restaurant, near Anjuna Beach",1,1,10,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Quarto De Casa Tipri,1650,2.5,20,"Grande Morrod Saligao, Nr European School of Goa, Arpora, Goa, 403511, India",403511,Adults-only guesthouse in Arpora,0,0,8,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Quarto De Casa Tipri,1650,2.5,20,"Grande Morrod Saligao, Nr European School of Goa, Arpora, Goa, 403511, India",403511,Adults-only guesthouse in Arpora,0,0,8,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Quarto De Casa Tipri,1650,2.5,20,"Grande Morrod Saligao, Nr European School of Goa, Arpora, Goa, 403511, India",403511,Adults-only guesthouse in Arpora,0,0,8,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Quarto De Casa Tipri,3669,2.5,20,"Grande Morrod Saligao, Nr European School of Goa, Arpora, Goa, 403511, India",403511,Adults-only guesthouse in Arpora,0,0,8,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Quarto De Casa Tipri,3669,2.5,20,"Grande Morrod Saligao, Nr European School of Goa, Arpora, Goa, 403511, India",403511,Adults-only guesthouse in Arpora,0,0,8,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Quarto De Casa Tipri,3669,2.5,20,"Grande Morrod Saligao, Nr European School of Goa, Arpora, Goa, 403511, India",403511,Adults-only guesthouse in Arpora,0,0,8,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Quarto De Casa Tipri,2384,2.5,20,"Grande Morrod Saligao, Nr European School of Goa, Arpora, Goa, 403511, India",403511,Adults-only guesthouse in Arpora,0,0,8,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Quarto De Casa Tipri,1650,2.5,20,"Grande Morrod Saligao, Nr European School of Goa, Arpora, Goa, 403511, India",403511,Adults-only guesthouse in Arpora,0,0,8,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Radisson Goa Candolim,8400,4,16,"Fort Aguada Road, Bammonvaddo, Candolim, Goa",403515,"4-star hotel with 2 restaurants, near Candolim Beach",1,0,78,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Radisson Goa Candolim,8400,4,16,"Fort Aguada Road, Bammonvaddo, Candolim, Goa",403515,"4-star hotel with 2 restaurants, near Candolim Beach",1,0,78,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Radisson Goa Candolim,8800,4,16,"Fort Aguada Road, Bammonvaddo, Candolim, Goa",403515,"4-star hotel with 2 restaurants, near Candolim Beach",1,0,78,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Radisson Goa Candolim,8800,4,16,"Fort Aguada Road, Bammonvaddo, Candolim, Goa",403515,"4-star hotel with 2 restaurants, near Candolim Beach",1,0,78,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Radisson Goa Candolim,8800,4,16,"Fort Aguada Road, Bammonvaddo, Candolim, Goa",403515,"4-star hotel with 2 restaurants, near Candolim Beach",1,0,78,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Radisson Goa Candolim,8800,4,16,"Fort Aguada Road, Bammonvaddo, Candolim, Goa",403515,"4-star hotel with 2 restaurants, near Candolim Beach",1,0,78,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Radisson Goa Candolim,8800,4,16,"Fort Aguada Road, Bammonvaddo, Candolim, Goa",403515,"4-star hotel with 2 restaurants, near Candolim Beach",1,0,78,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Radisson Goa Candolim,8800,4,16,"Fort Aguada Road, Bammonvaddo, Candolim, Goa",403515,"4-star hotel with 2 restaurants, near Candolim Beach",1,0,78,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Regenta Resort Varca Beach,5129,3,19,"Pedda, Uttrodesi, Salcette, Varca, Goa",403721,"3.5-star hotel with outdoor pool, near Varca Beach",1,1,48,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Regenta Resort Varca Beach,4844,3,19,"Pedda, Uttrodesi, Salcette, Varca, Goa",403721,"3.5-star hotel with outdoor pool, near Varca Beach",1,1,48,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Regenta Resort Varca Beach,8000,3,19,"Pedda, Uttrodesi, Salcette, Varca, Goa",403721,"3.5-star hotel with outdoor pool, near Varca Beach",1,1,48,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Regenta Resort Varca Beach,8000,3,19,"Pedda, Uttrodesi, Salcette, Varca, Goa",403721,"3.5-star hotel with outdoor pool, near Varca Beach",1,1,48,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Regenta Resort Varca Beach,8000,3,19,"Pedda, Uttrodesi, Salcette, Varca, Goa",403721,"3.5-star hotel with outdoor pool, near Varca Beach",1,1,48,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Regenta Resort Varca Beach,8000,3,19,"Pedda, Uttrodesi, Salcette, Varca, Goa",403721,"3.5-star hotel with outdoor pool, near Varca Beach",1,1,48,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Regenta Resort Varca Beach,8000,3,19,"Pedda, Uttrodesi, Salcette, Varca, Goa",403721,"3.5-star hotel with outdoor pool, near Varca Beach",1,1,48,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Regenta Resort Varca Beach,5699,3,19,"Pedda, Uttrodesi, Salcette, Varca, Goa",403721,"3.5-star hotel with outdoor pool, near Varca Beach",1,1,48,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Resort Rio,8500,5,22,"Tambudki, Arpora, Bardez, Arpora, Goa, 403518, India",403518,"Luxury resort with spa, near Baga Beach",0,0,154,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Resort Rio,6375,5,22,"Tambudki, Arpora, Bardez, Arpora, Goa, 403518, India",403518,"Luxury resort with spa, near Baga Beach",0,0,154,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Resort Rio,7650,5,22,"Tambudki, Arpora, Bardez, Arpora, Goa, 403518, India",403518,"Luxury resort with spa, near Baga Beach",0,0,154,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Resort Rio,7650,5,22,"Tambudki, Arpora, Bardez, Arpora, Goa, 403518, India",403518,"Luxury resort with spa, near Baga Beach",0,0,154,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Resort Rio,8500,5,22,"Tambudki, Arpora, Bardez, Arpora, Goa, 403518, India",403518,"Luxury resort with spa, near Baga Beach",0,0,154,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Resort Rio,8500,5,22,"Tambudki, Arpora, Bardez, Arpora, Goa, 403518, India",403518,"Luxury resort with spa, near Baga Beach",0,0,154,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Resort Rio,6375,5,22,"Tambudki, Arpora, Bardez, Arpora, Goa, 403518, India",403518,"Luxury resort with spa, near Baga Beach",0,0,154,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Resort Rio,6375,5,22,"Tambudki, Arpora, Bardez, Arpora, Goa, 403518, India",403518,"Luxury resort with spa, near Baga Beach",0,0,154,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Roundcube Guest House,1256,2,46,"Palolem Beach, Canacona, Goa",403702,"Hotel with beach bar, near Palolem Beach",1,0,15,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Roundcube Guest House,2512,2,46,"Palolem Beach, Canacona, Goa",403702,"Hotel with beach bar, near Palolem Beach",1,0,15,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Roundcube Guest House,2512,2,46,"Palolem Beach, Canacona, Goa",403702,"Hotel with beach bar, near Palolem Beach",1,0,15,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Roundcube Guest House,2512,2,46,"Palolem Beach, Canacona, Goa",403702,"Hotel with beach bar, near Palolem Beach",1,0,15,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Roundcube Guest House,2512,2,46,"Palolem Beach, Canacona, Goa",403702,"Hotel with beach bar, near Palolem Beach",1,0,15,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Roundcube Guest House,2512,2,46,"Palolem Beach, Canacona, Goa",403702,"Hotel with beach bar, near Palolem Beach",1,0,15,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Roundcube Guest House,2512,2,46,"Palolem Beach, Canacona, Goa",403702,"Hotel with beach bar, near Palolem Beach",1,0,15,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Roundcube Guest House,1842,2,46,"Palolem Beach, Canacona, Goa",403702,"Hotel with beach bar, near Palolem Beach",1,0,15,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Royal Star,4967,2,15,"Vagator, Vagator, Goa",403509,No Description,1,0,9,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Royal Star,4967,2,15,"Vagator, Vagator, Goa",403509,No Description,1,0,9,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Royal Star,4967,2,15,"Vagator, Vagator, Goa",403509,No Description,1,0,9,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Royal Star,4967,2,15,"Vagator, Vagator, Goa",403509,No Description,1,0,9,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Royal Star,4967,2,15,"Vagator, Vagator, Goa",403509,No Description,1,0,9,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Royal Star,4967,2,15,"Vagator, Vagator, Goa",403509,No Description,1,0,9,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Royal Star,2070,2,15,"Vagator, Vagator, Goa",403509,No Description,1,0,9,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Royal Star,2070,2,15,"Vagator, Vagator, Goa",403509,No Description,1,0,9,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,San Joao Holiday Homes,3412,2,18,"Mazilvaddo, Near Holy Trinity Church, Benaulim, Goa",403716,"Resort with outdoor pool, near Varca Beach",1,0,28,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,San Joao Holiday Homes,2949,2,18,"Mazilvaddo, Near Holy Trinity Church, Benaulim, Goa",403716,"Resort with outdoor pool, near Varca Beach",1,0,28,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,San Joao Holiday Homes,2949,2,18,"Mazilvaddo, Near Holy Trinity Church, Benaulim, Goa",403716,"Resort with outdoor pool, near Varca Beach",1,0,28,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,San Joao Holiday Homes,3412,2,18,"Mazilvaddo, Near Holy Trinity Church, Benaulim, Goa",403716,"Resort with outdoor pool, near Varca Beach",1,0,28,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,San Joao Holiday Homes,3412,2,18,"Mazilvaddo, Near Holy Trinity Church, Benaulim, Goa",403716,"Resort with outdoor pool, near Varca Beach",1,0,28,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,San Joao Holiday Homes,3412,2,18,"Mazilvaddo, Near Holy Trinity Church, Benaulim, Goa",403716,"Resort with outdoor pool, near Varca Beach",1,0,28,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,San Joao Holiday Homes,2275,2,18,"Mazilvaddo, Near Holy Trinity Church, Benaulim, Goa",403716,"Resort with outdoor pool, near Varca Beach",1,0,28,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,San Joao Holiday Homes,2275,2,18,"Mazilvaddo, Near Holy Trinity Church, Benaulim, Goa",403716,"Resort with outdoor pool, near Varca Beach",1,0,28,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Seashell Beach Suites,12326,3,17,"Vaddy, Bardez, Candolim, Goa",403515,"3.5-star beachfront hotel with outdoor pool, near Candolim Beach",1,0,16,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Seashell Beach Suites,12326,3,17,"Vaddy, Bardez, Candolim, Goa",403515,"3.5-star beachfront hotel with outdoor pool, near Candolim Beach",1,0,16,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Seashell Beach Suites,12326,3,17,"Vaddy, Bardez, Candolim, Goa",403515,"3.5-star beachfront hotel with outdoor pool, near Candolim Beach",1,0,16,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Seashell Beach Suites,30152,3,17,"Vaddy, Bardez, Candolim, Goa",403515,"3.5-star beachfront hotel with outdoor pool, near Candolim Beach",1,0,16,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Seashell Beach Suites,25502,3,17,"Vaddy, Bardez, Candolim, Goa",403515,"3.5-star beachfront hotel with outdoor pool, near Candolim Beach",1,0,16,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Seashell Beach Suites,30152,3,17,"Vaddy, Bardez, Candolim, Goa",403515,"3.5-star beachfront hotel with outdoor pool, near Candolim Beach",1,0,16,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Seashell Beach Suites,30152,3,17,"Vaddy, Bardez, Candolim, Goa",403515,"3.5-star beachfront hotel with outdoor pool, near Candolim Beach",1,0,16,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Seashell Beach Suites,13242,3,17,"Vaddy, Bardez, Candolim, Goa",403515,"3.5-star beachfront hotel with outdoor pool, near Candolim Beach",1,0,16,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Shalai - The Cliff Resort,13600,3,15,"Small Vagator, Vagator, Goa",403509,No Description,1,1,10,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Shalai - The Cliff Resort,13600,3,15,"Small Vagator, Vagator, Goa",403509,No Description,1,1,10,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Shalai - The Cliff Resort,13600,3,15,"Small Vagator, Vagator, Goa",403509,No Description,1,1,10,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Shalai - The Cliff Resort,17000,3,15,"Small Vagator, Vagator, Goa",403509,No Description,1,1,10,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Shalai - The Cliff Resort,17000,3,15,"Small Vagator, Vagator, Goa",403509,No Description,1,1,10,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Shalai - The Cliff Resort,17000,3,15,"Small Vagator, Vagator, Goa",403509,No Description,1,1,10,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Shalai - The Cliff Resort,10000,3,15,"Small Vagator, Vagator, Goa",403509,No Description,1,1,10,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Shalai - The Cliff Resort,10000,3,15,"Small Vagator, Vagator, Goa",403509,No Description,1,1,10,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Silver Sands Beach Resort,4409,3,14,"Colva Beach, Salcette, Colva, Goa",403708,"Colva beach hotel with outdoor pool, restaurant",1,1,73,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Silver Sands Beach Resort,3772,3,14,"Colva Beach, Salcette, Colva, Goa",403708,"Colva beach hotel with outdoor pool, restaurant",1,1,73,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Silver Sands Beach Resort,6368,3,14,"Colva Beach, Salcette, Colva, Goa",403708,"Colva beach hotel with outdoor pool, restaurant",1,1,73,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Silver Sands Beach Resort,6368,3,14,"Colva Beach, Salcette, Colva, Goa",403708,"Colva beach hotel with outdoor pool, restaurant",1,1,73,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Silver Sands Beach Resort,8328,3,14,"Colva Beach, Salcette, Colva, Goa",403708,"Colva beach hotel with outdoor pool, restaurant",1,1,73,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Silver Sands Beach Resort,8328,3,14,"Colva Beach, Salcette, Colva, Goa",403708,"Colva beach hotel with outdoor pool, restaurant",1,1,73,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Silver Sands Beach Resort,9307,3,14,"Colva Beach, Salcette, Colva, Goa",403708,"Colva beach hotel with outdoor pool, restaurant",1,1,73,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Silver Sands Beach Resort,4409,3,14,"Colva Beach, Salcette, Colva, Goa",403708,"Colva beach hotel with outdoor pool, restaurant",1,1,73,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Silver Sands Hide Away,5862,3.5,17,"Pinto's Waddo, Candolim Beach Road, Candolim, Goa",403515,"Waterfront resort with spa, near Candolim Beach",1,1,23,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Silver Sands Hide Away,5862,3.5,17,"Pinto's Waddo, Candolim Beach Road, Candolim, Goa",403515,"Waterfront resort with spa, near Candolim Beach",1,1,23,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Silver Sands Hide Away,15073,3.5,17,"Pinto's Waddo, Candolim Beach Road, Candolim, Goa",403515,"Waterfront resort with spa, near Candolim Beach",1,1,23,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Silver Sands Hide Away,15073,3.5,17,"Pinto's Waddo, Candolim Beach Road, Candolim, Goa",403515,"Waterfront resort with spa, near Candolim Beach",1,1,23,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Silver Sands Hide Away,15073,3.5,17,"Pinto's Waddo, Candolim Beach Road, Candolim, Goa",403515,"Waterfront resort with spa, near Candolim Beach",1,1,23,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Silver Sands Hide Away,15073,3.5,17,"Pinto's Waddo, Candolim Beach Road, Candolim, Goa",403515,"Waterfront resort with spa, near Candolim Beach",1,1,23,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Silver Sands Hide Away,5862,3.5,17,"Pinto's Waddo, Candolim Beach Road, Candolim, Goa",403515,"Waterfront resort with spa, near Candolim Beach",1,1,23,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Silver Sands Hide Away,5862,3.5,17,"Pinto's Waddo, Candolim Beach Road, Candolim, Goa",403515,"Waterfront resort with spa, near Candolim Beach",1,1,23,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,SinQ Party Hotel,5978,3.5,15,"Opposite Taj Holiday Village, Candolim, Goa",403515,"3.5-star hotel with 2 bars/lounges, near Sinquerim Beach",1,1,32,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,SinQ Party Hotel,5198,3.5,15,"Opposite Taj Holiday Village, Candolim, Goa",403515,"3.5-star hotel with 2 bars/lounges, near Sinquerim Beach",1,1,32,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,SinQ Party Hotel,8231,3.5,15,"Opposite Taj Holiday Village, Candolim, Goa",403515,"3.5-star hotel with 2 bars/lounges, near Sinquerim Beach",1,1,32,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,SinQ Party Hotel,8231,3.5,15,"Opposite Taj Holiday Village, Candolim, Goa",403515,"3.5-star hotel with 2 bars/lounges, near Sinquerim Beach",1,1,32,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,SinQ Party Hotel,7364,3.5,15,"Opposite Taj Holiday Village, Candolim, Goa",403515,"3.5-star hotel with 2 bars/lounges, near Sinquerim Beach",1,1,32,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,SinQ Party Hotel,8231,3.5,15,"Opposite Taj Holiday Village, Candolim, Goa",403515,"3.5-star hotel with 2 bars/lounges, near Sinquerim Beach",1,1,32,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,SinQ Party Hotel,5545,3.5,15,"Opposite Taj Holiday Village, Candolim, Goa",403515,"3.5-star hotel with 2 bars/lounges, near Sinquerim Beach",1,1,32,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,SinQ Party Hotel,5545,3.5,15,"Opposite Taj Holiday Village, Candolim, Goa",403515,"3.5-star hotel with 2 bars/lounges, near Sinquerim Beach",1,1,32,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Sodder's Beach Classic,3016,3,17,"Ximer, Candolim, Goa",403516,"3-star hotel with outdoor pool, near Candolim Beach",0,0,17,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Sodder's Beach Classic,3016,3,17,"Ximer, Candolim, Goa",403516,"3-star hotel with outdoor pool, near Candolim Beach",0,0,17,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Sodder's Beach Classic,6031,3,17,"Ximer, Candolim, Goa",403516,"3-star hotel with outdoor pool, near Candolim Beach",0,0,17,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Sodder's Beach Classic,6031,3,17,"Ximer, Candolim, Goa",403516,"3-star hotel with outdoor pool, near Candolim Beach",0,0,17,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Sodder's Beach Classic,6031,3,17,"Ximer, Candolim, Goa",403516,"3-star hotel with outdoor pool, near Candolim Beach",0,0,17,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Sodder's Beach Classic,6031,3,17,"Ximer, Candolim, Goa",403516,"3-star hotel with outdoor pool, near Candolim Beach",0,0,17,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Sodder's Beach Classic,6031,3,17,"Ximer, Candolim, Goa",403516,"3-star hotel with outdoor pool, near Candolim Beach",0,0,17,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Sodder's Beach Classic,3418,3,17,"Ximer, Candolim, Goa",403516,"3-star hotel with outdoor pool, near Candolim Beach",0,0,17,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Sodders Gloria Anne,4025,3,16,"Opposite Acron Arcade, Next to Victor Exotica, Bamonwaddo, Candolim, Goa",703516,"3-star hotel with outdoor pool, near Candolim Beach",1,0,85,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Sodders Gloria Anne,4025,3,16,"Opposite Acron Arcade, Next to Victor Exotica, Bamonwaddo, Candolim, Goa",703516,"3-star hotel with outdoor pool, near Candolim Beach",1,0,85,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Sodders Gloria Anne,7475,3,16,"Opposite Acron Arcade, Next to Victor Exotica, Bamonwaddo, Candolim, Goa",703516,"3-star hotel with outdoor pool, near Candolim Beach",1,0,85,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Sodders Gloria Anne,7475,3,16,"Opposite Acron Arcade, Next to Victor Exotica, Bamonwaddo, Candolim, Goa",703516,"3-star hotel with outdoor pool, near Candolim Beach",1,0,85,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Sodders Gloria Anne,7475,3,16,"Opposite Acron Arcade, Next to Victor Exotica, Bamonwaddo, Candolim, Goa",703516,"3-star hotel with outdoor pool, near Candolim Beach",1,0,85,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Sodders Gloria Anne,7475,3,16,"Opposite Acron Arcade, Next to Victor Exotica, Bamonwaddo, Candolim, Goa",703516,"3-star hotel with outdoor pool, near Candolim Beach",1,0,85,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Sodders Gloria Anne,7475,3,16,"Opposite Acron Arcade, Next to Victor Exotica, Bamonwaddo, Candolim, Goa",703516,"3-star hotel with outdoor pool, near Candolim Beach",1,0,85,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Sodders Gloria Anne,5290,3,16,"Opposite Acron Arcade, Next to Victor Exotica, Bamonwaddo, Candolim, Goa",703516,"3-star hotel with outdoor pool, near Candolim Beach",1,0,85,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Sol De Goa,5500,4,15,"Bhatiwado, Nerul, Bardez, Nerul, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,21,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Sol De Goa,8000,4,15,"Bhatiwado, Nerul, Bardez, Nerul, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,21,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Sol De Goa,7400,4,15,"Bhatiwado, Nerul, Bardez, Nerul, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,21,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Sol De Goa,7400,4,15,"Bhatiwado, Nerul, Bardez, Nerul, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,21,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Sol De Goa,11001,4,15,"Bhatiwado, Nerul, Bardez, Nerul, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,21,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Sol De Goa,11001,4,15,"Bhatiwado, Nerul, Bardez, Nerul, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,21,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Sol De Goa,5400,4,15,"Bhatiwado, Nerul, Bardez, Nerul, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,21,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Sol De Goa,4500,4,15,"Bhatiwado, Nerul, Bardez, Nerul, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,21,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Soul Vacation Resort and Spa,6500,3,14,"Ward no. 4, Colva Beach, Colva Salcette, Colva, Goa",403708,"Boutique resort in Colva with spa, outdoor pool",1,1,30,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Soul Vacation Resort and Spa,6500,3,14,"Ward no. 4, Colva Beach, Colva Salcette, Colva, Goa",403708,"Boutique resort in Colva with spa, outdoor pool",1,1,30,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Soul Vacation Resort and Spa,7000,3,14,"Ward no. 4, Colva Beach, Colva Salcette, Colva, Goa",403708,"Boutique resort in Colva with spa, outdoor pool",1,1,30,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Soul Vacation Resort and Spa,7000,3,14,"Ward no. 4, Colva Beach, Colva Salcette, Colva, Goa",403708,"Boutique resort in Colva with spa, outdoor pool",1,1,30,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Soul Vacation Resort and Spa,7000,3,14,"Ward no. 4, Colva Beach, Colva Salcette, Colva, Goa",403708,"Boutique resort in Colva with spa, outdoor pool",1,1,30,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Soul Vacation Resort and Spa,7000,3,14,"Ward no. 4, Colva Beach, Colva Salcette, Colva, Goa",403708,"Boutique resort in Colva with spa, outdoor pool",1,1,30,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Soul Vacation Resort and Spa,7000,3,14,"Ward no. 4, Colva Beach, Colva Salcette, Colva, Goa",403708,"Boutique resort in Colva with spa, outdoor pool",1,1,30,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Soul Vacation Resort and Spa,7000,3,14,"Ward no. 4, Colva Beach, Colva Salcette, Colva, Goa",403708,"Boutique resort in Colva with spa, outdoor pool",1,1,30,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Sterling Villagio Inn,4139,3,13,"Thondwaddo, Betalbatim Salcete, South Goa, Betalbatim, Goa",403713,"3-star hotel in Betalbatim with outdoor pool, restaurant",0,0,58,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Sterling Villagio Inn,4999,3,13,"Thondwaddo, Betalbatim Salcete, South Goa, Betalbatim, Goa",403713,"3-star hotel in Betalbatim with outdoor pool, restaurant",0,0,58,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Sterling Villagio Inn,8909,3,13,"Thondwaddo, Betalbatim Salcete, South Goa, Betalbatim, Goa",403713,"3-star hotel in Betalbatim with outdoor pool, restaurant",0,0,58,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Sterling Villagio Inn,8999,3,13,"Thondwaddo, Betalbatim Salcete, South Goa, Betalbatim, Goa",403713,"3-star hotel in Betalbatim with outdoor pool, restaurant",0,0,58,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Sterling Villagio Inn,8999,3,13,"Thondwaddo, Betalbatim Salcete, South Goa, Betalbatim, Goa",403713,"3-star hotel in Betalbatim with outdoor pool, restaurant",0,0,58,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Sterling Villagio Inn,10799,3,13,"Thondwaddo, Betalbatim Salcete, South Goa, Betalbatim, Goa",403713,"3-star hotel in Betalbatim with outdoor pool, restaurant",0,0,58,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Sterling Villagio Inn,4499,3,13,"Thondwaddo, Betalbatim Salcete, South Goa, Betalbatim, Goa",403713,"3-star hotel in Betalbatim with outdoor pool, restaurant",0,0,58,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Sterling Villagio Inn,4499,3,13,"Thondwaddo, Betalbatim Salcete, South Goa, Betalbatim, Goa",403713,"3-star hotel in Betalbatim with outdoor pool, restaurant",0,0,58,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Stone Water Eco Resort,7000,3,2.4,"Karma Woodhouse Estate, Santarem Beach, Marmagao, Goa",403516,"Bogmolo beachfront resort with 2 outdoor pools, restaurant",1,1,24,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Stone Water Eco Resort,8000,3,2.4,"Karma Woodhouse Estate, Santarem Beach, Marmagao, Goa",403516,"Bogmolo beachfront resort with 2 outdoor pools, restaurant",1,1,24,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Stone Water Eco Resort,8000,3,2.4,"Karma Woodhouse Estate, Santarem Beach, Marmagao, Goa",403516,"Bogmolo beachfront resort with 2 outdoor pools, restaurant",1,1,24,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Stone Water Eco Resort,8000,3,2.4,"Karma Woodhouse Estate, Santarem Beach, Marmagao, Goa",403516,"Bogmolo beachfront resort with 2 outdoor pools, restaurant",1,1,24,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Stone Water Eco Resort,8000,3,2.4,"Karma Woodhouse Estate, Santarem Beach, Marmagao, Goa",403516,"Bogmolo beachfront resort with 2 outdoor pools, restaurant",1,1,24,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Stone Water Eco Resort,8000,3,2.4,"Karma Woodhouse Estate, Santarem Beach, Marmagao, Goa",403516,"Bogmolo beachfront resort with 2 outdoor pools, restaurant",1,1,24,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Stone Water Eco Resort,7000,3,2.4,"Karma Woodhouse Estate, Santarem Beach, Marmagao, Goa",403516,"Bogmolo beachfront resort with 2 outdoor pools, restaurant",1,1,24,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Stone Water Eco Resort,7000,3,2.4,"Karma Woodhouse Estate, Santarem Beach, Marmagao, Goa",403516,"Bogmolo beachfront resort with 2 outdoor pools, restaurant",1,1,24,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Sukhmantra Resort,4200,3.5,17,"317/C, Baman Vaddo, Candolim, Goa",403515,"3.5-star resort with spa, near Candolim Beach",1,1,43,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Sukhmantra Resort,4500,3.5,17,"317/C, Baman Vaddo, Candolim, Goa",403515,"3.5-star resort with spa, near Candolim Beach",1,1,43,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Sukhmantra Resort,6000,3.5,17,"317/C, Baman Vaddo, Candolim, Goa",403515,"3.5-star resort with spa, near Candolim Beach",1,1,43,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Sukhmantra Resort,6000,3.5,17,"317/C, Baman Vaddo, Candolim, Goa",403515,"3.5-star resort with spa, near Candolim Beach",1,1,43,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Sukhmantra Resort,9500,3.5,17,"317/C, Baman Vaddo, Candolim, Goa",403515,"3.5-star resort with spa, near Candolim Beach",1,1,43,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Sukhmantra Resort,9500,3.5,17,"317/C, Baman Vaddo, Candolim, Goa",403515,"3.5-star resort with spa, near Candolim Beach",1,1,43,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Sukhmantra Resort,4900,3.5,17,"317/C, Baman Vaddo, Candolim, Goa",403515,"3.5-star resort with spa, near Candolim Beach",1,1,43,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Sukhmantra Resort,4900,3.5,17,"317/C, Baman Vaddo, Candolim, Goa",403515,"3.5-star resort with spa, near Candolim Beach",1,1,43,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Sunita Guest House,1500,2,15,"Small Vagator, Vagator, Goa",403509,No Description,1,0,10,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Sunita Guest House,6500,2,15,"Small Vagator, Vagator, Goa",403509,No Description,1,0,10,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Sunita Guest House,6500,2,15,"Small Vagator, Vagator, Goa",403509,No Description,1,0,10,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Sunita Guest House,6500,2,15,"Small Vagator, Vagator, Goa",403509,No Description,1,0,10,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Sunita Guest House,6500,2,15,"Small Vagator, Vagator, Goa",403509,No Description,1,0,10,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Sunita Guest House,6500,2,15,"Small Vagator, Vagator, Goa",403509,No Description,1,0,10,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Sunita Guest House,6500,2,15,"Small Vagator, Vagator, Goa",403509,No Description,1,0,10,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Sunita Guest House,6500,2,15,"Small Vagator, Vagator, Goa",403509,No Description,1,0,10,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Taj Exotica,16000,5,18,"Calwaddo Benaulim, Benaulim, Goa",403716,"Luxury resort with 6 restaurants, near Varca Beach",1,0,140,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Taj Exotica,22000,5,18,"Calwaddo Benaulim, Benaulim, Goa",403716,"Luxury resort with 6 restaurants, near Varca Beach",1,0,140,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Taj Exotica,18000,5,18,"Calwaddo Benaulim, Benaulim, Goa",403716,"Luxury resort with 6 restaurants, near Varca Beach",1,0,140,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Taj Exotica,18000,5,18,"Calwaddo Benaulim, Benaulim, Goa",403716,"Luxury resort with 6 restaurants, near Varca Beach",1,0,140,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Taj Exotica,20000,5,18,"Calwaddo Benaulim, Benaulim, Goa",403716,"Luxury resort with 6 restaurants, near Varca Beach",1,0,140,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Taj Exotica,26000,5,18,"Calwaddo Benaulim, Benaulim, Goa",403716,"Luxury resort with 6 restaurants, near Varca Beach",1,0,140,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Taj Exotica,37500,5,18,"Calwaddo Benaulim, Benaulim, Goa",403716,"Luxury resort with 6 restaurants, near Varca Beach",1,0,140,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Taj Exotica,24000,5,18,"Calwaddo Benaulim, Benaulim, Goa",403716,"Luxury resort with 6 restaurants, near Varca Beach",1,0,140,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,The Acacia Hotel & Spa Goa,8500,4,16,"H.No. 586/A, Sequeira Vaddo, Candolim, Goa",403515,"4-star hotel with 3 restaurants, near Candolim Beach",1,1,54,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,The Acacia Hotel & Spa Goa,9000,4,16,"H.No. 586/A, Sequeira Vaddo, Candolim, Goa",403515,"4-star hotel with 3 restaurants, near Candolim Beach",1,1,54,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,The Acacia Hotel & Spa Goa,12500,4,16,"H.No. 586/A, Sequeira Vaddo, Candolim, Goa",403515,"4-star hotel with 3 restaurants, near Candolim Beach",1,1,54,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,The Acacia Hotel & Spa Goa,12500,4,16,"H.No. 586/A, Sequeira Vaddo, Candolim, Goa",403515,"4-star hotel with 3 restaurants, near Candolim Beach",1,1,54,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,The Acacia Hotel & Spa Goa,15000,4,16,"H.No. 586/A, Sequeira Vaddo, Candolim, Goa",403515,"4-star hotel with 3 restaurants, near Candolim Beach",1,1,54,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,The Acacia Hotel & Spa Goa,15000,4,16,"H.No. 586/A, Sequeira Vaddo, Candolim, Goa",403515,"4-star hotel with 3 restaurants, near Candolim Beach",1,1,54,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,The Acacia Hotel & Spa Goa,11000,4,16,"H.No. 586/A, Sequeira Vaddo, Candolim, Goa",403515,"4-star hotel with 3 restaurants, near Candolim Beach",1,1,54,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,The Acacia Hotel & Spa Goa,8500,4,16,"H.No. 586/A, Sequeira Vaddo, Candolim, Goa",403515,"4-star hotel with 3 restaurants, near Candolim Beach",1,1,54,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,The Banyan Soul,2093,2,23,"No. 962(1), Peqqem Peddem, Off Flea Market Rd, Anjuna, Bardez, Anjuna, Goa",403509,Convenient to Anjuna Beach,0,0,12,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,The Banyan Soul,2093,2,23,"No. 962(1), Peqqem Peddem, Off Flea Market Rd, Anjuna, Bardez, Anjuna, Goa",403509,Convenient to Anjuna Beach,0,0,12,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,The Banyan Soul,5024,2,23,"No. 962(1), Peqqem Peddem, Off Flea Market Rd, Anjuna, Bardez, Anjuna, Goa",403509,Convenient to Anjuna Beach,0,0,12,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,The Banyan Soul,5024,2,23,"No. 962(1), Peqqem Peddem, Off Flea Market Rd, Anjuna, Bardez, Anjuna, Goa",403509,Convenient to Anjuna Beach,0,0,12,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,The Banyan Soul,5024,2,23,"No. 962(1), Peqqem Peddem, Off Flea Market Rd, Anjuna, Bardez, Anjuna, Goa",403509,Convenient to Anjuna Beach,0,0,12,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,The Banyan Soul,5024,2,23,"No. 962(1), Peqqem Peddem, Off Flea Market Rd, Anjuna, Bardez, Anjuna, Goa",403509,Convenient to Anjuna Beach,0,0,12,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,The Banyan Soul,2093,2,23,"No. 962(1), Peqqem Peddem, Off Flea Market Rd, Anjuna, Bardez, Anjuna, Goa",403509,Convenient to Anjuna Beach,0,0,12,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,The Banyan Soul,2104,2,23,"No. 962(1), Peqqem Peddem, Off Flea Market Rd, Anjuna, Bardez, Anjuna, Goa",403509,Convenient to Anjuna Beach,0,0,12,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,The Belmonte by ACE,3640,3,26,"Arpora Siolim Road, Near Bobby Bar, Vagator, Goa",403509,"3-star hotel with outdoor pool, near Vagator Beach",1,0,19,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,The Belmonte by ACE,3640,3,26,"Arpora Siolim Road, Near Bobby Bar, Vagator, Goa",403510,"3-star hotel with outdoor pool, near Vagator Beach",1,0,19,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,The Belmonte by ACE,11030,3,26,"Arpora Siolim Road, Near Bobby Bar, Vagator, Goa",403511,"3-star hotel with outdoor pool, near Vagator Beach",1,0,19,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,The Belmonte by ACE,11030,3,26,"Arpora Siolim Road, Near Bobby Bar, Vagator, Goa",403512,"3-star hotel with outdoor pool, near Vagator Beach",1,0,19,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,The Belmonte by ACE,13505,3,26,"Arpora Siolim Road, Near Bobby Bar, Vagator, Goa",403513,"3-star hotel with outdoor pool, near Vagator Beach",1,0,19,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,The Belmonte by ACE,13505,3,26,"Arpora Siolim Road, Near Bobby Bar, Vagator, Goa",403514,"3-star hotel with outdoor pool, near Vagator Beach",1,0,19,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,The Belmonte by ACE,4350,3,26,"Arpora Siolim Road, Near Bobby Bar, Vagator, Goa",403515,"3-star hotel with outdoor pool, near Vagator Beach",1,0,19,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,The Belmonte by ACE,4350,3,26,"Arpora Siolim Road, Near Bobby Bar, Vagator, Goa",403516,"3-star hotel with outdoor pool, near Vagator Beach",1,0,19,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,The Byke Old Anchor beach Resort,3439,3,26,"Cavelossim Mobor Beach, Cavelossim, Goa",403731,"Riverfront hotel with spa, near Cavelossim Beach",1,1,196,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,The Byke Old Anchor beach Resort,3519,3,26,"Cavelossim Mobor Beach, Cavelossim, Goa",403731,"Riverfront hotel with spa, near Cavelossim Beach",1,1,196,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,The Byke Old Anchor beach Resort,3759,3,26,"Cavelossim Mobor Beach, Cavelossim, Goa",403731,"Riverfront hotel with spa, near Cavelossim Beach",1,1,196,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,The Byke Old Anchor beach Resort,3759,3,26,"Cavelossim Mobor Beach, Cavelossim, Goa",403731,"Riverfront hotel with spa, near Cavelossim Beach",1,1,196,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,The Byke Old Anchor beach Resort,3759,3,26,"Cavelossim Mobor Beach, Cavelossim, Goa",403731,"Riverfront hotel with spa, near Cavelossim Beach",1,1,196,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,The Byke Old Anchor beach Resort,3759,3,26,"Cavelossim Mobor Beach, Cavelossim, Goa",403731,"Riverfront hotel with spa, near Cavelossim Beach",1,1,196,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,The Byke Old Anchor beach Resort,3759,3,26,"Cavelossim Mobor Beach, Cavelossim, Goa",403731,"Riverfront hotel with spa, near Cavelossim Beach",1,1,196,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,The Byke Old Anchor beach Resort,3519,3,26,"Cavelossim Mobor Beach, Cavelossim, Goa",403731,"Riverfront hotel with spa, near Cavelossim Beach",1,1,196,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,The Fern Gardenia Resort,6300,3,46,"Palolem-Agonda Road, Devabag, Canacona, Goa",403702,Suburban cabin with outdoor pool,0,1,18,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,The Fern Gardenia Resort,7000,3,46,"Palolem-Agonda Road, Devabag, Canacona, Goa",403702,Suburban cabin with outdoor pool,0,1,18,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,The Fern Gardenia Resort,7000,3,46,"Palolem-Agonda Road, Devabag, Canacona, Goa",403702,Suburban cabin with outdoor pool,0,1,18,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,The Fern Gardenia Resort,9500,3,46,"Palolem-Agonda Road, Devabag, Canacona, Goa",403702,Suburban cabin with outdoor pool,0,1,18,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,The Fern Gardenia Resort,9500,3,46,"Palolem-Agonda Road, Devabag, Canacona, Goa",403702,Suburban cabin with outdoor pool,0,1,18,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,The Fern Gardenia Resort,9500,3,46,"Palolem-Agonda Road, Devabag, Canacona, Goa",403702,Suburban cabin with outdoor pool,0,1,18,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,The Fern Gardenia Resort,9500,3,46,"Palolem-Agonda Road, Devabag, Canacona, Goa",403702,Suburban cabin with outdoor pool,0,1,18,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,The Fern Gardenia Resort,4250,3,46,"Palolem-Agonda Road, Devabag, Canacona, Goa",403702,Suburban cabin with outdoor pool,0,1,18,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,The Grand Leoney Resort,3934,2,26,"Vagator Beach Road, Albuquerque, Vagator, Goa",403509,"Hotel with outdoor pool, near Vagator Beach",1,0,32,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,The Grand Leoney Resort,3934,2,26,"Vagator Beach Road, Albuquerque, Vagator, Goa",403509,"Hotel with outdoor pool, near Vagator Beach",1,0,32,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,The Grand Leoney Resort,6993,2,26,"Vagator Beach Road, Albuquerque, Vagator, Goa",403509,"Hotel with outdoor pool, near Vagator Beach",1,0,32,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,The Grand Leoney Resort,6993,2,26,"Vagator Beach Road, Albuquerque, Vagator, Goa",403509,"Hotel with outdoor pool, near Vagator Beach",1,0,32,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,The Grand Leoney Resort,6993,2,26,"Vagator Beach Road, Albuquerque, Vagator, Goa",403509,"Hotel with outdoor pool, near Vagator Beach",1,0,32,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,The Grand Leoney Resort,6993,2,26,"Vagator Beach Road, Albuquerque, Vagator, Goa",403509,"Hotel with outdoor pool, near Vagator Beach",1,0,32,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,The Grand Leoney Resort,3497,2,26,"Vagator Beach Road, Albuquerque, Vagator, Goa",403509,"Hotel with outdoor pool, near Vagator Beach",1,0,32,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,The Grand Leoney Resort,3497,2,26,"Vagator Beach Road, Albuquerque, Vagator, Goa",403509,"Hotel with outdoor pool, near Vagator Beach",1,0,32,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,The LaLiT Golf & Spa Resort Goa,15450,5,49,"Rajbaga Canacona, Canacona, Goa",403702,"Upscale beachfront resort with golf course, near Palolem Beac",1,1,255,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,The LaLiT Golf & Spa Resort Goa,19450,5,49,"Rajbaga Canacona, Canacona, Goa",403702,"Upscale beachfront resort with golf course, near Palolem Beac",1,1,255,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,The LaLiT Golf & Spa Resort Goa,17250,5,49,"Rajbaga Canacona, Canacona, Goa",403702,"Upscale beachfront resort with golf course, near Palolem Beac",1,1,255,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,The LaLiT Golf & Spa Resort Goa,19950,5,49,"Rajbaga Canacona, Canacona, Goa",403702,"Upscale beachfront resort with golf course, near Palolem Beac",1,1,255,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,The LaLiT Golf & Spa Resort Goa,19950,5,49,"Rajbaga Canacona, Canacona, Goa",403702,"Upscale beachfront resort with golf course, near Palolem Beac",1,1,255,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,The LaLiT Golf & Spa Resort Goa,19950,5,49,"Rajbaga Canacona, Canacona, Goa",403702,"Upscale beachfront resort with golf course, near Palolem Beac",1,1,255,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,The LaLiT Golf & Spa Resort Goa,19950,5,49,"Rajbaga Canacona, Canacona, Goa",403702,"Upscale beachfront resort with golf course, near Palolem Beac",1,1,255,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,The LaLiT Golf & Spa Resort Goa,13950,5,49,"Rajbaga Canacona, Canacona, Goa",403702,"Upscale beachfront resort with golf course, near Palolem Beac",1,1,255,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,The O Resort and Spa,9000,5,18,"S.No. 114/1, Dando, Bardez, Candolim, Goa",403515,"Upscale beachfront resort with spa, near Candolim Beach",0,0,75,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,The O Resort and Spa,7999,5,18,"S.No. 114/1, Dando, Bardez, Candolim, Goa",403515,"Upscale beachfront resort with spa, near Candolim Beach",0,0,75,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,The O Resort and Spa,16500,5,18,"S.No. 114/1, Dando, Bardez, Candolim, Goa",403515,"Upscale beachfront resort with spa, near Candolim Beach",0,0,75,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,The O Resort and Spa,15500,5,18,"S.No. 114/1, Dando, Bardez, Candolim, Goa",403515,"Upscale beachfront resort with spa, near Candolim Beach",0,0,75,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,The O Resort and Spa,18000,5,18,"S.No. 114/1, Dando, Bardez, Candolim, Goa",403515,"Upscale beachfront resort with spa, near Candolim Beach",0,0,75,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,The O Resort and Spa,38000,5,18,"S.No. 114/1, Dando, Bardez, Candolim, Goa",403515,"Upscale beachfront resort with spa, near Candolim Beach",0,0,75,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,The O Resort and Spa,8900,5,18,"S.No. 114/1, Dando, Bardez, Candolim, Goa",403515,"Upscale beachfront resort with spa, near Candolim Beach",0,0,75,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,The O Resort and Spa,8900,5,18,"S.No. 114/1, Dando, Bardez, Candolim, Goa",403515,"Upscale beachfront resort with spa, near Candolim Beach",0,0,75,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,The Treehouse Blue,3500,3,11,"Curilo Waddo, Majorda,Salcete, Majorda, Goa",403713,"Beachfront apartment with kitchen, near Arossim Beach",1,0,24,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,The Treehouse Blue,3500,3,11,"Curilo Waddo, Majorda,Salcete, Majorda, Goa",403713,"Beachfront apartment with kitchen, near Arossim Beach",1,0,24,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,The Treehouse Blue,5000,3,11,"Curilo Waddo, Majorda,Salcete, Majorda, Goa",403713,"Beachfront apartment with kitchen, near Arossim Beach",1,0,24,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,The Treehouse Blue,8500,3,11,"Curilo Waddo, Majorda,Salcete, Majorda, Goa",403713,"Beachfront apartment with kitchen, near Arossim Beach",1,0,24,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,The Treehouse Blue,5000,3,11,"Curilo Waddo, Majorda,Salcete, Majorda, Goa",403713,"Beachfront apartment with kitchen, near Arossim Beach",1,0,24,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,The Treehouse Blue,12500,3,11,"Curilo Waddo, Majorda,Salcete, Majorda, Goa",403713,"Beachfront apartment with kitchen, near Arossim Beach",1,0,24,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,The Treehouse Blue,5000,3,11,"Curilo Waddo, Majorda,Salcete, Majorda, Goa",403713,"Beachfront apartment with kitchen, near Arossim Beach",1,0,24,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,The Treehouse Blue,3500,3,11,"Curilo Waddo, Majorda,Salcete, Majorda, Goa",403713,"Beachfront apartment with kitchen, near Arossim Beach",1,0,24,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,The Tubki Resort,3250,3,48,"Patnem-Palolem Beach Road, Canacona, Goa",403702,"3-star hotel with outdoor pool, near Palolem Beach",1,1,34,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,The Tubki Resort,5500,3,48,"Patnem-Palolem Beach Road, Canacona, Goa",403702,"3-star hotel with outdoor pool, near Palolem Beach",1,1,34,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,The Tubki Resort,5500,3,48,"Patnem-Palolem Beach Road, Canacona, Goa",403702,"3-star hotel with outdoor pool, near Palolem Beach",1,1,34,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,The Tubki Resort,5500,3,48,"Patnem-Palolem Beach Road, Canacona, Goa",403702,"3-star hotel with outdoor pool, near Palolem Beach",1,1,34,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,The Tubki Resort,5500,3,48,"Patnem-Palolem Beach Road, Canacona, Goa",403702,"3-star hotel with outdoor pool, near Palolem Beach",1,1,34,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,The Tubki Resort,5500,3,48,"Patnem-Palolem Beach Road, Canacona, Goa",403702,"3-star hotel with outdoor pool, near Palolem Beach",1,1,34,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,The Tubki Resort,5500,3,48,"Patnem-Palolem Beach Road, Canacona, Goa",403702,"3-star hotel with outdoor pool, near Palolem Beach",1,1,34,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,The Tubki Resort,5500,3,48,"Patnem-Palolem Beach Road, Canacona, Goa",403702,"3-star hotel with outdoor pool, near Palolem Beach",1,1,34,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,The Zuri White Sands,11049,5,20,"178 &179 Pedda, Varca, Varca",403721,"Upscale beach resort with spa, near Varca Beach",1,1,154,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,The Zuri White Sands,12562,5,20,"179 &179 Pedda, Varca, Varca",403721,"Upscale beach resort with spa, near Varca Beach",1,1,154,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,The Zuri White Sands,17499,5,20,"180 &179 Pedda, Varca, Varca",403721,"Upscale beach resort with spa, near Varca Beach",1,1,154,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,The Zuri White Sands,13999,5,20,"181 &179 Pedda, Varca, Varca",403721,"Upscale beach resort with spa, near Varca Beach",1,1,154,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,The Zuri White Sands,41999,5,20,"182 &179 Pedda, Varca, Varca",403721,"Upscale beach resort with spa, near Varca Beach",1,1,154,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,The Zuri White Sands,11899,5,20,"183 &179 Pedda, Varca, Varca",403721,"Upscale beach resort with spa, near Varca Beach",1,1,154,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,The Zuri White Sands,41999,5,20,"184 &179 Pedda, Varca, Varca",403721,"Upscale beach resort with spa, near Varca Beach",1,1,154,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,The Zuri White Sands,11199,5,20,"185 &179 Pedda, Varca, Varca",403721,"Upscale beach resort with spa, near Varca Beach",1,1,154,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Treebo Rain Forest Enclave,5970,3,22,"262/6, Ward 14, Ghat Bhat Waddo,, Arpora, 403518, India",403518,"3-star hotel, convenient to Baga Beach",1,1,11,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Treebo Rain Forest Enclave,5619,3,22,"262/6, Ward 14, Ghat Bhat Waddo,, Arpora, 403518, India",403518,"3-star hotel, convenient to Baga Beach",1,1,11,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Treebo Rain Forest Enclave,7375,3,22,"262/6, Ward 14, Ghat Bhat Waddo,, Arpora, 403518, India",403518,"3-star hotel, convenient to Baga Beach",1,1,11,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Treebo Rain Forest Enclave,7375,3,22,"262/6, Ward 14, Ghat Bhat Waddo,, Arpora, 403518, India",403518,"3-star hotel, convenient to Baga Beach",1,1,11,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Treebo Rain Forest Enclave,7375,3,22,"262/6, Ward 14, Ghat Bhat Waddo,, Arpora, 403518, India",403518,"3-star hotel, convenient to Baga Beach",1,1,11,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Treebo Rain Forest Enclave,7375,3,22,"262/6, Ward 14, Ghat Bhat Waddo,, Arpora, 403518, India",403518,"3-star hotel, convenient to Baga Beach",1,1,11,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Treebo Rain Forest Enclave,7375,3,22,"262/6, Ward 14, Ghat Bhat Waddo,, Arpora, 403518, India",403518,"3-star hotel, convenient to Baga Beach",1,1,11,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Treebo Rain Forest Enclave,3817,3,22,"262/6, Ward 14, Ghat Bhat Waddo,, Arpora, 403518, India",403518,"3-star hotel, convenient to Baga Beach",1,1,11,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,United-21 Emerald Forest Hotel,3500,4,21,"466, Guneavaddo, Varca",403721,"Adults-only hotel with outdoor pool, near Varca Beach",1,0,20,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,United-21 Emerald Forest Hotel,4249,4,21,"466, Guneavaddo, Varca",403721,"Adults-only hotel with outdoor pool, near Varca Beach",1,0,20,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,United-21 Emerald Forest Hotel,4249,4,21,"466, Guneavaddo, Varca",403721,"Adults-only hotel with outdoor pool, near Varca Beach",1,0,20,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,United-21 Emerald Forest Hotel,4249,4,21,"466, Guneavaddo, Varca",403721,"Adults-only hotel with outdoor pool, near Varca Beach",1,0,20,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,United-21 Emerald Forest Hotel,4249,4,21,"466, Guneavaddo, Varca",403721,"Adults-only hotel with outdoor pool, near Varca Beach",1,0,20,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,United-21 Emerald Forest Hotel,4249,4,21,"466, Guneavaddo, Varca",403721,"Adults-only hotel with outdoor pool, near Varca Beach",1,0,20,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,United-21 Emerald Forest Hotel,4249,4,21,"466, Guneavaddo, Varca",403721,"Adults-only hotel with outdoor pool, near Varca Beach",1,0,20,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,United-21 Emerald Forest Hotel,4249,4,21,"466, Guneavaddo, Varca",403721,"Adults-only hotel with outdoor pool, near Varca Beach",1,0,20,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Vagator House,3300,2,14,"Deulwada, Vagator, Goa",403509,No Description,1,0,8,0
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Vagator House,3300,2,14,"Deulwada, Vagator, Goa",403509,No Description,1,0,8,0
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Vagator House,3300,2,14,"Deulwada, Vagator, Goa",403509,No Description,1,0,8,0
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Vagator House,3300,2,14,"Deulwada, Vagator, Goa",403509,No Description,1,0,8,0
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Vagator House,3300,2,14,"Deulwada, Vagator, Goa",403509,No Description,1,0,8,0
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Vagator House,3300,2,14,"Deulwada, Vagator, Goa",403509,No Description,1,0,8,0
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Vagator House,3300,2,14,"Deulwada, Vagator, Goa",403509,No Description,1,0,8,0
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Vagator House,3300,2,14,"Deulwada, Vagator, Goa",403509,No Description,1,0,8,0
+Goa,1457723,18,0,1,1,0,Dec 18 2016,"Vivanta by Taj - Fort Aguada, Goa",13000,5,15,"Sinquerim Bardez, Candolim, Goa",403519,"5-star beachfront hotel with spa, near Fort Aguada",1,1,145,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,"Vivanta by Taj - Fort Aguada, Goa",13000,5,15,"Sinquerim Bardez, Candolim, Goa",403519,"5-star beachfront hotel with spa, near Fort Aguada",1,1,145,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,"Vivanta by Taj - Fort Aguada, Goa",34000,5,15,"Sinquerim Bardez, Candolim, Goa",403519,"5-star beachfront hotel with spa, near Fort Aguada",1,1,145,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,"Vivanta by Taj - Fort Aguada, Goa",30000,5,15,"Sinquerim Bardez, Candolim, Goa",403519,"5-star beachfront hotel with spa, near Fort Aguada",1,1,145,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,"Vivanta by Taj - Fort Aguada, Goa",34000,5,15,"Sinquerim Bardez, Candolim, Goa",403519,"5-star beachfront hotel with spa, near Fort Aguada",1,1,145,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,"Vivanta by Taj - Fort Aguada, Goa",34000,5,15,"Sinquerim Bardez, Candolim, Goa",403519,"5-star beachfront hotel with spa, near Fort Aguada",1,1,145,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,"Vivanta by Taj - Fort Aguada, Goa",24500,5,15,"Sinquerim Bardez, Candolim, Goa",403519,"5-star beachfront hotel with spa, near Fort Aguada",1,1,145,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,"Vivanta by Taj - Fort Aguada, Goa",20250,5,15,"Sinquerim Bardez, Candolim, Goa",403519,"5-star beachfront hotel with spa, near Fort Aguada",1,1,145,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Whispering Palms Beach Resort,6999,3,16,"Sinquerim Beach Candolim Barde, Bardez, Candolim, Goa",403515,"3.5-star beachfront resort with spa, near Candolim Beach",1,1,106,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Whispering Palms Beach Resort,6999,3,16,"Sinquerim Beach Candolim Barde, Bardez, Candolim, Goa",403515,"3.5-star beachfront resort with spa, near Candolim Beach",1,1,106,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Whispering Palms Beach Resort,8046,3,16,"Sinquerim Beach Candolim Barde, Bardez, Candolim, Goa",403515,"3.5-star beachfront resort with spa, near Candolim Beach",1,1,106,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Whispering Palms Beach Resort,8046,3,16,"Sinquerim Beach Candolim Barde, Bardez, Candolim, Goa",403515,"3.5-star beachfront resort with spa, near Candolim Beach",1,1,106,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Whispering Palms Beach Resort,8046,3,16,"Sinquerim Beach Candolim Barde, Bardez, Candolim, Goa",403515,"3.5-star beachfront resort with spa, near Candolim Beach",1,1,106,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Whispering Palms Beach Resort,8046,3,16,"Sinquerim Beach Candolim Barde, Bardez, Candolim, Goa",403515,"3.5-star beachfront resort with spa, near Candolim Beach",1,1,106,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Whispering Palms Beach Resort,8046,3,16,"Sinquerim Beach Candolim Barde, Bardez, Candolim, Goa",403515,"3.5-star beachfront resort with spa, near Candolim Beach",1,1,106,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Whispering Palms Beach Resort,8046,3,16,"Sinquerim Beach Candolim Barde, Bardez, Candolim, Goa",403515,"3.5-star beachfront resort with spa, near Candolim Beach",1,1,106,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,White Pear Suites,5632,4,23,"Opp Hanuman temple, Saqwadi Baga, Arpora, Goa, 403518, India",403518,"4-star hotel with outdoor pool, near Anjuna Beach",1,0,12,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,White Pear Suites,5632,4,23,"Opp Hanuman temple, Saqwadi Baga, Arpora, Goa, 403518, India",403518,"4-star hotel with outdoor pool, near Anjuna Beach",1,0,12,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,White Pear Suites,8663,4,23,"Opp Hanuman temple, Saqwadi Baga, Arpora, Goa, 403518, India",403518,"4-star hotel with outdoor pool, near Anjuna Beach",1,0,12,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,White Pear Suites,7537,4,23,"Opp Hanuman temple, Saqwadi Baga, Arpora, Goa, 403518, India",403518,"4-star hotel with outdoor pool, near Anjuna Beach",1,0,12,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,White Pear Suites,10396,4,23,"Opp Hanuman temple, Saqwadi Baga, Arpora, Goa, 403518, India",403518,"4-star hotel with outdoor pool, near Anjuna Beach",1,0,12,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,White Pear Suites,10396,4,23,"Opp Hanuman temple, Saqwadi Baga, Arpora, Goa, 403518, India",403518,"4-star hotel with outdoor pool, near Anjuna Beach",1,0,12,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,White Pear Suites,5198,4,23,"Opp Hanuman temple, Saqwadi Baga, Arpora, Goa, 403518, India",403518,"4-star hotel with outdoor pool, near Anjuna Beach",1,0,12,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,White Pear Suites,10396,4,23,"Opp Hanuman temple, Saqwadi Baga, Arpora, Goa, 403518, India",403518,"4-star hotel with outdoor pool, near Anjuna Beach",1,0,12,1
+Goa,1457723,18,0,1,1,0,Dec 18 2016,Zense Resort,5894,4,16,"1088, Escrea-Walddo, Opp. Novotel Shrems Hotel, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,20,1
+Goa,1457723,18,0,1,0,0,Dec 21 2016,Zense Resort,4526,4,16,"1088, Escrea-Walddo, Opp. Novotel Shrems Hotel, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,20,1
+Goa,1457723,18,0,1,1,0,Dec 24 2016,Zense Resort,9425,4,16,"1088, Escrea-Walddo, Opp. Novotel Shrems Hotel, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,20,1
+Goa,1457723,18,0,1,1,0,Dec 25 2016,Zense Resort,9425,4,16,"1088, Escrea-Walddo, Opp. Novotel Shrems Hotel, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,20,1
+Goa,1457723,18,0,1,0,0,Dec 28 2016,Zense Resort,9425,4,16,"1088, Escrea-Walddo, Opp. Novotel Shrems Hotel, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,20,1
+Goa,1457723,18,0,1,1,1,Dec 31 2016,Zense Resort,9425,4,16,"1088, Escrea-Walddo, Opp. Novotel Shrems Hotel, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,20,1
+Goa,1457723,18,0,1,0,0,Jan 04 2017,Zense Resort,9425,4,16,"1088, Escrea-Walddo, Opp. Novotel Shrems Hotel, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,20,1
+Goa,1457723,18,0,1,1,0,Jan 08 2017,Zense Resort,4589,4,16,"1088, Escrea-Walddo, Opp. Novotel Shrems Hotel, Candolim, Goa",403515,"4-star hotel with outdoor pool, near Candolim Beach",1,1,20,1

@@ -1,0 +1,137 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Amritsar,2490891,13,0,1,1,0,Dec 18 2016,OYO Rooms Queens Road,3085,3,1.9,"Plot No. 3 Queen's Road,,Amritsar,,India",143001,Amritsar hotel next to shopping,1,1,15,0
+Amritsar,2490891,13,0,1,0,0,Dec 21 2016,OYO Rooms Queens Road,3085,3,1.9,"Plot No. 3 Queen's Road,,Amritsar,,India",143001,Amritsar hotel next to shopping,1,1,15,0
+Amritsar,2490891,13,0,1,1,0,Dec 24 2016,OYO Rooms Queens Road,1617,3,1.9,"Plot No. 3 Queen's Road,,Amritsar,,India",143001,Amritsar hotel next to shopping,1,1,15,0
+Amritsar,2490891,13,0,1,1,0,Dec 25 2016,OYO Rooms Queens Road,3085,3,1.9,"Plot No. 3 Queen's Road,,Amritsar,,India",143001,Amritsar hotel next to shopping,1,1,15,0
+Amritsar,2490891,13,0,1,0,0,Dec 28 2016,OYO Rooms Queens Road,3085,3,1.9,"Plot No. 3 Queen's Road,,Amritsar,,India",143001,Amritsar hotel next to shopping,1,1,15,0
+Amritsar,2490891,13,0,1,1,1,Dec 31 2016,OYO Rooms Queens Road,1617,3,1.9,"Plot No. 3 Queen's Road,,Amritsar,,India",143001,Amritsar hotel next to shopping,1,1,15,0
+Amritsar,2490891,13,0,1,0,0,Jan 04 2017,OYO Rooms Queens Road,3085,3,1.9,"Plot No. 3 Queen's Road,,Amritsar,,India",143001,Amritsar hotel next to shopping,1,1,15,0
+Amritsar,2490891,13,0,1,1,0,Jan 08 2017,OYO Rooms Queens Road,3085,3,1.9,"Plot No. 3 Queen's Road,,Amritsar,,India",143001,Amritsar hotel next to shopping,1,1,15,0
+Amritsar,2490891,13,0,1,1,0,Dec 18 2016,Hotel City Castle,796,3,11,"216 City Center, near Guru Nanak Bhawan, Opp Bus Stand Asr Hotel Lane 2, Amritsar, Punjab, 143001, India",143001,Amritsar city-center guestrooms with fireplaces,1,0,18,0
+Amritsar,2490891,13,0,1,0,0,Dec 21 2016,Hotel City Castle,1000,3,11,"217 City Center, near Guru Nanak Bhawan, Opp Bus Stand Asr Hotel Lane 2, Amritsar, Punjab, 143001, India",143001,Amritsar city-center guestrooms with fireplaces,1,0,18,0
+Amritsar,2490891,13,0,1,1,0,Dec 24 2016,Hotel City Castle,2080,3,11,"218 City Center, near Guru Nanak Bhawan, Opp Bus Stand Asr Hotel Lane 2, Amritsar, Punjab, 143001, India",143001,Amritsar city-center guestrooms with fireplaces,1,0,18,0
+Amritsar,2490891,13,0,1,1,0,Dec 25 2016,Hotel City Castle,2080,3,11,"219 City Center, near Guru Nanak Bhawan, Opp Bus Stand Asr Hotel Lane 2, Amritsar, Punjab, 143001, India",143001,Amritsar city-center guestrooms with fireplaces,1,0,18,0
+Amritsar,2490891,13,0,1,0,0,Dec 28 2016,Hotel City Castle,1760,3,11,"220 City Center, near Guru Nanak Bhawan, Opp Bus Stand Asr Hotel Lane 2, Amritsar, Punjab, 143001, India",143001,Amritsar city-center guestrooms with fireplaces,1,0,18,0
+Amritsar,2490891,13,0,1,1,1,Dec 31 2016,Hotel City Castle,2080,3,11,"221 City Center, near Guru Nanak Bhawan, Opp Bus Stand Asr Hotel Lane 2, Amritsar, Punjab, 143001, India",143001,Amritsar city-center guestrooms with fireplaces,1,0,18,0
+Amritsar,2490891,13,0,1,0,0,Jan 04 2017,Hotel City Castle,1760,3,11,"222 City Center, near Guru Nanak Bhawan, Opp Bus Stand Asr Hotel Lane 2, Amritsar, Punjab, 143001, India",143001,Amritsar city-center guestrooms with fireplaces,1,0,18,0
+Amritsar,2490891,13,0,1,1,0,Jan 08 2017,Hotel City Castle,880,3,11,"223 City Center, near Guru Nanak Bhawan, Opp Bus Stand Asr Hotel Lane 2, Amritsar, Punjab, 143001, India",143001,Amritsar city-center guestrooms with fireplaces,1,0,18,0
+Amritsar,2490891,13,0,1,1,0,Dec 18 2016,WelcomHeritage Ranjits Svaasa,6000,3,2.5,"47 A, The Mall Road,,Amritsar,Punjab,India",143001,"Victorian hotel in Amritsar with spa, restaurant",1,1,19,0
+Amritsar,2490891,13,0,1,0,0,Dec 21 2016,WelcomHeritage Ranjits Svaasa,4250,3,2.5,"47 A, The Mall Road,,Amritsar,Punjab,India",143001,"Victorian hotel in Amritsar with spa, restaurant",1,1,19,0
+Amritsar,2490891,13,0,1,1,0,Dec 24 2016,WelcomHeritage Ranjits Svaasa,6500,3,2.5,"47 A, The Mall Road,,Amritsar,Punjab,India",143001,"Victorian hotel in Amritsar with spa, restaurant",1,1,19,0
+Amritsar,2490891,13,0,1,1,0,Dec 25 2016,WelcomHeritage Ranjits Svaasa,4500,3,2.5,"47 A, The Mall Road,,Amritsar,Punjab,India",143001,"Victorian hotel in Amritsar with spa, restaurant",1,1,19,0
+Amritsar,2490891,13,0,1,0,0,Dec 28 2016,WelcomHeritage Ranjits Svaasa,12000,3,2.5,"47 A, The Mall Road,,Amritsar,Punjab,India",143001,"Victorian hotel in Amritsar with spa, restaurant",1,1,19,0
+Amritsar,2490891,13,0,1,1,1,Dec 31 2016,WelcomHeritage Ranjits Svaasa,12000,3,2.5,"47 A, The Mall Road,,Amritsar,Punjab,India",143001,"Victorian hotel in Amritsar with spa, restaurant",1,1,19,0
+Amritsar,2490891,13,0,1,0,0,Jan 04 2017,WelcomHeritage Ranjits Svaasa,6000,3,2.5,"47 A, The Mall Road,,Amritsar,Punjab,India",143001,"Victorian hotel in Amritsar with spa, restaurant",1,1,19,0
+Amritsar,2490891,13,0,1,1,0,Jan 08 2017,WelcomHeritage Ranjits Svaasa,11000,3,2.5,"47 A, The Mall Road,,Amritsar,Punjab,India",143001,"Victorian hotel in Amritsar with spa, restaurant",1,1,19,0
+Amritsar,2490891,13,0,1,1,0,Dec 18 2016,Hotel Namaskar Residency,2400,3.5,1.8,"3, Queen's Road,Behind OBC Bank, Hotel Lane,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with restaurant, 24-hour fitness",1,0,25,0
+Amritsar,2490891,13,0,1,0,0,Dec 21 2016,Hotel Namaskar Residency,2400,3.5,1.8,"3, Queen's Road,Behind OBC Bank, Hotel Lane,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with restaurant, 24-hour fitness",1,0,25,0
+Amritsar,2490891,13,0,1,1,0,Dec 24 2016,Hotel Namaskar Residency,3500,3.5,1.8,"3, Queen's Road,Behind OBC Bank, Hotel Lane,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with restaurant, 24-hour fitness",1,0,25,0
+Amritsar,2490891,13,0,1,1,0,Dec 25 2016,Hotel Namaskar Residency,3500,3.5,1.8,"3, Queen's Road,Behind OBC Bank, Hotel Lane,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with restaurant, 24-hour fitness",1,0,25,0
+Amritsar,2490891,13,0,1,0,0,Dec 28 2016,Hotel Namaskar Residency,3500,3.5,1.8,"3, Queen's Road,Behind OBC Bank, Hotel Lane,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with restaurant, 24-hour fitness",1,0,25,0
+Amritsar,2490891,13,0,1,1,1,Dec 31 2016,Hotel Namaskar Residency,3500,3.5,1.8,"3, Queen's Road,Behind OBC Bank, Hotel Lane,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with restaurant, 24-hour fitness",1,0,25,0
+Amritsar,2490891,13,0,1,0,0,Jan 04 2017,Hotel Namaskar Residency,2200,3.5,1.8,"3, Queen's Road,Behind OBC Bank, Hotel Lane,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with restaurant, 24-hour fitness",1,0,25,0
+Amritsar,2490891,13,0,1,1,0,Jan 08 2017,Hotel Namaskar Residency,2200,3.5,1.8,"3, Queen's Road,Behind OBC Bank, Hotel Lane,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with restaurant, 24-hour fitness",1,0,25,0
+Amritsar,2490891,13,0,1,1,0,Dec 18 2016,Hotel City Heart,2331,3,0.2,"Near Golden Temple,Opp. Jallianwala Bagh,Amritsar,Punjab,India",143001,City-center Amritsar hotel with restaurant,0,0,28,0
+Amritsar,2490891,13,0,1,0,0,Dec 21 2016,Hotel City Heart,2331,3,0.2,"Near Golden Temple,Opp. Jallianwala Bagh,Amritsar,Punjab,India",143001,City-center Amritsar hotel with restaurant,0,0,28,0
+Amritsar,2490891,13,0,1,1,0,Dec 24 2016,Hotel City Heart,2331,3,0.2,"Near Golden Temple,Opp. Jallianwala Bagh,Amritsar,Punjab,India",143001,City-center Amritsar hotel with restaurant,0,0,28,0
+Amritsar,2490891,13,0,1,1,0,Dec 25 2016,Hotel City Heart,2331,3,0.2,"Near Golden Temple,Opp. Jallianwala Bagh,Amritsar,Punjab,India",143001,City-center Amritsar hotel with restaurant,0,0,28,0
+Amritsar,2490891,13,0,1,0,0,Dec 28 2016,Hotel City Heart,2331,3,0.2,"Near Golden Temple,Opp. Jallianwala Bagh,Amritsar,Punjab,India",143001,City-center Amritsar hotel with restaurant,0,0,28,0
+Amritsar,2490891,13,0,1,1,1,Dec 31 2016,Hotel City Heart,2331,3,0.2,"Near Golden Temple,Opp. Jallianwala Bagh,Amritsar,Punjab,India",143001,City-center Amritsar hotel with restaurant,0,0,28,0
+Amritsar,2490891,13,0,1,0,0,Jan 04 2017,Hotel City Heart,3108,3,0.2,"Near Golden Temple,Opp. Jallianwala Bagh,Amritsar,Punjab,India",143001,City-center Amritsar hotel with restaurant,0,0,28,0
+Amritsar,2490891,13,0,1,1,0,Jan 08 2017,Hotel City Heart,3108,3,0.2,"Near Golden Temple,Opp. Jallianwala Bagh,Amritsar,Punjab,India",143001,City-center Amritsar hotel with restaurant,0,0,28,0
+Amritsar,2490891,13,0,1,1,0,Dec 18 2016,Hotel Akaal Residency,990,3,0.4,"Sethi Building Chowk Baba Sahib,,Amritsar,Punjab,India",143001,3-star Amritsar hotel with restaurant,1,0,29,0
+Amritsar,2490891,13,0,1,0,0,Dec 21 2016,Hotel Akaal Residency,1300,3,0.4,"Sethi Building Chowk Baba Sahib,,Amritsar,Punjab,India",143001,3-star Amritsar hotel with restaurant,1,0,29,0
+Amritsar,2490891,13,0,1,1,0,Dec 24 2016,Hotel Akaal Residency,1900,3,0.4,"Sethi Building Chowk Baba Sahib,,Amritsar,Punjab,India",143001,3-star Amritsar hotel with restaurant,1,0,29,0
+Amritsar,2490891,13,0,1,1,0,Dec 25 2016,Hotel Akaal Residency,1300,3,0.4,"Sethi Building Chowk Baba Sahib,,Amritsar,Punjab,India",143001,3-star Amritsar hotel with restaurant,1,0,29,0
+Amritsar,2490891,13,0,1,0,0,Dec 28 2016,Hotel Akaal Residency,1700,3,0.4,"Sethi Building Chowk Baba Sahib,,Amritsar,Punjab,India",143001,3-star Amritsar hotel with restaurant,1,0,29,0
+Amritsar,2490891,13,0,1,1,1,Dec 31 2016,Hotel Akaal Residency,1200,3,0.4,"Sethi Building Chowk Baba Sahib,,Amritsar,Punjab,India",143001,3-star Amritsar hotel with restaurant,1,0,29,0
+Amritsar,2490891,13,0,1,0,0,Jan 04 2017,Hotel Akaal Residency,1900,3,0.4,"Sethi Building Chowk Baba Sahib,,Amritsar,Punjab,India",143001,3-star Amritsar hotel with restaurant,1,0,29,0
+Amritsar,2490891,13,0,1,1,0,Jan 08 2017,Hotel Akaal Residency,1900,3,0.4,"Sethi Building Chowk Baba Sahib,,Amritsar,Punjab,India",143001,3-star Amritsar hotel with restaurant,1,0,29,0
+Amritsar,2490891,13,0,1,1,0,Dec 18 2016,Hotel Narula's Aurrum,2299,4,2.4,"Narula's Mall, Mall Road,,Amritsar,Punjab,India",143001,Amritsar upscale hotel with restaurant,1,0,30,0
+Amritsar,2490891,13,0,1,0,0,Dec 21 2016,Hotel Narula's Aurrum,2299,4,2.4,"Narula's Mall, Mall Road,,Amritsar,Punjab,India",143001,Amritsar upscale hotel with restaurant,1,0,30,0
+Amritsar,2490891,13,0,1,1,0,Dec 24 2016,Hotel Narula's Aurrum,2299,4,2.4,"Narula's Mall, Mall Road,,Amritsar,Punjab,India",143001,Amritsar upscale hotel with restaurant,1,0,30,0
+Amritsar,2490891,13,0,1,1,0,Dec 25 2016,Hotel Narula's Aurrum,2799,4,2.4,"Narula's Mall, Mall Road,,Amritsar,Punjab,India",143001,Amritsar upscale hotel with restaurant,1,0,30,0
+Amritsar,2490891,13,0,1,0,0,Dec 28 2016,Hotel Narula's Aurrum,2299,4,2.4,"Narula's Mall, Mall Road,,Amritsar,Punjab,India",143001,Amritsar upscale hotel with restaurant,1,0,30,0
+Amritsar,2490891,13,0,1,1,1,Dec 31 2016,Hotel Narula's Aurrum,2799,4,2.4,"Narula's Mall, Mall Road,,Amritsar,Punjab,India",143001,Amritsar upscale hotel with restaurant,1,0,30,0
+Amritsar,2490891,13,0,1,0,0,Jan 04 2017,Hotel Narula's Aurrum,2299,4,2.4,"Narula's Mall, Mall Road,,Amritsar,Punjab,India",143001,Amritsar upscale hotel with restaurant,1,0,30,0
+Amritsar,2490891,13,0,1,1,0,Jan 08 2017,Hotel Narula's Aurrum,2299,4,2.4,"Narula's Mall, Mall Road,,Amritsar,Punjab,India",143001,Amritsar upscale hotel with restaurant,1,0,30,0
+Amritsar,2490891,13,0,1,1,0,Dec 18 2016,Hotel Basera,1300,3,11,"223, Queensroad, Amritsar, Punjab, India",143001,"3 star hotel near Queensroad, Amritsar",1,0,31,0
+Amritsar,2490891,13,0,1,0,0,Dec 21 2016,Hotel Basera,1300,3,11,"223, Queensroad, Amritsar, Punjab, India",143001,"4 star hotel near Queensroad, Amritsar",1,0,31,0
+Amritsar,2490891,13,0,1,1,0,Dec 24 2016,Hotel Basera,1450,3,11,"223, Queensroad, Amritsar, Punjab, India",143001,"5 star hotel near Queensroad, Amritsar",1,0,31,0
+Amritsar,2490891,13,0,1,1,0,Dec 25 2016,Hotel Basera,1450,3,11,"223, Queensroad, Amritsar, Punjab, India",143001,"6 star hotel near Queensroad, Amritsar",1,0,31,0
+Amritsar,2490891,13,0,1,0,0,Dec 28 2016,Hotel Basera,1300,3,11,"223, Queensroad, Amritsar, Punjab, India",143001,"7 star hotel near Queensroad, Amritsar",1,0,31,0
+Amritsar,2490891,13,0,1,1,1,Dec 31 2016,Hotel Basera,1300,3,11,"223, Queensroad, Amritsar, Punjab, India",143001,"8 star hotel near Queensroad, Amritsar",1,0,31,0
+Amritsar,2490891,13,0,1,0,0,Jan 04 2017,Hotel Basera,1300,3,11,"223, Queensroad, Amritsar, Punjab, India",143001,"9 star hotel near Queensroad, Amritsar",1,0,31,0
+Amritsar,2490891,13,0,1,1,0,Jan 08 2017,Hotel Basera,1300,3,11,"223, Queensroad, Amritsar, Punjab, India",143001,"10 star hotel near Queensroad, Amritsar",1,0,31,0
+Amritsar,2490891,13,0,1,1,0,Dec 18 2016,Avaas Lifestyle Hotel,2824,3.5,3,"12 Lawrence Road,,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with restaurant, bar/lounge",1,1,32,0
+Amritsar,2490891,13,0,1,0,0,Dec 21 2016,Avaas Lifestyle Hotel,4933,3.5,3,"12 Lawrence Road,,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with restaurant, bar/lounge",1,1,32,0
+Amritsar,2490891,13,0,1,1,0,Dec 24 2016,Avaas Lifestyle Hotel,4933,3.5,3,"12 Lawrence Road,,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with restaurant, bar/lounge",1,1,32,0
+Amritsar,2490891,13,0,1,1,0,Dec 25 2016,Avaas Lifestyle Hotel,3529,3.5,3,"12 Lawrence Road,,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with restaurant, bar/lounge",1,1,32,0
+Amritsar,2490891,13,0,1,0,0,Dec 28 2016,Avaas Lifestyle Hotel,3529,3.5,3,"12 Lawrence Road,,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with restaurant, bar/lounge",1,1,32,0
+Amritsar,2490891,13,0,1,1,1,Dec 31 2016,Avaas Lifestyle Hotel,4933,3.5,3,"12 Lawrence Road,,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with restaurant, bar/lounge",1,1,32,0
+Amritsar,2490891,13,0,1,0,0,Jan 04 2017,Avaas Lifestyle Hotel,3467,3.5,3,"12 Lawrence Road,,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with restaurant, bar/lounge",1,1,32,0
+Amritsar,2490891,13,0,1,1,0,Jan 08 2017,Avaas Lifestyle Hotel,4933,3.5,3,"12 Lawrence Road,,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with restaurant, bar/lounge",1,1,32,0
+Amritsar,2490891,13,0,1,1,0,Dec 18 2016,"Clarks Inn, Amritsar",3200,3,1.6,"14, District Shopping Complex, B- Block,Ranjit Avenue,Amritsar,Punjab,India",143001,"Art Deco hotel in Amritsar with 3 restaurants, outdoor pool",1,0,40,1
+Amritsar,2490891,13,0,1,0,0,Dec 21 2016,"Clarks Inn, Amritsar",3200,3,1.6,"14, District Shopping Complex, B- Block,Ranjit Avenue,Amritsar,Punjab,India",143001,"Art Deco hotel in Amritsar with 3 restaurants, outdoor pool",1,0,40,1
+Amritsar,2490891,13,0,1,1,0,Dec 24 2016,"Clarks Inn, Amritsar",3200,3,1.6,"14, District Shopping Complex, B- Block,Ranjit Avenue,Amritsar,Punjab,India",143001,"Art Deco hotel in Amritsar with 3 restaurants, outdoor pool",1,0,40,1
+Amritsar,2490891,13,0,1,1,0,Dec 25 2016,"Clarks Inn, Amritsar",3200,3,1.6,"14, District Shopping Complex, B- Block,Ranjit Avenue,Amritsar,Punjab,India",143001,"Art Deco hotel in Amritsar with 3 restaurants, outdoor pool",1,0,40,1
+Amritsar,2490891,13,0,1,0,0,Dec 28 2016,"Clarks Inn, Amritsar",3200,3,1.6,"14, District Shopping Complex, B- Block,Ranjit Avenue,Amritsar,Punjab,India",143001,"Art Deco hotel in Amritsar with 3 restaurants, outdoor pool",1,0,40,1
+Amritsar,2490891,13,0,1,1,1,Dec 31 2016,"Clarks Inn, Amritsar",3200,3,1.6,"14, District Shopping Complex, B- Block,Ranjit Avenue,Amritsar,Punjab,India",143001,"Art Deco hotel in Amritsar with 3 restaurants, outdoor pool",1,0,40,1
+Amritsar,2490891,13,0,1,0,0,Jan 04 2017,"Clarks Inn, Amritsar",2680,3,1.6,"14, District Shopping Complex, B- Block,Ranjit Avenue,Amritsar,Punjab,India",143001,"Art Deco hotel in Amritsar with 3 restaurants, outdoor pool",1,0,40,1
+Amritsar,2490891,13,0,1,1,0,Jan 08 2017,"Clarks Inn, Amritsar",2680,3,1.6,"14, District Shopping Complex, B- Block,Ranjit Avenue,Amritsar,Punjab,India",143001,"Art Deco hotel in Amritsar with 3 restaurants, outdoor pool",1,0,40,1
+Amritsar,2490891,13,0,1,1,0,Dec 18 2016,FabHotel Orbion Mall Road,1477,3,11,"36-A, Mall Road, Amritsar, Punjab, 143001, India",143001,3-star Amritsar hotel with restaurant,1,0,40,0
+Amritsar,2490891,13,0,1,0,0,Dec 21 2016,FabHotel Orbion Mall Road,1102,3,11,"36-A, Mall Road, Amritsar, Punjab, 143001, India",143001,3-star Amritsar hotel with restaurant,1,0,40,0
+Amritsar,2490891,13,0,1,1,0,Dec 24 2016,FabHotel Orbion Mall Road,2002,3,11,"36-A, Mall Road, Amritsar, Punjab, 143001, India",143001,3-star Amritsar hotel with restaurant,1,0,40,0
+Amritsar,2490891,13,0,1,1,0,Dec 25 2016,FabHotel Orbion Mall Road,1589,3,11,"36-A, Mall Road, Amritsar, Punjab, 143001, India",143001,3-star Amritsar hotel with restaurant,1,0,40,0
+Amritsar,2490891,13,0,1,0,0,Dec 28 2016,FabHotel Orbion Mall Road,2039,3,11,"36-A, Mall Road, Amritsar, Punjab, 143001, India",143001,3-star Amritsar hotel with restaurant,1,0,40,0
+Amritsar,2490891,13,0,1,1,1,Dec 31 2016,FabHotel Orbion Mall Road,2039,3,11,"36-A, Mall Road, Amritsar, Punjab, 143001, India",143001,3-star Amritsar hotel with restaurant,1,0,40,0
+Amritsar,2490891,13,0,1,0,0,Jan 04 2017,FabHotel Orbion Mall Road,1477,3,11,"36-A, Mall Road, Amritsar, Punjab, 143001, India",143001,3-star Amritsar hotel with restaurant,1,0,40,0
+Amritsar,2490891,13,0,1,1,0,Jan 08 2017,FabHotel Orbion Mall Road,1477,3,11,"36-A, Mall Road, Amritsar, Punjab, 143001, India",143001,3-star Amritsar hotel with restaurant,1,0,40,0
+Amritsar,2490891,13,0,1,1,0,Dec 18 2016,Hotel City Park,3666,3,0.4,"Near Post Office, Jallianwala Bagh,,Amritsar,Punjab,India",143001,Amritsar city-center guestrooms with fireplaces,1,0,45,1
+Amritsar,2490891,13,0,1,0,0,Dec 21 2016,Hotel City Park,3799,3,0.4,"Near Post Office, Jallianwala Bagh,,Amritsar,Punjab,India",143001,Amritsar city-center guestrooms with fireplaces,1,0,45,1
+Amritsar,2490891,13,0,1,1,0,Dec 24 2016,Hotel City Park,4444,3,0.4,"Near Post Office, Jallianwala Bagh,,Amritsar,Punjab,India",143001,Amritsar city-center guestrooms with fireplaces,1,0,45,1
+Amritsar,2490891,13,0,1,1,0,Dec 25 2016,Hotel City Park,4444,3,0.4,"Near Post Office, Jallianwala Bagh,,Amritsar,Punjab,India",143001,Amritsar city-center guestrooms with fireplaces,1,0,45,1
+Amritsar,2490891,13,0,1,0,0,Dec 28 2016,Hotel City Park,4799,3,0.4,"Near Post Office, Jallianwala Bagh,,Amritsar,Punjab,India",143001,Amritsar city-center guestrooms with fireplaces,1,0,45,1
+Amritsar,2490891,13,0,1,1,1,Dec 31 2016,Hotel City Park,5555,3,0.4,"Near Post Office, Jallianwala Bagh,,Amritsar,Punjab,India",143001,Amritsar city-center guestrooms with fireplaces,1,0,45,1
+Amritsar,2490891,13,0,1,0,0,Jan 04 2017,Hotel City Park,3666,3,0.4,"Near Post Office, Jallianwala Bagh,,Amritsar,Punjab,India",143001,Amritsar city-center guestrooms with fireplaces,1,0,45,1
+Amritsar,2490891,13,0,1,1,0,Jan 08 2017,Hotel City Park,3666,3,0.4,"Near Post Office, Jallianwala Bagh,,Amritsar,Punjab,India",143001,Amritsar city-center guestrooms with fireplaces,1,0,45,1
+Amritsar,2490891,13,0,1,1,0,Dec 18 2016,Hotel City Park,3666,3,0.4,"Near Post Office, Jallianwala Bagh,,Amritsar,Punjab,India",143001,Amritsar city-center guestrooms with fireplaces,1,0,45,0
+Amritsar,2490891,13,0,1,0,0,Dec 21 2016,Hotel City Park,3799,3,0.4,"Near Post Office, Jallianwala Bagh,,Amritsar,Punjab,India",143001,Amritsar city-center guestrooms with fireplaces,1,0,45,0
+Amritsar,2490891,13,0,1,1,0,Dec 24 2016,Hotel City Park,4444,3,0.4,"Near Post Office, Jallianwala Bagh,,Amritsar,Punjab,India",143001,Amritsar city-center guestrooms with fireplaces,1,0,45,0
+Amritsar,2490891,13,0,1,1,0,Dec 25 2016,Hotel City Park,4444,3,0.4,"Near Post Office, Jallianwala Bagh,,Amritsar,Punjab,India",143001,Amritsar city-center guestrooms with fireplaces,1,0,45,0
+Amritsar,2490891,13,0,1,0,0,Dec 28 2016,Hotel City Park,4799,3,0.4,"Near Post Office, Jallianwala Bagh,,Amritsar,Punjab,India",143001,Amritsar city-center guestrooms with fireplaces,1,0,45,0
+Amritsar,2490891,13,0,1,1,1,Dec 31 2016,Hotel City Park,5555,3,0.4,"Near Post Office, Jallianwala Bagh,,Amritsar,Punjab,India",143001,Amritsar city-center guestrooms with fireplaces,1,0,45,0
+Amritsar,2490891,13,0,1,0,0,Jan 04 2017,Hotel City Park,3666,3,0.4,"Near Post Office, Jallianwala Bagh,,Amritsar,Punjab,India",143001,Amritsar city-center guestrooms with fireplaces,1,0,45,0
+Amritsar,2490891,13,0,1,1,0,Jan 08 2017,Hotel City Park,3666,3,0.4,"Near Post Office, Jallianwala Bagh,,Amritsar,Punjab,India",143001,Amritsar city-center guestrooms with fireplaces,1,0,45,0
+Amritsar,2490891,13,0,1,1,0,Dec 18 2016,Country Inn & Suites By Carlson Amritsar,3560,3.5,1.8,"Queens Road,,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with 2 restaurants, outdoor pool",1,1,48,1
+Amritsar,2490891,13,0,1,0,0,Dec 21 2016,Country Inn & Suites By Carlson Amritsar,3560,3.5,1.8,"Queens Road,,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with 2 restaurants, outdoor pool",1,1,48,1
+Amritsar,2490891,13,0,1,1,0,Dec 24 2016,Country Inn & Suites By Carlson Amritsar,4600,3.5,1.8,"Queens Road,,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with 2 restaurants, outdoor pool",1,1,48,1
+Amritsar,2490891,13,0,1,1,0,Dec 25 2016,Country Inn & Suites By Carlson Amritsar,4050,3.5,1.8,"Queens Road,,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with 2 restaurants, outdoor pool",1,1,48,1
+Amritsar,2490891,13,0,1,0,0,Dec 28 2016,Country Inn & Suites By Carlson Amritsar,7199,3.5,1.8,"Queens Road,,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with 2 restaurants, outdoor pool",1,1,48,1
+Amritsar,2490891,13,0,1,1,1,Dec 31 2016,Country Inn & Suites By Carlson Amritsar,7199,3.5,1.8,"Queens Road,,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with 2 restaurants, outdoor pool",1,1,48,1
+Amritsar,2490891,13,0,1,0,0,Jan 04 2017,Country Inn & Suites By Carlson Amritsar,3800,3.5,1.8,"Queens Road,,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with 2 restaurants, outdoor pool",1,1,48,1
+Amritsar,2490891,13,0,1,1,0,Jan 08 2017,Country Inn & Suites By Carlson Amritsar,3800,3.5,1.8,"Queens Road,,Amritsar,Punjab,India",143001,"3.5-star hotel in Amritsar with 2 restaurants, outdoor pool",1,1,48,1
+Amritsar,2490891,13,0,1,1,0,Dec 18 2016,The Fern Residency Amritsar,2070,4,2.6,"#33, The Mall,Sona Chandi Towers,Amritsar,,India",143001,Amritsar upscale hotel with restaurant,1,1,48,0
+Amritsar,2490891,13,0,1,0,0,Dec 21 2016,The Fern Residency Amritsar,2070,4,2.6,"#33, The Mall,Sona Chandi Towers,Amritsar,,India",143001,Amritsar upscale hotel with restaurant,1,1,48,0
+Amritsar,2490891,13,0,1,1,0,Dec 24 2016,The Fern Residency Amritsar,3000,4,2.6,"#33, The Mall,Sona Chandi Towers,Amritsar,,India",143001,Amritsar upscale hotel with restaurant,1,1,48,0
+Amritsar,2490891,13,0,1,1,0,Dec 25 2016,The Fern Residency Amritsar,2640,4,2.6,"#33, The Mall,Sona Chandi Towers,Amritsar,,India",143001,Amritsar upscale hotel with restaurant,1,1,48,0
+Amritsar,2490891,13,0,1,0,0,Dec 28 2016,The Fern Residency Amritsar,2640,4,2.6,"#33, The Mall,Sona Chandi Towers,Amritsar,,India",143001,Amritsar upscale hotel with restaurant,1,1,48,0
+Amritsar,2490891,13,0,1,1,1,Dec 31 2016,The Fern Residency Amritsar,3500,4,2.6,"#33, The Mall,Sona Chandi Towers,Amritsar,,India",143001,Amritsar upscale hotel with restaurant,1,1,48,0
+Amritsar,2490891,13,0,1,0,0,Jan 04 2017,The Fern Residency Amritsar,2640,4,2.6,"#33, The Mall,Sona Chandi Towers,Amritsar,,India",143001,Amritsar upscale hotel with restaurant,1,1,48,0
+Amritsar,2490891,13,0,1,1,0,Jan 08 2017,The Fern Residency Amritsar,2640,4,2.6,"#33, The Mall,Sona Chandi Towers,Amritsar,,India",143001,Amritsar upscale hotel with restaurant,1,1,48,0
+Amritsar,2490891,13,0,1,1,0,Dec 18 2016,Holiday Inn Amritsar Ranjit Avenue,4499,4,3.9,"District Shopping Centre Ranjit Avenue,,Amritsar,Punjab,India",143001,"4-star hotel in Amritsar with outdoor pool, bar/lounge",0,0,145,1
+Amritsar,2490891,13,0,1,0,0,Dec 21 2016,Holiday Inn Amritsar Ranjit Avenue,3600,4,3.9,"District Shopping Centre Ranjit Avenue,,Amritsar,Punjab,India",143001,"4-star hotel in Amritsar with outdoor pool, bar/lounge",0,0,145,1
+Amritsar,2490891,13,0,1,1,0,Dec 24 2016,Holiday Inn Amritsar Ranjit Avenue,4499,4,3.9,"District Shopping Centre Ranjit Avenue,,Amritsar,Punjab,India",143001,"4-star hotel in Amritsar with outdoor pool, bar/lounge",0,0,145,1
+Amritsar,2490891,13,0,1,1,0,Dec 25 2016,Holiday Inn Amritsar Ranjit Avenue,4335,4,3.9,"District Shopping Centre Ranjit Avenue,,Amritsar,Punjab,India",143001,"4-star hotel in Amritsar with outdoor pool, bar/lounge",0,0,145,1
+Amritsar,2490891,13,0,1,0,0,Dec 28 2016,Holiday Inn Amritsar Ranjit Avenue,5533,4,3.9,"District Shopping Centre Ranjit Avenue,,Amritsar,Punjab,India",143001,"4-star hotel in Amritsar with outdoor pool, bar/lounge",0,0,145,1
+Amritsar,2490891,13,0,1,1,1,Dec 31 2016,Holiday Inn Amritsar Ranjit Avenue,5599,4,3.9,"District Shopping Centre Ranjit Avenue,,Amritsar,Punjab,India",143001,"4-star hotel in Amritsar with outdoor pool, bar/lounge",0,0,145,1
+Amritsar,2490891,13,0,1,0,0,Jan 04 2017,Holiday Inn Amritsar Ranjit Avenue,4050,4,3.9,"District Shopping Centre Ranjit Avenue,,Amritsar,Punjab,India",143001,"4-star hotel in Amritsar with outdoor pool, bar/lounge",0,0,145,1
+Amritsar,2490891,13,0,1,1,0,Jan 08 2017,Holiday Inn Amritsar Ranjit Avenue,4320,4,3.9,"District Shopping Centre Ranjit Avenue,,Amritsar,Punjab,India",143001,"4-star hotel in Amritsar with outdoor pool, bar/lounge",0,0,145,1
+Amritsar,2490891,13,0,1,1,0,Dec 18 2016,Hyatt Amritsar,5600,4.5,10,"Adjoining Alpha One City Center, MBM Farms, G.T. Road, Amritsar, Punjab, 143001, India",143001,"Luxury hotel in Amritsar with 2 restaurants, spa",1,0,248,1
+Amritsar,2490891,13,0,1,0,0,Dec 21 2016,Hyatt Amritsar,5600,4.5,10,"Adjoining Alpha One City Center, MBM Farms, G.T. Road, Amritsar, Punjab, 143001, India",143001,"Luxury hotel in Amritsar with 2 restaurants, spa",1,0,248,1
+Amritsar,2490891,13,0,1,1,0,Dec 24 2016,Hyatt Amritsar,7500,4.5,10,"Adjoining Alpha One City Center, MBM Farms, G.T. Road, Amritsar, Punjab, 143001, India",143001,"Luxury hotel in Amritsar with 2 restaurants, spa",1,0,248,1
+Amritsar,2490891,13,0,1,1,0,Dec 25 2016,Hyatt Amritsar,6250,4.5,10,"Adjoining Alpha One City Center, MBM Farms, G.T. Road, Amritsar, Punjab, 143001, India",143001,"Luxury hotel in Amritsar with 2 restaurants, spa",1,0,248,1
+Amritsar,2490891,13,0,1,0,0,Dec 28 2016,Hyatt Amritsar,7500,4.5,10,"Adjoining Alpha One City Center, MBM Farms, G.T. Road, Amritsar, Punjab, 143001, India",143001,"Luxury hotel in Amritsar with 2 restaurants, spa",1,0,248,1
+Amritsar,2490891,13,0,1,1,1,Dec 31 2016,Hyatt Amritsar,6500,4.5,10,"Adjoining Alpha One City Center, MBM Farms, G.T. Road, Amritsar, Punjab, 143001, India",143001,"Luxury hotel in Amritsar with 2 restaurants, spa",1,0,248,1
+Amritsar,2490891,13,0,1,0,0,Jan 04 2017,Hyatt Amritsar,6500,4.5,10,"Adjoining Alpha One City Center, MBM Farms, G.T. Road, Amritsar, Punjab, 143001, India",143001,"Luxury hotel in Amritsar with 2 restaurants, spa",1,0,248,1
+Amritsar,2490891,13,0,1,1,0,Jan 08 2017,Hyatt Amritsar,6500,4.5,10,"Adjoining Alpha One City Center, MBM Farms, G.T. Road, Amritsar, Punjab, 143001, India",143001,"Luxury hotel in Amritsar with 2 restaurants, spa",1,0,248,1

@@ -1,0 +1,129 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Rajkot,1286678,19,0,0,1,0,Dec 18 2016,Comfort Inn Legacy,3324,3,2.1,"Panchnath Main Road, Limda Chowk, Rajkot, Gujarat",360001,3-star Rajkot hotel with restaurant,1,1,38,0
+Rajkot,1286678,19,0,0,0,0,Dec 21 2016,Comfort Inn Legacy,3324,3,2.1,"Panchnath Main Road, Limda Chowk, Rajkot, Gujarat",360001,3-star Rajkot hotel with restaurant,1,1,38,0
+Rajkot,1286678,19,0,0,1,0,Dec 24 2016,Comfort Inn Legacy,3149,3,2.1,"Panchnath Main Road, Limda Chowk, Rajkot, Gujarat",360001,3-star Rajkot hotel with restaurant,1,1,38,0
+Rajkot,1286678,19,0,0,1,0,Dec 25 2016,Comfort Inn Legacy,3149,3,2.1,"Panchnath Main Road, Limda Chowk, Rajkot, Gujarat",360001,3-star Rajkot hotel with restaurant,1,1,38,0
+Rajkot,1286678,19,0,0,0,0,Dec 28 2016,Comfort Inn Legacy,3149,3,2.1,"Panchnath Main Road, Limda Chowk, Rajkot, Gujarat",360001,3-star Rajkot hotel with restaurant,1,1,38,0
+Rajkot,1286678,19,0,0,1,1,Dec 31 2016,Comfort Inn Legacy,3149,3,2.1,"Panchnath Main Road, Limda Chowk, Rajkot, Gujarat",360001,3-star Rajkot hotel with restaurant,1,1,38,0
+Rajkot,1286678,19,0,0,0,0,Jan 04 2017,Comfort Inn Legacy,3149,3,2.1,"Panchnath Main Road, Limda Chowk, Rajkot, Gujarat",360001,3-star Rajkot hotel with restaurant,1,1,38,0
+Rajkot,1286678,19,0,0,1,0,Jan 08 2017,Comfort Inn Legacy,3149,3,2.1,"Panchnath Main Road, Limda Chowk, Rajkot, Gujarat",360001,3-star Rajkot hotel with restaurant,1,1,38,0
+Rajkot,1286678,19,0,0,1,0,Dec 18 2016,Fortune Park JPS Grand,4250,5,5.6,"150 Feet Ring Road, Near Mavdi Circle, Rajkot, Gujarat",360004,"Luxury hotel in Rajkot with outdoor pool, restaurant",1,1,77,1
+Rajkot,1286678,19,0,0,0,0,Dec 21 2016,Fortune Park JPS Grand,5100,5,5.6,"150 Feet Ring Road, Near Mavdi Circle, Rajkot, Gujarat",360004,"Luxury hotel in Rajkot with outdoor pool, restaurant",1,1,77,1
+Rajkot,1286678,19,0,0,1,0,Dec 24 2016,Fortune Park JPS Grand,4250,5,5.6,"150 Feet Ring Road, Near Mavdi Circle, Rajkot, Gujarat",360004,"Luxury hotel in Rajkot with outdoor pool, restaurant",1,1,77,1
+Rajkot,1286678,19,0,0,1,0,Dec 25 2016,Fortune Park JPS Grand,4250,5,5.6,"150 Feet Ring Road, Near Mavdi Circle, Rajkot, Gujarat",360004,"Luxury hotel in Rajkot with outdoor pool, restaurant",1,1,77,1
+Rajkot,1286678,19,0,0,0,0,Dec 28 2016,Fortune Park JPS Grand,4000,5,5.6,"150 Feet Ring Road, Near Mavdi Circle, Rajkot, Gujarat",360004,"Luxury hotel in Rajkot with outdoor pool, restaurant",1,1,77,1
+Rajkot,1286678,19,0,0,1,1,Dec 31 2016,Fortune Park JPS Grand,4800,5,5.6,"150 Feet Ring Road, Near Mavdi Circle, Rajkot, Gujarat",360004,"Luxury hotel in Rajkot with outdoor pool, restaurant",1,1,77,1
+Rajkot,1286678,19,0,0,0,0,Jan 04 2017,Fortune Park JPS Grand,3600,5,5.6,"150 Feet Ring Road, Near Mavdi Circle, Rajkot, Gujarat",360004,"Luxury hotel in Rajkot with outdoor pool, restaurant",1,1,77,1
+Rajkot,1286678,19,0,0,1,0,Jan 08 2017,Fortune Park JPS Grand,3600,5,5.6,"150 Feet Ring Road, Near Mavdi Circle, Rajkot, Gujarat",360004,"Luxury hotel in Rajkot with outdoor pool, restaurant",1,1,77,1
+Rajkot,1286678,19,0,0,1,0,Dec 18 2016,Heritage Khirasara Palace,4000,4,15,"Kalawad Road, Nr Metoda G.I.D.C., Khirasara (Ranmalji), Rajkot, Gujarat",360021,"4-star hotel in Rajkot with 2 restaurants, outdoor pool",1,1,24,1
+Rajkot,1286678,19,0,0,0,0,Dec 21 2016,Heritage Khirasara Palace,4000,4,15,"Kalawad Road, Nr Metoda G.I.D.C., Khirasara (Ranmalji), Rajkot, Gujarat",360021,"4-star hotel in Rajkot with 2 restaurants, outdoor pool",1,1,24,1
+Rajkot,1286678,19,0,0,1,0,Dec 24 2016,Heritage Khirasara Palace,4750,4,15,"Kalawad Road, Nr Metoda G.I.D.C., Khirasara (Ranmalji), Rajkot, Gujarat",360021,"4-star hotel in Rajkot with 2 restaurants, outdoor pool",1,1,24,1
+Rajkot,1286678,19,0,0,1,0,Dec 25 2016,Heritage Khirasara Palace,7125,4,15,"Kalawad Road, Nr Metoda G.I.D.C., Khirasara (Ranmalji), Rajkot, Gujarat",360021,"4-star hotel in Rajkot with 2 restaurants, outdoor pool",1,1,24,1
+Rajkot,1286678,19,0,0,0,0,Dec 28 2016,Heritage Khirasara Palace,4750,4,15,"Kalawad Road, Nr Metoda G.I.D.C., Khirasara (Ranmalji), Rajkot, Gujarat",360021,"4-star hotel in Rajkot with 2 restaurants, outdoor pool",1,1,24,1
+Rajkot,1286678,19,0,0,1,1,Dec 31 2016,Heritage Khirasara Palace,5700,4,15,"Kalawad Road, Nr Metoda G.I.D.C., Khirasara (Ranmalji), Rajkot, Gujarat",360021,"4-star hotel in Rajkot with 2 restaurants, outdoor pool",1,1,24,1
+Rajkot,1286678,19,0,0,0,0,Jan 04 2017,Heritage Khirasara Palace,4750,4,15,"Kalawad Road, Nr Metoda G.I.D.C., Khirasara (Ranmalji), Rajkot, Gujarat",360021,"4-star hotel in Rajkot with 2 restaurants, outdoor pool",1,1,24,1
+Rajkot,1286678,19,0,0,1,0,Jan 08 2017,Heritage Khirasara Palace,4750,4,15,"Kalawad Road, Nr Metoda G.I.D.C., Khirasara (Ranmalji), Rajkot, Gujarat",360021,"4-star hotel in Rajkot with 2 restaurants, outdoor pool",1,1,24,1
+Rajkot,1286678,19,0,0,1,0,Dec 18 2016,OYO Premium Gondal Road NH27,2213,3,3.5,"Krishna Park Circle, Gondal Road, Rajkot",360004,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,0,0,Dec 21 2016,OYO Premium Gondal Road NH27,2299,3,3.5,"Krishna Park Circle, Gondal Road, Rajkot",360004,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,1,0,Dec 24 2016,OYO Premium Gondal Road NH27,2299,3,3.5,"Krishna Park Circle, Gondal Road, Rajkot",360004,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,1,0,Dec 25 2016,OYO Premium Gondal Road NH27,2299,3,3.5,"Krishna Park Circle, Gondal Road, Rajkot",360004,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,0,0,Dec 28 2016,OYO Premium Gondal Road NH27,2213,3,3.5,"Krishna Park Circle, Gondal Road, Rajkot",360004,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,1,1,Dec 31 2016,OYO Premium Gondal Road NH27,2213,3,3.5,"Krishna Park Circle, Gondal Road, Rajkot",360004,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,0,0,Jan 04 2017,OYO Premium Gondal Road NH27,5959,3,3.5,"Krishna Park Circle, Gondal Road, Rajkot",360004,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,1,0,Jan 08 2017,OYO Premium Gondal Road NH27,6066,3,3.5,"Krishna Park Circle, Gondal Road, Rajkot",360004,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,1,0,Dec 18 2016,OYO Premium Jubilee Garden Jawahar Road,1702,3,2,"Jawahar Road, Sadar, Opp. Jubeli Garden, Rajkot, Gujrat",360001,3-star Rajkot hotel with restaurant,1,1,15,0
+Rajkot,1286678,19,0,0,0,0,Dec 21 2016,OYO Premium Jubilee Garden Jawahar Road,1745,3,2,"Jawahar Road, Sadar, Opp. Jubeli Garden, Rajkot, Gujrat",360001,3-star Rajkot hotel with restaurant,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Dec 24 2016,OYO Premium Jubilee Garden Jawahar Road,1745,3,2,"Jawahar Road, Sadar, Opp. Jubeli Garden, Rajkot, Gujrat",360001,3-star Rajkot hotel with restaurant,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Dec 25 2016,OYO Premium Jubilee Garden Jawahar Road,1745,3,2,"Jawahar Road, Sadar, Opp. Jubeli Garden, Rajkot, Gujrat",360001,3-star Rajkot hotel with restaurant,1,1,15,0
+Rajkot,1286678,19,0,0,0,0,Dec 28 2016,OYO Premium Jubilee Garden Jawahar Road,1702,3,2,"Jawahar Road, Sadar, Opp. Jubeli Garden, Rajkot, Gujrat",360001,3-star Rajkot hotel with restaurant,1,1,15,0
+Rajkot,1286678,19,0,0,1,1,Dec 31 2016,OYO Premium Jubilee Garden Jawahar Road,2128,3,2,"Jawahar Road, Sadar, Opp. Jubeli Garden, Rajkot, Gujrat",360001,3-star Rajkot hotel with restaurant,1,1,15,0
+Rajkot,1286678,19,0,0,0,0,Jan 04 2017,OYO Premium Jubilee Garden Jawahar Road,23418,3,2,"Jawahar Road, Sadar, Opp. Jubeli Garden, Rajkot, Gujrat",360001,3-star Rajkot hotel with restaurant,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Jan 08 2017,OYO Premium Jubilee Garden Jawahar Road,23418,3,2,"Jawahar Road, Sadar, Opp. Jubeli Garden, Rajkot, Gujrat",360001,3-star Rajkot hotel with restaurant,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Dec 18 2016,OYO Premium Limda Chowk,20224,3,2,"Opp. Tata Indicom, near Srinath Travels, Rajkot",360001,3-star Rajkot hotel with restaurant,1,1,15,0
+Rajkot,1286678,19,0,0,0,0,Dec 21 2016,OYO Premium Limda Chowk,2043,3,2,"Opp. Tata Indicom, near Srinath Travels, Rajkot",360001,3-star Rajkot hotel with restaurant,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Dec 24 2016,OYO Premium Limda Chowk,20224,3,2,"Opp. Tata Indicom, near Srinath Travels, Rajkot",360001,3-star Rajkot hotel with restaurant,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Dec 25 2016,OYO Premium Limda Chowk,2043,3,2,"Opp. Tata Indicom, near Srinath Travels, Rajkot",360001,3-star Rajkot hotel with restaurant,1,1,15,0
+Rajkot,1286678,19,0,0,0,0,Dec 28 2016,OYO Premium Limda Chowk,2043,3,2,"Opp. Tata Indicom, near Srinath Travels, Rajkot",360001,3-star Rajkot hotel with restaurant,1,1,15,0
+Rajkot,1286678,19,0,0,1,1,Dec 31 2016,OYO Premium Limda Chowk,2554,3,2,"Opp. Tata Indicom, near Srinath Travels, Rajkot",360001,3-star Rajkot hotel with restaurant,1,1,15,0
+Rajkot,1286678,19,0,0,0,0,Jan 04 2017,OYO Premium Limda Chowk,20224,3,2,"Opp. Tata Indicom, near Srinath Travels, Rajkot",360001,3-star Rajkot hotel with restaurant,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Jan 08 2017,OYO Premium Limda Chowk,20224,3,2,"Opp. Tata Indicom, near Srinath Travels, Rajkot",360001,3-star Rajkot hotel with restaurant,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Dec 18 2016,OYO Rooms Limda Chowk,1234,3,2.1,"Limda Chowk, Nr. Jalaram Chikki, Opp. Shastri Maidan, Rajkot",360001,3-star Rajkot hotel with bar/lounge,1,1,10,0
+Rajkot,1286678,19,0,0,0,0,Dec 21 2016,OYO Rooms Limda Chowk,1447,3,2.1,"Limda Chowk, Nr. Jalaram Chikki, Opp. Shastri Maidan, Rajkot",360001,3-star Rajkot hotel with bar/lounge,1,1,10,0
+Rajkot,1286678,19,0,0,1,0,Dec 24 2016,OYO Rooms Limda Chowk,1447,3,2.1,"Limda Chowk, Nr. Jalaram Chikki, Opp. Shastri Maidan, Rajkot",360001,3-star Rajkot hotel with bar/lounge,1,1,10,0
+Rajkot,1286678,19,0,0,1,0,Dec 25 2016,OYO Rooms Limda Chowk,1447,3,2.1,"Limda Chowk, Nr. Jalaram Chikki, Opp. Shastri Maidan, Rajkot",360001,3-star Rajkot hotel with bar/lounge,1,1,10,0
+Rajkot,1286678,19,0,0,0,0,Dec 28 2016,OYO Rooms Limda Chowk,1447,3,2.1,"Limda Chowk, Nr. Jalaram Chikki, Opp. Shastri Maidan, Rajkot",360001,3-star Rajkot hotel with bar/lounge,1,1,10,0
+Rajkot,1286678,19,0,0,1,1,Dec 31 2016,OYO Rooms Limda Chowk,3617,3,2.1,"Limda Chowk, Nr. Jalaram Chikki, Opp. Shastri Maidan, Rajkot",360001,3-star Rajkot hotel with bar/lounge,1,1,10,0
+Rajkot,1286678,19,0,0,0,0,Jan 04 2017,OYO Rooms Limda Chowk,3617,3,2.1,"Limda Chowk, Nr. Jalaram Chikki, Opp. Shastri Maidan, Rajkot",360001,3-star Rajkot hotel with bar/lounge,1,1,10,0
+Rajkot,1286678,19,0,0,1,0,Jan 08 2017,OYO Rooms Limda Chowk,3617,3,2.1,"Limda Chowk, Nr. Jalaram Chikki, Opp. Shastri Maidan, Rajkot",360001,3-star Rajkot hotel with bar/lounge,1,1,10,0
+Rajkot,1286678,19,0,0,1,0,Dec 18 2016,OYO Rooms Limda Chowk II,1532,3,2,"7th Floor, Sudarshan Commercial Centre, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,0,0,Dec 21 2016,OYO Rooms Limda Chowk II,1532,3,2,"7th Floor, Sudarshan Commercial Centre, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Dec 24 2016,OYO Rooms Limda Chowk II,1532,3,2,"7th Floor, Sudarshan Commercial Centre, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Dec 25 2016,OYO Rooms Limda Chowk II,1532,3,2,"7th Floor, Sudarshan Commercial Centre, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,0,0,Dec 28 2016,OYO Rooms Limda Chowk II,1532,3,2,"7th Floor, Sudarshan Commercial Centre, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,1,Dec 31 2016,OYO Rooms Limda Chowk II,1532,3,2,"7th Floor, Sudarshan Commercial Centre, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,0,0,Jan 04 2017,OYO Rooms Limda Chowk II,3724,3,2,"7th Floor, Sudarshan Commercial Centre, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Jan 08 2017,OYO Rooms Limda Chowk II,3724,3,2,"7th Floor, Sudarshan Commercial Centre, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Dec 18 2016,OYO Rooms Phulchhab Chowk II,1362,3,1.8,"Nutan Saurastra Press Road, Phulchhab Chowk, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,0,0,Dec 21 2016,OYO Rooms Phulchhab Chowk II,1362,3,1.8,"Nutan Saurastra Press Road, Phulchhab Chowk, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Dec 24 2016,OYO Rooms Phulchhab Chowk II,1362,3,1.8,"Nutan Saurastra Press Road, Phulchhab Chowk, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Dec 25 2016,OYO Rooms Phulchhab Chowk II,3617,3,1.8,"Nutan Saurastra Press Road, Phulchhab Chowk, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,0,0,Dec 28 2016,OYO Rooms Phulchhab Chowk II,1362,3,1.8,"Nutan Saurastra Press Road, Phulchhab Chowk, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,1,Dec 31 2016,OYO Rooms Phulchhab Chowk II,1404,3,1.8,"Nutan Saurastra Press Road, Phulchhab Chowk, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,0,0,Jan 04 2017,OYO Rooms Phulchhab Chowk II,3617,3,1.8,"Nutan Saurastra Press Road, Phulchhab Chowk, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Jan 08 2017,OYO Rooms Phulchhab Chowk II,3617,3,1.8,"Nutan Saurastra Press Road, Phulchhab Chowk, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Dec 18 2016,OYO Rooms Race Course Ring Road,1404,3,0.7,"Phulchhab Chowk, Nr. Girnar Cinema, Nr. Maganlal Ice Cream, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,0,0,Dec 21 2016,OYO Rooms Race Course Ring Road,1404,3,0.7,"Phulchhab Chowk, Nr. Girnar Cinema, Nr. Maganlal Ice Cream, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Dec 24 2016,OYO Rooms Race Course Ring Road,1404,3,0.7,"Phulchhab Chowk, Nr. Girnar Cinema, Nr. Maganlal Ice Cream, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Dec 25 2016,OYO Rooms Race Course Ring Road,1404,3,0.7,"Phulchhab Chowk, Nr. Girnar Cinema, Nr. Maganlal Ice Cream, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,0,0,Dec 28 2016,OYO Rooms Race Course Ring Road,1404,3,0.7,"Phulchhab Chowk, Nr. Girnar Cinema, Nr. Maganlal Ice Cream, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,1,Dec 31 2016,OYO Rooms Race Course Ring Road,1755,3,0.7,"Phulchhab Chowk, Nr. Girnar Cinema, Nr. Maganlal Ice Cream, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,0,0,Jan 04 2017,OYO Rooms Race Course Ring Road,3830,3,0.7,"Phulchhab Chowk, Nr. Girnar Cinema, Nr. Maganlal Ice Cream, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Jan 08 2017,OYO Rooms Race Course Ring Road,3830,3,0.7,"Phulchhab Chowk, Nr. Girnar Cinema, Nr. Maganlal Ice Cream, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Dec 18 2016,OYO Rooms Sanganva Chowk Trikon Baugh,4088,3,2.5,"Beside Trikon Baug Chowk, Sir Lakhajiraj Road, Nr. Raj Cinema, Rajkot",360001,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,0,0,Dec 21 2016,OYO Rooms Sanganva Chowk Trikon Baugh,4088,3,2.5,"Beside Trikon Baug Chowk, Sir Lakhajiraj Road, Nr. Raj Cinema, Rajkot",360001,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,1,0,Dec 24 2016,OYO Rooms Sanganva Chowk Trikon Baugh,4088,3,2.5,"Beside Trikon Baug Chowk, Sir Lakhajiraj Road, Nr. Raj Cinema, Rajkot",360001,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,1,0,Dec 25 2016,OYO Rooms Sanganva Chowk Trikon Baugh,4088,3,2.5,"Beside Trikon Baug Chowk, Sir Lakhajiraj Road, Nr. Raj Cinema, Rajkot",360001,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,0,0,Dec 28 2016,OYO Rooms Sanganva Chowk Trikon Baugh,4088,3,2.5,"Beside Trikon Baug Chowk, Sir Lakhajiraj Road, Nr. Raj Cinema, Rajkot",360001,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,1,1,Dec 31 2016,OYO Rooms Sanganva Chowk Trikon Baugh,10220,3,2.5,"Beside Trikon Baug Chowk, Sir Lakhajiraj Road, Nr. Raj Cinema, Rajkot",360001,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,0,0,Jan 04 2017,OYO Rooms Sanganva Chowk Trikon Baugh,10220,3,2.5,"Beside Trikon Baug Chowk, Sir Lakhajiraj Road, Nr. Raj Cinema, Rajkot",360001,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,1,0,Jan 08 2017,OYO Rooms Sanganva Chowk Trikon Baugh,10220,3,2.5,"Beside Trikon Baug Chowk, Sir Lakhajiraj Road, Nr. Raj Cinema, Rajkot",360001,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,1,0,Dec 18 2016,OYO Rooms ST Bus Station Rajkot,766,3,2.9,"Behind Bus Station, Karanpara, Kanak Road, Rajkot",380001,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,0,0,Dec 21 2016,OYO Rooms ST Bus Station Rajkot,766,3,2.9,"Behind Bus Station, Karanpara, Kanak Road, Rajkot",380001,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,1,0,Dec 24 2016,OYO Rooms ST Bus Station Rajkot,766,3,2.9,"Behind Bus Station, Karanpara, Kanak Road, Rajkot",380001,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,1,0,Dec 25 2016,OYO Rooms ST Bus Station Rajkot,766,3,2.9,"Behind Bus Station, Karanpara, Kanak Road, Rajkot",380001,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,0,0,Dec 28 2016,OYO Rooms ST Bus Station Rajkot,766,3,2.9,"Behind Bus Station, Karanpara, Kanak Road, Rajkot",380001,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,1,1,Dec 31 2016,OYO Rooms ST Bus Station Rajkot,766,3,2.9,"Behind Bus Station, Karanpara, Kanak Road, Rajkot",380001,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,0,0,Jan 04 2017,OYO Rooms ST Bus Station Rajkot,2127,3,2.9,"Behind Bus Station, Karanpara, Kanak Road, Rajkot",380001,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,1,0,Jan 08 2017,OYO Rooms ST Bus Station Rajkot,2127,3,2.9,"Behind Bus Station, Karanpara, Kanak Road, Rajkot",380001,3-star hotel in Rajkot,1,1,10,0
+Rajkot,1286678,19,0,0,1,0,Dec 18 2016,OYO Rooms Yagnik Road,1064,3,2.4,"3rd Floor, Pramukh Swami Arcade, Nr. Malviya Petrol Pump, Yagnik Road, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,0,0,Dec 21 2016,OYO Rooms Yagnik Road,1064,3,2.4,"3rd Floor, Pramukh Swami Arcade, Nr. Malviya Petrol Pump, Yagnik Road, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Dec 24 2016,OYO Rooms Yagnik Road,1021,3,2.4,"3rd Floor, Pramukh Swami Arcade, Nr. Malviya Petrol Pump, Yagnik Road, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Dec 25 2016,OYO Rooms Yagnik Road,1021,3,2.4,"3rd Floor, Pramukh Swami Arcade, Nr. Malviya Petrol Pump, Yagnik Road, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,0,0,Dec 28 2016,OYO Rooms Yagnik Road,1021,3,2.4,"3rd Floor, Pramukh Swami Arcade, Nr. Malviya Petrol Pump, Yagnik Road, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,1,Dec 31 2016,OYO Rooms Yagnik Road,1276,3,2.4,"3rd Floor, Pramukh Swami Arcade, Nr. Malviya Petrol Pump, Yagnik Road, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,0,0,Jan 04 2017,OYO Rooms Yagnik Road,2979,3,2.4,"3rd Floor, Pramukh Swami Arcade, Nr. Malviya Petrol Pump, Yagnik Road, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Jan 08 2017,OYO Rooms Yagnik Road,2979,3,2.4,"3rd Floor, Pramukh Swami Arcade, Nr. Malviya Petrol Pump, Yagnik Road, Rajkot",360001,Rajkot hotel next to shopping,1,1,15,0
+Rajkot,1286678,19,0,0,1,0,Dec 18 2016,Regency Lagoon Resort,7000,5,8.1,"Nyari Dam Road, Off. Kalawad Road, Rajkot",360005,"Luxury hotel in Rajkot with 2 restaurants, outdoor pool",1,1,52,1
+Rajkot,1286678,19,0,0,0,0,Dec 21 2016,Regency Lagoon Resort,3600,5,8.1,"Nyari Dam Road, Off. Kalawad Road, Rajkot",360005,"Luxury hotel in Rajkot with 2 restaurants, outdoor pool",1,1,52,1
+Rajkot,1286678,19,0,0,1,0,Dec 24 2016,Regency Lagoon Resort,4760,5,8.1,"Nyari Dam Road, Off. Kalawad Road, Rajkot",360005,"Luxury hotel in Rajkot with 2 restaurants, outdoor pool",1,1,52,1
+Rajkot,1286678,19,0,0,1,0,Dec 25 2016,Regency Lagoon Resort,4800,5,8.1,"Nyari Dam Road, Off. Kalawad Road, Rajkot",360005,"Luxury hotel in Rajkot with 2 restaurants, outdoor pool",1,1,52,1
+Rajkot,1286678,19,0,0,0,0,Dec 28 2016,Regency Lagoon Resort,4800,5,8.1,"Nyari Dam Road, Off. Kalawad Road, Rajkot",360005,"Luxury hotel in Rajkot with 2 restaurants, outdoor pool",1,1,52,1
+Rajkot,1286678,19,0,0,1,1,Dec 31 2016,Regency Lagoon Resort,7000,5,8.1,"Nyari Dam Road, Off. Kalawad Road, Rajkot",360005,"Luxury hotel in Rajkot with 2 restaurants, outdoor pool",1,1,52,1
+Rajkot,1286678,19,0,0,0,0,Jan 04 2017,Regency Lagoon Resort,5000,5,8.1,"Nyari Dam Road, Off. Kalawad Road, Rajkot",360005,"Luxury hotel in Rajkot with 2 restaurants, outdoor pool",1,1,52,1
+Rajkot,1286678,19,0,0,1,0,Jan 08 2017,Regency Lagoon Resort,4800,5,8.1,"Nyari Dam Road, Off. Kalawad Road, Rajkot",360005,"Luxury hotel in Rajkot with 2 restaurants, outdoor pool",1,1,52,1
+Rajkot,1286678,19,0,0,1,0,Dec 18 2016,The Fern Residency,3600,4,3.4,"Near Deluxe Cinema, Kuwadva Road, Rajkot, Gujarat",360003,3.5-star Rajkot hotel with restaurant,1,1,69,0
+Rajkot,1286678,19,0,0,0,0,Dec 21 2016,The Fern Residency,3600,4,3.4,"Near Deluxe Cinema, Kuwadva Road, Rajkot, Gujarat",360003,3.5-star Rajkot hotel with restaurant,1,1,69,0
+Rajkot,1286678,19,0,0,1,0,Dec 24 2016,The Fern Residency,4000,4,3.4,"Near Deluxe Cinema, Kuwadva Road, Rajkot, Gujarat",360003,3.5-star Rajkot hotel with restaurant,1,1,69,0
+Rajkot,1286678,19,0,0,1,0,Dec 25 2016,The Fern Residency,3520,4,3.4,"Near Deluxe Cinema, Kuwadva Road, Rajkot, Gujarat",360003,3.5-star Rajkot hotel with restaurant,1,1,69,0
+Rajkot,1286678,19,0,0,0,0,Dec 28 2016,The Fern Residency,3520,4,3.4,"Near Deluxe Cinema, Kuwadva Road, Rajkot, Gujarat",360003,3.5-star Rajkot hotel with restaurant,1,1,69,0
+Rajkot,1286678,19,0,0,1,1,Dec 31 2016,The Fern Residency,4000,4,3.4,"Near Deluxe Cinema, Kuwadva Road, Rajkot, Gujarat",360003,3.5-star Rajkot hotel with restaurant,1,1,69,0
+Rajkot,1286678,19,0,0,0,0,Jan 04 2017,The Fern Residency,3960,4,3.4,"Near Deluxe Cinema, Kuwadva Road, Rajkot, Gujarat",360003,3.5-star Rajkot hotel with restaurant,1,1,69,0
+Rajkot,1286678,19,0,0,1,0,Jan 08 2017,The Fern Residency,3960,4,3.4,"Near Deluxe Cinema, Kuwadva Road, Rajkot, Gujarat",360003,3.5-star Rajkot hotel with restaurant,1,1,69,0
+Rajkot,1286678,19,0,0,1,0,Dec 18 2016,The Imperial Palace Hotel,4900,4,1.7,"Dr. Yagnik Road, Rajkot, Gujarat",360001,"4-star hotel in Rajkot with spa, outdoor pool",1,1,80,1
+Rajkot,1286678,19,0,0,0,0,Dec 21 2016,The Imperial Palace Hotel,4900,4,1.7,"Dr. Yagnik Road, Rajkot, Gujarat",360001,"4-star hotel in Rajkot with spa, outdoor pool",1,1,80,1
+Rajkot,1286678,19,0,0,1,0,Dec 24 2016,The Imperial Palace Hotel,5700,4,1.7,"Dr. Yagnik Road, Rajkot, Gujarat",360001,"4-star hotel in Rajkot with spa, outdoor pool",1,1,80,1
+Rajkot,1286678,19,0,0,1,0,Dec 25 2016,The Imperial Palace Hotel,4900,4,1.7,"Dr. Yagnik Road, Rajkot, Gujarat",360001,"4-star hotel in Rajkot with spa, outdoor pool",1,1,80,1
+Rajkot,1286678,19,0,0,0,0,Dec 28 2016,The Imperial Palace Hotel,5700,4,1.7,"Dr. Yagnik Road, Rajkot, Gujarat",360001,"4-star hotel in Rajkot with spa, outdoor pool",1,1,80,1
+Rajkot,1286678,19,0,0,1,1,Dec 31 2016,The Imperial Palace Hotel,4900,4,1.7,"Dr. Yagnik Road, Rajkot, Gujarat",360001,"4-star hotel in Rajkot with spa, outdoor pool",1,1,80,1
+Rajkot,1286678,19,0,0,0,0,Jan 04 2017,The Imperial Palace Hotel,4900,4,1.7,"Dr. Yagnik Road, Rajkot, Gujarat",360001,"4-star hotel in Rajkot with spa, outdoor pool",1,1,80,1
+Rajkot,1286678,19,0,0,1,0,Jan 08 2017,The Imperial Palace Hotel,4900,4,1.7,"Dr. Yagnik Road, Rajkot, Gujarat",360001,"4-star hotel in Rajkot with spa, outdoor pool",1,1,80,1

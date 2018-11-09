@@ -1,0 +1,129 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Gangtok,98658,38,0,1,1,0,Dec 18 2016,Central Hill Resort Gangtok,2520,3,124,"Opp. Super Market, 31-A, National Highway, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,1,28,0
+Gangtok,98658,38,0,1,0,0,Dec 21 2016,Central Hill Resort Gangtok,2880,3,124,"Opp. Super Market, 31-A, National Highway, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,1,28,0
+Gangtok,98658,38,0,1,1,0,Dec 24 2016,Central Hill Resort Gangtok,2880,3,124,"Opp. Super Market, 31-A, National Highway, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,1,28,0
+Gangtok,98658,38,0,1,1,0,Dec 25 2016,Central Hill Resort Gangtok,2880,3,124,"Opp. Super Market, 31-A, National Highway, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,1,28,0
+Gangtok,98658,38,0,1,0,0,Dec 28 2016,Central Hill Resort Gangtok,2880,3,124,"Opp. Super Market, 31-A, National Highway, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,1,28,0
+Gangtok,98658,38,0,1,1,1,Dec 31 2016,Central Hill Resort Gangtok,2880,3,124,"Opp. Super Market, 31-A, National Highway, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,1,28,0
+Gangtok,98658,38,0,1,0,0,Jan 04 2017,Central Hill Resort Gangtok,2520,3,124,"Opp. Super Market, 31-A, National Highway, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,1,28,0
+Gangtok,98658,38,0,1,1,0,Jan 08 2017,Central Hill Resort Gangtok,2520,3,124,"Opp. Super Market, 31-A, National Highway, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,1,28,0
+Gangtok,98658,38,0,1,1,0,Dec 18 2016,Club Mahindra Gangtok,5500,3,124,"GRBA Road, Chongeyk, Gangtok, Sikkim",737103,"Mountain hotel in Gangtok with 2 restaurants, bar/lounge",0,0,32,0
+Gangtok,98658,38,0,1,0,0,Dec 21 2016,Club Mahindra Gangtok,5500,3,124,"GRBA Road, Chongeyk, Gangtok, Sikkim",737103,"Mountain hotel in Gangtok with 2 restaurants, bar/lounge",0,0,32,0
+Gangtok,98658,38,0,1,1,0,Dec 24 2016,Club Mahindra Gangtok,5500,3,124,"GRBA Road, Chongeyk, Gangtok, Sikkim",737103,"Mountain hotel in Gangtok with 2 restaurants, bar/lounge",0,0,32,0
+Gangtok,98658,38,0,1,1,0,Dec 25 2016,Club Mahindra Gangtok,5500,3,124,"GRBA Road, Chongeyk, Gangtok, Sikkim",737103,"Mountain hotel in Gangtok with 2 restaurants, bar/lounge",0,0,32,0
+Gangtok,98658,38,0,1,0,0,Dec 28 2016,Club Mahindra Gangtok,5500,3,124,"GRBA Road, Chongeyk, Gangtok, Sikkim",737103,"Mountain hotel in Gangtok with 2 restaurants, bar/lounge",0,0,32,0
+Gangtok,98658,38,0,1,1,1,Dec 31 2016,Club Mahindra Gangtok,5500,3,124,"GRBA Road, Chongeyk, Gangtok, Sikkim",737103,"Mountain hotel in Gangtok with 2 restaurants, bar/lounge",0,0,32,0
+Gangtok,98658,38,0,1,0,0,Jan 04 2017,Club Mahindra Gangtok,4675,3,124,"GRBA Road, Chongeyk, Gangtok, Sikkim",737103,"Mountain hotel in Gangtok with 2 restaurants, bar/lounge",0,0,32,0
+Gangtok,98658,38,0,1,1,0,Jan 08 2017,Club Mahindra Gangtok,4675,3,124,"GRBA Road, Chongeyk, Gangtok, Sikkim",737103,"Mountain hotel in Gangtok with 2 restaurants, bar/lounge",0,0,32,0
+Gangtok,98658,38,0,1,1,0,Dec 18 2016,Gangtok Delisso Abode -A Sterling Holiday Resort,4409,3,124,"Development Area, Beside S.N.T Head Office, Gangtok, India",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,0,27,0
+Gangtok,98658,38,0,1,0,0,Dec 21 2016,Gangtok Delisso Abode -A Sterling Holiday Resort,4292,3,124,"Development Area, Beside S.N.T Head Office, Gangtok, India",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,0,27,0
+Gangtok,98658,38,0,1,1,0,Dec 24 2016,Gangtok Delisso Abode -A Sterling Holiday Resort,8099,3,124,"Development Area, Beside S.N.T Head Office, Gangtok, India",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,0,27,0
+Gangtok,98658,38,0,1,1,0,Dec 25 2016,Gangtok Delisso Abode -A Sterling Holiday Resort,8099,3,124,"Development Area, Beside S.N.T Head Office, Gangtok, India",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,0,27,0
+Gangtok,98658,38,0,1,0,0,Dec 28 2016,Gangtok Delisso Abode -A Sterling Holiday Resort,8909,3,124,"Development Area, Beside S.N.T Head Office, Gangtok, India",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,0,27,0
+Gangtok,98658,38,0,1,1,1,Dec 31 2016,Gangtok Delisso Abode -A Sterling Holiday Resort,8909,3,124,"Development Area, Beside S.N.T Head Office, Gangtok, India",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,0,27,0
+Gangtok,98658,38,0,1,0,0,Jan 04 2017,Gangtok Delisso Abode -A Sterling Holiday Resort,3239,3,124,"Development Area, Beside S.N.T Head Office, Gangtok, India",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,0,27,0
+Gangtok,98658,38,0,1,1,0,Jan 08 2017,Gangtok Delisso Abode -A Sterling Holiday Resort,8909,3,124,"Development Area, Beside S.N.T Head Office, Gangtok, India",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,0,27,0
+Gangtok,98658,38,0,1,1,0,Dec 18 2016,Hotel Mayal Retreat,2467,3,124,"Lower Burtuk Road, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,1,27,0
+Gangtok,98658,38,0,1,0,0,Dec 21 2016,Hotel Mayal Retreat,2467,3,124,"Lower Burtuk Road, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,1,27,0
+Gangtok,98658,38,0,1,1,0,Dec 24 2016,Hotel Mayal Retreat,2467,3,124,"Lower Burtuk Road, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,1,27,0
+Gangtok,98658,38,0,1,1,0,Dec 25 2016,Hotel Mayal Retreat,2467,3,124,"Lower Burtuk Road, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,1,27,0
+Gangtok,98658,38,0,1,0,0,Dec 28 2016,Hotel Mayal Retreat,2467,3,124,"Lower Burtuk Road, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,1,27,0
+Gangtok,98658,38,0,1,1,1,Dec 31 2016,Hotel Mayal Retreat,2467,3,124,"Lower Burtuk Road, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,1,27,0
+Gangtok,98658,38,0,1,0,0,Jan 04 2017,Hotel Mayal Retreat,1660,3,124,"Lower Burtuk Road, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,1,27,0
+Gangtok,98658,38,0,1,1,0,Jan 08 2017,Hotel Mayal Retreat,1660,3,124,"Lower Burtuk Road, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,1,27,0
+Gangtok,98658,38,0,1,1,0,Dec 18 2016,Hotel Suhim Portico,5000,3.5,124,"Helipad Rd, by Dist Administrative Cntr, Upper Sichey, Gangtok, Sikkim",737101,3.5-star Gangtok hotel with restaurant,1,0,31,0
+Gangtok,98658,38,0,1,0,0,Dec 21 2016,Hotel Suhim Portico,4300,3.5,124,"Helipad Rd, by Dist Administrative Cntr, Upper Sichey, Gangtok, Sikkim",737101,3.5-star Gangtok hotel with restaurant,1,0,31,0
+Gangtok,98658,38,0,1,1,0,Dec 24 2016,Hotel Suhim Portico,4300,3.5,124,"Helipad Rd, by Dist Administrative Cntr, Upper Sichey, Gangtok, Sikkim",737101,3.5-star Gangtok hotel with restaurant,1,0,31,0
+Gangtok,98658,38,0,1,1,0,Dec 25 2016,Hotel Suhim Portico,4300,3.5,124,"Helipad Rd, by Dist Administrative Cntr, Upper Sichey, Gangtok, Sikkim",737101,3.5-star Gangtok hotel with restaurant,1,0,31,0
+Gangtok,98658,38,0,1,0,0,Dec 28 2016,Hotel Suhim Portico,5000,3.5,124,"Helipad Rd, by Dist Administrative Cntr, Upper Sichey, Gangtok, Sikkim",737101,3.5-star Gangtok hotel with restaurant,1,0,31,0
+Gangtok,98658,38,0,1,1,1,Dec 31 2016,Hotel Suhim Portico,5000,3.5,124,"Helipad Rd, by Dist Administrative Cntr, Upper Sichey, Gangtok, Sikkim",737101,3.5-star Gangtok hotel with restaurant,1,0,31,0
+Gangtok,98658,38,0,1,0,0,Jan 04 2017,Hotel Suhim Portico,3249,3.5,124,"Helipad Rd, by Dist Administrative Cntr, Upper Sichey, Gangtok, Sikkim",737101,3.5-star Gangtok hotel with restaurant,1,0,31,0
+Gangtok,98658,38,0,1,1,0,Jan 08 2017,Hotel Suhim Portico,3249,3.5,124,"Helipad Rd, by Dist Administrative Cntr, Upper Sichey, Gangtok, Sikkim",737101,3.5-star Gangtok hotel with restaurant,1,0,31,0
+Gangtok,98658,38,0,1,1,0,Dec 18 2016,Jewel Of The East,3510,3,124,"M.G.Marg, Opposite State Assembly, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,0,19,0
+Gangtok,98658,38,0,1,0,0,Dec 21 2016,Jewel Of The East,3510,3,124,"M.G.Marg, Opposite State Assembly, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,0,19,0
+Gangtok,98658,38,0,1,1,0,Dec 24 2016,Jewel Of The East,3870,3,124,"M.G.Marg, Opposite State Assembly, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,0,19,0
+Gangtok,98658,38,0,1,1,0,Dec 25 2016,Jewel Of The East,3870,3,124,"M.G.Marg, Opposite State Assembly, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,0,19,0
+Gangtok,98658,38,0,1,0,0,Dec 28 2016,Jewel Of The East,3870,3,124,"M.G.Marg, Opposite State Assembly, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,0,19,0
+Gangtok,98658,38,0,1,1,1,Dec 31 2016,Jewel Of The East,3510,3,124,"M.G.Marg, Opposite State Assembly, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,0,19,0
+Gangtok,98658,38,0,1,0,0,Jan 04 2017,Jewel Of The East,3510,3,124,"M.G.Marg, Opposite State Assembly, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,0,19,0
+Gangtok,98658,38,0,1,1,0,Jan 08 2017,Jewel Of The East,3510,3,124,"M.G.Marg, Opposite State Assembly, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,0,19,0
+Gangtok,98658,38,0,1,1,0,Dec 18 2016,Sinclairs Retreat Kalimpong,4950,3.5,124,"6th Mile, Purbong Busty, Kalimpong, West Bengal",734301,"3.5-star hotel in Kalimpong with spa, outdoor pool",1,1,48,1
+Gangtok,98658,38,0,1,0,0,Dec 21 2016,Sinclairs Retreat Kalimpong,4950,3.5,124,"6th Mile, Purbong Busty, Kalimpong, West Bengal",734301,"3.5-star hotel in Kalimpong with spa, outdoor pool",1,1,48,1
+Gangtok,98658,38,0,1,1,0,Dec 24 2016,Sinclairs Retreat Kalimpong,4950,3.5,124,"6th Mile, Purbong Busty, Kalimpong, West Bengal",734301,"3.5-star hotel in Kalimpong with spa, outdoor pool",1,1,48,1
+Gangtok,98658,38,0,1,1,0,Dec 25 2016,Sinclairs Retreat Kalimpong,4950,3.5,124,"6th Mile, Purbong Busty, Kalimpong, West Bengal",734301,"3.5-star hotel in Kalimpong with spa, outdoor pool",1,1,48,1
+Gangtok,98658,38,0,1,0,0,Dec 28 2016,Sinclairs Retreat Kalimpong,4950,3.5,124,"6th Mile, Purbong Busty, Kalimpong, West Bengal",734301,"3.5-star hotel in Kalimpong with spa, outdoor pool",1,1,48,1
+Gangtok,98658,38,0,1,1,1,Dec 31 2016,Sinclairs Retreat Kalimpong,8550,3.5,124,"6th Mile, Purbong Busty, Kalimpong, West Bengal",734301,"3.5-star hotel in Kalimpong with spa, outdoor pool",1,1,48,1
+Gangtok,98658,38,0,1,0,0,Jan 04 2017,Sinclairs Retreat Kalimpong,5040,3.5,124,"6th Mile, Purbong Busty, Kalimpong, West Bengal",734301,"3.5-star hotel in Kalimpong with spa, outdoor pool",1,1,48,1
+Gangtok,98658,38,0,1,1,0,Jan 08 2017,Sinclairs Retreat Kalimpong,5040,3.5,124,"6th Mile, Purbong Busty, Kalimpong, West Bengal",734301,"3.5-star hotel in Kalimpong with spa, outdoor pool",1,1,48,1
+Gangtok,98658,38,0,1,1,0,Dec 18 2016,Summit Barsana Resort & Spa,4900,3,124,"Near Upper cart road, Barsana Road, Kalimpong, West Bengal",737101,3-star Kalimpong hotel with restaurant,1,0,19,0
+Gangtok,98658,38,0,1,0,0,Dec 21 2016,Summit Barsana Resort & Spa,4000,3,124,"Near Upper cart road, Barsana Road, Kalimpong, West Bengal",737101,3-star Kalimpong hotel with restaurant,1,0,19,0
+Gangtok,98658,38,0,1,1,0,Dec 24 2016,Summit Barsana Resort & Spa,5500,3,124,"Near Upper cart road, Barsana Road, Kalimpong, West Bengal",737101,3-star Kalimpong hotel with restaurant,1,0,19,0
+Gangtok,98658,38,0,1,1,0,Dec 25 2016,Summit Barsana Resort & Spa,8700,3,124,"Near Upper cart road, Barsana Road, Kalimpong, West Bengal",737101,3-star Kalimpong hotel with restaurant,1,0,19,0
+Gangtok,98658,38,0,1,0,0,Dec 28 2016,Summit Barsana Resort & Spa,4900,3,124,"Near Upper cart road, Barsana Road, Kalimpong, West Bengal",737101,3-star Kalimpong hotel with restaurant,1,0,19,0
+Gangtok,98658,38,0,1,1,1,Dec 31 2016,Summit Barsana Resort & Spa,8700,3,124,"Near Upper cart road, Barsana Road, Kalimpong, West Bengal",737101,3-star Kalimpong hotel with restaurant,1,0,19,0
+Gangtok,98658,38,0,1,0,0,Jan 04 2017,Summit Barsana Resort & Spa,3700,3,124,"Near Upper cart road, Barsana Road, Kalimpong, West Bengal",737101,3-star Kalimpong hotel with restaurant,1,0,19,0
+Gangtok,98658,38,0,1,1,0,Jan 08 2017,Summit Barsana Resort & Spa,3700,3,124,"Near Upper cart road, Barsana Road, Kalimpong, West Bengal",737101,3-star Kalimpong hotel with restaurant,1,0,19,0
+Gangtok,98658,38,0,1,1,0,Dec 18 2016,Summit Golden Crescent,6000,3.5,124,"Sichey, Gangtok",737101,3.5-star Gangtok hotel with restaurant,1,1,33,0
+Gangtok,98658,38,0,1,0,0,Dec 21 2016,Summit Golden Crescent,6000,3.5,124,"Sichey, Gangtok",737101,3.5-star Gangtok hotel with restaurant,1,1,33,0
+Gangtok,98658,38,0,1,1,0,Dec 24 2016,Summit Golden Crescent,6000,3.5,124,"Sichey, Gangtok",737101,3.5-star Gangtok hotel with restaurant,1,1,33,0
+Gangtok,98658,38,0,1,1,0,Dec 25 2016,Summit Golden Crescent,6000,3.5,124,"Sichey, Gangtok",737101,3.5-star Gangtok hotel with restaurant,1,1,33,0
+Gangtok,98658,38,0,1,0,0,Dec 28 2016,Summit Golden Crescent,6000,3.5,124,"Sichey, Gangtok",737101,3.5-star Gangtok hotel with restaurant,1,1,33,0
+Gangtok,98658,38,0,1,1,1,Dec 31 2016,Summit Golden Crescent,6000,3.5,124,"Sichey, Gangtok",737101,3.5-star Gangtok hotel with restaurant,1,1,33,0
+Gangtok,98658,38,0,1,0,0,Jan 04 2017,Summit Golden Crescent,4100,3.5,124,"Sichey, Gangtok",737101,3.5-star Gangtok hotel with restaurant,1,1,33,0
+Gangtok,98658,38,0,1,1,0,Jan 08 2017,Summit Golden Crescent,3000,3.5,124,"Sichey, Gangtok",737101,3.5-star Gangtok hotel with restaurant,1,1,33,0
+Gangtok,98658,38,0,1,1,0,Dec 18 2016,Summit Namnang Courtyard & Spa,4300,3.5,124,"Nam Nang Road,Behind Big Bazaar, Gangtok, India",737101,"3.5-star hotel in Gangtok with spa, restaurant",1,0,17,0
+Gangtok,98658,38,0,1,0,0,Dec 21 2016,Summit Namnang Courtyard & Spa,4300,3.5,124,"Nam Nang Road,Behind Big Bazaar, Gangtok, India",737101,"3.5-star hotel in Gangtok with spa, restaurant",1,0,17,0
+Gangtok,98658,38,0,1,1,0,Dec 24 2016,Summit Namnang Courtyard & Spa,5300,3.5,124,"Nam Nang Road,Behind Big Bazaar, Gangtok, India",737101,"3.5-star hotel in Gangtok with spa, restaurant",1,0,17,0
+Gangtok,98658,38,0,1,1,0,Dec 25 2016,Summit Namnang Courtyard & Spa,3500,3.5,124,"Nam Nang Road,Behind Big Bazaar, Gangtok, India",737101,"3.5-star hotel in Gangtok with spa, restaurant",1,0,17,0
+Gangtok,98658,38,0,1,0,0,Dec 28 2016,Summit Namnang Courtyard & Spa,3900,3.5,124,"Nam Nang Road,Behind Big Bazaar, Gangtok, India",737101,"3.5-star hotel in Gangtok with spa, restaurant",1,0,17,0
+Gangtok,98658,38,0,1,1,1,Dec 31 2016,Summit Namnang Courtyard & Spa,5700,3.5,124,"Nam Nang Road,Behind Big Bazaar, Gangtok, India",737101,"3.5-star hotel in Gangtok with spa, restaurant",1,0,17,0
+Gangtok,98658,38,0,1,0,0,Jan 04 2017,Summit Namnang Courtyard & Spa,3100,3.5,124,"Nam Nang Road,Behind Big Bazaar, Gangtok, India",737101,"3.5-star hotel in Gangtok with spa, restaurant",1,0,17,0
+Gangtok,98658,38,0,1,1,0,Jan 08 2017,Summit Namnang Courtyard & Spa,5700,3.5,124,"Nam Nang Road,Behind Big Bazaar, Gangtok, India",737101,"3.5-star hotel in Gangtok with spa, restaurant",1,0,17,0
+Gangtok,98658,38,0,1,1,0,Dec 18 2016,Summit Newa Regency,2364,3,124,"Near SBI ATM, Lower Pelling, Pelling",737113,"3-star hotel in Pelling with spa, restaurant",1,0,20,0
+Gangtok,98658,38,0,1,0,0,Dec 21 2016,Summit Newa Regency,2364,3,124,"Near SBI ATM, Lower Pelling, Pelling",737113,"3-star hotel in Pelling with spa, restaurant",1,0,20,0
+Gangtok,98658,38,0,1,1,0,Dec 24 2016,Summit Newa Regency,2545,3,124,"Near SBI ATM, Lower Pelling, Pelling",737113,"3-star hotel in Pelling with spa, restaurant",1,0,20,0
+Gangtok,98658,38,0,1,1,0,Dec 25 2016,Summit Newa Regency,3455,3,124,"Near SBI ATM, Lower Pelling, Pelling",737113,"3-star hotel in Pelling with spa, restaurant",1,0,20,0
+Gangtok,98658,38,0,1,0,0,Dec 28 2016,Summit Newa Regency,3818,3,124,"Near SBI ATM, Lower Pelling, Pelling",737113,"3-star hotel in Pelling with spa, restaurant",1,0,20,0
+Gangtok,98658,38,0,1,1,1,Dec 31 2016,Summit Newa Regency,2545,3,124,"Near SBI ATM, Lower Pelling, Pelling",737113,"3-star hotel in Pelling with spa, restaurant",1,0,20,0
+Gangtok,98658,38,0,1,0,0,Jan 04 2017,Summit Newa Regency,2000,3,124,"Near SBI ATM, Lower Pelling, Pelling",737113,"3-star hotel in Pelling with spa, restaurant",1,0,20,0
+Gangtok,98658,38,0,1,1,0,Jan 08 2017,Summit Newa Regency,2000,3,124,"Near SBI ATM, Lower Pelling, Pelling",737113,"3-star hotel in Pelling with spa, restaurant",1,0,20,0
+Gangtok,98658,38,0,1,1,0,Dec 18 2016,Summit Norling Resort & Spa,10000,3.5,124,"Rongey, Gangtok",737101,"Mountain hotel in Gangtok with spa, restaurant",1,0,27,0
+Gangtok,98658,38,0,1,0,0,Dec 21 2016,Summit Norling Resort & Spa,8000,3.5,124,"Rongey, Gangtok",737101,"Mountain hotel in Gangtok with spa, restaurant",1,0,27,0
+Gangtok,98658,38,0,1,1,0,Dec 24 2016,Summit Norling Resort & Spa,10000,3.5,124,"Rongey, Gangtok",737101,"Mountain hotel in Gangtok with spa, restaurant",1,0,27,0
+Gangtok,98658,38,0,1,1,0,Dec 25 2016,Summit Norling Resort & Spa,10000,3.5,124,"Rongey, Gangtok",737101,"Mountain hotel in Gangtok with spa, restaurant",1,0,27,0
+Gangtok,98658,38,0,1,0,0,Dec 28 2016,Summit Norling Resort & Spa,10000,3.5,124,"Rongey, Gangtok",737101,"Mountain hotel in Gangtok with spa, restaurant",1,0,27,0
+Gangtok,98658,38,0,1,1,1,Dec 31 2016,Summit Norling Resort & Spa,10000,3.5,124,"Rongey, Gangtok",737101,"Mountain hotel in Gangtok with spa, restaurant",1,0,27,0
+Gangtok,98658,38,0,1,0,0,Jan 04 2017,Summit Norling Resort & Spa,4000,3.5,124,"Rongey, Gangtok",737101,"Mountain hotel in Gangtok with spa, restaurant",1,0,27,0
+Gangtok,98658,38,0,1,1,0,Jan 08 2017,Summit Norling Resort & Spa,3200,3.5,124,"Rongey, Gangtok",737101,"Mountain hotel in Gangtok with spa, restaurant",1,0,27,0
+Gangtok,98658,38,0,1,1,0,Dec 18 2016,Summit Sobralia Resort & Spa,3500,4,124,"Char Dham Road, Namchi,Gangtok",737126,"4-star hotel in Namchi with indoor pool, restaurant",1,1,41,1
+Gangtok,98658,38,0,1,0,0,Dec 21 2016,Summit Sobralia Resort & Spa,3500,4,124,"Char Dham Road, Namchi,Gangtok",737126,"4-star hotel in Namchi with indoor pool, restaurant",1,1,41,1
+Gangtok,98658,38,0,1,1,0,Dec 24 2016,Summit Sobralia Resort & Spa,4000,4,124,"Char Dham Road, Namchi,Gangtok",737126,"4-star hotel in Namchi with indoor pool, restaurant",1,1,41,1
+Gangtok,98658,38,0,1,1,0,Dec 25 2016,Summit Sobralia Resort & Spa,5000,4,124,"Char Dham Road, Namchi,Gangtok",737126,"4-star hotel in Namchi with indoor pool, restaurant",1,1,41,1
+Gangtok,98658,38,0,1,0,0,Dec 28 2016,Summit Sobralia Resort & Spa,4000,4,124,"Char Dham Road, Namchi,Gangtok",737126,"4-star hotel in Namchi with indoor pool, restaurant",1,1,41,1
+Gangtok,98658,38,0,1,1,1,Dec 31 2016,Summit Sobralia Resort & Spa,6000,4,124,"Char Dham Road, Namchi,Gangtok",737126,"4-star hotel in Namchi with indoor pool, restaurant",1,1,41,1
+Gangtok,98658,38,0,1,0,0,Jan 04 2017,Summit Sobralia Resort & Spa,3500,4,124,"Char Dham Road, Namchi,Gangtok",737126,"4-star hotel in Namchi with indoor pool, restaurant",1,1,41,1
+Gangtok,98658,38,0,1,1,0,Jan 08 2017,Summit Sobralia Resort & Spa,3500,4,124,"Char Dham Road, Namchi,Gangtok",737126,"4-star hotel in Namchi with indoor pool, restaurant",1,1,41,1
+Gangtok,98658,38,0,1,1,0,Dec 18 2016,Summit Ttakshang Residency Hotel & Spa,3000,3,124,"Kazi Road, Near Power House, Gangtok, Sikkim,",737101,"3-star hotel in Gangtok with spa, restaurant",1,0,25,0
+Gangtok,98658,38,0,1,0,0,Dec 21 2016,Summit Ttakshang Residency Hotel & Spa,4200,3,124,"Kazi Road, Near Power House, Gangtok, Sikkim,",737101,"3-star hotel in Gangtok with spa, restaurant",1,0,25,0
+Gangtok,98658,38,0,1,1,0,Dec 24 2016,Summit Ttakshang Residency Hotel & Spa,6500,3,124,"Kazi Road, Near Power House, Gangtok, Sikkim,",737101,"3-star hotel in Gangtok with spa, restaurant",1,0,25,0
+Gangtok,98658,38,0,1,1,0,Dec 25 2016,Summit Ttakshang Residency Hotel & Spa,8000,3,124,"Kazi Road, Near Power House, Gangtok, Sikkim,",737101,"3-star hotel in Gangtok with spa, restaurant",1,0,25,0
+Gangtok,98658,38,0,1,0,0,Dec 28 2016,Summit Ttakshang Residency Hotel & Spa,6000,3,124,"Kazi Road, Near Power House, Gangtok, Sikkim,",737101,"3-star hotel in Gangtok with spa, restaurant",1,0,25,0
+Gangtok,98658,38,0,1,1,1,Dec 31 2016,Summit Ttakshang Residency Hotel & Spa,6000,3,124,"Kazi Road, Near Power House, Gangtok, Sikkim,",737101,"3-star hotel in Gangtok with spa, restaurant",1,0,25,0
+Gangtok,98658,38,0,1,0,0,Jan 04 2017,Summit Ttakshang Residency Hotel & Spa,4200,3,124,"Kazi Road, Near Power House, Gangtok, Sikkim,",737101,"3-star hotel in Gangtok with spa, restaurant",1,0,25,0
+Gangtok,98658,38,0,1,1,0,Jan 08 2017,Summit Ttakshang Residency Hotel & Spa,3000,3,124,"Kazi Road, Near Power House, Gangtok, Sikkim,",737101,"3-star hotel in Gangtok with spa, restaurant",1,0,25,0
+Gangtok,98658,38,0,1,1,0,Dec 18 2016,The Golden Crest,6000,3.5,124,"Amdo Golai, Gangtok, India",737102,City-center Gangtok hotel with restaurant,1,1,27,0
+Gangtok,98658,38,0,1,0,0,Dec 21 2016,The Golden Crest,5000,3.5,124,"Amdo Golai, Gangtok, India",737102,City-center Gangtok hotel with restaurant,1,1,27,0
+Gangtok,98658,38,0,1,1,0,Dec 24 2016,The Golden Crest,6000,3.5,124,"Amdo Golai, Gangtok, India",737102,City-center Gangtok hotel with restaurant,1,1,27,0
+Gangtok,98658,38,0,1,1,0,Dec 25 2016,The Golden Crest,6000,3.5,124,"Amdo Golai, Gangtok, India",737102,City-center Gangtok hotel with restaurant,1,1,27,0
+Gangtok,98658,38,0,1,0,0,Dec 28 2016,The Golden Crest,6000,3.5,124,"Amdo Golai, Gangtok, India",737102,City-center Gangtok hotel with restaurant,1,1,27,0
+Gangtok,98658,38,0,1,1,1,Dec 31 2016,The Golden Crest,6000,3.5,124,"Amdo Golai, Gangtok, India",737102,City-center Gangtok hotel with restaurant,1,1,27,0
+Gangtok,98658,38,0,1,0,0,Jan 04 2017,The Golden Crest,5000,3.5,124,"Amdo Golai, Gangtok, India",737102,City-center Gangtok hotel with restaurant,1,1,27,0
+Gangtok,98658,38,0,1,1,0,Jan 08 2017,The Golden Crest,5000,3.5,124,"Amdo Golai, Gangtok, India",737102,City-center Gangtok hotel with restaurant,1,1,27,0
+Gangtok,98658,38,0,1,1,0,Dec 18 2016,The Lindsay Himalayan Heights,2073,3,124,"Palzor Stadium Road,, Gangtok, Sikkim",737101,"Mountain hotel in Gangtok with restaurant, bar/lounge",1,1,26,0
+Gangtok,98658,38,0,1,0,0,Dec 21 2016,The Lindsay Himalayan Heights,2591,3,124,"Palzor Stadium Road,, Gangtok, Sikkim",737101,"Mountain hotel in Gangtok with restaurant, bar/lounge",1,1,26,0
+Gangtok,98658,38,0,1,1,0,Dec 24 2016,The Lindsay Himalayan Heights,3068,3,124,"Palzor Stadium Road,, Gangtok, Sikkim",737101,"Mountain hotel in Gangtok with restaurant, bar/lounge",1,1,26,0
+Gangtok,98658,38,0,1,1,0,Dec 25 2016,The Lindsay Himalayan Heights,2591,3,124,"Palzor Stadium Road,, Gangtok, Sikkim",737101,"Mountain hotel in Gangtok with restaurant, bar/lounge",1,1,26,0
+Gangtok,98658,38,0,1,0,0,Dec 28 2016,The Lindsay Himalayan Heights,2591,3,124,"Palzor Stadium Road,, Gangtok, Sikkim",737101,"Mountain hotel in Gangtok with restaurant, bar/lounge",1,1,26,0
+Gangtok,98658,38,0,1,1,1,Dec 31 2016,The Lindsay Himalayan Heights,2591,3,124,"Palzor Stadium Road,, Gangtok, Sikkim",737101,"Mountain hotel in Gangtok with restaurant, bar/lounge",1,1,26,0
+Gangtok,98658,38,0,1,0,0,Jan 04 2017,The Lindsay Himalayan Heights,2591,3,124,"Palzor Stadium Road,, Gangtok, Sikkim",737101,"Mountain hotel in Gangtok with restaurant, bar/lounge",1,1,26,0
+Gangtok,98658,38,0,1,1,0,Jan 08 2017,The Lindsay Himalayan Heights,2073,3,124,"Palzor Stadium Road,, Gangtok, Sikkim",737101,"Mountain hotel in Gangtok with restaurant, bar/lounge",1,1,26,0

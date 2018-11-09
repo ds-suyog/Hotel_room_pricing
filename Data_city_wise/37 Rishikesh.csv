@@ -1,0 +1,89 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Rishikesh,102138,37,0,1,1,0,Dec 18 2016,Aloha On The Ganges,5600,3.5,31,National Highway 58,249192,3.5,1,1,65,1
+Rishikesh,102138,37,0,1,0,0,Dec 21 2016,Aloha On The Ganges,6800,3.5,31,National Highway 58,249192,3.5,1,1,65,1
+Rishikesh,102138,37,0,1,1,0,Dec 24 2016,Aloha On The Ganges,13500,3.5,31,National Highway 58,249192,3.5,1,1,65,1
+Rishikesh,102138,37,0,1,1,0,Dec 25 2016,Aloha On The Ganges,11700,3.5,31,National Highway 58,249192,3.5,1,1,65,1
+Rishikesh,102138,37,0,1,0,0,Dec 28 2016,Aloha On The Ganges,9200,3.5,31,National Highway 58,249192,3.5,1,1,65,1
+Rishikesh,102138,37,0,1,1,1,Dec 31 2016,Aloha On The Ganges,9000,3.5,31,National Highway 58,249192,3.5,1,1,65,1
+Rishikesh,102138,37,0,1,0,0,Jan 04 2017,Aloha On The Ganges,5050,3.5,31,National Highway 58,249192,3.5,1,1,65,1
+Rishikesh,102138,37,0,1,1,0,Jan 08 2017,Aloha On The Ganges,5050,3.5,31,National Highway 58,249192,3.5,1,1,65,1
+Rishikesh,102138,37,0,1,0,0,Dec 18 2016,Bull's Retreat,4879,3,5.4,"Opp. Indian Oil Petrol Pump,Rishikesh-Badrinnath Road,Shivpuri,Uttarakhand,India",249192,3.5,1,0,15,0
+Rishikesh,102138,37,0,1,0,0,Dec 21 2016,Bull's Retreat,4879,3,5.4,"Opp. Indian Oil Petrol Pump,Rishikesh-Badrinnath Road,Shivpuri,Uttarakhand,India",249192,3.5,1,0,15,0
+Rishikesh,102138,37,0,1,0,0,Dec 24 2016,Bull's Retreat,4879,3,5.4,"Opp. Indian Oil Petrol Pump,Rishikesh-Badrinnath Road,Shivpuri,Uttarakhand,India",249192,3.5,1,0,15,0
+Rishikesh,102138,37,0,1,0,0,Dec 25 2016,Bull's Retreat,4879,3,5.4,"Opp. Indian Oil Petrol Pump,Rishikesh-Badrinnath Road,Shivpuri,Uttarakhand,India",249192,3.5,1,0,15,0
+Rishikesh,102138,37,0,1,0,0,Dec 28 2016,Bull's Retreat,4879,3,5.4,"Opp. Indian Oil Petrol Pump,Rishikesh-Badrinnath Road,Shivpuri,Uttarakhand,India",249192,3.5,1,0,15,0
+Rishikesh,102138,37,0,1,0,0,Dec 31 2016,Bull's Retreat,4879,3,5.4,"Opp. Indian Oil Petrol Pump,Rishikesh-Badrinnath Road,Shivpuri,Uttarakhand,India",249192,3.5,1,0,15,0
+Rishikesh,102138,37,0,1,0,0,Jan 04 2017,Bull's Retreat,4879,3,5.4,"Opp. Indian Oil Petrol Pump,Rishikesh-Badrinnath Road,Shivpuri,Uttarakhand,India",249192,3.5,1,0,15,0
+Rishikesh,102138,37,0,1,0,0,Jan 08 2017,Bull's Retreat,4879,3,5.4,"Opp. Indian Oil Petrol Pump,Rishikesh-Badrinnath Road,Shivpuri,Uttarakhand,India",249192,3.5,1,0,15,0
+Rishikesh,102138,37,0,1,1,0,Dec 18 2016,EllBee Ganga View,5450,4,31,355 Haridwar Road,249201,4,1,1,32,0
+Rishikesh,102138,37,0,1,0,0,Dec 21 2016,EllBee Ganga View,5450,4,31,355 Haridwar Road,249201,4,1,1,32,0
+Rishikesh,102138,37,0,1,1,0,Dec 24 2016,EllBee Ganga View,5450,4,31,355 Haridwar Road,249201,4,1,1,32,0
+Rishikesh,102138,37,0,1,1,0,Dec 25 2016,EllBee Ganga View,5450,4,31,355 Haridwar Road,249201,4,1,1,32,0
+Rishikesh,102138,37,0,1,0,0,Dec 28 2016,EllBee Ganga View,5450,4,31,355 Haridwar Road,249201,4,1,1,32,0
+Rishikesh,102138,37,0,1,1,1,Dec 31 2016,EllBee Ganga View,6600,4,31,355 Haridwar Road,249201,4,1,1,32,0
+Rishikesh,102138,37,0,1,0,0,Jan 04 2017,EllBee Ganga View,5450,4,31,355 Haridwar Road,249201,4,1,1,32,0
+Rishikesh,102138,37,0,1,1,0,Jan 08 2017,EllBee Ganga View,5450,4,31,355 Haridwar Road,249201,4,1,1,32,0
+Rishikesh,102138,37,0,1,1,0,Dec 18 2016,Ganga Beach Resort,4000,3,31,Shesdhara Tapovan,249201,4,1,1,60,1
+Rishikesh,102138,37,0,1,0,0,Dec 21 2016,Ganga Beach Resort,4000,3,31,Shesdhara Tapovan,249201,4,1,1,60,1
+Rishikesh,102138,37,0,1,1,0,Dec 24 2016,Ganga Beach Resort,4000,3,31,Shesdhara Tapovan,249201,4,1,1,60,1
+Rishikesh,102138,37,0,1,1,0,Dec 25 2016,Ganga Beach Resort,4800,3,31,Shesdhara Tapovan,249201,4,1,1,60,1
+Rishikesh,102138,37,0,1,0,0,Dec 28 2016,Ganga Beach Resort,4000,3,31,Shesdhara Tapovan,249201,4,1,1,60,1
+Rishikesh,102138,37,0,1,1,1,Dec 31 2016,Ganga Beach Resort,4000,3,31,Shesdhara Tapovan,249201,4,1,1,60,1
+Rishikesh,102138,37,0,1,0,0,Jan 04 2017,Ganga Beach Resort,4000,3,31,Shesdhara Tapovan,249201,4,1,1,60,1
+Rishikesh,102138,37,0,1,1,0,Jan 08 2017,Ganga Beach Resort,4000,3,31,Shesdhara Tapovan,249201,4,1,1,60,1
+Rishikesh,102138,37,0,1,1,0,Dec 18 2016,Ganga Kinare - A Rive ide Boutique Hotel,4700,4,31,237 Veerbhadra Road,249201,4,1,1,38,0
+Rishikesh,102138,37,0,1,0,0,Dec 21 2016,Ganga Kinare - A Rive ide Boutique Hotel,4700,4,31,237 Veerbhadra Road,249201,4,1,1,38,0
+Rishikesh,102138,37,0,1,1,0,Dec 24 2016,Ganga Kinare - A Rive ide Boutique Hotel,5202,4,31,237 Veerbhadra Road,249201,4,1,1,38,0
+Rishikesh,102138,37,0,1,1,0,Dec 25 2016,Ganga Kinare - A Rive ide Boutique Hotel,8400,4,31,237 Veerbhadra Road,249201,4,1,0,38,0
+Rishikesh,102138,37,0,1,0,0,Dec 28 2016,Ganga Kinare - A Rive ide Boutique Hotel,5202,4,31,237 Veerbhadra Road,249201,4,1,1,38,0
+Rishikesh,102138,37,0,1,1,1,Dec 31 2016,Ganga Kinare - A Rive ide Boutique Hotel,8400,4,31,237 Veerbhadra Road,249201,4,1,0,38,0
+Rishikesh,102138,37,0,1,0,0,Jan 04 2017,Ganga Kinare - A Rive ide Boutique Hotel,4700,4,31,237 Veerbhadra Road,249201,4,1,1,38,0
+Rishikesh,102138,37,0,1,1,0,Jan 08 2017,Ganga Kinare - A Rive ide Boutique Hotel,8400,4,31,237 Veerbhadra Road,249201,4,1,0,38,0
+Rishikesh,102138,37,0,1,1,0,Dec 18 2016,Hotel Yog Vashishth,2300,3,31,Near Parmarth Niketan,249304,3,1,1,15,0
+Rishikesh,102138,37,0,1,0,0,Dec 21 2016,Hotel Yog Vashishth,2300,3,31,Near Parmarth Niketan,249304,3,1,1,15,0
+Rishikesh,102138,37,0,1,1,0,Dec 24 2016,Hotel Yog Vashishth,2900,3,31,Near Parmarth Niketan,249304,3,1,1,15,0
+Rishikesh,102138,37,0,1,1,0,Dec 25 2016,Hotel Yog Vashishth,2900,3,31,Near Parmarth Niketan,249304,3,1,1,15,0
+Rishikesh,102138,37,0,1,0,0,Dec 28 2016,Hotel Yog Vashishth,2900,3,31,Near Parmarth Niketan,249304,3,1,1,15,0
+Rishikesh,102138,37,0,1,1,1,Dec 31 2016,Hotel Yog Vashishth,2300,3,31,Near Parmarth Niketan,249304,3,1,1,15,0
+Rishikesh,102138,37,0,1,0,0,Jan 04 2017,Hotel Yog Vashishth,2900,3,31,Near Parmarth Niketan,249304,3,1,1,15,0
+Rishikesh,102138,37,0,1,1,0,Jan 08 2017,Hotel Yog Vashishth,2300,3,31,Near Parmarth Niketan,249304,3,1,1,15,0
+Rishikesh,102138,37,0,1,1,0,Dec 18 2016,OYO Premium Ganges Marine Drive,3533,3,31,Kailash Gate Beside Iskon Temple,249201,3,1,1,15,0
+Rishikesh,102138,37,0,1,0,0,Dec 21 2016,OYO Premium Ganges Marine Drive,3533,3,31,Kailash Gate Beside Iskon Temple,249201,3,1,1,15,0
+Rishikesh,102138,37,0,1,1,0,Dec 24 2016,OYO Premium Ganges Marine Drive,4172,3,31,Kailash Gate Beside Iskon Temple,249201,3,1,1,15,0
+Rishikesh,102138,37,0,1,1,0,Dec 25 2016,OYO Premium Ganges Marine Drive,4172,3,31,Kailash Gate Beside Iskon Temple,249201,3,1,1,15,0
+Rishikesh,102138,37,0,1,0,0,Dec 28 2016,OYO Premium Ganges Marine Drive,9792,3,31,Kailash Gate Beside Iskon Temple,249201,3,1,1,15,0
+Rishikesh,102138,37,0,1,1,1,Dec 31 2016,OYO Premium Ganges Marine Drive,4172,3,31,Kailash Gate Beside Iskon Temple,249201,3,1,1,15,0
+Rishikesh,102138,37,0,1,0,0,Jan 04 2017,OYO Premium Ganges Marine Drive,9792,3,31,Kailash Gate Beside Iskon Temple,249201,3,1,1,15,0
+Rishikesh,102138,37,0,1,1,0,Jan 08 2017,OYO Premium Ganges Marine Drive,9792,3,31,Kailash Gate Beside Iskon Temple,249201,3,1,1,15,0
+Rishikesh,102138,37,0,1,1,0,Dec 18 2016,OYO Premium Mukti Dham Rishikesh,3022,3,31,Near vanprasth Ashram,249304,3,1,1,15,0
+Rishikesh,102138,37,0,1,0,0,Dec 21 2016,OYO Premium Mukti Dham Rishikesh,3022,3,31,Near vanprasth Ashram,249304,3,1,1,15,0
+Rishikesh,102138,37,0,1,1,0,Dec 24 2016,OYO Premium Mukti Dham Rishikesh,8727,3,31,Near vanprasth Ashram,249304,3,1,1,15,0
+Rishikesh,102138,37,0,1,1,0,Dec 25 2016,OYO Premium Mukti Dham Rishikesh,8727,3,31,Near vanprasth Ashram,249304,3,1,1,15,0
+Rishikesh,102138,37,0,1,0,0,Dec 28 2016,OYO Premium Mukti Dham Rishikesh,8727,3,31,Near vanprasth Ashram,249304,3,1,1,15,0
+Rishikesh,102138,37,0,1,1,1,Dec 31 2016,OYO Premium Mukti Dham Rishikesh,8727,3,31,Near vanprasth Ashram,249304,3,1,1,15,0
+Rishikesh,102138,37,0,1,0,0,Jan 04 2017,OYO Premium Mukti Dham Rishikesh,8727,3,31,Near vanprasth Ashram,249304,3,1,1,15,0
+Rishikesh,102138,37,0,1,1,0,Jan 08 2017,OYO Premium Mukti Dham Rishikesh,8727,3,31,Near vanprasth Ashram,249304,3,1,1,15,0
+Rishikesh,102138,37,0,1,1,0,Dec 18 2016,OYO Premium Tapovan 1,2299,3,31,Nr Mahrishi MaheshYogi Mahila DhyanPeeth,249192,3,1,1,10,0
+Rishikesh,102138,37,0,1,0,0,Dec 21 2016,OYO Premium Tapovan 1,2299,3,31,Nr Mahrishi MaheshYogi Mahila DhyanPeeth,249192,3,1,1,10,0
+Rishikesh,102138,37,0,1,1,0,Dec 24 2016,OYO Premium Tapovan 1,1634,3,31,Nr Mahrishi MaheshYogi Mahila DhyanPeeth,249192,3,1,1,10,0
+Rishikesh,102138,37,0,1,1,0,Dec 25 2016,OYO Premium Tapovan 1,1634,3,31,Nr Mahrishi MaheshYogi Mahila DhyanPeeth,249192,3,1,1,10,0
+Rishikesh,102138,37,0,1,0,0,Dec 28 2016,OYO Premium Tapovan 1,1941,3,31,Nr Mahrishi MaheshYogi Mahila DhyanPeeth,249192,3,1,1,10,0
+Rishikesh,102138,37,0,1,1,1,Dec 31 2016,OYO Premium Tapovan 1,1634,3,31,Nr Mahrishi MaheshYogi Mahila DhyanPeeth,249192,3,1,1,10,0
+Rishikesh,102138,37,0,1,0,0,Jan 04 2017,OYO Premium Tapovan 1,6066,3,31,Nr Mahrishi MaheshYogi Mahila DhyanPeeth,249192,3,1,1,10,0
+Rishikesh,102138,37,0,1,1,0,Jan 08 2017,OYO Premium Tapovan 1,6066,3,31,Nr Mahrishi MaheshYogi Mahila DhyanPeeth,249192,3,1,1,10,0
+Rishikesh,102138,37,0,1,1,0,Dec 18 2016,Rishikesh Sadan,799,2.5,31,Near RTO Check Post Aamkhala Tapovan,249201,3,0,0,25,0
+Rishikesh,102138,37,0,1,0,0,Dec 21 2016,Rishikesh Sadan,1199,2.5,31,Near RTO Check Post Aamkhala Tapovan,249201,3,0,0,25,0
+Rishikesh,102138,37,0,1,1,0,Dec 24 2016,Rishikesh Sadan,1881,2.5,31,Near RTO Check Post Aamkhala Tapovan,249201,3,0,0,25,0
+Rishikesh,102138,37,0,1,1,0,Dec 25 2016,Rishikesh Sadan,1881,2.5,31,Near RTO Check Post Aamkhala Tapovan,249201,3,0,0,25,0
+Rishikesh,102138,37,0,1,0,0,Dec 28 2016,Rishikesh Sadan,1881,2.5,31,Near RTO Check Post Aamkhala Tapovan,249201,3,0,0,25,0
+Rishikesh,102138,37,0,1,1,1,Dec 31 2016,Rishikesh Sadan,1881,2.5,31,Near RTO Check Post Aamkhala Tapovan,249201,3,0,0,25,0
+Rishikesh,102138,37,0,1,0,0,Jan 04 2017,Rishikesh Sadan,799,2.5,31,Near RTO Check Post Aamkhala Tapovan,249201,3,0,0,25,0
+Rishikesh,102138,37,0,1,1,0,Jan 08 2017,Rishikesh Sadan,799,2.5,31,Near RTO Check Post Aamkhala Tapovan,249201,3,0,0,25,0
+Rishikesh,102138,37,0,1,1,0,Dec 18 2016,V Resorts Rajaji National Park,4500,3.5,31,Khara af,249306,3.5,1,1,16,1
+Rishikesh,102138,37,0,1,0,0,Dec 21 2016,V Resorts Rajaji National Park,4500,3.5,31,Khara af,249306,3.5,1,1,16,1
+Rishikesh,102138,37,0,1,1,0,Dec 24 2016,V Resorts Rajaji National Park,5500,3.5,31,Khara af,249306,3.5,1,1,16,1
+Rishikesh,102138,37,0,1,1,0,Dec 25 2016,V Resorts Rajaji National Park,5500,3.5,31,Khara af,249306,3.5,1,1,16,1
+Rishikesh,102138,37,0,1,0,0,Dec 28 2016,V Resorts Rajaji National Park,5500,3.5,31,Khara af,249306,3.5,1,1,16,1
+Rishikesh,102138,37,0,1,1,1,Dec 31 2016,V Resorts Rajaji National Park,5500,3.5,31,Khara af,249306,3.5,1,1,16,1
+Rishikesh,102138,37,0,1,0,0,Jan 04 2017,V Resorts Rajaji National Park,4500,3.5,31,Khara af,249306,3.5,1,1,16,1
+Rishikesh,102138,37,0,1,1,0,Jan 08 2017,V Resorts Rajaji National Park,4500,3.5,31,Khara af,249306,3.5,1,1,16,1

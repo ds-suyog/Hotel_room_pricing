@@ -1,0 +1,137 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Ooty,88430,39,0,1,1,0,Dec 18 2016,ANAIKATTI SIRUVANI A Sterling Resort,5849,3.5,100,"6/301,Vadakottathara near LuluFancyStore, Palakkad Dist, Varagampadi",678581,"3.5-star resort in Kottathara with outdoor pool, restaurant",1,1,33,1
+Ooty,88430,39,0,1,0,0,Dec 21 2016,ANAIKATTI SIRUVANI A Sterling Resort,6299,3.5,100,"6/301,Vadakottathara near LuluFancyStore, Palakkad Dist, Varagampadi",678581,"3.5-star resort in Kottathara with outdoor pool, restaurant",1,1,33,1
+Ooty,88430,39,0,1,1,0,Dec 24 2016,ANAIKATTI SIRUVANI A Sterling Resort,10799,3.5,100,"6/301,Vadakottathara near LuluFancyStore, Palakkad Dist, Varagampadi",678581,"3.5-star resort in Kottathara with outdoor pool, restaurant",1,1,33,1
+Ooty,88430,39,0,1,1,0,Dec 25 2016,ANAIKATTI SIRUVANI A Sterling Resort,8999,3.5,100,"6/301,Vadakottathara near LuluFancyStore, Palakkad Dist, Varagampadi",678581,"3.5-star resort in Kottathara with outdoor pool, restaurant",1,1,33,1
+Ooty,88430,39,0,1,0,0,Dec 28 2016,ANAIKATTI SIRUVANI A Sterling Resort,8999,3.5,100,"6/301,Vadakottathara near LuluFancyStore, Palakkad Dist, Varagampadi",678581,"3.5-star resort in Kottathara with outdoor pool, restaurant",1,1,33,1
+Ooty,88430,39,0,1,1,1,Dec 31 2016,ANAIKATTI SIRUVANI A Sterling Resort,13949,3.5,100,"6/301,Vadakottathara near LuluFancyStore, Palakkad Dist, Varagampadi",678581,"3.5-star resort in Kottathara with outdoor pool, restaurant",1,1,33,1
+Ooty,88430,39,0,1,0,0,Jan 04 2017,ANAIKATTI SIRUVANI A Sterling Resort,13949,3.5,100,"6/301,Vadakottathara near LuluFancyStore, Palakkad Dist, Varagampadi",678581,"3.5-star resort in Kottathara with outdoor pool, restaurant",1,1,33,1
+Ooty,88430,39,0,1,1,0,Jan 08 2017,ANAIKATTI SIRUVANI A Sterling Resort,13949,3.5,100,"6/301,Vadakottathara near LuluFancyStore, Palakkad Dist, Varagampadi",678581,"3.5-star resort in Kottathara with outdoor pool, restaurant",1,1,33,1
+Ooty,88430,39,0,1,1,0,Dec 18 2016,Anmols Cottage,1250,3,100,"134/22, Elk Hill Road, Ooty, Tamil Nadu",643001,3-star Ooty guesthouse with restaurant,1,0,8,0
+Ooty,88430,39,0,1,0,0,Dec 21 2016,Anmols Cottage,1900,3,100,"134/22, Elk Hill Road, Ooty, Tamil Nadu",643001,3-star Ooty guesthouse with restaurant,1,0,8,0
+Ooty,88430,39,0,1,1,0,Dec 24 2016,Anmols Cottage,2400,3,100,"134/22, Elk Hill Road, Ooty, Tamil Nadu",643001,3-star Ooty guesthouse with restaurant,1,0,8,0
+Ooty,88430,39,0,1,1,0,Dec 25 2016,Anmols Cottage,2400,3,100,"134/22, Elk Hill Road, Ooty, Tamil Nadu",643001,3-star Ooty guesthouse with restaurant,1,0,8,0
+Ooty,88430,39,0,1,0,0,Dec 28 2016,Anmols Cottage,2400,3,100,"134/22, Elk Hill Road, Ooty, Tamil Nadu",643001,3-star Ooty guesthouse with restaurant,1,0,8,0
+Ooty,88430,39,0,1,1,1,Dec 31 2016,Anmols Cottage,2400,3,100,"134/22, Elk Hill Road, Ooty, Tamil Nadu",643001,3-star Ooty guesthouse with restaurant,1,0,8,0
+Ooty,88430,39,0,1,0,0,Jan 04 2017,Anmols Cottage,2400,3,100,"134/22, Elk Hill Road, Ooty, Tamil Nadu",643001,3-star Ooty guesthouse with restaurant,1,0,8,0
+Ooty,88430,39,0,1,1,0,Jan 08 2017,Anmols Cottage,2400,3,100,"134/22, Elk Hill Road, Ooty, Tamil Nadu",643001,3-star Ooty guesthouse with restaurant,1,0,8,0
+Ooty,88430,39,0,1,1,0,Dec 18 2016,Casa Deep Woods,3991,3,100,"Bokkapuram Village, Masinagudi Post, Masinagudi, Tamil Nadu, India",643001,"Mountain hotel in Masinagudi with outdoor pool, restaurant",0,0,20,0
+Ooty,88430,39,0,1,0,0,Dec 21 2016,Casa Deep Woods,4500,3,100,"Bokkapuram Village, Masinagudi Post, Masinagudi, Tamil Nadu, India",643001,"Mountain hotel in Masinagudi with outdoor pool, restaurant",0,0,20,0
+Ooty,88430,39,0,1,1,0,Dec 24 2016,Casa Deep Woods,4500,3,100,"Bokkapuram Village, Masinagudi Post, Masinagudi, Tamil Nadu, India",643001,"Mountain hotel in Masinagudi with outdoor pool, restaurant",0,0,20,0
+Ooty,88430,39,0,1,1,0,Dec 25 2016,Casa Deep Woods,4500,3,100,"Bokkapuram Village, Masinagudi Post, Masinagudi, Tamil Nadu, India",643001,"Mountain hotel in Masinagudi with outdoor pool, restaurant",0,0,20,0
+Ooty,88430,39,0,1,0,0,Dec 28 2016,Casa Deep Woods,4500,3,100,"Bokkapuram Village, Masinagudi Post, Masinagudi, Tamil Nadu, India",643001,"Mountain hotel in Masinagudi with outdoor pool, restaurant",0,0,20,0
+Ooty,88430,39,0,1,1,1,Dec 31 2016,Casa Deep Woods,4500,3,100,"Bokkapuram Village, Masinagudi Post, Masinagudi, Tamil Nadu, India",643001,"Mountain hotel in Masinagudi with outdoor pool, restaurant",0,0,20,0
+Ooty,88430,39,0,1,0,0,Jan 04 2017,Casa Deep Woods,4500,3,100,"Bokkapuram Village, Masinagudi Post, Masinagudi, Tamil Nadu, India",643001,"Mountain hotel in Masinagudi with outdoor pool, restaurant",0,0,20,0
+Ooty,88430,39,0,1,1,0,Jan 08 2017,Casa Deep Woods,4500,3,100,"Bokkapuram Village, Masinagudi Post, Masinagudi, Tamil Nadu, India",643001,"Mountain hotel in Masinagudi with outdoor pool, restaurant",0,0,20,0
+Ooty,88430,39,0,1,1,0,Dec 18 2016,Destiny The Farmstay,8475,3,100,"Mulligoor Village, Udhagamandalam (Ooty), Mulligoor, Tamil Nadu,",643001,"Family hotel in Mulligoor with spa, restaurant",1,0,25,0
+Ooty,88430,39,0,1,0,0,Dec 21 2016,Destiny The Farmstay,7975,3,100,"Mulligoor Village, Udhagamandalam (Ooty), Mulligoor, Tamil Nadu,",643001,"Family hotel in Mulligoor with spa, restaurant",1,0,25,0
+Ooty,88430,39,0,1,1,0,Dec 24 2016,Destiny The Farmstay,8475,3,100,"Mulligoor Village, Udhagamandalam (Ooty), Mulligoor, Tamil Nadu,",643001,"Family hotel in Mulligoor with spa, restaurant",1,0,25,0
+Ooty,88430,39,0,1,1,0,Dec 25 2016,Destiny The Farmstay,8475,3,100,"Mulligoor Village, Udhagamandalam (Ooty), Mulligoor, Tamil Nadu,",643001,"Family hotel in Mulligoor with spa, restaurant",1,0,25,0
+Ooty,88430,39,0,1,0,0,Dec 28 2016,Destiny The Farmstay,8475,3,100,"Mulligoor Village, Udhagamandalam (Ooty), Mulligoor, Tamil Nadu,",643001,"Family hotel in Mulligoor with spa, restaurant",1,0,25,0
+Ooty,88430,39,0,1,1,1,Dec 31 2016,Destiny The Farmstay,8475,3,100,"Mulligoor Village, Udhagamandalam (Ooty), Mulligoor, Tamil Nadu,",643001,"Family hotel in Mulligoor with spa, restaurant",1,0,25,0
+Ooty,88430,39,0,1,0,0,Jan 04 2017,Destiny The Farmstay,8475,3,100,"Mulligoor Village, Udhagamandalam (Ooty), Mulligoor, Tamil Nadu,",643001,"Family hotel in Mulligoor with spa, restaurant",1,0,25,0
+Ooty,88430,39,0,1,1,0,Jan 08 2017,Destiny The Farmstay,8475,3,100,"Mulligoor Village, Udhagamandalam (Ooty), Mulligoor, Tamil Nadu,",643001,"Family hotel in Mulligoor with spa, restaurant",1,0,25,0
+Ooty,88430,39,0,1,1,0,Dec 18 2016,FabHotel Khems Ooty,2201,3,100,"Shoreham Palace Road, Off Ettiness Road, Ooty",643001,3-star Ooty hotel with restaurant,1,1,25,0
+Ooty,88430,39,0,1,0,0,Dec 21 2016,FabHotel Khems Ooty,1944,3,100,"Shoreham Palace Road, Off Ettiness Road, Ooty",643001,3-star Ooty hotel with restaurant,1,1,25,0
+Ooty,88430,39,0,1,1,0,Dec 24 2016,FabHotel Khems Ooty,2201,3,100,"Shoreham Palace Road, Off Ettiness Road, Ooty",643001,3-star Ooty hotel with restaurant,1,1,25,0
+Ooty,88430,39,0,1,1,0,Dec 25 2016,FabHotel Khems Ooty,2201,3,100,"Shoreham Palace Road, Off Ettiness Road, Ooty",643001,3-star Ooty hotel with restaurant,1,1,25,0
+Ooty,88430,39,0,1,0,0,Dec 28 2016,FabHotel Khems Ooty,2201,3,100,"Shoreham Palace Road, Off Ettiness Road, Ooty",643001,3-star Ooty hotel with restaurant,1,1,25,0
+Ooty,88430,39,0,1,1,1,Dec 31 2016,FabHotel Khems Ooty,2201,3,100,"Shoreham Palace Road, Off Ettiness Road, Ooty",643001,3-star Ooty hotel with restaurant,1,1,25,0
+Ooty,88430,39,0,1,0,0,Jan 04 2017,FabHotel Khems Ooty,2201,3,100,"Shoreham Palace Road, Off Ettiness Road, Ooty",643001,3-star Ooty hotel with restaurant,1,1,25,0
+Ooty,88430,39,0,1,1,0,Jan 08 2017,FabHotel Khems Ooty,2201,3,100,"Shoreham Palace Road, Off Ettiness Road, Ooty",643001,3-star Ooty hotel with restaurant,1,1,25,0
+Ooty,88430,39,0,1,1,0,Dec 18 2016,Fortune Resort Sullivan Court,4500,4,100,"123 Selbourne Road, Ooty, Tamil Nadu",643001,"4-star resort in Ooty with 2 restaurants, bar/lounge",1,0,67,0
+Ooty,88430,39,0,1,0,0,Dec 21 2016,Fortune Resort Sullivan Court,4500,4,100,"124 Selbourne Road, Ooty, Tamil Nadu",643001,"4-star resort in Ooty with 2 restaurants, bar/lounge",1,0,67,0
+Ooty,88430,39,0,1,1,0,Dec 24 2016,Fortune Resort Sullivan Court,9000,4,100,"125 Selbourne Road, Ooty, Tamil Nadu",643001,"4-star resort in Ooty with 2 restaurants, bar/lounge",1,0,67,0
+Ooty,88430,39,0,1,1,0,Dec 25 2016,Fortune Resort Sullivan Court,9000,4,100,"126 Selbourne Road, Ooty, Tamil Nadu",643001,"4-star resort in Ooty with 2 restaurants, bar/lounge",1,0,67,0
+Ooty,88430,39,0,1,0,0,Dec 28 2016,Fortune Resort Sullivan Court,4500,4,100,"127 Selbourne Road, Ooty, Tamil Nadu",643001,"4-star resort in Ooty with 2 restaurants, bar/lounge",1,0,67,0
+Ooty,88430,39,0,1,1,1,Dec 31 2016,Fortune Resort Sullivan Court,14000,4,100,"128 Selbourne Road, Ooty, Tamil Nadu",643001,"4-star resort in Ooty with 2 restaurants, bar/lounge",1,0,67,0
+Ooty,88430,39,0,1,0,0,Jan 04 2017,Fortune Resort Sullivan Court,4500,4,100,"129 Selbourne Road, Ooty, Tamil Nadu",643001,"4-star resort in Ooty with 2 restaurants, bar/lounge",1,0,67,0
+Ooty,88430,39,0,1,1,0,Jan 08 2017,Fortune Resort Sullivan Court,4500,4,100,"130 Selbourne Road, Ooty, Tamil Nadu",643001,"4-star resort in Ooty with 2 restaurants, bar/lounge",1,0,67,0
+Ooty,88430,39,0,1,1,0,Dec 18 2016,Gem Park Ooty,4499,4,100,"Sheddon Road, Near Collector Office, Ooty, Tamil Nadu",643001,"4-star hotel in Ooty with indoor pool, restaurant",1,0,95,1
+Ooty,88430,39,0,1,0,0,Dec 21 2016,Gem Park Ooty,5999,4,100,"Sheddon Road, Near Collector Office, Ooty, Tamil Nadu",643001,"4-star hotel in Ooty with indoor pool, restaurant",1,0,95,1
+Ooty,88430,39,0,1,1,0,Dec 24 2016,Gem Park Ooty,5999,4,100,"Sheddon Road, Near Collector Office, Ooty, Tamil Nadu",643001,"4-star hotel in Ooty with indoor pool, restaurant",1,0,95,1
+Ooty,88430,39,0,1,1,0,Dec 25 2016,Gem Park Ooty,5999,4,100,"Sheddon Road, Near Collector Office, Ooty, Tamil Nadu",643001,"4-star hotel in Ooty with indoor pool, restaurant",1,0,95,1
+Ooty,88430,39,0,1,0,0,Dec 28 2016,Gem Park Ooty,5999,4,100,"Sheddon Road, Near Collector Office, Ooty, Tamil Nadu",643001,"4-star hotel in Ooty with indoor pool, restaurant",1,0,95,1
+Ooty,88430,39,0,1,1,1,Dec 31 2016,Gem Park Ooty,5999,4,100,"Sheddon Road, Near Collector Office, Ooty, Tamil Nadu",643001,"4-star hotel in Ooty with indoor pool, restaurant",1,0,95,1
+Ooty,88430,39,0,1,0,0,Jan 04 2017,Gem Park Ooty,5999,4,100,"Sheddon Road, Near Collector Office, Ooty, Tamil Nadu",643001,"4-star hotel in Ooty with indoor pool, restaurant",1,0,95,1
+Ooty,88430,39,0,1,1,0,Jan 08 2017,Gem Park Ooty,5999,4,100,"Sheddon Road, Near Collector Office, Ooty, Tamil Nadu",643001,"4-star hotel in Ooty with indoor pool, restaurant",1,0,95,1
+Ooty,88430,39,0,1,1,0,Dec 18 2016,Green Nest Resort,5360,3,100,"KettiKambai,Gundada School Road, Kotagiri",643217,3-star Kotagiri hotel with restaurant,1,1,30,0
+Ooty,88430,39,0,1,0,0,Dec 21 2016,Green Nest Resort,5360,3,100,"KettiKambai,Gundada School Road, Kotagiri",643217,3-star Kotagiri hotel with restaurant,1,1,30,0
+Ooty,88430,39,0,1,1,0,Dec 24 2016,Green Nest Resort,5968,3,100,"KettiKambai,Gundada School Road, Kotagiri",643217,3-star Kotagiri hotel with restaurant,1,1,30,0
+Ooty,88430,39,0,1,1,0,Dec 25 2016,Green Nest Resort,5968,3,100,"KettiKambai,Gundada School Road, Kotagiri",643217,3-star Kotagiri hotel with restaurant,1,1,30,0
+Ooty,88430,39,0,1,0,0,Dec 28 2016,Green Nest Resort,5360,3,100,"KettiKambai,Gundada School Road, Kotagiri",643217,3-star Kotagiri hotel with restaurant,1,1,30,0
+Ooty,88430,39,0,1,1,1,Dec 31 2016,Green Nest Resort,5968,3,100,"KettiKambai,Gundada School Road, Kotagiri",643217,3-star Kotagiri hotel with restaurant,1,1,30,0
+Ooty,88430,39,0,1,0,0,Jan 04 2017,Green Nest Resort,5968,3,100,"KettiKambai,Gundada School Road, Kotagiri",643217,3-star Kotagiri hotel with restaurant,1,1,30,0
+Ooty,88430,39,0,1,1,0,Jan 08 2017,Green Nest Resort,5968,3,100,"KettiKambai,Gundada School Road, Kotagiri",643217,3-star Kotagiri hotel with restaurant,1,1,30,0
+Ooty,88430,39,0,1,1,0,Dec 18 2016,Hotel Lakeview,2469,3,100,"West Lake Road, the nilgiris, Ooty, Tamil Nadu,",643004,Mountain Ooty hotel with restaurant,0,0,77,0
+Ooty,88430,39,0,1,0,0,Dec 21 2016,Hotel Lakeview,2652,3,100,"West Lake Road, the nilgiris, Ooty, Tamil Nadu,",643005,Mountain Ooty hotel with restaurant,0,0,77,0
+Ooty,88430,39,0,1,1,0,Dec 24 2016,Hotel Lakeview,2652,3,100,"West Lake Road, the nilgiris, Ooty, Tamil Nadu,",643006,Mountain Ooty hotel with restaurant,0,0,77,0
+Ooty,88430,39,0,1,1,0,Dec 25 2016,Hotel Lakeview,2652,3,100,"West Lake Road, the nilgiris, Ooty, Tamil Nadu,",643007,Mountain Ooty hotel with restaurant,0,0,77,0
+Ooty,88430,39,0,1,0,0,Dec 28 2016,Hotel Lakeview,2652,3,100,"West Lake Road, the nilgiris, Ooty, Tamil Nadu,",643008,Mountain Ooty hotel with restaurant,0,0,77,0
+Ooty,88430,39,0,1,1,1,Dec 31 2016,Hotel Lakeview,2652,3,100,"West Lake Road, the nilgiris, Ooty, Tamil Nadu,",643009,Mountain Ooty hotel with restaurant,0,0,77,0
+Ooty,88430,39,0,1,0,0,Jan 04 2017,Hotel Lakeview,2652,3,100,"West Lake Road, the nilgiris, Ooty, Tamil Nadu,",643010,Mountain Ooty hotel with restaurant,0,0,77,0
+Ooty,88430,39,0,1,1,0,Jan 08 2017,Hotel Lakeview,2652,3,100,"West Lake Road, the nilgiris, Ooty, Tamil Nadu,",643011,Mountain Ooty hotel with restaurant,0,0,77,0
+Ooty,88430,39,0,1,1,0,Dec 18 2016,Ooty - Fern Hill A Sterling Holidays RESORT,4699,3,100,"73, Kungah House Road, Fern Hill, Ooty, Tamil Nadu",643004,"3-star hotel in Ooty with restaurant, conference center",1,1,177,0
+Ooty,88430,39,0,1,0,0,Dec 21 2016,Ooty - Fern Hill A Sterling Holidays RESORT,4699,3,100,"73, Kungah House Road, Fern Hill, Ooty, Tamil Nadu",643004,"3-star hotel in Ooty with restaurant, conference center",1,1,177,0
+Ooty,88430,39,0,1,1,0,Dec 24 2016,Ooty - Fern Hill A Sterling Holidays RESORT,9899,3,100,"73, Kungah House Road, Fern Hill, Ooty, Tamil Nadu",643004,"3-star hotel in Ooty with restaurant, conference center",1,1,177,0
+Ooty,88430,39,0,1,1,0,Dec 25 2016,Ooty - Fern Hill A Sterling Holidays RESORT,10799,3,100,"73, Kungah House Road, Fern Hill, Ooty, Tamil Nadu",643004,"3-star hotel in Ooty with restaurant, conference center",1,1,177,0
+Ooty,88430,39,0,1,0,0,Dec 28 2016,Ooty - Fern Hill A Sterling Holidays RESORT,10799,3,100,"73, Kungah House Road, Fern Hill, Ooty, Tamil Nadu",643004,"3-star hotel in Ooty with restaurant, conference center",1,1,177,0
+Ooty,88430,39,0,1,1,1,Dec 31 2016,Ooty - Fern Hill A Sterling Holidays RESORT,12599,3,100,"73, Kungah House Road, Fern Hill, Ooty, Tamil Nadu",643004,"3-star hotel in Ooty with restaurant, conference center",1,1,177,0
+Ooty,88430,39,0,1,0,0,Jan 04 2017,Ooty - Fern Hill A Sterling Holidays RESORT,4049,3,100,"73, Kungah House Road, Fern Hill, Ooty, Tamil Nadu",643004,"3-star hotel in Ooty with restaurant, conference center",1,1,177,0
+Ooty,88430,39,0,1,1,0,Jan 08 2017,Ooty - Fern Hill A Sterling Holidays RESORT,4049,3,100,"73, Kungah House Road, Fern Hill, Ooty, Tamil Nadu",643004,"3-star hotel in Ooty with restaurant, conference center",1,1,177,0
+Ooty,88430,39,0,1,1,0,Dec 18 2016,Ooty Elk Hill A Sterling Holidays RESORT,4499,4,100,"25, Ramakrishna Mutt Road,Elkhill, Ooty, Tamil Nadu",643004,"4-star hotel in Ooty with restaurant, bar/lounge",1,1,114,0
+Ooty,88430,39,0,1,0,0,Dec 21 2016,Ooty Elk Hill A Sterling Holidays RESORT,4299,4,100,"25, Ramakrishna Mutt Road,Elkhill, Ooty, Tamil Nadu",643004,"4-star hotel in Ooty with restaurant, bar/lounge",1,1,114,0
+Ooty,88430,39,0,1,1,0,Dec 24 2016,Ooty Elk Hill A Sterling Holidays RESORT,9899,4,100,"25, Ramakrishna Mutt Road,Elkhill, Ooty, Tamil Nadu",643004,"4-star hotel in Ooty with restaurant, bar/lounge",1,1,114,0
+Ooty,88430,39,0,1,1,0,Dec 25 2016,Ooty Elk Hill A Sterling Holidays RESORT,9899,4,100,"25, Ramakrishna Mutt Road,Elkhill, Ooty, Tamil Nadu",643004,"4-star hotel in Ooty with restaurant, bar/lounge",1,1,114,0
+Ooty,88430,39,0,1,0,0,Dec 28 2016,Ooty Elk Hill A Sterling Holidays RESORT,8999,4,100,"25, Ramakrishna Mutt Road,Elkhill, Ooty, Tamil Nadu",643004,"4-star hotel in Ooty with restaurant, bar/lounge",1,1,114,0
+Ooty,88430,39,0,1,1,1,Dec 31 2016,Ooty Elk Hill A Sterling Holidays RESORT,10799,4,100,"25, Ramakrishna Mutt Road,Elkhill, Ooty, Tamil Nadu",643004,"4-star hotel in Ooty with restaurant, bar/lounge",1,1,114,0
+Ooty,88430,39,0,1,0,0,Jan 04 2017,Ooty Elk Hill A Sterling Holidays RESORT,4299,4,100,"25, Ramakrishna Mutt Road,Elkhill, Ooty, Tamil Nadu",643004,"4-star hotel in Ooty with restaurant, bar/lounge",1,1,114,0
+Ooty,88430,39,0,1,1,0,Jan 08 2017,Ooty Elk Hill A Sterling Holidays RESORT,4299,4,100,"25, Ramakrishna Mutt Road,Elkhill, Ooty, Tamil Nadu",643004,"4-star hotel in Ooty with restaurant, bar/lounge",1,1,114,0
+Ooty,88430,39,0,1,1,0,Dec 18 2016,OYO Premium Heritage Stays Charing Cross,3448,3,100,"Glanton Hall, Near Charing Cross, Coonoor Road, Ooty,",643001,"3-star hotel in Ooty with restaurant, bar/lounge",0,1,15,0
+Ooty,88430,39,0,1,0,0,Dec 21 2016,OYO Premium Heritage Stays Charing Cross,10804,3,100,"Glanton Hall, Near Charing Cross, Coonoor Road, Ooty,",643001,"3-star hotel in Ooty with restaurant, bar/lounge",0,1,15,0
+Ooty,88430,39,0,1,1,0,Dec 24 2016,OYO Premium Heritage Stays Charing Cross,10804,3,100,"Glanton Hall, Near Charing Cross, Coonoor Road, Ooty,",643001,"3-star hotel in Ooty with restaurant, bar/lounge",0,1,15,0
+Ooty,88430,39,0,1,1,0,Dec 25 2016,OYO Premium Heritage Stays Charing Cross,10804,3,100,"Glanton Hall, Near Charing Cross, Coonoor Road, Ooty,",643001,"3-star hotel in Ooty with restaurant, bar/lounge",0,1,15,0
+Ooty,88430,39,0,1,0,0,Dec 28 2016,OYO Premium Heritage Stays Charing Cross,3917,3,100,"Glanton Hall, Near Charing Cross, Coonoor Road, Ooty,",643001,"3-star hotel in Ooty with restaurant, bar/lounge",0,1,15,0
+Ooty,88430,39,0,1,1,1,Dec 31 2016,OYO Premium Heritage Stays Charing Cross,10804,3,100,"Glanton Hall, Near Charing Cross, Coonoor Road, Ooty,",643001,"3-star hotel in Ooty with restaurant, bar/lounge",0,1,15,0
+Ooty,88430,39,0,1,0,0,Jan 04 2017,OYO Premium Heritage Stays Charing Cross,10804,3,100,"Glanton Hall, Near Charing Cross, Coonoor Road, Ooty,",643001,"3-star hotel in Ooty with restaurant, bar/lounge",0,1,15,0
+Ooty,88430,39,0,1,1,0,Jan 08 2017,OYO Premium Heritage Stays Charing Cross,10804,3,100,"Glanton Hall, Near Charing Cross, Coonoor Road, Ooty,",643001,"3-star hotel in Ooty with restaurant, bar/lounge",0,1,15,0
+Ooty,88430,39,0,1,1,0,Dec 18 2016,OYO Rooms Funcity Coonoor Road,3065,3,100,"Fun City, Lovedale Junction, Coonoor Main Road, Ooty, Tamil Nadu",643001,Ooty hotel next to shopping,1,1,15,0
+Ooty,88430,39,0,1,0,0,Dec 21 2016,OYO Rooms Funcity Coonoor Road,3065,3,100,"Fun City, Lovedale Junction, Coonoor Main Road, Ooty, Tamil Nadu",643001,Ooty hotel next to shopping,1,1,15,0
+Ooty,88430,39,0,1,1,0,Dec 24 2016,OYO Rooms Funcity Coonoor Road,3099,3,100,"Fun City, Lovedale Junction, Coonoor Main Road, Ooty, Tamil Nadu",643001,Ooty hotel next to shopping,1,1,15,0
+Ooty,88430,39,0,1,1,0,Dec 25 2016,OYO Rooms Funcity Coonoor Road,2861,3,100,"Fun City, Lovedale Junction, Coonoor Main Road, Ooty, Tamil Nadu",643001,Ooty hotel next to shopping,1,1,15,0
+Ooty,88430,39,0,1,0,0,Dec 28 2016,OYO Rooms Funcity Coonoor Road,3099,3,100,"Fun City, Lovedale Junction, Coonoor Main Road, Ooty, Tamil Nadu",643001,Ooty hotel next to shopping,1,1,15,0
+Ooty,88430,39,0,1,1,1,Dec 31 2016,OYO Rooms Funcity Coonoor Road,2861,3,100,"Fun City, Lovedale Junction, Coonoor Main Road, Ooty, Tamil Nadu",643001,Ooty hotel next to shopping,1,1,15,0
+Ooty,88430,39,0,1,0,0,Jan 04 2017,OYO Rooms Funcity Coonoor Road,3099,3,100,"Fun City, Lovedale Junction, Coonoor Main Road, Ooty, Tamil Nadu",643001,Ooty hotel next to shopping,1,1,15,0
+Ooty,88430,39,0,1,1,0,Jan 08 2017,OYO Rooms Funcity Coonoor Road,3099,3,100,"Fun City, Lovedale Junction, Coonoor Main Road, Ooty, Tamil Nadu",643001,Ooty hotel next to shopping,1,1,15,0
+Ooty,88430,39,0,1,1,0,Dec 18 2016,Savoy Hotel,5750,4,100,"Ootacamund 77 Sylks Road, Ooty, Tamil Nadu",643001,"4-star hotel in Ooty with restaurant, bar/lounge",1,0,40,0
+Ooty,88430,39,0,1,0,0,Dec 21 2016,Savoy Hotel,5175,4,100,"Ootacamund 77 Sylks Road, Ooty, Tamil Nadu",643002,"4-star hotel in Ooty with restaurant, bar/lounge",1,0,40,0
+Ooty,88430,39,0,1,1,0,Dec 24 2016,Savoy Hotel,15750,4,100,"Ootacamund 77 Sylks Road, Ooty, Tamil Nadu",643003,"4-star hotel in Ooty with restaurant, bar/lounge",1,0,40,0
+Ooty,88430,39,0,1,1,0,Dec 25 2016,Savoy Hotel,9180,4,100,"Ootacamund 77 Sylks Road, Ooty, Tamil Nadu",643004,"4-star hotel in Ooty with restaurant, bar/lounge",1,0,40,0
+Ooty,88430,39,0,1,0,0,Dec 28 2016,Savoy Hotel,10350,4,100,"Ootacamund 77 Sylks Road, Ooty, Tamil Nadu",643005,"4-star hotel in Ooty with restaurant, bar/lounge",1,0,40,0
+Ooty,88430,39,0,1,1,1,Dec 31 2016,Savoy Hotel,18450,4,100,"Ootacamund 77 Sylks Road, Ooty, Tamil Nadu",643006,"4-star hotel in Ooty with restaurant, bar/lounge",1,0,40,0
+Ooty,88430,39,0,1,0,0,Jan 04 2017,Savoy Hotel,6400,4,100,"Ootacamund 77 Sylks Road, Ooty, Tamil Nadu",643007,"4-star hotel in Ooty with restaurant, bar/lounge",1,0,40,0
+Ooty,88430,39,0,1,1,0,Jan 08 2017,Savoy Hotel,6400,4,100,"Ootacamund 77 Sylks Road, Ooty, Tamil Nadu",643008,"4-star hotel in Ooty with restaurant, bar/lounge",1,0,40,0
+Ooty,88430,39,0,1,1,0,Dec 18 2016,The Gateway Hotel Church Road,9500,3.5,100,"Church Road Upper Coonoor, Coonoor, Tamil Nadu",643101,"3.5-star hotel in Coonoor with restaurant, bar/lounge",1,0,33,0
+Ooty,88430,39,0,1,0,0,Dec 21 2016,The Gateway Hotel Church Road,9500,3.5,100,"Church Road Upper Coonoor, Coonoor, Tamil Nadu",643001,"3.5-star hotel in Coonoor with restaurant, bar/lounge",1,0,33,0
+Ooty,88430,39,0,1,1,0,Dec 24 2016,The Gateway Hotel Church Road,12150,3.5,100,"Church Road Upper Coonoor, Coonoor, Tamil Nadu",643001,"3.5-star hotel in Coonoor with restaurant, bar/lounge",1,0,33,0
+Ooty,88430,39,0,1,1,0,Dec 25 2016,The Gateway Hotel Church Road,12150,3.5,100,"Church Road Upper Coonoor, Coonoor, Tamil Nadu",643001,"3.5-star hotel in Coonoor with restaurant, bar/lounge",1,0,33,0
+Ooty,88430,39,0,1,0,0,Dec 28 2016,The Gateway Hotel Church Road,12150,3.5,100,"Church Road Upper Coonoor, Coonoor, Tamil Nadu",643001,"3.5-star hotel in Coonoor with restaurant, bar/lounge",1,0,33,0
+Ooty,88430,39,0,1,1,1,Dec 31 2016,The Gateway Hotel Church Road,12150,3.5,100,"Church Road Upper Coonoor, Coonoor, Tamil Nadu",643001,"3.5-star hotel in Coonoor with restaurant, bar/lounge",1,0,33,0
+Ooty,88430,39,0,1,0,0,Jan 04 2017,The Gateway Hotel Church Road,12150,3.5,100,"Church Road Upper Coonoor, Coonoor, Tamil Nadu",643001,"3.5-star hotel in Coonoor with restaurant, bar/lounge",1,0,33,0
+Ooty,88430,39,0,1,1,0,Jan 08 2017,The Gateway Hotel Church Road,12150,3.5,100,"Church Road Upper Coonoor, Coonoor, Tamil Nadu",643001,"3.5-star hotel in Coonoor with restaurant, bar/lounge",1,0,33,0
+Ooty,88430,39,0,1,1,0,Dec 18 2016,United 21 Paradise,2855,3,100,"Woodbrook, Ooty, Pykara, Tamil Nadu",643001,Mountain Pykara hotel with restaurant,0,0,30,0
+Ooty,88430,39,0,1,0,0,Dec 21 2016,United 21 Paradise,2855,3,100,"Woodbrook, Ooty, Pykara, Tamil Nadu",643001,Mountain Pykara hotel with restaurant,0,0,30,0
+Ooty,88430,39,0,1,1,0,Dec 24 2016,United 21 Paradise,4180,3,100,"Woodbrook, Ooty, Pykara, Tamil Nadu",643001,Mountain Pykara hotel with restaurant,0,0,30,0
+Ooty,88430,39,0,1,1,0,Dec 25 2016,United 21 Paradise,3850,3,100,"Woodbrook, Ooty, Pykara, Tamil Nadu",643001,Mountain Pykara hotel with restaurant,0,0,30,0
+Ooty,88430,39,0,1,0,0,Dec 28 2016,United 21 Paradise,4180,3,100,"Woodbrook, Ooty, Pykara, Tamil Nadu",643001,Mountain Pykara hotel with restaurant,0,0,30,0
+Ooty,88430,39,0,1,1,1,Dec 31 2016,United 21 Paradise,4180,3,100,"Woodbrook, Ooty, Pykara, Tamil Nadu",643001,Mountain Pykara hotel with restaurant,0,0,30,0
+Ooty,88430,39,0,1,0,0,Jan 04 2017,United 21 Paradise,4180,3,100,"Woodbrook, Ooty, Pykara, Tamil Nadu",643001,Mountain Pykara hotel with restaurant,0,0,30,0
+Ooty,88430,39,0,1,1,0,Jan 08 2017,United 21 Paradise,4180,3,100,"Woodbrook, Ooty, Pykara, Tamil Nadu",643001,Mountain Pykara hotel with restaurant,0,0,30,0
+Ooty,88430,39,0,1,1,0,Dec 18 2016,Vinayaga Inn,2941,3,100,"36 C, Garden Road, Ooty, Tamil Nadu",643001,3-star hotel in Ooty,0,0,33,0
+Ooty,88430,39,0,1,0,0,Dec 21 2016,Vinayaga Inn,2941,3,100,"36 C, Garden Road, Ooty, Tamil Nadu",643001,3-star hotel in Ooty,0,0,33,0
+Ooty,88430,39,0,1,1,0,Dec 24 2016,Vinayaga Inn,4118,3,100,"36 C, Garden Road, Ooty, Tamil Nadu",643001,3-star hotel in Ooty,0,0,33,0
+Ooty,88430,39,0,1,1,0,Dec 25 2016,Vinayaga Inn,4118,3,100,"36 C, Garden Road, Ooty, Tamil Nadu",643001,3-star hotel in Ooty,0,0,33,0
+Ooty,88430,39,0,1,0,0,Dec 28 2016,Vinayaga Inn,4118,3,100,"36 C, Garden Road, Ooty, Tamil Nadu",643001,3-star hotel in Ooty,0,0,33,0
+Ooty,88430,39,0,1,1,1,Dec 31 2016,Vinayaga Inn,4706,3,100,"36 C, Garden Road, Ooty, Tamil Nadu",643001,3-star hotel in Ooty,0,0,33,0
+Ooty,88430,39,0,1,0,0,Jan 04 2017,Vinayaga Inn,4706,3,100,"36 C, Garden Road, Ooty, Tamil Nadu",643001,3-star hotel in Ooty,0,0,33,0
+Ooty,88430,39,0,1,1,0,Jan 08 2017,Vinayaga Inn,4706,3,100,"36 C, Garden Road, Ooty, Tamil Nadu",643001,3-star hotel in Ooty,0,0,33,0

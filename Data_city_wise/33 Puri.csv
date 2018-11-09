@@ -1,0 +1,57 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Puri,201026,33,0,1,1,0,Dec 18 2016,OYO Rooms Sea Shore,1660,3,65,"Near Gandhi Labour Foundation, Puri, Orissa",752001,3-star Puri hotel with conference center,1,1,15,0
+Puri,201026,33,0,1,0,0,Dec 21 2016,OYO Rooms Sea Shore,4151,3,65,"Near Gandhi Labour Foundation, Puri, Orissa",752001,3-star Puri hotel with conference center,1,1,15,0
+Puri,201026,33,0,1,1,0,Dec 24 2016,OYO Rooms Sea Shore,3321,3,65,"Near Gandhi Labour Foundation, Puri, Orissa",752001,3-star Puri hotel with conference center,1,1,15,0
+Puri,201026,33,0,1,1,0,Dec 25 2016,OYO Rooms Sea Shore,3321,3,65,"Near Gandhi Labour Foundation, Puri, Orissa",752001,3-star Puri hotel with conference center,1,1,15,0
+Puri,201026,33,0,1,0,0,Dec 28 2016,OYO Rooms Sea Shore,3278,3,65,"Near Gandhi Labour Foundation, Puri, Orissa",752001,3-star Puri hotel with conference center,1,1,15,0
+Puri,201026,33,0,1,1,1,Dec 31 2016,OYO Rooms Sea Shore,4151,3,65,"Near Gandhi Labour Foundation, Puri, Orissa",752001,3-star Puri hotel with conference center,1,1,15,0
+Puri,201026,33,0,1,0,0,Jan 04 2017,OYO Rooms Sea Shore,4151,3,65,"Near Gandhi Labour Foundation, Puri, Orissa",752001,3-star Puri hotel with conference center,1,1,15,0
+Puri,201026,33,0,1,1,0,Jan 8 2017,OYO Rooms Sea Shore,4150,3,65,"Near Gandhi Labour Foundation, Puri, Orissa",752001,3-star Puri hotel with conference center,1,1,15,0
+Puri,201026,33,0,1,1,0,Dec 18 2016,OYO Premium The Waves,3832,3,62,"Chakratritha Road, CT Road, Puri",752002,3-star Puri hotel with outdoor pool,1,1,15,1
+Puri,201026,33,0,1,0,0,Dec 21 2016,OYO Premium The Waves,10005,3,62,"Chakratritha Road, CT Road, Puri",752002,3-star Puri hotel with outdoor pool,1,1,15,1
+Puri,201026,33,0,1,1,0,Dec 24 2016,OYO Premium The Waves,10005,3,62,"Chakratritha Road, CT Road, Puri",752002,3-star Puri hotel with outdoor pool,1,1,15,1
+Puri,201026,33,0,1,1,0,Dec 25 2016,OYO Premium The Waves,10005,3,62,"Chakratritha Road, CT Road, Puri",752002,3-star Puri hotel with outdoor pool,1,1,15,1
+Puri,201026,33,0,1,0,0,Dec 28 2016,OYO Premium The Waves,10005,3,62,"Chakratritha Road, CT Road, Puri",752002,3-star Puri hotel with outdoor pool,1,1,15,1
+Puri,201026,33,0,1,1,1,Dec 31 2016,OYO Premium The Waves,10005,3,62,"Chakratritha Road, CT Road, Puri",752002,3-star Puri hotel with outdoor pool,1,1,15,1
+Puri,201026,33,0,1,0,0,Jan 04 2017,OYO Premium The Waves,10005,3,62,"Chakratritha Road, CT Road, Puri",752002,3-star Puri hotel with outdoor pool,1,1,15,1
+Puri,201026,33,0,1,1,0,Jan 8 2017,OYO Premium The Waves,10005,3,62,"Chakratritha Road, CT Road, Puri",752002,3-star Puri hotel with outdoor pool,1,1,15,1
+Puri,201026,33,0,1,1,0,Dec 18 2016,Sterling Holidays Puri - Golden Sands,3299,3,62,"Plot 255/2,255/3, Sipasaruballi Village, Puri, Orissa",752002,3-star Puri hotel with restaurant,1,1,53,0
+Puri,201026,33,0,1,0,0,Dec 21 2016,Sterling Holidays Puri - Golden Sands,3299,3,62,"Plot 255/2,255/3, Sipasaruballi Village, Puri, Orissa",752002,3-star Puri hotel with restaurant,1,1,53,0
+Puri,201026,33,0,1,1,0,Dec 24 2016,Sterling Holidays Puri - Golden Sands,11249,3,62,"Plot 255/2,255/3, Sipasaruballi Village, Puri, Orissa",752002,3-star Puri hotel with restaurant,1,1,53,0
+Puri,201026,33,0,1,1,0,Dec 25 2016,Sterling Holidays Puri - Golden Sands,9449,3,62,"Plot 255/2,255/3, Sipasaruballi Village, Puri, Orissa",752002,3-star Puri hotel with restaurant,1,1,53,0
+Puri,201026,33,0,1,0,0,Dec 28 2016,Sterling Holidays Puri - Golden Sands,9449,3,62,"Plot 255/2,255/3, Sipasaruballi Village, Puri, Orissa",752002,3-star Puri hotel with restaurant,1,1,53,0
+Puri,201026,33,0,1,1,1,Dec 31 2016,Sterling Holidays Puri - Golden Sands,7099,3,62,"Plot 255/2,255/3, Sipasaruballi Village, Puri, Orissa",752002,3-star Puri hotel with restaurant,1,1,53,0
+Puri,201026,33,0,1,0,0,Jan 04 2017,Sterling Holidays Puri - Golden Sands,3200,3,62,"Plot 255/2,255/3, Sipasaruballi Village, Puri, Orissa",752002,3-star Puri hotel with restaurant,1,1,53,0
+Puri,201026,33,0,1,1,0,Jan 8 2017,Sterling Holidays Puri - Golden Sands,3200,3,62,"Plot 255/2,255/3, Sipasaruballi Village, Puri, Orissa",752002,3-star Puri hotel with restaurant,1,1,53,0
+Puri,201026,33,0,1,1,0,Dec 18 2016,Hotel New Rockbay,2353,3,62,"Chakratirtha Road, In front of Sonar Gourang Temple, Puri",752002,3-star beachfront hotel in Puri with restaurant,1,0,32,0
+Puri,201026,33,0,1,0,0,Dec 21 2016,Hotel New Rockbay,3412,3,62,"Chakratirtha Road, In front of Sonar Gourang Temple, Puri",752002,3-star beachfront hotel in Puri with restaurant,1,0,32,0
+Puri,201026,33,0,1,1,0,Dec 24 2016,Hotel New Rockbay,3412,3,62,"Chakratirtha Road, In front of Sonar Gourang Temple, Puri",752002,3-star beachfront hotel in Puri with restaurant,1,0,32,0
+Puri,201026,33,0,1,1,0,Dec 25 2016,Hotel New Rockbay,3412,3,62,"Chakratirtha Road, In front of Sonar Gourang Temple, Puri",752002,3-star beachfront hotel in Puri with restaurant,1,0,32,0
+Puri,201026,33,0,1,0,0,Dec 28 2016,Hotel New Rockbay,3412,3,62,"Chakratirtha Road, In front of Sonar Gourang Temple, Puri",752002,3-star beachfront hotel in Puri with restaurant,1,0,32,0
+Puri,201026,33,0,1,1,1,Dec 31 2016,Hotel New Rockbay,3412,3,62,"Chakratirtha Road, In front of Sonar Gourang Temple, Puri",752002,3-star beachfront hotel in Puri with restaurant,1,0,32,0
+Puri,201026,33,0,1,0,0,Jan 04 2017,Hotel New Rockbay,3412,3,62,"Chakratirtha Road, In front of Sonar Gourang Temple, Puri",752002,3-star beachfront hotel in Puri with restaurant,1,0,32,0
+Puri,201026,33,0,1,1,0,Jan 8 2017,Hotel New Rockbay,2941,3,62,"Chakratirtha Road, In front of Sonar Gourang Temple, Puri",752002,3-star beachfront hotel in Puri with restaurant,1,0,32,0
+Puri,201026,33,0,1,1,0,Dec 18 2016,The Hans Coco Palms,9000,3,63,"Baliapanda Near light house, Swargdwar, Puri, Orissa",752001,"3-star hotel in Puri with outdoor pool, restaurant",0,0,36,1
+Puri,201026,33,0,1,0,0,Dec 21 2016,The Hans Coco Palms,9000,3,63,"Baliapanda Near light house, Swargdwar, Puri, Orissa",752001,"3-star hotel in Puri with outdoor pool, restaurant",0,0,36,1
+Puri,201026,33,0,1,1,0,Dec 24 2016,The Hans Coco Palms,9000,3,63,"Baliapanda Near light house, Swargdwar, Puri, Orissa",752001,"3-star hotel in Puri with outdoor pool, restaurant",0,0,36,1
+Puri,201026,33,0,1,1,0,Dec 25 2016,The Hans Coco Palms,9000,3,63,"Baliapanda Near light house, Swargdwar, Puri, Orissa",752001,"3-star hotel in Puri with outdoor pool, restaurant",0,0,36,1
+Puri,201026,33,0,1,0,0,Dec 28 2016,The Hans Coco Palms,9000,3,63,"Baliapanda Near light house, Swargdwar, Puri, Orissa",752001,"3-star hotel in Puri with outdoor pool, restaurant",0,0,36,1
+Puri,201026,33,0,1,1,1,Dec 31 2016,The Hans Coco Palms,9000,3,63,"Baliapanda Near light house, Swargdwar, Puri, Orissa",752001,"3-star hotel in Puri with outdoor pool, restaurant",0,0,36,1
+Puri,201026,33,0,1,0,0,Jan 04 2017,The Hans Coco Palms,9000,3,63,"Baliapanda Near light house, Swargdwar, Puri, Orissa",752001,"3-star hotel in Puri with outdoor pool, restaurant",0,0,36,1
+Puri,201026,33,0,1,1,0,Jan 8 2017,The Hans Coco Palms,6500,3,63,"Baliapanda Near light house, Swargdwar, Puri, Orissa",752001,"3-star hotel in Puri with outdoor pool, restaurant",0,0,36,1
+Puri,201026,33,0,1,1,0,Dec 18 2016,Hotel Naren Palace,3017,3,62,"C. T. Road, Puri, Orissa",752002,3-star beachfront hotel in Puri with restaurant,0,0,37,1
+Puri,201026,33,0,1,0,0,Dec 21 2016,Hotel Naren Palace,3017,3,62,"C. T. Road, Puri, Orissa",752002,3-star beachfront hotel in Puri with restaurant,0,0,37,1
+Puri,201026,33,0,1,1,0,Dec 24 2016,Hotel Naren Palace,3017,3,62,"C. T. Road, Puri, Orissa",752002,3-star beachfront hotel in Puri with restaurant,0,0,37,1
+Puri,201026,33,0,1,1,0,Dec 25 2016,Hotel Naren Palace,3017,3,62,"C. T. Road, Puri, Orissa",752002,3-star beachfront hotel in Puri with restaurant,0,0,37,1
+Puri,201026,33,0,1,0,0,Dec 28 2016,Hotel Naren Palace,3017,3,62,"C. T. Road, Puri, Orissa",752002,3-star beachfront hotel in Puri with restaurant,0,0,37,1
+Puri,201026,33,0,1,1,1,Dec 31 2016,Hotel Naren Palace,3017,3,62,"C. T. Road, Puri, Orissa",752002,3-star beachfront hotel in Puri with restaurant,0,0,37,1
+Puri,201026,33,0,1,0,0,Jan 04 2017,Hotel Naren Palace,2614,3,62,"C. T. Road, Puri, Orissa",752002,3-star beachfront hotel in Puri with restaurant,0,0,37,1
+Puri,201026,33,0,1,1,0,Jan 8 2017,Hotel Naren Palace,2614,3,62,"C. T. Road, Puri, Orissa",752002,3-star beachfront hotel in Puri with restaurant,0,0,37,1
+Puri,201026,33,0,1,1,0,Dec 18 2016,Toshali Sands Ethnic Village Resort,6796,4,61,"Konark Marine Drive, Po Baliguali, Puri, Orissa",752002,"Bayfront resort in Puri with outdoor pool, restaurant",0,0,107,1
+Puri,201026,33,0,1,0,0,Dec 21 2016,Toshali Sands Ethnic Village Resort,4934,4,61,"Konark Marine Drive, Po Baliguali, Puri, Orissa",752002,"Bayfront resort in Puri with outdoor pool, restaurant",0,0,107,1
+Puri,201026,33,0,1,1,0,Dec 24 2016,Toshali Sands Ethnic Village Resort,6796,4,61,"Konark Marine Drive, Po Baliguali, Puri, Orissa",752002,"Bayfront resort in Puri with outdoor pool, restaurant",0,0,107,1
+Puri,201026,33,0,1,1,0,Dec 25 2016,Toshali Sands Ethnic Village Resort,6796,4,61,"Konark Marine Drive, Po Baliguali, Puri, Orissa",752002,"Bayfront resort in Puri with outdoor pool, restaurant",0,0,107,1
+Puri,201026,33,0,1,0,0,Dec 28 2016,Toshali Sands Ethnic Village Resort,6796,4,61,"Konark Marine Drive, Po Baliguali, Puri, Orissa",752002,"Bayfront resort in Puri with outdoor pool, restaurant",0,0,107,1
+Puri,201026,33,0,1,1,1,Dec 31 2016,Toshali Sands Ethnic Village Resort,6796,4,61,"Konark Marine Drive, Po Baliguali, Puri, Orissa",752002,"Bayfront resort in Puri with outdoor pool, restaurant",0,0,107,1
+Puri,201026,33,0,1,0,0,Jan 04 2017,Toshali Sands Ethnic Village Resort,4934,4,61,"Konark Marine Drive, Po Baliguali, Puri, Orissa",752002,"Bayfront resort in Puri with outdoor pool, restaurant",0,0,107,1
+Puri,201026,33,0,1,1,0,Jan 8 2017,Toshali Sands Ethnic Village Resort,4934,4,61,"Konark Marine Drive, Po Baliguali, Puri, Orissa",752002,"Bayfront resort in Puri with outdoor pool, restaurant",0,0,107,1

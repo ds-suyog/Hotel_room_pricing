@@ -1,0 +1,265 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,1st Gate Home- Fusion,6375,3.5,0.2,"Dhibba Para,,Jaisalmer,Rajasthan,India",345001,"3-star hotel in Jaisalmer with restaurnat,bar lounge",1,0,8,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,1st Gate Home- Fusion,8500,3.5,0.2,"Dhibba Para,,Jaisalmer,Rajasthan,India",345001,"3-star hotel in Jaisalmer with restaurnat,bar lounge",1,0,8,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,1st Gate Home- Fusion,8500,3.5,0.2,"Dhibba Para,,Jaisalmer,Rajasthan,India",345001,"3-star hotel in Jaisalmer with restaurnat,bar lounge",1,0,8,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,1st Gate Home- Fusion,8500,3.5,0.2,"Dhibba Para,,Jaisalmer,Rajasthan,India",345001,"3-star hotel in Jaisalmer with restaurnat,bar lounge",1,0,8,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,1st Gate Home- Fusion,8500,3.5,0.2,"Dhibba Para,,Jaisalmer,Rajasthan,India",345001,"3-star hotel in Jaisalmer with restaurnat,bar lounge",1,0,8,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,1st Gate Home- Fusion,8500,3.5,0.2,"Dhibba Para,,Jaisalmer,Rajasthan,India",345001,"3-star hotel in Jaisalmer with restaurnat,bar lounge",1,0,8,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,1st Gate Home- Fusion,8500,3.5,0.2,"Dhibba Para,,Jaisalmer,Rajasthan,India",345001,"3-star hotel in Jaisalmer with restaurnat,bar lounge",1,0,8,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,1st Gate Home- Fusion,6375,3.5,0.2,"Dhibba Para,,Jaisalmer,Rajasthan,India",345001,"3-star hotel in Jaisalmer with restaurnat,bar lounge",1,0,8,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Backpacker Panda Oasis Jaisalmer,999,2,0.3,"Near State Bank of Bikaner Jaipur Bank,Shiv Road, Sadar Bazaar,Jaisalmer,Rajasthan,India",345001,No-frills Jaisalmer hostel with restaurant,1,0,8,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Backpacker Panda Oasis Jaisalmer,999,2,0.3,"Near State Bank of Bikaner Jaipur Bank,Shiv Road, Sadar Bazaar,Jaisalmer,Rajasthan,India",345001,No-frills Jaisalmer hostel with restaurant,1,0,8,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Backpacker Panda Oasis Jaisalmer,1399,2,0.3,"Near State Bank of Bikaner Jaipur Bank,Shiv Road, Sadar Bazaar,Jaisalmer,Rajasthan,India",345001,No-frills Jaisalmer hostel with restaurant,1,0,8,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Backpacker Panda Oasis Jaisalmer,1399,2,0.3,"Near State Bank of Bikaner Jaipur Bank,Shiv Road, Sadar Bazaar,Jaisalmer,Rajasthan,India",345001,No-frills Jaisalmer hostel with restaurant,1,0,8,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Backpacker Panda Oasis Jaisalmer,1899,2,0.3,"Near State Bank of Bikaner Jaipur Bank,Shiv Road, Sadar Bazaar,Jaisalmer,Rajasthan,India",345001,No-frills Jaisalmer hostel with restaurant,1,0,8,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Backpacker Panda Oasis Jaisalmer,1899,2,0.3,"Near State Bank of Bikaner Jaipur Bank,Shiv Road, Sadar Bazaar,Jaisalmer,Rajasthan,India",345001,No-frills Jaisalmer hostel with restaurant,1,0,8,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Backpacker Panda Oasis Jaisalmer,1399,2,0.3,"Near State Bank of Bikaner Jaipur Bank,Shiv Road, Sadar Bazaar,Jaisalmer,Rajasthan,India",345001,No-frills Jaisalmer hostel with restaurant,1,0,8,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Backpacker Panda Oasis Jaisalmer,999,2,0.3,"Near State Bank of Bikaner Jaipur Bank,Shiv Road, Sadar Bazaar,Jaisalmer,Rajasthan,India",345001,No-frills Jaisalmer hostel with restaurant,1,0,8,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Camp Paradise,4500,2.5,38,"In Front of Sam Sand Dune,42  from Jaisalmer,Sam,Rajasthan,India",345001,No-frills tentalow in Sam,1,0,16,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Camp Paradise,4500,2.5,38,"In Front of Sam Sand Dune,42  from Jaisalmer,Sam,Rajasthan,India",345001,No-frills tentalow in Sam,1,0,16,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Camp Paradise,4500,2.5,38,"In Front of Sam Sand Dune,42  from Jaisalmer,Sam,Rajasthan,India",345001,No-frills tentalow in Sam,1,0,16,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Camp Paradise,4500,2.5,38,"In Front of Sam Sand Dune,42  from Jaisalmer,Sam,Rajasthan,India",345001,No-frills tentalow in Sam,1,0,16,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Camp Paradise,4500,2.5,38,"In Front of Sam Sand Dune,42  from Jaisalmer,Sam,Rajasthan,India",345001,No-frills tentalow in Sam,1,0,16,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Camp Paradise,4500,2.5,38,"In Front of Sam Sand Dune,42  from Jaisalmer,Sam,Rajasthan,India",345001,No-frills tentalow in Sam,1,0,16,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Camp Paradise,4000,2.5,38,"In Front of Sam Sand Dune,42  from Jaisalmer,Sam,Rajasthan,India",345001,No-frills tentalow in Sam,1,0,16,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Camp Paradise,4000,2.5,38,"In Front of Sam Sand Dune,42  from Jaisalmer,Sam,Rajasthan,India",345001,No-frills tentalow in Sam,1,0,16,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Chokhi Dhani The Palace Hotel,5999,4,3.4,"Plot No. 4/5, Barmer Road,,Jaisalmer,,India",345001,"4-star palace in Jaisalmer with outdoor pool, restaurant",1,1,43,1
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Chokhi Dhani The Palace Hotel,5999,4,3.4,"Plot No. 4/5, Barmer Road,,Jaisalmer,,India",345001,"4-star palace in Jaisalmer with outdoor pool, restaurant",1,1,43,1
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Chokhi Dhani The Palace Hotel,7999,4,3.4,"Plot No. 4/5, Barmer Road,,Jaisalmer,,India",345001,"4-star palace in Jaisalmer with outdoor pool, restaurant",1,1,43,1
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Chokhi Dhani The Palace Hotel,11999,4,3.4,"Plot No. 4/5, Barmer Road,,Jaisalmer,,India",345001,"4-star palace in Jaisalmer with outdoor pool, restaurant",1,1,43,1
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Chokhi Dhani The Palace Hotel,11999,4,3.4,"Plot No. 4/5, Barmer Road,,Jaisalmer,,India",345001,"4-star palace in Jaisalmer with outdoor pool, restaurant",1,1,43,1
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Chokhi Dhani The Palace Hotel,12500,4,3.4,"Plot No. 4/5, Barmer Road,,Jaisalmer,,India",345001,"4-star palace in Jaisalmer with outdoor pool, restaurant",1,1,43,1
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Chokhi Dhani The Palace Hotel,12500,4,3.4,"Plot No. 4/5, Barmer Road,,Jaisalmer,,India",345001,"4-star palace in Jaisalmer with outdoor pool, restaurant",1,1,43,1
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Chokhi Dhani The Palace Hotel,12500,4,3.4,"Plot No. 4/5, Barmer Road,,Jaisalmer,,India",345001,"4-star palace in Jaisalmer with outdoor pool, restaurant",1,1,43,1
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Colonel's Camp Oasis India,5490,2.5,39,"Village Sam,Jaisalmer,Sam,Rajasthan,India",345001,No-frills tentalow in Sam,0,1,12,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Colonel's Camp Oasis India,5490,2.5,39,"Village Sam,Jaisalmer,Sam,Rajasthan,India",345001,No-frills tentalow in Sam,0,1,12,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Colonel's Camp Oasis India,5490,2.5,39,"Village Sam,Jaisalmer,Sam,Rajasthan,India",345001,No-frills tentalow in Sam,0,1,12,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Colonel's Camp Oasis India,8445,2.5,39,"Village Sam,Jaisalmer,Sam,Rajasthan,India",345001,No-frills tentalow in Sam,0,1,12,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Colonel's Camp Oasis India,5490,2.5,39,"Village Sam,Jaisalmer,Sam,Rajasthan,India",345001,No-frills tentalow in Sam,0,1,12,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Colonel's Camp Oasis India,5490,2.5,39,"Village Sam,Jaisalmer,Sam,Rajasthan,India",345001,No-frills tentalow in Sam,0,1,12,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Colonel's Camp Oasis India,5490,2.5,39,"Village Sam,Jaisalmer,Sam,Rajasthan,India",345001,No-frills tentalow in Sam,0,1,12,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Colonel's Camp Oasis India,5490,2.5,39,"Village Sam,Jaisalmer,Sam,Rajasthan,India",345001,No-frills tentalow in Sam,0,1,12,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Damodra Desert Camp,9500,3,22,"Damodra Sam Road,,Jaisalmer,Rajasthan,India",345001,3-star Dedha tentalow with restaurant,0,1,10,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Damodra Desert Camp,9500,3,22,"Damodra Sam Road,,Jaisalmer,Rajasthan,India",345001,3-star Dedha tentalow with restaurant,0,1,10,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Damodra Desert Camp,12500,3,22,"Damodra Sam Road,,Jaisalmer,Rajasthan,India",345001,3-star Dedha tentalow with restaurant,0,1,10,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Damodra Desert Camp,12500,3,22,"Damodra Sam Road,,Jaisalmer,Rajasthan,India",345001,3-star Dedha tentalow with restaurant,0,1,10,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Damodra Desert Camp,9500,3,22,"Damodra Sam Road,,Jaisalmer,Rajasthan,India",345001,3-star Dedha tentalow with restaurant,0,1,10,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Damodra Desert Camp,9500,3,22,"Damodra Sam Road,,Jaisalmer,Rajasthan,India",345001,3-star Dedha tentalow with restaurant,0,1,10,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Damodra Desert Camp,9500,3,22,"Damodra Sam Road,,Jaisalmer,Rajasthan,India",345001,3-star Dedha tentalow with restaurant,0,1,10,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Damodra Desert Camp,9500,3,22,"Damodra Sam Road,,Jaisalmer,Rajasthan,India",345001,3-star Dedha tentalow with restaurant,0,1,10,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Dylan Cafe & Guest House,499,3,0.5,"Air Force Circle,Old City, Dhiba Para,Gandhi chowk,Jaisalmer,Rajasthan,India",345001,City-center Jaisalmer hotel with restaurant,1,0,12,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Dylan Cafe & Guest House,1500,3,0.5,"Air Force Circle,Old City, Dhiba Para,Gandhi chowk,Jaisalmer,Rajasthan,India",345001,City-center Jaisalmer hotel with restaurant,1,0,12,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Dylan Cafe & Guest House,1500,3,0.5,"Air Force Circle,Old City, Dhiba Para,Gandhi chowk,Jaisalmer,Rajasthan,India",345001,City-center Jaisalmer hotel with restaurant,1,0,12,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Dylan Cafe & Guest House,1500,3,0.5,"Air Force Circle,Old City, Dhiba Para,Gandhi chowk,Jaisalmer,Rajasthan,India",345001,City-center Jaisalmer hotel with restaurant,1,0,12,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Dylan Cafe & Guest House,2500,3,0.5,"Air Force Circle,Old City, Dhiba Para,Gandhi chowk,Jaisalmer,Rajasthan,India",345001,City-center Jaisalmer hotel with restaurant,1,0,12,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Dylan Cafe & Guest House,2500,3,0.5,"Air Force Circle,Old City, Dhiba Para,Gandhi chowk,Jaisalmer,Rajasthan,India",345001,City-center Jaisalmer hotel with restaurant,1,0,12,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Dylan Cafe & Guest House,1500,3,0.5,"Air Force Circle,Old City, Dhiba Para,Gandhi chowk,Jaisalmer,Rajasthan,India",345001,City-center Jaisalmer hotel with restaurant,1,0,12,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Dylan Cafe & Guest House,1500,3,0.5,"Air Force Circle,Old City, Dhiba Para,Gandhi chowk,Jaisalmer,Rajasthan,India",345001,City-center Jaisalmer hotel with restaurant,1,0,12,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Golden Haveli,4500,3.5,0.8,"Bera Road, Near Gadsagar Lake,,Jaisalmer,Rajasthan,India",345001,Lakefront hotel in Jaisalmer with outdoor pool,1,0,41,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Golden Haveli,4500,3.5,0.8,"Bera Road, Near Gadsagar Lake,,Jaisalmer,Rajasthan,India",345001,Lakefront hotel in Jaisalmer with outdoor pool,1,0,41,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Golden Haveli,5000,3.5,0.8,"Bera Road, Near Gadsagar Lake,,Jaisalmer,Rajasthan,India",345001,Lakefront hotel in Jaisalmer with outdoor pool,1,0,41,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Golden Haveli,5000,3.5,0.8,"Bera Road, Near Gadsagar Lake,,Jaisalmer,Rajasthan,India",345001,Lakefront hotel in Jaisalmer with outdoor pool,1,0,41,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Golden Haveli,4500,3.5,0.8,"Bera Road, Near Gadsagar Lake,,Jaisalmer,Rajasthan,India",345001,Lakefront hotel in Jaisalmer with outdoor pool,1,0,41,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Golden Haveli,5000,3.5,0.8,"Bera Road, Near Gadsagar Lake,,Jaisalmer,Rajasthan,India",345001,Lakefront hotel in Jaisalmer with outdoor pool,1,0,41,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Golden Haveli,4500,3.5,0.8,"Bera Road, Near Gadsagar Lake,,Jaisalmer,Rajasthan,India",345001,Lakefront hotel in Jaisalmer with outdoor pool,1,0,41,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Golden Haveli,4500,3.5,0.8,"Bera Road, Near Gadsagar Lake,,Jaisalmer,Rajasthan,India",345001,Lakefront hotel in Jaisalmer with outdoor pool,1,0,41,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Gorbandh Palace,8400,3,4.5,"No. 1 Tourist Complex, Sam Road,,Jaisalmer,Rajasthan,India",345001,"3-star hotel in Jaisalmer with outdoor pool, restaurant",1,0,83,1
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Gorbandh Palace,8400,3,4.5,"No. 1 Tourist Complex, Sam Road,,Jaisalmer,Rajasthan,India",345001,"3-star hotel in Jaisalmer with outdoor pool, restaurant",1,0,83,1
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Gorbandh Palace,13800,3,4.5,"No. 1 Tourist Complex, Sam Road,,Jaisalmer,Rajasthan,India",345001,"3-star hotel in Jaisalmer with outdoor pool, restaurant",1,0,83,1
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Gorbandh Palace,8400,3,4.5,"No. 1 Tourist Complex, Sam Road,,Jaisalmer,Rajasthan,India",345001,"3-star hotel in Jaisalmer with outdoor pool, restaurant",1,0,83,1
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Gorbandh Palace,8400,3,4.5,"No. 1 Tourist Complex, Sam Road,,Jaisalmer,Rajasthan,India",345001,"3-star hotel in Jaisalmer with outdoor pool, restaurant",1,0,83,1
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Gorbandh Palace,18800,3,4.5,"No. 1 Tourist Complex, Sam Road,,Jaisalmer,Rajasthan,India",345001,"3-star hotel in Jaisalmer with outdoor pool, restaurant",1,0,83,1
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Gorbandh Palace,8400,3,4.5,"No. 1 Tourist Complex, Sam Road,,Jaisalmer,Rajasthan,India",345001,"3-star hotel in Jaisalmer with outdoor pool, restaurant",1,0,83,1
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Gorbandh Palace,8400,3,4.5,"No. 1 Tourist Complex, Sam Road,,Jaisalmer,Rajasthan,India",345001,"3-star hotel in Jaisalmer with outdoor pool, restaurant",1,0,83,1
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Hotel Akashdeep,950,3,0.7,"Hanuman Circle,,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,0,16,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Hotel Akashdeep,950,3,0.7,"Hanuman Circle,,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,0,16,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Hotel Akashdeep,2500,3,0.7,"Hanuman Circle,,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,0,16,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Hotel Akashdeep,2500,3,0.7,"Hanuman Circle,,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,0,16,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Hotel Akashdeep,2500,3,0.7,"Hanuman Circle,,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,0,16,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Hotel Akashdeep,2500,3,0.7,"Hanuman Circle,,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,0,16,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Hotel Akashdeep,950,3,0.7,"Hanuman Circle,,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,0,16,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Hotel Akashdeep,950,3,0.7,"Hanuman Circle,,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,0,16,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Hotel Helsinki House,2920,3,1,"Bera Road Opp Nagar Palika ,,Jaisalmer,Rajasthan,India",345001,Lakefront Jaiselmer hotel with restaurant,1,1,13,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Hotel Helsinki House,2920,3,1,"Bera Road Opp Nagar Palika ,,Jaisalmer,Rajasthan,India",345001,Lakefront Jaiselmer hotel with restaurant,1,1,13,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Hotel Helsinki House,3250,3,1,"Bera Road Opp Nagar Palika ,,Jaisalmer,Rajasthan,India",345001,Lakefront Jaiselmer hotel with restaurant,1,1,13,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Hotel Helsinki House,2920,3,1,"Bera Road Opp Nagar Palika ,,Jaisalmer,Rajasthan,India",345001,Lakefront Jaiselmer hotel with restaurant,1,1,13,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Hotel Helsinki House,2920,3,1,"Bera Road Opp Nagar Palika ,,Jaisalmer,Rajasthan,India",345001,Lakefront Jaiselmer hotel with restaurant,1,1,13,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Hotel Helsinki House,3250,3,1,"Bera Road Opp Nagar Palika ,,Jaisalmer,Rajasthan,India",345001,Lakefront Jaiselmer hotel with restaurant,1,1,13,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Hotel Helsinki House,3250,3,1,"Bera Road Opp Nagar Palika ,,Jaisalmer,Rajasthan,India",345001,Lakefront Jaiselmer hotel with restaurant,1,1,13,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Hotel Helsinki House,3250,3,1,"Bera Road Opp Nagar Palika ,,Jaisalmer,Rajasthan,India",345001,Lakefront Jaiselmer hotel with restaurant,1,1,13,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Hotel Imperial,2318,3,0.6,"1, C VSingh Colony,Near Hanuman Circle,Jaisalmer,Rajasthan,India",345001,City-center hotel in Jaisalmer with 2 restaurants,1,1,23,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Hotel Imperial,2318,3,0.6,"1, C VSingh Colony,Near Hanuman Circle,Jaisalmer,Rajasthan,India",345001,City-center hotel in Jaisalmer with 2 restaurants,1,1,23,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Hotel Imperial,3714,3,0.6,"1, C VSingh Colony,Near Hanuman Circle,Jaisalmer,Rajasthan,India",345001,City-center hotel in Jaisalmer with 2 restaurants,1,1,23,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Hotel Imperial,3714,3,0.6,"1, C VSingh Colony,Near Hanuman Circle,Jaisalmer,Rajasthan,India",345001,City-center hotel in Jaisalmer with 2 restaurants,1,1,23,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Hotel Imperial,2318,3,0.6,"1, C VSingh Colony,Near Hanuman Circle,Jaisalmer,Rajasthan,India",345001,City-center hotel in Jaisalmer with 2 restaurants,1,1,23,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Hotel Imperial,3249,3,0.6,"1, C VSingh Colony,Near Hanuman Circle,Jaisalmer,Rajasthan,India",345001,City-center hotel in Jaisalmer with 2 restaurants,1,1,23,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Hotel Imperial,2318,3,0.6,"1, C VSingh Colony,Near Hanuman Circle,Jaisalmer,Rajasthan,India",345001,City-center hotel in Jaisalmer with 2 restaurants,1,1,23,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Hotel Imperial,2318,3,0.6,"1, C VSingh Colony,Near Hanuman Circle,Jaisalmer,Rajasthan,India",345001,City-center hotel in Jaisalmer with 2 restaurants,1,1,23,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Hotel Rang Mahal,5000,4,2.7,"5-6 Hotel Complex, Sam Road, P.B. No.50,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with 2 restaurants, outdoor pool",1,0,126,1
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Hotel Rang Mahal,5000,4,2.7,"5-6 Hotel Complex, Sam Road, P.B. No.50,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with 2 restaurants, outdoor pool",1,0,126,1
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Hotel Rang Mahal,21201,4,2.7,"5-6 Hotel Complex, Sam Road, P.B. No.50,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with 2 restaurants, outdoor pool",1,0,126,1
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Hotel Rang Mahal,16999,4,2.7,"5-6 Hotel Complex, Sam Road, P.B. No.50,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with 2 restaurants, outdoor pool",1,0,126,1
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Hotel Rang Mahal,5400,4,2.7,"5-6 Hotel Complex, Sam Road, P.B. No.50,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with 2 restaurants, outdoor pool",1,0,126,1
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Hotel Rang Mahal,21201,4,2.7,"5-6 Hotel Complex, Sam Road, P.B. No.50,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with 2 restaurants, outdoor pool",1,0,126,1
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Hotel Rang Mahal,5400,4,2.7,"5-6 Hotel Complex, Sam Road, P.B. No.50,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with 2 restaurants, outdoor pool",1,0,126,1
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Hotel Rang Mahal,5400,4,2.7,"5-6 Hotel Complex, Sam Road, P.B. No.50,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with 2 restaurants, outdoor pool",1,0,126,1
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Hotel Rawal Kot,4727,4,3.3,"Jodhpur Jaisalmer Highway,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with outdoor pool, restaurant",1,0,42,1
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Hotel Rawal Kot,4727,4,3.3,"Jodhpur Jaisalmer Highway,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with outdoor pool, restaurant",1,0,42,1
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Hotel Rawal Kot,8273,4,3.3,"Jodhpur Jaisalmer Highway,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with outdoor pool, restaurant",1,0,42,1
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Hotel Rawal Kot,10045,4,3.3,"Jodhpur Jaisalmer Highway,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with outdoor pool, restaurant",1,0,42,1
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Hotel Rawal Kot,10636,4,3.3,"Jodhpur Jaisalmer Highway,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with outdoor pool, restaurant",1,0,42,1
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Hotel Rawal Kot,20000,4,3.3,"Jodhpur Jaisalmer Highway,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with outdoor pool, restaurant",1,0,42,1
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Hotel Rawal Kot,4727,4,3.3,"Jodhpur Jaisalmer Highway,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with outdoor pool, restaurant",1,0,42,1
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Hotel Rawal Kot,4727,4,3.3,"Jodhpur Jaisalmer Highway,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with outdoor pool, restaurant",1,0,42,1
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Hotel Royal Haveli,1568,3,0.3,"Near Airforce Cricle,Dhibba Para,Jaisalmer,Rajasthan,India",345001,"Luxury hotel in Jaisalmer with restaurant, bar/lounge",1,0,11,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Hotel Royal Haveli,3325,3,0.3,"Near Airforce Cricle,Dhibba Para,Jaisalmer,Rajasthan,India",345001,"Luxury hotel in Jaisalmer with restaurant, bar/lounge",1,0,11,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Hotel Royal Haveli,4750,3,0.3,"Near Airforce Cricle,Dhibba Para,Jaisalmer,Rajasthan,India",345001,"Luxury hotel in Jaisalmer with restaurant, bar/lounge",1,0,11,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Hotel Royal Haveli,3325,3,0.3,"Near Airforce Cricle,Dhibba Para,Jaisalmer,Rajasthan,India",345001,"Luxury hotel in Jaisalmer with restaurant, bar/lounge",1,0,11,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Hotel Royal Haveli,3325,3,0.3,"Near Airforce Cricle,Dhibba Para,Jaisalmer,Rajasthan,India",345001,"Luxury hotel in Jaisalmer with restaurant, bar/lounge",1,0,11,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Hotel Royal Haveli,4750,3,0.3,"Near Airforce Cricle,Dhibba Para,Jaisalmer,Rajasthan,India",345001,"Luxury hotel in Jaisalmer with restaurant, bar/lounge",1,0,11,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Hotel Royal Haveli,3325,3,0.3,"Near Airforce Cricle,Dhibba Para,Jaisalmer,Rajasthan,India",345001,"Luxury hotel in Jaisalmer with restaurant, bar/lounge",1,0,11,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Hotel Royal Haveli,3325,3,0.3,"Near Airforce Cricle,Dhibba Para,Jaisalmer,Rajasthan,India",345001,"Luxury hotel in Jaisalmer with restaurant, bar/lounge",1,0,11,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Hotel Sky Plaza,2975,3,0.5,"703,Officers Colony Circle,,Jaisalmer,Rajasthan,India",345001,City-center Jaisalmer hotel with restaurant,1,0,13,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Hotel Sky Plaza,2975,3,0.5,"703,Officers Colony Circle,,Jaisalmer,Rajasthan,India",345001,City-center Jaisalmer hotel with restaurant,1,0,13,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Hotel Sky Plaza,5975,3,0.5,"703,Officers Colony Circle,,Jaisalmer,Rajasthan,India",345001,City-center Jaisalmer hotel with restaurant,1,0,13,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Hotel Sky Plaza,5975,3,0.5,"703,Officers Colony Circle,,Jaisalmer,Rajasthan,India",345001,City-center Jaisalmer hotel with restaurant,1,0,13,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Hotel Sky Plaza,2975,3,0.5,"703,Officers Colony Circle,,Jaisalmer,Rajasthan,India",345001,City-center Jaisalmer hotel with restaurant,1,0,13,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Hotel Sky Plaza,5975,3,0.5,"703,Officers Colony Circle,,Jaisalmer,Rajasthan,India",345001,City-center Jaisalmer hotel with restaurant,1,0,13,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Hotel Sky Plaza,2975,3,0.5,"703,Officers Colony Circle,,Jaisalmer,Rajasthan,India",345001,City-center Jaisalmer hotel with restaurant,1,0,13,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Hotel Sky Plaza,2975,3,0.5,"703,Officers Colony Circle,,Jaisalmer,Rajasthan,India",345001,City-center Jaisalmer hotel with restaurant,1,0,13,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Hotel Tokyo Palace,2000,3,0.3,"Near Fort, Airforce Chouraha,Dhibba Para,Jaisalmer,Rajasthan,India",345001,Jaisalmer ski-in/ski-out hotel with indoor pool,1,0,14,1
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Hotel Tokyo Palace,2000,3,0.3,"Near Fort, Airforce Chouraha,Dhibba Para,Jaisalmer,Rajasthan,India",345001,Jaisalmer ski-in/ski-out hotel with indoor pool,1,0,14,1
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Hotel Tokyo Palace,2000,3,0.3,"Near Fort, Airforce Chouraha,Dhibba Para,Jaisalmer,Rajasthan,India",345001,Jaisalmer ski-in/ski-out hotel with indoor pool,1,0,14,1
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Hotel Tokyo Palace,2000,3,0.3,"Near Fort, Airforce Chouraha,Dhibba Para,Jaisalmer,Rajasthan,India",345001,Jaisalmer ski-in/ski-out hotel with indoor pool,1,0,14,1
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Hotel Tokyo Palace,1200,3,0.3,"Near Fort, Airforce Chouraha,Dhibba Para,Jaisalmer,Rajasthan,India",345001,Jaisalmer ski-in/ski-out hotel with indoor pool,1,0,14,1
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Hotel Tokyo Palace,2000,3,0.3,"Near Fort, Airforce Chouraha,Dhibba Para,Jaisalmer,Rajasthan,India",345001,Jaisalmer ski-in/ski-out hotel with indoor pool,1,0,14,1
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Hotel Tokyo Palace,2000,3,0.3,"Near Fort, Airforce Chouraha,Dhibba Para,Jaisalmer,Rajasthan,India",345001,Jaisalmer ski-in/ski-out hotel with indoor pool,1,0,14,1
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Hotel Tokyo Palace,1200,3,0.3,"Near Fort, Airforce Chouraha,Dhibba Para,Jaisalmer,Rajasthan,India",345001,Jaisalmer ski-in/ski-out hotel with indoor pool,1,0,14,1
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Jaisalkot,8912,4,13,"Kuldhara Turn,Off Sam Road,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with outdoor pool, restaurant",0,0,50,1
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Jaisalkot,8912,4,13,"Kuldhara Turn,Off Sam Road,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with outdoor pool, restaurant",0,0,50,1
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Jaisalkot,20000,4,13,"Kuldhara Turn,Off Sam Road,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with outdoor pool, restaurant",0,0,50,1
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Jaisalkot,20000,4,13,"Kuldhara Turn,Off Sam Road,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with outdoor pool, restaurant",0,0,50,1
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Jaisalkot,8912,4,13,"Kuldhara Turn,Off Sam Road,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with outdoor pool, restaurant",0,0,50,1
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Jaisalkot,20000,4,13,"Kuldhara Turn,Off Sam Road,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with outdoor pool, restaurant",0,0,50,1
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Jaisalkot,20000,4,13,"Kuldhara Turn,Off Sam Road,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with outdoor pool, restaurant",0,0,50,1
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Jaisalkot,8912,4,13,"Kuldhara Turn,Off Sam Road,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with outdoor pool, restaurant",0,0,50,1
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Jaisalmer Marriott Resort & Spa,11200,4,1.4,"Jaisalmer-Sam-Dhanana Road, Police Line,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with spa, outdoor pool",0,0,137,1
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Jaisalmer Marriott Resort & Spa,11200,4,1.4,"Jaisalmer-Sam-Dhanana Road, Police Line,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with spa, outdoor pool",0,0,137,1
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Jaisalmer Marriott Resort & Spa,15000,4,1.4,"Jaisalmer-Sam-Dhanana Road, Police Line,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with spa, outdoor pool",0,0,137,1
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Jaisalmer Marriott Resort & Spa,15000,4,1.4,"Jaisalmer-Sam-Dhanana Road, Police Line,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with spa, outdoor pool",0,0,137,1
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Jaisalmer Marriott Resort & Spa,14500,4,1.4,"Jaisalmer-Sam-Dhanana Road, Police Line,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with spa, outdoor pool",0,0,137,1
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Jaisalmer Marriott Resort & Spa,25000,4,1.4,"Jaisalmer-Sam-Dhanana Road, Police Line,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with spa, outdoor pool",0,0,137,1
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Jaisalmer Marriott Resort & Spa,16300,4,1.4,"Jaisalmer-Sam-Dhanana Road, Police Line,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with spa, outdoor pool",0,0,137,1
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Jaisalmer Marriott Resort & Spa,16300,4,1.4,"Jaisalmer-Sam-Dhanana Road, Police Line,,Jaisalmer,Rajasthan,India",345001,"4-star hotel in Jaisalmer with spa, outdoor pool",0,0,137,1
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Kalyan Beacon Hotel Jaisalmer,1000,2.5,0.5,"Gandhi Chowk, Sadar Bazar,,Jaisalmer,Rajasthan,India",345001,"Jaisalmer hotel with 2 restaurants, outdoor pool",1,1,22,1
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Kalyan Beacon Hotel Jaisalmer,1000,2.5,0.5,"Gandhi Chowk, Sadar Bazar,,Jaisalmer,Rajasthan,India",345001,"Jaisalmer hotel with 2 restaurants, outdoor pool",1,1,22,1
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Kalyan Beacon Hotel Jaisalmer,2400,2.5,0.5,"Gandhi Chowk, Sadar Bazar,,Jaisalmer,Rajasthan,India",345001,"Jaisalmer hotel with 2 restaurants, outdoor pool",1,1,22,1
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Kalyan Beacon Hotel Jaisalmer,2400,2.5,0.5,"Gandhi Chowk, Sadar Bazar,,Jaisalmer,Rajasthan,India",345001,"Jaisalmer hotel with 2 restaurants, outdoor pool",1,1,22,1
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Kalyan Beacon Hotel Jaisalmer,1500,2.5,0.5,"Gandhi Chowk, Sadar Bazar,,Jaisalmer,Rajasthan,India",345001,"Jaisalmer hotel with 2 restaurants, outdoor pool",1,1,22,1
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Kalyan Beacon Hotel Jaisalmer,2400,2.5,0.5,"Gandhi Chowk, Sadar Bazar,,Jaisalmer,Rajasthan,India",345001,"Jaisalmer hotel with 2 restaurants, outdoor pool",1,1,22,1
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Kalyan Beacon Hotel Jaisalmer,1000,2.5,0.5,"Gandhi Chowk, Sadar Bazar,,Jaisalmer,Rajasthan,India",345001,"Jaisalmer hotel with 2 restaurants, outdoor pool",1,1,22,1
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Kalyan Beacon Hotel Jaisalmer,1000,2.5,0.5,"Gandhi Chowk, Sadar Bazar,,Jaisalmer,Rajasthan,India",345001,"Jaisalmer hotel with 2 restaurants, outdoor pool",1,1,22,1
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,OYO Rooms Sunset Point Jaisalmer,2937,3,1.2,"Acalvanshi Colony, Sunset Point,Opp. Vyas Chattree,Jaisalmer,,India",345001,3-star Jaisalmer hotel with restaurant,1,1,15,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,OYO Rooms Sunset Point Jaisalmer,2937,3,1.2,"Acalvanshi Colony, Sunset Point,Opp. Vyas Chattree,Jaisalmer,,India",345001,3-star Jaisalmer hotel with restaurant,1,1,15,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,OYO Rooms Sunset Point Jaisalmer,2639,3,1.2,"Acalvanshi Colony, Sunset Point,Opp. Vyas Chattree,Jaisalmer,,India",345001,3-star Jaisalmer hotel with restaurant,1,1,15,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,OYO Rooms Sunset Point Jaisalmer,2639,3,1.2,"Acalvanshi Colony, Sunset Point,Opp. Vyas Chattree,Jaisalmer,,India",345001,3-star Jaisalmer hotel with restaurant,1,1,15,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,OYO Rooms Sunset Point Jaisalmer,2639,3,1.2,"Acalvanshi Colony, Sunset Point,Opp. Vyas Chattree,Jaisalmer,,India",345001,3-star Jaisalmer hotel with restaurant,1,1,15,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,OYO Rooms Sunset Point Jaisalmer,7343,3,1.2,"Acalvanshi Colony, Sunset Point,Opp. Vyas Chattree,Jaisalmer,,India",345001,3-star Jaisalmer hotel with restaurant,1,0,15,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,OYO Rooms Sunset Point Jaisalmer,7343,3,1.2,"Acalvanshi Colony, Sunset Point,Opp. Vyas Chattree,Jaisalmer,,India",345001,3-star Jaisalmer hotel with restaurant,1,0,15,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,OYO Rooms Sunset Point Jaisalmer,7343,3,1.2,"Acalvanshi Colony, Sunset Point,Opp. Vyas Chattree,Jaisalmer,,India",345001,3-star Jaisalmer hotel with restaurant,1,0,15,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Savi Camps,1261,3,27,"Kanoi Killage,,Jaisalmer,Rajasthan,India",345001,"3-star tentalow in Jaisalmer with restaurant, bar/lounge",1,1,11,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Savi Camps,1261,3,27,"Kanoi Killage,,Jaisalmer,Rajasthan,India",345001,"3-star tentalow in Jaisalmer with restaurant, bar/lounge",1,1,11,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Savi Camps,2521,3,27,"Kanoi Killage,,Jaisalmer,Rajasthan,India",345001,"3-star tentalow in Jaisalmer with restaurant, bar/lounge",1,1,11,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Savi Camps,2521,3,27,"Kanoi Killage,,Jaisalmer,Rajasthan,India",345001,"3-star tentalow in Jaisalmer with restaurant, bar/lounge",1,1,11,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Savi Camps,4202,3,27,"Kanoi Killage,,Jaisalmer,Rajasthan,India",345001,"3-star tentalow in Jaisalmer with restaurant, bar/lounge",1,1,11,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Savi Camps,1681,3,27,"Kanoi Killage,,Jaisalmer,Rajasthan,India",345001,"3-star tentalow in Jaisalmer with restaurant, bar/lounge",1,1,11,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Savi Camps,1681,3,27,"Kanoi Killage,,Jaisalmer,Rajasthan,India",345001,"3-star tentalow in Jaisalmer with restaurant, bar/lounge",1,1,11,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Savi Camps,1681,3,27,"Kanoi Killage,,Jaisalmer,Rajasthan,India",345001,"3-star tentalow in Jaisalmer with restaurant, bar/lounge",1,1,11,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Suryagarh,12000,5,13,"Kahala Phata Sam Road,,Jaisalmer,Rajasthan,India",345001,"3-star tentalow in Jaisalmer with restaurant, bar/lounge",1,1,77,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Suryagarh,12000,5,13,"Kahala Phata Sam Road,,Jaisalmer,Rajasthan,India",345001,"3-star tentalow in Jaisalmer with restaurant, bar/lounge",1,1,77,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Suryagarh,19000,5,13,"Kahala Phata Sam Road,,Jaisalmer,Rajasthan,India",345001,"3-star tentalow in Jaisalmer with restaurant, bar/lounge",1,1,77,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Suryagarh,19000,5,13,"Kahala Phata Sam Road,,Jaisalmer,Rajasthan,India",345001,"3-star tentalow in Jaisalmer with restaurant, bar/lounge",1,1,77,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Suryagarh,18000,5,13,"Kahala Phata Sam Road,,Jaisalmer,Rajasthan,India",345001,"3-star tentalow in Jaisalmer with restaurant, bar/lounge",1,1,77,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Suryagarh,19000,5,13,"Kahala Phata Sam Road,,Jaisalmer,Rajasthan,India",345001,"3-star tentalow in Jaisalmer with restaurant, bar/lounge",1,1,77,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Suryagarh,18000,5,13,"Kahala Phata Sam Road,,Jaisalmer,Rajasthan,India",345001,"3-star tentalow in Jaisalmer with restaurant, bar/lounge",1,1,77,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Suryagarh,18000,5,13,"Kahala Phata Sam Road,,Jaisalmer,Rajasthan,India",345001,"3-star tentalow in Jaisalmer with restaurant, bar/lounge",1,1,77,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,The Golden House,2950,3,0.9,"28 Chandra Veer Singh,Opp. Collectorate,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,0,12,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,The Golden House,2950,3,0.9,"28 Chandra Veer Singh,Opp. Collectorate,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,0,12,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,The Golden House,5500,3,0.9,"28 Chandra Veer Singh,Opp. Collectorate,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,0,12,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,The Golden House,5500,3,0.9,"28 Chandra Veer Singh,Opp. Collectorate,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,0,12,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,The Golden House,2950,3,0.9,"28 Chandra Veer Singh,Opp. Collectorate,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,0,12,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,The Golden House,5500,3,0.9,"28 Chandra Veer Singh,Opp. Collectorate,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,0,12,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,The Golden House,5500,3,0.9,"28 Chandra Veer Singh,Opp. Collectorate,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,0,12,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,The Golden House,2950,3,0.9,"28 Chandra Veer Singh,Opp. Collectorate,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,0,12,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,The Gulaal,4590,3.5,1,"Opp Nagarpalika,,Jaisalmer,Rajasthan,India",302023,3.5- star hotel in Jaisalmer with 2 restaurants,1,1,12,1
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,The Gulaal,4590,3.5,1,"Opp Nagarpalika,,Jaisalmer,Rajasthan,India",302023,3.5- star hotel in Jaisalmer with 2 restaurants,1,1,12,1
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,The Gulaal,7800,3.5,1,"Opp Nagarpalika,,Jaisalmer,Rajasthan,India",302023,3.5- star hotel in Jaisalmer with 2 restaurants,1,1,12,1
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,The Gulaal,7800,3.5,1,"Opp Nagarpalika,,Jaisalmer,Rajasthan,India",302023,3.5- star hotel in Jaisalmer with 2 restaurants,1,1,12,1
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,The Gulaal,4590,3.5,1,"Opp Nagarpalika,,Jaisalmer,Rajasthan,India",302023,3.5- star hotel in Jaisalmer with 2 restaurants,1,1,12,1
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,The Gulaal,7800,3.5,1,"Opp Nagarpalika,,Jaisalmer,Rajasthan,India",302023,3.5- star hotel in Jaisalmer with 2 restaurants,1,1,12,1
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,The Gulaal,7800,3.5,1,"Opp Nagarpalika,,Jaisalmer,Rajasthan,India",302023,3.5- star hotel in Jaisalmer with 2 restaurants,1,1,12,1
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,The Gulaal,4590,3.5,1,"Opp Nagarpalika,,Jaisalmer,Rajasthan,India",302023,3.5- star hotel in Jaisalmer with 2 restaurants,1,1,12,1
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Treebo Rana Villa,1798,3,0.4,"Opppoiste SBI Bank ,dhibba para ,,,Jaisalmer,,India",345001,"3-star hotel in Jaisalmer with restaurant, bar/lounge",1,1,15,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Treebo Rana Villa,2183,3,0.4,"Opppoiste SBI Bank ,dhibba para ,,,Jaisalmer,,India",345001,"3-star hotel in Jaisalmer with restaurant, bar/lounge",1,1,15,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Treebo Rana Villa,2928,3,0.4,"Opppoiste SBI Bank ,dhibba para ,,,Jaisalmer,,India",345001,"3-star hotel in Jaisalmer with restaurant, bar/lounge",1,1,15,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Treebo Rana Villa,2928,3,0.4,"Opppoiste SBI Bank ,dhibba para ,,,Jaisalmer,,India",345001,"3-star hotel in Jaisalmer with restaurant, bar/lounge",1,1,15,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Treebo Rana Villa,2928,3,0.4,"Opppoiste SBI Bank ,dhibba para ,,,Jaisalmer,,India",345001,"3-star hotel in Jaisalmer with restaurant, bar/lounge",1,1,15,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Treebo Rana Villa,2928,3,0.4,"Opppoiste SBI Bank ,dhibba para ,,,Jaisalmer,,India",345001,"3-star hotel in Jaisalmer with restaurant, bar/lounge",1,1,15,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Treebo Rana Villa,2183,3,0.4,"Opppoiste SBI Bank ,dhibba para ,,,Jaisalmer,,India",345001,"3-star hotel in Jaisalmer with restaurant, bar/lounge",1,1,15,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Treebo Rana Villa,2183,3,0.4,"Opppoiste SBI Bank ,dhibba para ,,,Jaisalmer,,India",345001,"3-star hotel in Jaisalmer with restaurant, bar/lounge",1,1,15,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Treebo Sunshine,1376,3,0.6,"Sunshine Hotel, Opposite Jawahar,Niwas Palace, BadaBagh Road,Jaisalmer,,India",345001,3-star hotel in Jaisalmer,1,0,15,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Treebo Sunshine,1605,3,0.6,"Sunshine Hotel, Opposite Jawahar,Niwas Palace, BadaBagh Road,Jaisalmer,,India",345001,3-star hotel in Jaisalmer,1,0,15,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Treebo Sunshine,3697,3,0.6,"Sunshine Hotel, Opposite Jawahar,Niwas Palace, BadaBagh Road,Jaisalmer,,India",345001,3-star hotel in Jaisalmer,1,0,15,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Treebo Sunshine,3697,3,0.6,"Sunshine Hotel, Opposite Jawahar,Niwas Palace, BadaBagh Road,Jaisalmer,,India",345001,3-star hotel in Jaisalmer,1,0,15,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Treebo Sunshine,3697,3,0.6,"Sunshine Hotel, Opposite Jawahar,Niwas Palace, BadaBagh Road,Jaisalmer,,India",345001,3-star hotel in Jaisalmer,1,0,15,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Treebo Sunshine,3697,3,0.6,"Sunshine Hotel, Opposite Jawahar,Niwas Palace, BadaBagh Road,Jaisalmer,,India",345001,3-star hotel in Jaisalmer,1,0,15,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Treebo Sunshine,2293,3,0.6,"Sunshine Hotel, Opposite Jawahar,Niwas Palace, BadaBagh Road,Jaisalmer,,India",345001,3-star hotel in Jaisalmer,1,0,15,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Treebo Sunshine,2293,3,0.6,"Sunshine Hotel, Opposite Jawahar,Niwas Palace, BadaBagh Road,Jaisalmer,,India",345001,3-star hotel in Jaisalmer,1,0,15,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Vista Exotic at Sam Sand Jaisalmer,7200,3,38,"Kanoi village,,Sam,Rajasthan,India",345001,3-star Sam hotel with restaurant,1,0,23,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Vista Exotic at Sam Sand Jaisalmer,7200,3,38,"Kanoi village,,Sam,Rajasthan,India",345001,3-star Sam hotel with restaurant,1,0,23,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Vista Exotic at Sam Sand Jaisalmer,7200,3,38,"Kanoi village,,Sam,Rajasthan,India",345001,3-star Sam hotel with restaurant,1,0,23,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Vista Exotic at Sam Sand Jaisalmer,7200,3,38,"Kanoi village,,Sam,Rajasthan,India",345001,3-star Sam hotel with restaurant,1,0,23,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Vista Exotic at Sam Sand Jaisalmer,7200,3,38,"Kanoi village,,Sam,Rajasthan,India",345001,3-star Sam hotel with restaurant,1,0,23,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Vista Exotic at Sam Sand Jaisalmer,7200,3,38,"Kanoi village,,Sam,Rajasthan,India",345001,3-star Sam hotel with restaurant,1,0,23,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Vista Exotic at Sam Sand Jaisalmer,5400,3,38,"Kanoi village,,Sam,Rajasthan,India",345001,3-star Sam hotel with restaurant,1,0,23,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Vista Exotic at Sam Sand Jaisalmer,5400,3,38,"Kanoi village,,Sam,Rajasthan,India",345001,3-star Sam hotel with restaurant,1,0,23,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Vista Roms at Bera Road,2250,2.5,1,"Opposite Nagarpalika,Bera Road,Jaisalmer,Rajasthan,India",345001,No-frills Jaisalmer hotel with restaurant,1,0,9,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Vista Roms at Bera Road,2250,2.5,1,"Opposite Nagarpalika,Bera Road,Jaisalmer,Rajasthan,India",345001,No-frills Jaisalmer hotel with restaurant,1,0,9,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Vista Roms at Bera Road,3500,2.5,1,"Opposite Nagarpalika,Bera Road,Jaisalmer,Rajasthan,India",345001,No-frills Jaisalmer hotel with restaurant,1,0,9,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Vista Roms at Bera Road,3500,2.5,1,"Opposite Nagarpalika,Bera Road,Jaisalmer,Rajasthan,India",345001,No-frills Jaisalmer hotel with restaurant,1,0,9,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Vista Roms at Bera Road,2250,2.5,1,"Opposite Nagarpalika,Bera Road,Jaisalmer,Rajasthan,India",345001,No-frills Jaisalmer hotel with restaurant,1,0,9,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Vista Roms at Bera Road,3500,2.5,1,"Opposite Nagarpalika,Bera Road,Jaisalmer,Rajasthan,India",345001,No-frills Jaisalmer hotel with restaurant,1,0,9,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Vista Roms at Bera Road,2250,2.5,1,"Opposite Nagarpalika,Bera Road,Jaisalmer,Rajasthan,India",345001,No-frills Jaisalmer hotel with restaurant,1,0,9,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Vista Roms at Bera Road,2250,2.5,1,"Opposite Nagarpalika,Bera Road,Jaisalmer,Rajasthan,India",345001,No-frills Jaisalmer hotel with restaurant,1,0,9,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Vista Rooms at Bada Bagh Road,2969,3,0.6,"Bada Bagh Road,,Opp. Jawahar Niwas Palace,Jaisalmer,,India",345001,"3-star hotel in Jaisalmer with restaurant, bar/lounge",1,1,30,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Vista Rooms at Bada Bagh Road,2969,3,0.6,"Bada Bagh Road,,Opp. Jawahar Niwas Palace,Jaisalmer,,India",345001,"3-star hotel in Jaisalmer with restaurant, bar/lounge",1,1,30,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Vista Rooms at Bada Bagh Road,5567,3,0.6,"Bada Bagh Road,,Opp. Jawahar Niwas Palace,Jaisalmer,,India",345001,"3-star hotel in Jaisalmer with restaurant, bar/lounge",1,1,30,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Vista Rooms at Bada Bagh Road,5567,3,0.6,"Bada Bagh Road,,Opp. Jawahar Niwas Palace,Jaisalmer,,India",345001,"3-star hotel in Jaisalmer with restaurant, bar/lounge",1,1,30,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Vista Rooms at Bada Bagh Road,5567,3,0.6,"Bada Bagh Road,,Opp. Jawahar Niwas Palace,Jaisalmer,,India",345001,"3-star hotel in Jaisalmer with restaurant, bar/lounge",1,1,30,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Vista Rooms at Bada Bagh Road,5567,3,0.6,"Bada Bagh Road,,Opp. Jawahar Niwas Palace,Jaisalmer,,India",345001,"3-star hotel in Jaisalmer with restaurant, bar/lounge",1,1,30,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Vista Rooms at Bada Bagh Road,5567,3,0.6,"Bada Bagh Road,,Opp. Jawahar Niwas Palace,Jaisalmer,,India",345001,"3-star hotel in Jaisalmer with restaurant, bar/lounge",1,1,30,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Vista Rooms at Bada Bagh Road,5567,3,0.6,"Bada Bagh Road,,Opp. Jawahar Niwas Palace,Jaisalmer,,India",345001,"3-star hotel in Jaisalmer with restaurant, bar/lounge",1,1,30,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Vista Rooms at Geeta Ashram,3628,3,0.7,"Near, Geeta Ashram, Hanuman Chowk,Bhaskar Mohalla, Amar Sagar Pol,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,1,15,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Vista Rooms at Geeta Ashram,5671,3,0.7,"Near, Geeta Ashram, Hanuman Chowk,Bhaskar Mohalla, Amar Sagar Pol,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,1,15,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Vista Rooms at Geeta Ashram,5671,3,0.7,"Near, Geeta Ashram, Hanuman Chowk,Bhaskar Mohalla, Amar Sagar Pol,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,1,15,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Vista Rooms at Geeta Ashram,5671,3,0.7,"Near, Geeta Ashram, Hanuman Chowk,Bhaskar Mohalla, Amar Sagar Pol,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,1,15,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Vista Rooms at Geeta Ashram,5671,3,0.7,"Near, Geeta Ashram, Hanuman Chowk,Bhaskar Mohalla, Amar Sagar Pol,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,1,15,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Vista Rooms at Geeta Ashram,5671,3,0.7,"Near, Geeta Ashram, Hanuman Chowk,Bhaskar Mohalla, Amar Sagar Pol,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,1,15,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Vista Rooms at Geeta Ashram,3628,3,0.7,"Near, Geeta Ashram, Hanuman Chowk,Bhaskar Mohalla, Amar Sagar Pol,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,1,15,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Vista Rooms at Geeta Ashram,3628,3,0.7,"Near, Geeta Ashram, Hanuman Chowk,Bhaskar Mohalla, Amar Sagar Pol,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,1,15,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,Vista Rooms at Hanuman Mandir,1000,3,0.3,"Near Fort Behind SBBJ Bank,Amar Sagar Pol,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,1,11,0
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,Vista Rooms at Hanuman Mandir,2500,3,0.3,"Near Fort Behind SBBJ Bank,Amar Sagar Pol,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,1,11,0
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,Vista Rooms at Hanuman Mandir,2500,3,0.3,"Near Fort Behind SBBJ Bank,Amar Sagar Pol,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,1,11,0
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,Vista Rooms at Hanuman Mandir,2500,3,0.3,"Near Fort Behind SBBJ Bank,Amar Sagar Pol,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,1,11,0
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,Vista Rooms at Hanuman Mandir,2500,3,0.3,"Near Fort Behind SBBJ Bank,Amar Sagar Pol,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,1,11,0
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,Vista Rooms at Hanuman Mandir,2500,3,0.3,"Near Fort Behind SBBJ Bank,Amar Sagar Pol,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,1,11,0
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,Vista Rooms at Hanuman Mandir,3125,3,0.3,"Near Fort Behind SBBJ Bank,Amar Sagar Pol,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,1,11,0
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,Vista Rooms at Hanuman Mandir,1250,3,0.3,"Near Fort Behind SBBJ Bank,Amar Sagar Pol,Jaisalmer,Rajasthan,India",345001,3-star Jaisalmer hotel with restaurant,1,1,11,0
+Jaisalmer,65471,40,0,1,1,0,Dec 18 2016,WelcomHeritage Mandir Palace,6588,0,0.4,"Gandhi Chowk,,Jaisalmer,Rajasthan,India",345001,"Historic hotel in Jaisalmer with 2 restaurants, bar/lounge",1,0,28,1
+Jaisalmer,65471,40,0,1,0,0,Dec 21 2016,WelcomHeritage Mandir Palace,6588,0,0.4,"Gandhi Chowk,,Jaisalmer,Rajasthan,India",345001,"Historic hotel in Jaisalmer with 2 restaurants, bar/lounge",1,0,28,1
+Jaisalmer,65471,40,0,1,1,0,Dec 24 2016,WelcomHeritage Mandir Palace,16892,0,0.4,"Gandhi Chowk,,Jaisalmer,Rajasthan,India",345001,"Historic hotel in Jaisalmer with 2 restaurants, bar/lounge",1,0,28,1
+Jaisalmer,65471,40,0,1,1,0,Dec 25 2016,WelcomHeritage Mandir Palace,16892,0,0.4,"Gandhi Chowk,,Jaisalmer,Rajasthan,India",345001,"Historic hotel in Jaisalmer with 2 restaurants, bar/lounge",1,0,28,1
+Jaisalmer,65471,40,0,1,0,0,Dec 28 2016,WelcomHeritage Mandir Palace,14357,0,0.4,"Gandhi Chowk,,Jaisalmer,Rajasthan,India",345001,"Historic hotel in Jaisalmer with 2 restaurants, bar/lounge",1,0,28,1
+Jaisalmer,65471,40,0,1,1,1,Dec 31 2016,WelcomHeritage Mandir Palace,16892,0,0.4,"Gandhi Chowk,,Jaisalmer,Rajasthan,India",345001,"Historic hotel in Jaisalmer with 2 restaurants, bar/lounge",1,0,28,1
+Jaisalmer,65471,40,0,1,0,0,Jan 04 2017,WelcomHeritage Mandir Palace,14357,0,0.4,"Gandhi Chowk,,Jaisalmer,Rajasthan,India",345001,"Historic hotel in Jaisalmer with 2 restaurants, bar/lounge",1,0,28,1
+Jaisalmer,65471,40,0,1,1,0,Jan 08 2017,WelcomHeritage Mandir Palace,6588,0,0.4,"Gandhi Chowk,,Jaisalmer,Rajasthan,India",345001,"Historic hotel in Jaisalmer with 2 restaurants, bar/lounge",1,0,28,1

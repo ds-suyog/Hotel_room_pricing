@@ -1,0 +1,513 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,662B THE GUEST HOUSE,3500,2,17,"66/2B, Purna Das Road,,Kolkata,West Bengal,India",700029,No-frills guesthouse in Ballygunge with restaurant,1,1,16,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,662B THE GUEST HOUSE,2300,2,17,"66/2B, Purna Das Road,,Kolkata,West Bengal,India",700029,No-frills guesthouse in Ballygunge with restaurant,1,1,16,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,662B THE GUEST HOUSE,2300,2,17,"66/2B, Purna Das Road,,Kolkata,West Bengal,India",700029,No-frills guesthouse in Ballygunge with restaurant,1,1,16,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,662B THE GUEST HOUSE,3500,2,17,"66/2B, Purna Das Road,,Kolkata,West Bengal,India",700029,No-frills guesthouse in Ballygunge with restaurant,1,1,16,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,662B THE GUEST HOUSE,2300,2,17,"66/2B, Purna Das Road,,Kolkata,West Bengal,India",700029,No-frills guesthouse in Ballygunge with restaurant,1,1,16,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,662B THE GUEST HOUSE,3500,2,17,"66/2B, Purna Das Road,,Kolkata,West Bengal,India",700029,No-frills guesthouse in Ballygunge with restaurant,1,1,16,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,662B THE GUEST HOUSE,3500,2,17,"66/2B, Purna Das Road,,Kolkata,West Bengal,India",700029,No-frills guesthouse in Ballygunge with restaurant,1,1,16,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,662B THE GUEST HOUSE,3500,2,17,"66/2B, Purna Das Road,,Kolkata,West Bengal,India",700029,No-frills guesthouse in Ballygunge with restaurant,1,1,16,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Celesta Kolkata,3700,3.5,4,"RAA 43/2, VIP Road (Raghunathpur North), Kolkata, West Bengal, 700059, India",700059,3.5-star hotel,1,1,39,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Celesta Kolkata,5250,3.5,4,"RAA 43/2, VIP Road (Raghunathpur North), Kolkata, West Bengal, 700059, India",700059,3.5-star hotel,1,1,39,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Celesta Kolkata,5250,3.5,4,"RAA 43/2, VIP Road (Raghunathpur North), Kolkata, West Bengal, 700059, India",700059,3.5-star hotel,1,1,39,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Celesta Kolkata,3400,3.5,4,"RAA 43/2, VIP Road (Raghunathpur North), Kolkata, West Bengal, 700059, India",700059,3.5-star hotel,1,1,39,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Celesta Kolkata,3400,3.5,4,"RAA 43/2, VIP Road (Raghunathpur North), Kolkata, West Bengal, 700059, India",700059,3.5-star hotel,1,1,39,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Celesta Kolkata,3400,3.5,4,"RAA 43/2, VIP Road (Raghunathpur North), Kolkata, West Bengal, 700059, India",700059,3.5-star hotel,1,1,39,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Celesta Kolkata,3400,3.5,4,"RAA 43/2, VIP Road (Raghunathpur North), Kolkata, West Bengal, 700059, India",700059,3.5-star hotel,1,1,39,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Celesta Kolkata,3400,3.5,4,"RAA 43/2, VIP Road (Raghunathpur North), Kolkata, West Bengal, 700059, India",700059,3.5-star hotel,1,1,39,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Coral Residency CL 36 Sector 2,1299,3,7.4,"CL 36 Sector 2, Near Tank# 9, Salt Lake, Kolkata, West Bengal, 700106, India",700106,3-star guesthouse,1,1,11,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Coral Residency CL 36 Sector 3,1299,3,7.4,"CL 36 Sector 2, Near Tank# 9, Salt Lake, Kolkata, West Bengal, 700106, India",700106,3-star guesthouse,1,1,11,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Coral Residency CL 36 Sector 4,1299,3,7.4,"CL 36 Sector 2, Near Tank# 9, Salt Lake, Kolkata, West Bengal, 700106, India",700106,3-star guesthouse,1,1,11,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Coral Residency CL 36 Sector 5,1299,3,7.4,"CL 36 Sector 2, Near Tank# 9, Salt Lake, Kolkata, West Bengal, 700106, India",700106,3-star guesthouse,1,1,11,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Coral Residency CL 36 Sector 6,1299,3,7.4,"CL 36 Sector 2, Near Tank# 9, Salt Lake, Kolkata, West Bengal, 700106, India",700106,3-star guesthouse,1,1,11,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Coral Residency CL 36 Sector 7,1299,3,7.4,"CL 36 Sector 2, Near Tank# 9, Salt Lake, Kolkata, West Bengal, 700106, India",700106,3-star guesthouse,1,1,11,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Coral Residency CL 36 Sector 8,2100,3,7.4,"CL 36 Sector 2, Near Tank# 9, Salt Lake, Kolkata, West Bengal, 700106, India",700106,3-star guesthouse,1,1,11,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Coral Residency CL 36 Sector 9,2100,3,7.4,"CL 36 Sector 2, Near Tank# 9, Salt Lake, Kolkata, West Bengal, 700106, India",700106,3-star guesthouse,1,1,11,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Fabhotel Arya International Elgin Road,1759,3,15,"2, Ray Street (ELGIN ROAD)",700021,"3-star hotel with outdoor pool, near Victoria Memorial",1,0,100,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Fabhotel Arya International Elgin Road,1759,3,15,"2, Ray Street (ELGIN ROAD)",700021,"3-star hotel with outdoor pool, near Victoria Memorial",1,0,100,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Fabhotel Arya International Elgin Road,1839,3,15,"2, Ray Street (ELGIN ROAD)",700021,"3-star hotel with outdoor pool, near Victoria Memorial",1,0,100,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Fabhotel Arya International Elgin Road,1839,3,15,"2, Ray Street (ELGIN ROAD)",700021,"3-star hotel with outdoor pool, near Victoria Memorial",1,0,100,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Fabhotel Arya International Elgin Road,1839,3,15,"2, Ray Street (ELGIN ROAD)",700021,"3-star hotel with outdoor pool, near Victoria Memorial",1,0,100,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Fabhotel Arya International Elgin Road,1839,3,15,"2, Ray Street (ELGIN ROAD)",700021,"3-star hotel with outdoor pool, near Victoria Memorial",1,0,100,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Fabhotel Arya International Elgin Road,1839,3,15,"2, Ray Street (ELGIN ROAD)",700021,"3-star hotel with outdoor pool, near Victoria Memorial",1,0,100,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Fabhotel Arya International Elgin Road,1839,3,15,"2, Ray Street (ELGIN ROAD)",700021,"3-star hotel with outdoor pool, near Victoria Memorial",1,0,100,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Fabhotel Tulip Salt Lake Sec-2,2106,3,7.2,BL 220 Sector II,700091,3-star inn with restaurant near Salt Lake Stadium,0,0,5,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Fabhotel Tulip Salt Lake Sec-2,2032,3,7.2,BL 220 Sector II,700091,3-star inn with restaurant near Salt Lake Stadium,0,0,5,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Fabhotel Tulip Salt Lake Sec-2,2106,3,7.2,BL 220 Sector II,700091,3-star inn with restaurant near Salt Lake Stadium,0,0,5,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Fabhotel Tulip Salt Lake Sec-2,2106,3,7.2,BL 220 Sector II,700091,3-star inn with restaurant near Salt Lake Stadium,0,0,5,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Fabhotel Tulip Salt Lake Sec-2,1996,3,7.2,BL 220 Sector II,700091,3-star inn with restaurant near Salt Lake Stadium,0,0,5,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Fabhotel Tulip Salt Lake Sec-2,2032,3,7.2,BL 220 Sector II,700091,3-star inn with restaurant near Salt Lake Stadium,0,0,5,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Fabhotel Tulip Salt Lake Sec-2,1996,3,7.2,BL 220 Sector II,700091,3-star inn with restaurant near Salt Lake Stadium,0,0,5,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Fabhotel Tulip Salt Lake Sec-2,1996,3,7.2,BL 220 Sector II,700091,3-star inn with restaurant near Salt Lake Stadium,0,0,5,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,"Fortune Park Panchwati, Kolkata",4477,3.5,19,"Fortune Park Panchwati,Off Kona Expressway,Howrah,West Bengal,India",711403,"3.5-star hotel in Howrah with outdoor pool, restaurant",0,1,65,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,"Fortune Park Panchwati, Kolkata",4477,3.5,19,"Fortune Park Panchwati,Off Kona Expressway,Howrah,West Bengal,India",711403,"3.5-star hotel in Howrah with outdoor pool, restaurant",0,1,65,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,"Fortune Park Panchwati, Kolkata",3582,3.5,19,"Fortune Park Panchwati,Off Kona Expressway,Howrah,West Bengal,India",711403,"3.5-star hotel in Howrah with outdoor pool, restaurant",0,1,65,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,"Fortune Park Panchwati, Kolkata",3582,3.5,19,"Fortune Park Panchwati,Off Kona Expressway,Howrah,West Bengal,India",711403,"3.5-star hotel in Howrah with outdoor pool, restaurant",0,1,65,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,"Fortune Park Panchwati, Kolkata",4477,3.5,19,"Fortune Park Panchwati,Off Kona Expressway,Howrah,West Bengal,India",711403,"3.5-star hotel in Howrah with outdoor pool, restaurant",0,1,65,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,"Fortune Park Panchwati, Kolkata",3582,3.5,19,"Fortune Park Panchwati,Off Kona Expressway,Howrah,West Bengal,India",711403,"3.5-star hotel in Howrah with outdoor pool, restaurant",0,1,65,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,"Fortune Park Panchwati, Kolkata",3184,3.5,19,"Fortune Park Panchwati,Off Kona Expressway,Howrah,West Bengal,India",711403,"3.5-star hotel in Howrah with outdoor pool, restaurant",0,1,65,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,"Fortune Park Panchwati, Kolkata",4477,3.5,19,"Fortune Park Panchwati,Off Kona Expressway,Howrah,West Bengal,India",711403,"3.5-star hotel in Howrah with outdoor pool, restaurant",0,1,65,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Golden Parkk,5500,3,15,"13 Ho Chi Minh Sarani,,Kolkata,West Bengal,India",700071,"Victorian hotel with restaurant, near Victoria Memorial",1,0,72,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Golden Parkk,8500,3,15,"13 Ho Chi Minh Sarani,,Kolkata,West Bengal,India",700071,"Victorian hotel with restaurant, near Victoria Memorial",1,0,72,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Golden Parkk,5500,3,15,"13 Ho Chi Minh Sarani,,Kolkata,West Bengal,India",700071,"Victorian hotel with restaurant, near Victoria Memorial",1,0,72,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Golden Parkk,5500,3,15,"13 Ho Chi Minh Sarani,,Kolkata,West Bengal,India",700071,"Victorian hotel with restaurant, near Victoria Memorial",1,0,72,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Golden Parkk,5500,3,15,"13 Ho Chi Minh Sarani,,Kolkata,West Bengal,India",700071,"Victorian hotel with restaurant, near Victoria Memorial",1,0,72,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Golden Parkk,4950,3,15,"13 Ho Chi Minh Sarani,,Kolkata,West Bengal,India",700071,"Victorian hotel with restaurant, near Victoria Memorial",1,0,72,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Golden Parkk,4950,3,15,"13 Ho Chi Minh Sarani,,Kolkata,West Bengal,India",700071,"Victorian hotel with restaurant, near Victoria Memorial",1,0,72,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Golden Parkk,4950,3,15,"13 Ho Chi Minh Sarani,,Kolkata,West Bengal,India",700071,"Victorian hotel with restaurant, near Victoria Memorial",1,0,72,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Hotel Eastern Plaza,1700,3,2.8,"VIP Road, Teghoria,Raghunathpur,Kolkata,,India",700157,Kolkata Art Deco hotel with restaurant,1,0,40,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Hotel Eastern Plaza,1700,3,2.8,"VIP Road, Teghoria,Raghunathpur,Kolkata,,India",700157,Kolkata Art Deco hotel with restaurant,1,0,40,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Hotel Eastern Plaza,1700,3,2.8,"VIP Road, Teghoria,Raghunathpur,Kolkata,,India",700157,Kolkata Art Deco hotel with restaurant,1,0,40,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Hotel Eastern Plaza,1700,3,2.8,"VIP Road, Teghoria,Raghunathpur,Kolkata,,India",700157,Kolkata Art Deco hotel with restaurant,1,0,40,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Hotel Eastern Plaza,1700,3,2.8,"VIP Road, Teghoria,Raghunathpur,Kolkata,,India",700157,Kolkata Art Deco hotel with restaurant,1,0,40,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Hotel Eastern Plaza,1700,3,2.8,"VIP Road, Teghoria,Raghunathpur,Kolkata,,India",700157,Kolkata Art Deco hotel with restaurant,1,0,40,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Hotel Eastern Plaza,1700,3,2.8,"VIP Road, Teghoria,Raghunathpur,Kolkata,,India",700157,Kolkata Art Deco hotel with restaurant,1,0,40,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Hotel Eastern Plaza,2022,3,2.8,"VIP Road, Teghoria,Raghunathpur,Kolkata,,India",700157,Kolkata Art Deco hotel with restaurant,1,0,40,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Hotel Sudesh Tower,3600,3,17,"22 Lancedown Tarrace,,Kolkata,West Bengal,India",700026,"3-star hotel with restaurant, near Victoria Memorial",0,0,24,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Hotel Sudesh Tower,3600,3,17,"22 Lancedown Tarrace,,Kolkata,West Bengal,India",700026,"3-star hotel with restaurant, near Victoria Memorial",0,0,24,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Hotel Sudesh Tower,4300,3,17,"22 Lancedown Tarrace,,Kolkata,West Bengal,India",700026,"3-star hotel with restaurant, near Victoria Memorial",0,0,24,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Hotel Sudesh Tower,4300,3,17,"22 Lancedown Tarrace,,Kolkata,West Bengal,India",700026,"3-star hotel with restaurant, near Victoria Memorial",0,0,24,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Hotel Sudesh Tower,3600,3,17,"22 Lancedown Tarrace,,Kolkata,West Bengal,India",700026,"3-star hotel with restaurant, near Victoria Memorial",0,0,24,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Hotel Sudesh Tower,3600,3,17,"22 Lancedown Tarrace,,Kolkata,West Bengal,India",700026,"3-star hotel with restaurant, near Victoria Memorial",0,0,24,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Hotel Sudesh Tower,3600,3,17,"22 Lancedown Tarrace,,Kolkata,West Bengal,India",700026,"3-star hotel with restaurant, near Victoria Memorial",0,0,24,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Hotel Sudesh Tower,3600,3,17,"22 Lancedown Tarrace,,Kolkata,West Bengal,India",700026,"3-star hotel with restaurant, near Victoria Memorial",0,0,24,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Hotel Trimoorti,2083,2.5,20.5,"24 Ray Street, Near Elgin Road Shopping Mall",700020,Hotel near victoria memorial,1,1,16,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Hotel Trimoorti,2083,2.5,20.5,"25 Ray Street, Near Elgin Road Shopping Mall",700020,Hotel near victoria memorial,1,1,16,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Hotel Trimoorti,2083,2.5,20.5,"26 Ray Street, Near Elgin Road Shopping Mall",700020,Hotel near victoria memorial,1,1,16,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Hotel Trimoorti,2083,2.5,20.5,"27 Ray Street, Near Elgin Road Shopping Mall",700020,Hotel near victoria memorial,1,1,16,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Hotel Trimoorti,2083,2.5,20.5,"28 Ray Street, Near Elgin Road Shopping Mall",700020,Hotel near victoria memorial,1,1,16,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Hotel Trimoorti,2314,2.5,20.5,"29 Ray Street, Near Elgin Road Shopping Mall",700020,Hotel near victoria memorial,1,1,16,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Hotel Trimoorti,2314,2.5,20.5,"30 Ray Street, Near Elgin Road Shopping Mall",700020,Hotel near victoria memorial,1,1,16,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Hotel Trimoorti,2314,2.5,20.5,"31 Ray Street, Near Elgin Road Shopping Mall",700020,Hotel near victoria memorial,1,1,16,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Hyatt Regency Kolkata,10500,5,11,"JA 1, Sector 10",700098,Luxery Hotel,1,0,233,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Hyatt Regency Kolkata,9500,5,11,"JA 1, Sector 3",700098,Luxery Hotel,1,0,233,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Hyatt Regency Kolkata,10000,5,11,"JA 1, Sector 4",700098,Luxery Hotel,1,0,233,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Hyatt Regency Kolkata,9500,5,11,"JA 1, Sector 5",700098,Luxery Hotel,1,0,233,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Hyatt Regency Kolkata,9500,5,11,"JA 1, Sector 6",700098,Luxery Hotel,1,0,233,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Hyatt Regency Kolkata,8250,5,11,"JA 1, Sector 7",700098,Luxery Hotel,1,0,233,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Hyatt Regency Kolkata,9500,5,11,"JA 1, Sector 8",700098,Luxery Hotel,1,0,233,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Hyatt Regency Kolkata,13000,5,11,"JA 1, Sector 9",700098,Luxery Hotel,1,0,233,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Jameson Inn Shiraz,5250,4,18,"56 Park Street, Kolkata, West Bengal",700017,4 star hotel near victoria memorial,1,1,45,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Jameson Inn Shiraz,5300,4,18,"56 Park Street, Kolkata, West Bengal",700017,4 star hotel near victoria memorial,1,1,45,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Jameson Inn Shiraz,5200,4,18,"56 Park Street, Kolkata, West Bengal",700017,4 star hotel near victoria memorial,1,1,45,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Jameson Inn Shiraz,5200,4,18,"56 Park Street, Kolkata, West Bengal",700017,4 star hotel near victoria memorial,1,1,45,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Jameson Inn Shiraz,5800,4,18,"56 Park Street, Kolkata, West Bengal",700017,4 star hotel near victoria memorial,1,1,45,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Jameson Inn Shiraz,5200,4,18,"56 Park Street, Kolkata, West Bengal",700017,4 star hotel near victoria memorial,1,1,45,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Jameson Inn Shiraz,5200,4,18,"56 Park Street, Kolkata, West Bengal",700017,4 star hotel near victoria memorial,1,1,45,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Jameson Inn Shiraz,5200,4,18,"56 Park Street, Kolkata, West Bengal",700017,4 star hotel near victoria memorial,1,1,45,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,JW Marriott Hotel Kolkata,11000,5,12,"4A, J.B.S. Haldane Avenue, Kolkata, 700105, India",700105,Luxury hotel,1,0,281,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,JW Marriott Hotel Kolkata,11000,5,12,"4A, J.B.S. Haldane Avenue, Kolkata, 700105, India",700105,Luxury hotel,1,0,281,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,JW Marriott Hotel Kolkata,10500,5,12,"4A, J.B.S. Haldane Avenue, Kolkata, 700105, India",700105,Luxury hotel,1,0,281,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,JW Marriott Hotel Kolkata,10500,5,12,"4A, J.B.S. Haldane Avenue, Kolkata, 700105, India",700105,Luxury hotel,1,0,281,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,JW Marriott Hotel Kolkata,10500,5,12,"4A, J.B.S. Haldane Avenue, Kolkata, 700105, India",700105,Luxury hotel,1,0,281,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,JW Marriott Hotel Kolkata,12000,5,12,"4A, J.B.S. Haldane Avenue, Kolkata, 700105, India",700105,Luxury hotel,1,0,281,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,JW Marriott Hotel Kolkata,12000,5,12,"4A, J.B.S. Haldane Avenue, Kolkata, 700105, India",700105,Luxury hotel,1,0,281,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,JW Marriott Hotel Kolkata,12000,5,12,"4A, J.B.S. Haldane Avenue, Kolkata, 700105, India",700105,Luxury hotel,1,0,281,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Mayur Residency,3300,3,13,"109, S.N.Banerjee Road, Jaanbazar, Kolkata, West Bengal, 700013, India",700013,3-star hotel,1,1,27,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Mayur Residency,3300,3,13,"109, S.N.Banerjee Road, Jaanbazar, Kolkata, West Bengal, 700013, India",700013,3-star hotel,1,1,27,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Mayur Residency,3300,3,13,"109, S.N.Banerjee Road, Jaanbazar, Kolkata, West Bengal, 700013, India",700013,3-star hotel,1,1,27,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Mayur Residency,3300,3,13,"109, S.N.Banerjee Road, Jaanbazar, Kolkata, West Bengal, 700013, India",700013,3-star hotel,1,1,27,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Mayur Residency,3600,3,13,"109, S.N.Banerjee Road, Jaanbazar, Kolkata, West Bengal, 700013, India",700013,3-star hotel,1,1,27,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Mayur Residency,3600,3,13,"109, S.N.Banerjee Road, Jaanbazar, Kolkata, West Bengal, 700013, India",700013,3-star hotel,1,1,27,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Mayur Residency,3600,3,13,"109, S.N.Banerjee Road, Jaanbazar, Kolkata, West Bengal, 700013, India",700013,3-star hotel,1,1,27,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Mayur Residency,3600,3,13,"109, S.N.Banerjee Road, Jaanbazar, Kolkata, West Bengal, 700013, India",700013,3-star hotel,1,1,27,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Metropole,2960,3,17,"174 Sarat Bose Road,,Kolkata,West Bengal,India",185202,"3-star hotel in Ballygunge with restaurant, bar/lounge",1,0,24,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Metropole,2960,3,17,"174 Sarat Bose Road,,Kolkata,West Bengal,India",185202,"3-star hotel in Ballygunge with restaurant, bar/lounge",1,0,24,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Metropole,2960,3,17,"174 Sarat Bose Road,,Kolkata,West Bengal,India",185202,"3-star hotel in Ballygunge with restaurant, bar/lounge",1,0,24,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Metropole,2960,3,17,"174 Sarat Bose Road,,Kolkata,West Bengal,India",185202,"3-star hotel in Ballygunge with restaurant, bar/lounge",1,0,24,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Metropole,2960,3,17,"174 Sarat Bose Road,,Kolkata,West Bengal,India",185202,"3-star hotel in Ballygunge with restaurant, bar/lounge",1,0,24,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Metropole,2960,3,17,"174 Sarat Bose Road,,Kolkata,West Bengal,India",185202,"3-star hotel in Ballygunge with restaurant, bar/lounge",1,0,24,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Metropole,3024,3,17,"174 Sarat Bose Road,,Kolkata,West Bengal,India",185202,"3-star hotel in Ballygunge with restaurant, bar/lounge",1,0,24,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Metropole,3024,3,17,"174 Sarat Bose Road,,Kolkata,West Bengal,India",185202,"3-star hotel in Ballygunge with restaurant, bar/lounge",1,0,24,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Novotel Kolkata Hotel and Residences,6250,5,7.9,CF11 Action Area 1C,700156,Luxury hotel in Kolkata with 2 restaurants spa,1,1,340,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Novotel Kolkata Hotel and Residences,6250,5,7.9,CF11 Action Area 1C,700156,Luxury hotel in Kolkata with 2 restaurants spa,1,1,340,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Novotel Kolkata Hotel and Residences,5750,5,7.9,CF11 Action Area 1C,700156,Luxury hotel in Kolkata with 2 restaurants spa,1,1,340,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Novotel Kolkata Hotel and Residences,5750,5,7.9,CF11 Action Area 1C,700156,Luxury hotel in Kolkata with 2 restaurants spa,1,1,340,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Novotel Kolkata Hotel and Residences,5750,5,7.9,CF11 Action Area 1C,700156,Luxury hotel in Kolkata with 2 restaurants spa,1,1,340,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Novotel Kolkata Hotel and Residences,5750,5,7.9,CF11 Action Area 1C,700156,Luxury hotel in Kolkata with 2 restaurants spa,1,1,340,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Novotel Kolkata Hotel and Residences,6750,5,7.9,CF11 Action Area 1C,700156,Luxury hotel in Kolkata with 2 restaurants spa,1,1,340,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Novotel Kolkata Hotel and Residences,6750,5,7.9,CF11 Action Area 1C,700156,Luxury hotel in Kolkata with 2 restaurants spa,1,1,340,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,O2 Hotel,3699,3.5,1.8,"VIP Road,Kaikhali,Kolkata,West Bengal,India",700052,"3.5-star hotel in Dum Dum with restaurant, bar/lounge",1,0,51,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,O2 Hotel,3699,3.5,1.8,"VIP Road,Kaikhali,Kolkata,West Bengal,India",700052,"3.5-star hotel in Dum Dum with restaurant, bar/lounge",1,0,51,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,O2 Hotel,3699,3.5,1.8,"VIP Road,Kaikhali,Kolkata,West Bengal,India",700052,"3.5-star hotel in Dum Dum with restaurant, bar/lounge",1,0,51,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,O2 Hotel,3699,3.5,1.8,"VIP Road,Kaikhali,Kolkata,West Bengal,India",700052,"3.5-star hotel in Dum Dum with restaurant, bar/lounge",1,0,51,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,O2 Hotel,3699,3.5,1.8,"VIP Road,Kaikhali,Kolkata,West Bengal,India",700052,"3.5-star hotel in Dum Dum with restaurant, bar/lounge",1,0,51,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,O2 Hotel,3699,3.5,1.8,"VIP Road,Kaikhali,Kolkata,West Bengal,India",700052,"3.5-star hotel in Dum Dum with restaurant, bar/lounge",1,0,51,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,O2 Hotel,3699,3.5,1.8,"VIP Road,Kaikhali,Kolkata,West Bengal,India",700052,"3.5-star hotel in Dum Dum with restaurant, bar/lounge",1,0,51,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,O2 Hotel,3699,3.5,1.8,"VIP Road,Kaikhali,Kolkata,West Bengal,India",700052,"3.5-star hotel in Dum Dum with restaurant, bar/lounge",1,0,51,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Apartments New Town Axis Mall,3511,3,7.9,"CE/1/B/79 Street No.194,Newtown, Rajarhat,Kolkata,,India",700156,Kolkata hotel next to shopping,1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Apartments New Town Axis Mall,1319,3,7.9,"CE/1/B/79 Street No.194,Newtown, Rajarhat,Kolkata,,India",700156,Kolkata hotel next to shopping,1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Apartments New Town Axis Mall,3511,3,7.9,"CE/1/B/79 Street No.194,Newtown, Rajarhat,Kolkata,,India",700156,Kolkata hotel next to shopping,1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Apartments New Town Axis Mall,3511,3,7.9,"CE/1/B/79 Street No.194,Newtown, Rajarhat,Kolkata,,India",700156,Kolkata hotel next to shopping,1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Apartments New Town Axis Mall,3511,3,7.9,"CE/1/B/79 Street No.194,Newtown, Rajarhat,Kolkata,,India",700156,Kolkata hotel next to shopping,1,0,15,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Apartments New Town Axis Mall,3511,3,7.9,"CE/1/B/79 Street No.194,Newtown, Rajarhat,Kolkata,,India",700156,Kolkata hotel next to shopping,1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Apartments New Town Axis Mall,3511,3,7.9,"CE/1/B/79 Street No.194,Newtown, Rajarhat,Kolkata,,India",700156,Kolkata hotel next to shopping,1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Apartments New Town Axis Mall,3511,3,7.9,"CE/1/B/79 Street No.194,Newtown, Rajarhat,Kolkata,,India",700156,Kolkata hotel next to shopping,1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Premium Airport City Centre 2,9472,3,2.5,"43/4, Chinar Park,New Town Road,Kolkata,,India",700157,"3-star hotel in Kolkata with restaurant, conference center",1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Premium Airport City Centre 3,3491,3,2.5,"43/4, Chinar Park, New Town Road, Kolkata",700157,"3-star hotel in Kolkata with restaurant, conference center",1,0,15,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Premium Airport City Centre 4,3491,3,2.5,"43/4, Chinar Park, New Town Road, Kolkata",700157,"3-star hotel in Kolkata with restaurant, conference center",1,0,15,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Premium Airport City Centre 5,3491,3,2.5,"43/4, Chinar Park, New Town Road, Kolkata",700157,"3-star hotel in Kolkata with restaurant, conference center",1,0,15,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Premium Airport City Centre 6,3491,3,2.5,"43/4, Chinar Park, New Town Road, Kolkata",700157,"3-star hotel in Kolkata with restaurant, conference center",1,0,15,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Premium Airport City Centre 7,4364,3,2.5,"43/4, Chinar Park, New Town Road, Kolkata",700157,"3-star hotel in Kolkata with restaurant, conference center",1,0,15,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Premium Airport City Centre 8,9472,3,2.5,"43/4, Chinar Park, New Town Road, Kolkata",700157,"3-star hotel in Kolkata with restaurant, conference center",1,0,15,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Premium Airport City Centre 9,9472,3,2.5,"43/4, Chinar Park, New Town Road, Kolkata",700157,"3-star hotel in Kolkata with restaurant, conference center",1,0,15,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Premium Airport Gate No 1,2639,3,14,Plot no 458/365/1,700028,3-star hotel in Dum Dum with restaurant conference center,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Premium Airport Gate No 1,2639,3,14,Plot no 458/365/1,700028,3-star hotel in Dum Dum with restaurant conference center,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Premium Airport Gate No 1,2639,3,14,Plot no 458/365/1,700028,3-star hotel in Dum Dum with restaurant conference center,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Premium Airport Gate No 1,2639,3,14,Plot no 458/365/1,700028,3-star hotel in Dum Dum with restaurant conference center,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Premium Airport Gate No 1,2639,3,14,Plot no 458/365/1,700028,3-star hotel in Dum Dum with restaurant conference center,1,1,15,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Premium Airport Gate No 1,3299,3,14,Plot no 458/365/1,700028,3-star hotel in Dum Dum with restaurant conference center,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Premium Airport Gate No 1,7130,3,14,Plot no 458/365/1,700028,3-star hotel in Dum Dum with restaurant conference center,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Premium Airport Gate No 1,7130,3,14,Plot no 458/365/1,700028,3-star hotel in Dum Dum with restaurant conference center,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Premium Airport VIP Road,2810,3,3.5,"G/4, Third Floor,VIP Road, Raghunathpur, Baguihati,Kolkata,,India",700059,"3-star hotel in Kolkata with restaurant, conference center",1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Premium Airport VIP Road,2810,3,3.5,"G/4, Third Floor,VIP Road, Raghunathpur, Baguihati,Kolkata,,India",700059,"3-star hotel in Kolkata with restaurant, conference center",1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Premium Airport VIP Road,2810,3,3.5,"G/4, Third Floor,VIP Road, Raghunathpur, Baguihati,Kolkata,,India",700059,"3-star hotel in Kolkata with restaurant, conference center",1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Premium Airport VIP Road,2810,3,3.5,"G/4, Third Floor,VIP Road, Raghunathpur, Baguihati,Kolkata,,India",700059,"3-star hotel in Kolkata with restaurant, conference center",1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Premium Airport VIP Road,2810,3,3.5,"G/4, Third Floor,VIP Road, Raghunathpur, Baguihati,Kolkata,,India",700059,"3-star hotel in Kolkata with restaurant, conference center",1,0,15,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Premium Airport VIP Road,2810,3,3.5,"G/4, Third Floor,VIP Road, Raghunathpur, Baguihati,Kolkata,,India",700059,"3-star hotel in Kolkata with restaurant, conference center",1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Premium Airport VIP Road,2810,3,3.5,"G/4, Third Floor,VIP Road, Raghunathpur, Baguihati,Kolkata,,India",700059,"3-star hotel in Kolkata with restaurant, conference center",1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Premium Airport VIP Road,7237,3,3.5,"G/4, Third Floor,VIP Road, Raghunathpur, Baguihati,Kolkata,,India",700059,"3-star hotel in Kolkata with restaurant, conference center",1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Premium Ballygunge Lovelock Street,2426,3,16,"35, Paddapukur Road,Bhawanipore,Kolkata,,India",700020,"3-star hotel with restaurant, near Victoria Memorial",1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Premium Ballygunge Lovelock Street,2426,3,16,"35, Paddapukur Road,Bhawanipore,Kolkata,,India",700020,"3-star hotel with restaurant, near Victoria Memorial",1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Premium Ballygunge Lovelock Street,3033,3,16,"35, Paddapukur Road,Bhawanipore,Kolkata,,India",700020,"3-star hotel with restaurant, near Victoria Memorial",1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Premium Ballygunge Lovelock Street,2426,3,16,"35, Paddapukur Road,Bhawanipore,Kolkata,,India",700020,"3-star hotel with restaurant, near Victoria Memorial",1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Premium Ballygunge Lovelock Street,2426,3,16,"35, Paddapukur Road,Bhawanipore,Kolkata,,India",700020,"3-star hotel with restaurant, near Victoria Memorial",1,0,15,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Premium Ballygunge Lovelock Street,3033,3,16,"35, Paddapukur Road,Bhawanipore,Kolkata,,India",700020,"3-star hotel with restaurant, near Victoria Memorial",1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Premium Ballygunge Lovelock Street,6598,3,16,"35, Paddapukur Road,Bhawanipore,Kolkata,,India",700020,"3-star hotel with restaurant, near Victoria Memorial",1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Premium Ballygunge Lovelock Street,6598,3,16,"35, Paddapukur Road,Bhawanipore,Kolkata,,India",700020,"3-star hotel with restaurant, near Victoria Memorial",1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Premium CMRI Kolkata,3033,3,18,"54, Diamind Harbour Road,Beside Loyal high school, Alipore,Kolkata,,India",700027,"3-star hotel, convenient to Victoria Memorial",1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Premium CMRI Kolkata,2426,3,18,"54, Diamind Harbour Road,Beside Loyal high school, Alipore,Kolkata,,India",700027,"3-star hotel, convenient to Victoria Memorial",1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Premium CMRI Kolkata,2426,3,18,"54, Diamind Harbour Road,Beside Loyal high school, Alipore,Kolkata,,India",700027,"3-star hotel, convenient to Victoria Memorial",1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Premium CMRI Kolkata,2426,3,18,"54, Diamind Harbour Road,Beside Loyal high school, Alipore,Kolkata,,India",700027,"3-star hotel, convenient to Victoria Memorial",1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Premium CMRI Kolkata,3033,3,18,"54, Diamind Harbour Road,Beside Loyal high school, Alipore,Kolkata,,India",700027,"3-star hotel, convenient to Victoria Memorial",1,0,15,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Premium CMRI Kolkata,3033,3,18,"54, Diamind Harbour Road,Beside Loyal high school, Alipore,Kolkata,,India",700027,"3-star hotel, convenient to Victoria Memorial",1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Premium CMRI Kolkata,6705,3,18,"54, Diamind Harbour Road,Beside Loyal high school, Alipore,Kolkata,,India",700027,"3-star hotel, convenient to Victoria Memorial",1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Premium CMRI Kolkata,3033,3,18,"54, Diamind Harbour Road,Beside Loyal high school, Alipore,Kolkata,,India",700027,"3-star hotel, convenient to Victoria Memorial",1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Premium Merlin Homeland Mall,3065,3,21,"6A,Sushil Sen road, Opp. Ganja Park, Bhawanipore",700025,3-star hotel,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Premium Merlin Homeland Mall,3065,3,21,"6A,Sushil Sen road, Opp. Ganja Park, Bhawanipore",700025,3-star hotel,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Premium Merlin Homeland Mall,3065,3,21,"6A,Sushil Sen road, Opp. Ganja Park, Bhawanipore",700025,3-star hotel,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Premium Merlin Homeland Mall,3065,3,21,"6A,Sushil Sen road, Opp. Ganja Park, Bhawanipore",700025,3-star hotel,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Premium Merlin Homeland Mall,3065,3,21,"6A,Sushil Sen road, Opp. Ganja Park, Bhawanipore",700025,3-star hotel,1,1,15,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Premium Merlin Homeland Mall,3831,3,21,"6A,Sushil Sen road, Opp. Ganja Park, Bhawanipore",700025,3-star hotel,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Premium Merlin Homeland Mall,8301,3,21,"6A,Sushil Sen road, Opp. Ganja Park, Bhawanipore",700025,3-star hotel,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Premium Merlin Homeland Mall,8301,3,21,"6A,Sushil Sen road, Opp. Ganja Park, Bhawanipore",700025,3-star hotel,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Premium Rowland Road,3150,3,21.4,"28A,Rowland Road Near Elgin Lashdown, Crossing, Ballygunge",700020,3 start hotel,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Premium Rowland Road,3150,3,21.4,"28A,Rowland Road Near Elgin Lashdown, Crossing, Ballygunge",700020,3 start hotel,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Premium Rowland Road,3150,3,21.4,"28A,Rowland Road Near Elgin Lashdown, Crossing, Ballygunge",700020,3 start hotel,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Premium Rowland Road,3150,3,21.4,"28A,Rowland Road Near Elgin Lashdown, Crossing, Ballygunge",700020,3 start hotel,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Premium Rowland Road,3150,3,21.4,"28A,Rowland Road Near Elgin Lashdown, Crossing, Ballygunge",700020,3 start hotel,1,1,15,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Premium Rowland Road,3150,3,21.4,"28A,Rowland Road Near Elgin Lashdown, Crossing, Ballygunge",700020,3 start hotel,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Premium Rowland Road,7663,3,21.4,"28A,Rowland Road Near Elgin Lashdown, Crossing, Ballygunge",700020,3 start hotel,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Premium Rowland Road,7663,3,21.4,"28A,Rowland Road Near Elgin Lashdown, Crossing, Ballygunge",700020,3 start hotel,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Premium Salt Lake City Centre 1,2084,3,6.7,"BD 51,Sector-1, Third Floor, Salt Lake,Kolkata,,India",700061,"3-star hotel with conference center, near Salt Lake Stadium",1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Premium Salt Lake City Centre 1,1960,3,6.7,"BD 51,Sector-1, Third Floor, Salt Lake,Kolkata,,India",700061,"3-star hotel with conference center, near Salt Lake Stadium",1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Premium Salt Lake City Centre 1,2084,3,6.7,"BD 51,Sector-1, Third Floor, Salt Lake,Kolkata,,India",700061,"3-star hotel with conference center, near Salt Lake Stadium",1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Premium Salt Lake City Centre 1,2081,3,6.7,"BD 51,Sector-1, Third Floor, Salt Lake,Kolkata,,India",700061,"3-star hotel with conference center, near Salt Lake Stadium",1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Premium Salt Lake City Centre 1,1956,3,6.7,"BD 51,Sector-1, Third Floor, Salt Lake,Kolkata,,India",700061,"3-star hotel with conference center, near Salt Lake Stadium",1,0,15,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Premium Salt Lake City Centre 1,2084,3,6.7,"BD 51,Sector-1, Third Floor, Salt Lake,Kolkata,,India",700061,"3-star hotel with conference center, near Salt Lake Stadium",1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Premium Salt Lake City Centre 1,4113,3,6.7,"BD 51,Sector-1, Third Floor, Salt Lake,Kolkata,,India",700061,"3-star hotel with conference center, near Salt Lake Stadium",1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Premium Salt Lake City Centre 1,4113,3,6.7,"BD 51,Sector-1, Third Floor, Salt Lake,Kolkata,,India",700061,"3-star hotel with conference center, near Salt Lake Stadium",1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Premium Salt Lake City Centre 1,1950,3,12.6,"CK 2, Sector 2, Salt Lake, Kolkata,",700091,3 start hotel,1,1,10,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Premium Salt Lake City Centre 2,1950,3,12.6,"CK 2, Sector 2, Salt Lake, Kolkata,",700091,3 start hotel,1,1,10,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Premium Salt Lake City Centre 3,1950,3,12.6,"CK 2, Sector 2, Salt Lake, Kolkata,",700091,3 start hotel,1,1,10,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Premium Salt Lake City Centre 4,1950,3,12.6,"CK 2, Sector 2, Salt Lake, Kolkata,",700091,3 start hotel,1,1,10,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Premium Salt Lake City Centre 5,1950,3,12.6,"CK 2, Sector 2, Salt Lake, Kolkata,",700091,3 start hotel,1,1,10,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Premium Salt Lake City Centre 6,1950,3,12.6,"CK 2, Sector 2, Salt Lake, Kolkata,",700091,3 start hotel,1,1,10,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Premium Salt Lake City Centre 7,2500,3,12.6,"CK 2, Sector 2, Salt Lake, Kolkata,",700091,3 start hotel,1,1,10,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Premium Salt Lake City Centre 8,2500,3,12.6,"CK 2, Sector 2, Salt Lake, Kolkata,",700091,3 start hotel,1,1,10,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Premium VIP Road Near KFC,6811,3,3.4,"RAA-44, Block -B,VIP Road, Raghunathpur,Kolkata,West Bengal,India",700059,3-star hotel in Kolkata,1,0,10,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Premium VIP Road Near KFC,2512,3,3.4,"RAA-44, Block -B,VIP Road, Raghunathpur,Kolkata,West Bengal,India",700059,3-star hotel in Kolkata,1,0,10,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Premium VIP Road Near KFC,2512,3,3.4,"RAA-44, Block -B,VIP Road, Raghunathpur,Kolkata,West Bengal,India",700059,3-star hotel in Kolkata,1,0,10,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Premium VIP Road Near KFC,6811,3,3.4,"RAA-44, Block -B,VIP Road, Raghunathpur,Kolkata,West Bengal,India",700059,3-star hotel in Kolkata,1,0,10,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Premium VIP Road Near KFC,2512,3,3.4,"RAA-44, Block -B,VIP Road, Raghunathpur,Kolkata,West Bengal,India",700059,3-star hotel in Kolkata,1,0,10,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Premium VIP Road Near KFC,2512,3,3.4,"RAA-44, Block -B,VIP Road, Raghunathpur,Kolkata,West Bengal,India",700059,3-star hotel in Kolkata,1,0,10,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Premium VIP Road Near KFC,6811,3,3.4,"RAA-44, Block -B,VIP Road, Raghunathpur,Kolkata,West Bengal,India",700059,3-star hotel in Kolkata,1,0,10,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Premium VIP Road Near KFC,6811,3,3.4,"RAA-44, Block -B,VIP Road, Raghunathpur,Kolkata,West Bengal,India",700059,3-star hotel in Kolkata,1,0,10,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Rooms Airport Gate No 2,2852,3,0.9,"No.2 Airport Gate,Holding No. 5,Kolkata,,India",700081,Dum Dum hotel next to shopping,1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Rooms Airport Gate No 2,2852,3,0.9,"No.2 Airport Gate,Holding No. 5,Kolkata,,India",700081,Dum Dum hotel next to shopping,1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Rooms Airport Gate No 2,2810,3,0.9,"No.2 Airport Gate,Holding No. 5,Kolkata,,India",700081,Dum Dum hotel next to shopping,1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Rooms Airport Gate No 2,7663,3,0.9,"No.2 Airport Gate,Holding No. 5,Kolkata,,India",700081,Dum Dum hotel next to shopping,1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Rooms Airport Gate No 2,7663,3,0.9,"No.2 Airport Gate,Holding No. 5,Kolkata,,India",700081,Dum Dum hotel next to shopping,1,0,15,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Rooms Airport Gate No 2,3512,3,0.9,"No.2 Airport Gate,Holding No. 5,Kolkata,,India",700081,Dum Dum hotel next to shopping,1,0,15,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Rooms Airport Gate No 2,7663,3,0.9,"No.2 Airport Gate,Holding No. 5,Kolkata,,India",700081,Dum Dum hotel next to shopping,1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Rooms Airport Gate No 2,7663,3,0.9,"No.2 Airport Gate,Holding No. 5,Kolkata,,India",700081,Dum Dum hotel next to shopping,1,0,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Rooms Airport Gate No 2 Bus Stop,3022,3,8,"62,Jessore Road, Gate No.2 airport, Old Gurudwara PO Rajbari",700081,kolkata Hotel,1,1,24,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Rooms Airport Gate No 2 Bus Stop,3022,3,8,"62,Jessore Road, Gate No.2 airport, Old Gurudwara PO Rajbari",700081,kolkata Hotel,1,1,24,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Rooms Airport Gate No 2 Bus Stop,3022,3,8,"62,Jessore Road, Gate No.2 airport, Old Gurudwara PO Rajbari",700081,kolkata Hotel,1,1,24,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Rooms Airport Gate No 2 Bus Stop,3022,3,8,"62,Jessore Road, Gate No.2 airport, Old Gurudwara PO Rajbari",700081,kolkata Hotel,1,1,24,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Rooms Airport Gate No 2 Bus Stop,3022,3,8,"62,Jessore Road, Gate No.2 airport, Old Gurudwara PO Rajbari",700081,kolkata Hotel,1,1,24,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Rooms Airport Gate No 2 Bus Stop,3778,3,8,"62,Jessore Road, Gate No.2 airport, Old Gurudwara PO Rajbari",700081,kolkata Hotel,1,1,24,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Rooms Airport Gate No 2 Bus Stop,8195,3,8,"62,Jessore Road, Gate No.2 airport, Old Gurudwara PO Rajbari",700081,kolkata Hotel,1,1,24,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Rooms Airport Gate No 2 Bus Stop,8195,3,8,"62,Jessore Road, Gate No.2 airport, Old Gurudwara PO Rajbari",700081,kolkata Hotel,1,1,24,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Rooms Airport Gate No 3,2852,3,0.9,"No.2 Airport Gate, Holding No. 5, Kolkata",700081,Dum Dum hotel next to shopping,1,0,15,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Rooms Airport Gate No 4,2852,3,0.9,"No.2 Airport Gate, Holding No. 5, Kolkata",700081,Dum Dum hotel next to shopping,1,0,15,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Rooms Airport Gate No 5,2852,3,0.9,"No.2 Airport Gate, Holding No. 5, Kolkata",700081,Dum Dum hotel next to shopping,1,0,15,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Rooms Airport Gate No 6,2852,3,0.9,"No.2 Airport Gate, Holding No. 5, Kolkata",700081,Dum Dum hotel next to shopping,1,0,15,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Rooms Airport Gate No 7,3565,3,0.9,"No.2 Airport Gate, Holding No. 5, Kolkata",700081,Dum Dum hotel next to shopping,1,0,15,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Rooms Airport Gate No 8,7663,3,0.9,"No.2 Airport Gate, Holding No. 5, Kolkata",700081,Dum Dum hotel next to shopping,1,0,15,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Rooms Airport Gate No 9,7663,3,0.9,"No.2 Airport Gate, Holding No. 5, Kolkata",700081,Dum Dum hotel next to shopping,1,0,15,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Rooms Chakraberia,2213,3,15,"14/1, Ratnakar Inn,Sarat Bose Road,Kolkata,,India",700020,"3-star hotel with restaurant, near Victoria Memorial",1,0,21,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Rooms Chakraberia,2213,3,15,"14/1, Ratnakar Inn,Sarat Bose Road,Kolkata,,India",700020,"3-star hotel with restaurant, near Victoria Memorial",1,0,21,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Rooms Chakraberia,2213,3,15,"14/1, Ratnakar Inn,Sarat Bose Road,Kolkata,,India",700020,"3-star hotel with restaurant, near Victoria Memorial",1,0,21,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Rooms Chakraberia,2767,3,15,"14/1, Ratnakar Inn,Sarat Bose Road,Kolkata,,India",700020,"3-star hotel with restaurant, near Victoria Memorial",1,0,21,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Rooms Chakraberia,2767,3,15,"14/1, Ratnakar Inn,Sarat Bose Road,Kolkata,,India",700020,"3-star hotel with restaurant, near Victoria Memorial",1,0,21,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Rooms Chakraberia,2767,3,15,"14/1, Ratnakar Inn,Sarat Bose Road,Kolkata,,India",700020,"3-star hotel with restaurant, near Victoria Memorial",1,0,21,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Rooms Chakraberia,6066,3,15,"14/1, Ratnakar Inn,Sarat Bose Road,Kolkata,,India",700020,"3-star hotel with restaurant, near Victoria Memorial",1,0,21,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Rooms Chakraberia,6066,3,15,"14/1, Ratnakar Inn,Sarat Bose Road,Kolkata,,India",700020,"3-star hotel with restaurant, near Victoria Memorial",1,0,21,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Rooms City Centre 1,1830,3,8,FD 35 Sector-3,700106,3-star hotel convenient to Salt Lake Stadium,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Rooms City Centre 1,1830,3,8,FD 35 Sector-3,700106,3-star hotel convenient to Salt Lake Stadium,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Rooms City Centre 1,1830,3,8,FD 35 Sector-3,700106,3-star hotel convenient to Salt Lake Stadium,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Rooms City Centre 1,1830,3,8,FD 35 Sector-3,700106,3-star hotel convenient to Salt Lake Stadium,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Rooms City Centre 1,1830,3,8,FD 35 Sector-3,700106,3-star hotel convenient to Salt Lake Stadium,1,1,15,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Rooms City Centre 1,5001,3,8,FD 35 Sector-3,700106,3-star hotel convenient to Salt Lake Stadium,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Rooms City Centre 1,5001,3,8,FD 35 Sector-3,700106,3-star hotel convenient to Salt Lake Stadium,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Rooms City Centre 1,5001,3,8,FD 35 Sector-3,700106,3-star hotel convenient to Salt Lake Stadium,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Rooms Dalhousie Waterloo Street,2426,3,26,Plot no 3 Waterloo Street Dalhousie,700069,3-star hotel with restaurant near Eden Gardens,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Rooms Dalhousie Waterloo Street,2426,3,26,Plot no 3 Waterloo Street Dalhousie,700069,3-star hotel with restaurant near Eden Gardens,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Rooms Dalhousie Waterloo Street,2426,3,26,Plot no 3 Waterloo Street Dalhousie,700069,3-star hotel with restaurant near Eden Gardens,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Rooms Dalhousie Waterloo Street,2426,3,26,Plot no 3 Waterloo Street Dalhousie,700069,3-star hotel with restaurant near Eden Gardens,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Rooms Dalhousie Waterloo Street,2426,3,26,Plot no 3 Waterloo Street Dalhousie,700069,3-star hotel with restaurant near Eden Gardens,1,1,15,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Rooms Dalhousie Waterloo Street,3033,3,26,Plot no 3 Waterloo Street Dalhousie,700069,3-star hotel with restaurant near Eden Gardens,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Rooms Dalhousie Waterloo Street,6385,3,14,Plot no 3 Waterloo Street Dalhousie,700069,3-star hotel with restaurant near Eden Gardens,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Rooms Dalhousie Waterloo Street,6492,3,14,Plot no 3 Waterloo Street Dalhousie,700069,3-star hotel with restaurant near Eden Gardens,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Rooms Esplanade,3363,3,23.4,"14, Rafi Ahmed Kidwai Road, near Maulana Azad College",700013,Convenient to Eden garden,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Rooms Esplanade,3363,3,23.4,"14, Rafi Ahmed Kidwai Road, near Maulana Azad College",700013,Convenient to Eden garden,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Rooms Esplanade,3363,3,23.4,"14, Rafi Ahmed Kidwai Road, near Maulana Azad College",700013,Convenient to Eden garden,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Rooms Esplanade,3363,3,23.4,"14, Rafi Ahmed Kidwai Road, near Maulana Azad College",700013,Convenient to Eden garden,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Rooms Esplanade,3363,3,23.4,"14, Rafi Ahmed Kidwai Road, near Maulana Azad College",700013,Convenient to Eden garden,1,1,15,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Rooms Esplanade,4204,3,23.4,"14, Rafi Ahmed Kidwai Road, near Maulana Azad College",700013,Convenient to Eden garden,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Rooms Esplanade,9260,3,23.4,"14, Rafi Ahmed Kidwai Road, near Maulana Azad College",700013,Convenient to Eden garden,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Rooms Esplanade,9260,3,23.4,"14, Rafi Ahmed Kidwai Road, near Maulana Azad College",700013,Convenient to Eden garden,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Rooms National Highway 6 Near Alampur Crossing,1490,3,24,"Alampur More, NH 6,Oppsite 61 Bus Stand, New Kolorah,Howrah,West Bengal,India",711302,3-star hotel in Howrah,1,0,10,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Rooms National Highway 6 Near Alampur Crossing,1490,3,24,"Alampur More, NH 6,Oppsite 61 Bus Stand, New Kolorah,Howrah,West Bengal,India",711302,3-star hotel in Howrah,1,0,10,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Rooms National Highway 6 Near Alampur Crossing,1490,3,24,"Alampur More, NH 6,Oppsite 61 Bus Stand, New Kolorah,Howrah,West Bengal,India",711302,3-star hotel in Howrah,1,0,10,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Rooms National Highway 6 Near Alampur Crossing,4043,3,24,"Alampur More, NH 6,Oppsite 61 Bus Stand, New Kolorah,Howrah,West Bengal,India",711302,3-star hotel in Howrah,1,0,10,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Rooms National Highway 6 Near Alampur Crossing,1490,3,24,"Alampur More, NH 6,Oppsite 61 Bus Stand, New Kolorah,Howrah,West Bengal,India",711302,3-star hotel in Howrah,1,0,10,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Rooms National Highway 6 Near Alampur Crossing,1490,3,24,"Alampur More, NH 6,Oppsite 61 Bus Stand, New Kolorah,Howrah,West Bengal,India",711302,3-star hotel in Howrah,1,0,10,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Rooms National Highway 6 Near Alampur Crossing,4043,3,24,"Alampur More, NH 6,Oppsite 61 Bus Stand, New Kolorah,Howrah,West Bengal,India",711302,3-star hotel in Howrah,1,0,10,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Rooms National Highway 6 Near Alampur Crossing,4043,3,24,"Alampur More, NH 6,Oppsite 61 Bus Stand, New Kolorah,Howrah,West Bengal,India",711302,3-star hotel in Howrah,1,0,10,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Rooms Ruby Hospital Junction,2341,3,18.5,Plot no.558 Rajdanga Main Road,700107,Kolkata hotel next to shopping,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Rooms Ruby Hospital Junction,2341,3,18.5,Plot no.558 Rajdanga Main Road,700107,Kolkata hotel next to shopping,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Rooms Ruby Hospital Junction,2341,3,18.5,Plot no.558 Rajdanga Main Road,700107,Kolkata hotel next to shopping,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Rooms Ruby Hospital Junction,2341,3,18.5,Plot no.558 Rajdanga Main Road,700107,Kolkata hotel next to shopping,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Rooms Ruby Hospital Junction,2341,3,18.5,Plot no.558 Rajdanga Main Road,700107,Kolkata hotel next to shopping,1,1,15,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Rooms Ruby Hospital Junction,2926,3,18.5,Plot no.558 Rajdanga Main Road,700107,Kolkata hotel next to shopping,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Rooms Ruby Hospital Junction,6385,3,18.5,Plot no.558 Rajdanga Main Road,700107,Kolkata hotel next to shopping,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Rooms Ruby Hospital Junction,6385,3,18.5,Plot no.558 Rajdanga Main Road,700107,Kolkata hotel next to shopping,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Rooms Salt Lake City Centre,1814,3,7.6,Salt Lake Sector 1 EC 15,700064,3-star hotel convenient to Salt Lake Stadium,1,1,14,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Rooms Salt Lake City Centre,1715,3,7.6,Salt Lake Sector 1 EC 15,700064,3-star hotel convenient to Salt Lake Stadium,1,1,14,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Rooms Salt Lake City Centre,2210,3,7.6,Salt Lake Sector 1 EC 15,700064,3-star hotel convenient to Salt Lake Stadium,1,1,14,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Rooms Salt Lake City Centre,2375,3,7.6,Salt Lake Sector 1 EC 15,700064,3-star hotel convenient to Salt Lake Stadium,1,1,14,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Rooms Salt Lake City Centre,2210,3,7.6,Salt Lake Sector 1 EC 15,700064,3-star hotel convenient to Salt Lake Stadium,1,1,14,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Rooms Salt Lake City Centre,2210,3,7.6,Salt Lake Sector 1 EC 15,700064,3-star hotel convenient to Salt Lake Stadium,1,1,14,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Rooms Salt Lake City Centre,1847,3,7.6,Salt Lake Sector 1 EC 15,700064,3-star hotel convenient to Salt Lake Stadium,1,1,14,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Rooms Salt Lake City Centre,1979,3,7.6,Salt Lake Sector 1 EC 15,700064,3-star hotel convenient to Salt Lake Stadium,1,1,14,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Rooms Salt Lake Nicco Park,1958,3,9.8,M-417 Sukantanagar Sector-4,700098,3-star hotel convenient to Salt Lake Stadium,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Rooms Salt Lake Nicco Park,1958,3,9.8,M-417 Sukantanagar Sector-4,700098,3-star hotel convenient to Salt Lake Stadium,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Rooms Salt Lake Nicco Park,1958,3,9.8,M-417 Sukantanagar Sector-4,700098,3-star hotel convenient to Salt Lake Stadium,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Rooms Salt Lake Nicco Park,1958,3,9.8,M-417 Sukantanagar Sector-4,700098,3-star hotel convenient to Salt Lake Stadium,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Rooms Salt Lake Nicco Park,2447,3,9.8,M-417 Sukantanagar Sector-4,700098,3-star hotel convenient to Salt Lake Stadium,1,1,15,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Rooms Salt Lake Nicco Park,4469,3,9.8,M-417 Sukantanagar Sector-4,700098,3-star hotel convenient to Salt Lake Stadium,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Rooms Salt Lake Nicco Park,4469,3,9.8,M-417 Sukantanagar Sector-4,700098,3-star hotel convenient to Salt Lake Stadium,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Rooms Salt Lake Nicco Park,4469,3,9.8,M-417 Sukantanagar Sector-4,700098,3-star hotel convenient to Salt Lake Stadium,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Rooms Salt Lake Sector 1 Tank No 2,1745,3,8,DA 103,700064,3-star hotel convenient to Salt Lake Stadium,1,1,10,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Rooms Salt Lake Sector 1 Tank No 2,1745,3,8,DA 103,700064,3-star hotel convenient to Salt Lake Stadium,1,1,10,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Rooms Salt Lake Sector 1 Tank No 2,1745,3,8,DA 103,700064,3-star hotel convenient to Salt Lake Stadium,1,1,10,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Rooms Salt Lake Sector 1 Tank No 2,1745,3,8,DA 103,700064,3-star hotel convenient to Salt Lake Stadium,1,1,10,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Rooms Salt Lake Sector 1 Tank No 2,1745,3,8,DA 103,700064,3-star hotel convenient to Salt Lake Stadium,1,1,10,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Rooms Salt Lake Sector 1 Tank No 2,2181,3,8,DA 103,700064,3-star hotel convenient to Salt Lake Stadium,1,1,10,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Rooms Salt Lake Sector 1 Tank No 2,2181,3,8,DA 103,700064,3-star hotel convenient to Salt Lake Stadium,1,1,10,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Rooms Salt Lake Sector 1 Tank No 2,2181,3,8,DA 103,700064,3-star hotel convenient to Salt Lake Stadium,1,1,10,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Rooms Santoshpur Sulekha Bridge,1788,3,18,"B 213, Near Survey Park, Kali Mandir, Santoshpur, Kolkata, West Bengal, 700075, India",700075,3-star hotel,1,1,10,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Rooms Santoshpur Sulekha Bridge,1788,3,18,"B 213, Near Survey Park, Kali Mandir, Santoshpur, Kolkata, West Bengal, 700075, India",700075,3-star hotel,1,1,10,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Rooms Santoshpur Sulekha Bridge,1788,3,18,"B 213, Near Survey Park, Kali Mandir, Santoshpur, Kolkata, West Bengal, 700075, India",700075,3-star hotel,1,1,10,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Rooms Santoshpur Sulekha Bridge,1788,3,18,"B 213, Near Survey Park, Kali Mandir, Santoshpur, Kolkata, West Bengal, 700075, India",700075,3-star hotel,1,1,10,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Rooms Santoshpur Sulekha Bridge,1788,3,18,"B 213, Near Survey Park, Kali Mandir, Santoshpur, Kolkata, West Bengal, 700075, India",700075,3-star hotel,1,1,10,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Rooms Santoshpur Sulekha Bridge,1788,3,18,"B 213, Near Survey Park, Kali Mandir, Santoshpur, Kolkata, West Bengal, 700075, India",700075,3-star hotel,1,1,10,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Rooms Santoshpur Sulekha Bridge,4895,3,18,"B 213, Near Survey Park, Kali Mandir, Santoshpur, Kolkata, West Bengal, 700075, India",700075,3-star hotel,1,1,10,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Rooms Santoshpur Sulekha Bridge,4895,3,18,"B 213, Near Survey Park, Kali Mandir, Santoshpur, Kolkata, West Bengal, 700075, India",700075,3-star hotel,1,1,10,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Rooms Tagore Park EM Bypass,2256,3,15,"D-37 Sharoda Pali, Kolkata, 700039, India",700039,3-star hotel,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Rooms Tagore Park EM Bypass,2256,3,15,"D-37 Sharoda Pali, Kolkata, 700039, India",700039,3-star hotel,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Rooms Tagore Park EM Bypass,2256,3,15,"D-37 Sharoda Pali, Kolkata, 700039, India",700039,3-star hotel,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Rooms Tagore Park EM Bypass,2256,3,15,"D-37 Sharoda Pali, Kolkata, 700039, India",700039,3-star hotel,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Rooms Tagore Park EM Bypass,2256,3,15,"D-37 Sharoda Pali, Kolkata, 700039, India",700039,3-star hotel,1,1,15,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Rooms Tagore Park EM Bypass,2820,3,15,"D-37 Sharoda Pali, Kolkata, 700039, India",700039,3-star hotel,1,1,15,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Rooms Tagore Park EM Bypass,6172,3,15,"D-37 Sharoda Pali, Kolkata, 700039, India",700039,3-star hotel,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Rooms Tagore Park EM Bypass,6172,3,15,"D-37 Sharoda Pali, Kolkata, 700039, India",700039,3-star hotel,1,1,15,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,OYO Rooms Tagore Park K Block,1660,3,15,"1735 K-Block, Tagore Park, Near Fortis Hospital, Kolkata, West Bengal, 700039, India",700039,3-star hotel,1,1,20,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,OYO Rooms Tagore Park K Block,1660,3,15,"1736 K-Block, Tagore Park, Near Fortis Hospital, Kolkata, West Bengal, 700039, India",700039,3-star hotel,1,1,20,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,OYO Rooms Tagore Park K Block,1660,3,15,"1737 K-Block, Tagore Park, Near Fortis Hospital, Kolkata, West Bengal, 700039, India",700039,3-star hotel,1,1,20,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,OYO Rooms Tagore Park K Block,1660,3,15,"1738 K-Block, Tagore Park, Near Fortis Hospital, Kolkata, West Bengal, 700039, India",700039,3-star hotel,1,1,20,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,OYO Rooms Tagore Park K Block,1660,3,15,"1739 K-Block, Tagore Park, Near Fortis Hospital, Kolkata, West Bengal, 700039, India",700039,3-star hotel,1,1,20,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,OYO Rooms Tagore Park K Block,1660,3,15,"1740 K-Block, Tagore Park, Near Fortis Hospital, Kolkata, West Bengal, 700039, India",700039,3-star hotel,1,1,20,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,OYO Rooms Tagore Park K Block,4043,3,15,"1741 K-Block, Tagore Park, Near Fortis Hospital, Kolkata, West Bengal, 700039, India",700039,3-star hotel,1,1,20,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,OYO Rooms Tagore Park K Block,4043,3,15,"1742 K-Block, Tagore Park, Near Fortis Hospital, Kolkata, West Bengal, 700039, India",700039,3-star hotel,1,1,20,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Park Plaza Kolkata Ballygunge,6800,4.5,16,"17th Garcha 1st Lane, 1st Lane",700019,"Luxury hotel in Ballygunge with 3 restaurants, 4 ba /lounges",1,1,92,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Park Plaza Kolkata Ballygunge,6800,4.5,16,"17th Garcha 1st Lane, 1st Lane",700019,"Luxury hotel in Ballygunge with 3 restaurants, 4 ba /lounges",1,1,92,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Park Plaza Kolkata Ballygunge,6800,4.5,16,"17th Garcha 1st Lane, 1st Lane",700019,"Luxury hotel in Ballygunge with 3 restaurants, 4 ba /lounges",1,1,92,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Park Plaza Kolkata Ballygunge,6800,4.5,16,"17th Garcha 1st Lane, 1st Lane",700019,"Luxury hotel in Ballygunge with 3 restaurants, 4 ba /lounges",1,1,92,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Park Plaza Kolkata Ballygunge,6800,4.5,16,"17th Garcha 1st Lane, 1st Lane",700019,"Luxury hotel in Ballygunge with 3 restaurants, 4 ba /lounges",1,1,92,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Park Plaza Kolkata Ballygunge,7600,4.5,16,"17th Garcha 1st Lane, 1st Lane",700019,"Luxury hotel in Ballygunge with 3 restaurants, 4 ba /lounges",1,1,92,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Park Plaza Kolkata Ballygunge,6800,4.5,16,"17th Garcha 1st Lane, 1st Lane",700019,"Luxury hotel in Ballygunge with 3 restaurants, 4 ba /lounges",1,1,92,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Park Plaza Kolkata Ballygunge,6800,4.5,16,"17th Garcha 1st Lane, 1st Lane",700019,"Luxury hotel in Ballygunge with 3 restaurants, 4 ba /lounges",1,1,92,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Pride Plaza Hotel Kolkata,17099,4,7.6,BG 12Action Area -1B New Town,700156,4-star hotel in Kolkata with outdoor pool bar/lounge,0,1,153,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Pride Plaza Hotel Kolkata,8099,4,7.6,BG 12Action Area -1B New Town,700156,4-star hotel in Kolkata with outdoor pool bar/lounge,0,1,153,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Pride Plaza Hotel Kolkata,8099,4,7.6,BG 12Action Area -1B New Town,700156,4-star hotel in Kolkata with outdoor pool bar/lounge,0,1,153,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Pride Plaza Hotel Kolkata,4750,4,7.6,BG 12Action Area -1B New Town,700156,4-star hotel in Kolkata with outdoor pool bar/lounge,0,1,153,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Pride Plaza Hotel Kolkata,5850,4,7.6,BG 12Action Area -1B New Town,700156,4-star hotel in Kolkata with outdoor pool bar/lounge,0,1,153,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Pride Plaza Hotel Kolkata,4750,4,7.6,BG 12Action Area -1B New Town,700156,4-star hotel in Kolkata with outdoor pool bar/lounge,0,1,153,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Pride Plaza Hotel Kolkata,4999,4,7.6,BG 12Action Area -1B New Town,700156,4-star hotel in Kolkata with outdoor pool bar/lounge,0,1,153,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Regenta Orko's Kolkata,4093,4,20,"621 Prantik Pally Kasba, Near by Garden high School",700107,4 start hotel with indoor pool,1,1,69,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Regenta Orko's Kolkata,3909,4,20,"622 Prantik Pally Kasba, Near by Garden high School",700107,4 start hotel with indoor pool,1,1,69,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Regenta Orko's Kolkata,3909,4,20,"623 Prantik Pally Kasba, Near by Garden high School",700107,4 start hotel with indoor pool,1,1,69,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Regenta Orko's Kolkata,3909,4,20,"624 Prantik Pally Kasba, Near by Garden high School",700107,4 start hotel with indoor pool,1,1,69,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Regenta Orko's Kolkata,3909,4,20,"625 Prantik Pally Kasba, Near by Garden high School",700107,4 start hotel with indoor pool,1,1,69,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Regenta Orko's Kolkata,4674,4,20,"626 Prantik Pally Kasba, Near by Garden high School",700107,4 start hotel with indoor pool,1,1,69,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Regenta Orko's Kolkata,4250,4,20,"627 Prantik Pally Kasba, Near by Garden high School",700107,4 start hotel with indoor pool,1,1,69,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Regenta Orko's Kolkata,4250,4,20,"628 Prantik Pally Kasba, Near by Garden high School",700107,4 start hotel with indoor pool,1,1,69,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Senses Hotel,5850,4,8,DN-26 Sector V Salt Lake,700091,4-star hotel with 2 restaurants near Salt Lake Stadium,1,1,104,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Senses Hotel,5850,4,8,DN-26 Sector V Salt Lake,700091,4-star hotel with 2 restaurants near Salt Lake Stadium,1,1,104,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Senses Hotel,5850,4,8,DN-26 Sector V Salt Lake,700091,4-star hotel with 2 restaurants near Salt Lake Stadium,1,1,104,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Senses Hotel,5850,4,8,DN-26 Sector V Salt Lake,700091,4-star hotel with 2 restaurants near Salt Lake Stadium,1,1,104,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Senses Hotel,5850,4,8,DN-26 Sector V Salt Lake,700091,4-star hotel with 2 restaurants near Salt Lake Stadium,1,1,104,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Senses Hotel,5850,4,8,DN-26 Sector V Salt Lake,700091,4-star hotel with 2 restaurants near Salt Lake Stadium,1,1,104,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Senses Hotel,7000,4,8,DN-26 Sector V Salt Lake,700091,4-star hotel with 2 restaurants near Salt Lake Stadium,1,1,104,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Senses Hotel,7000,4,8,DN-26 Sector V Salt Lake,700091,4-star hotel with 2 restaurants near Salt Lake Stadium,1,1,104,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Sunflower Guesthouse,1904,2.5,14,"7 Royd Street,,Kolkata,West Bengal,India",700056,City-center hotel within easy reach of Victoria Memorial,0,0,7,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Sunflower Guesthouse,1276,2.5,14,"7 Royd Street,,Kolkata,West Bengal,India",700056,City-center hotel within easy reach of Victoria Memorial,0,0,7,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Sunflower Guesthouse,1276,2.5,14,"7 Royd Street,,Kolkata,West Bengal,India",700056,City-center hotel within easy reach of Victoria Memorial,0,0,7,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Sunflower Guesthouse,1904,2.5,14,"7 Royd Street,,Kolkata,West Bengal,India",700056,City-center hotel within easy reach of Victoria Memorial,0,0,7,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Sunflower Guesthouse,1276,2.5,14,"7 Royd Street,,Kolkata,West Bengal,India",700056,City-center hotel within easy reach of Victoria Memorial,0,0,7,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Sunflower Guesthouse,1904,2.5,14,"7 Royd Street,,Kolkata,West Bengal,India",700056,City-center hotel within easy reach of Victoria Memorial,0,0,7,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Sunflower Guesthouse,1904,2.5,14,"7 Royd Street,,Kolkata,West Bengal,India",700056,City-center hotel within easy reach of Victoria Memorial,0,0,7,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Sunflower Guesthouse,1904,2.5,14,"7 Royd Street,,Kolkata,West Bengal,India",700056,City-center hotel within easy reach of Victoria Memorial,0,0,7,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Taj Bengal,13500,5,23.2,"34 B Belvedere Road Alipore, Kolkata, West Bengal",700027,"Luxury hotel with spa, near Victoria Memorial",1,1,229,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Taj Bengal,9660,5,23.2,"35 B Belvedere Road Alipore, Kolkata, West Bengal",700027,"Luxury hotel with spa, near Victoria Memorial",1,1,229,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Taj Bengal,11250,5,23.2,"36 B Belvedere Road Alipore, Kolkata, West Bengal",700027,"Luxury hotel with spa, near Victoria Memorial",1,1,229,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Taj Bengal,10800,5,23.2,"37 B Belvedere Road Alipore, Kolkata, West Bengal",700027,"Luxury hotel with spa, near Victoria Memorial",1,1,229,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Taj Bengal,10120,5,23.2,"38 B Belvedere Road Alipore, Kolkata, West Bengal",700027,"Luxury hotel with spa, near Victoria Memorial",1,1,229,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Taj Bengal,10350,5,23.2,"39 B Belvedere Road Alipore, Kolkata, West Bengal",700027,"Luxury hotel with spa, near Victoria Memorial",1,1,229,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Taj Bengal,12420,5,23.2,"40 B Belvedere Road Alipore, Kolkata, West Bengal",700027,"Luxury hotel with spa, near Victoria Memorial",1,1,229,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Taj Bengal,9000,5,23.2,"41 B Belvedere Road Alipore, Kolkata, West Bengal",700027,"Luxury hotel with spa, near Victoria Memorial",1,1,229,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Tatvam Residency,3500,3.5,14,"171/1/M Picnic Garden Road,Off E.M. Bypass,Kolkata,West Bengal,India",700039,"3.5-star hotel in Kolkata with outdoor pool, conference center",1,1,9,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Tatvam Residency,3500,3.5,14,"171/1/M Picnic Garden Road,Off E.M. Bypass,Kolkata,West Bengal,India",700039,"3.5-star hotel in Kolkata with outdoor pool, conference center",1,1,9,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Tatvam Residency,3500,3.5,14,"171/1/M Picnic Garden Road,Off E.M. Bypass,Kolkata,West Bengal,India",700039,"3.5-star hotel in Kolkata with outdoor pool, conference center",1,1,9,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Tatvam Residency,3500,3.5,14,"171/1/M Picnic Garden Road,Off E.M. Bypass,Kolkata,West Bengal,India",700039,"3.5-star hotel in Kolkata with outdoor pool, conference center",1,1,9,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Tatvam Residency,3000,3.5,14,"171/1/M Picnic Garden Road,Off E.M. Bypass,Kolkata,West Bengal,India",700039,"3.5-star hotel in Kolkata with outdoor pool, conference center",1,1,9,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Tatvam Residency,3000,3.5,14,"171/1/M Picnic Garden Road,Off E.M. Bypass,Kolkata,West Bengal,India",700039,"3.5-star hotel in Kolkata with outdoor pool, conference center",1,1,9,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Tatvam Residency,3500,3.5,14,"171/1/M Picnic Garden Road,Off E.M. Bypass,Kolkata,West Bengal,India",700039,"3.5-star hotel in Kolkata with outdoor pool, conference center",1,1,9,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Tatvam Residency,3500,3.5,14,"171/1/M Picnic Garden Road,Off E.M. Bypass,Kolkata,West Bengal,India",700039,"3.5-star hotel in Kolkata with outdoor pool, conference center",1,1,9,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,The Corporate,4400,3,14,"10 Royd Street, Kolkata, West Bengal",700016,"Art Deco hotel with restaurant, near Victoria Memorial",1,0,24,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,The Corporate,4400,3,14,"11 Royd Street, Kolkata, West Bengal",700016,"Art Deco hotel with restaurant, near Victoria Memorial",1,0,24,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,The Corporate,4400,3,14,"4 Royd Street,,Kolkata,West Bengal,India",700016,"Art Deco hotel with restaurant, near Victoria Memorial",1,1,24,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,The Corporate,4700,3,14,"4 Royd Street,,Kolkata,West Bengal,India",700016,"Art Deco hotel with restaurant, near Victoria Memorial",1,1,24,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,The Corporate,4700,3,14,"4 Royd Street,,Kolkata,West Bengal,India",700016,"Art Deco hotel with restaurant, near Victoria Memorial",1,1,24,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,The Corporate,4700,3,14,"4 Royd Street,,Kolkata,West Bengal,India",700016,"Art Deco hotel with restaurant, near Victoria Memorial",1,1,24,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,The Corporate,4400,3,14,"4 Royd Street,,Kolkata,West Bengal,India",700016,"Art Deco hotel with restaurant, near Victoria Memorial",1,1,24,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,The Corporate,4400,3,14,"4 Royd Street,,Kolkata,West Bengal,India",700016,"Art Deco hotel with restaurant, near Victoria Memorial",1,1,24,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,The Corporate,4400,3,14,"4 Royd Street,,Kolkata,West Bengal,India",700016,"Art Deco hotel with restaurant, near Victoria Memorial",1,1,24,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,The Corporate,4400,3,14,"4 Royd Street,,Kolkata,West Bengal,India",700016,"Art Deco hotel with restaurant, near Victoria Memorial",1,1,24,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,The Fern Residency Kolkata,4500,3.5,2.8,"204, Main Arterial Road Noapara,Rajarhat, New Town Opp CityCentr II,Kolkata,,India",7000157,3.5-star hotel in Dum Dum with restaurant,1,0,48,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,The Fern Residency Kolkata,7200,3.5,2.8,"204, Main Arterial Road Noapara,Rajarhat, New Town Opp CityCentr II,Kolkata,,India",7000157,3.5-star hotel in Dum Dum with restaurant,1,0,48,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,The Fern Residency Kolkata,7500,3.5,2.8,"204, Main Arterial Road Noapara,Rajarhat, New Town Opp CityCentr II,Kolkata,,India",7000157,3.5-star hotel in Dum Dum with restaurant,1,0,48,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,The Fern Residency Kolkata,7500,3.5,2.8,"204, Main Arterial Road Noapara,Rajarhat, New Town Opp CityCentr II,Kolkata,,India",7000157,3.5-star hotel in Dum Dum with restaurant,1,0,48,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,The Fern Residency Kolkata,7200,3.5,2.8,"204, Main Arterial Road Noapara,Rajarhat, New Town Opp CityCentr II,Kolkata,,India",7000157,3.5-star hotel in Dum Dum with restaurant,1,0,48,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,The Fern Residency Kolkata,7500,3.5,2.8,"204, Main Arterial Road Noapara,Rajarhat, New Town Opp CityCentr II,Kolkata,,India",7000157,3.5-star hotel in Dum Dum with restaurant,1,0,48,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,The Fern Residency Kolkata,7500,3.5,2.8,"204, Main Arterial Road Noapara,Rajarhat, New Town Opp CityCentr II,Kolkata,,India",7000157,3.5-star hotel in Dum Dum with restaurant,1,0,48,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,The Fern Residency Kolkata,7500,3.5,2.8,"204, Main Arterial Road Noapara,Rajarhat, New Town Opp CityCentr II,Kolkata,,India",7000157,3.5-star hotel in Dum Dum with restaurant,1,0,48,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,The Floatel Hotel,4950,3.5,13,"9/10 Kolkatta Jetty Stand Road, Kolkata, West Bengal",700001,"3.5-star hotel with restaurant, near Eden Gardens",1,0,49,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,The Floatel Hotel,4950,3.5,13,"9/10 Kolkatta Jetty Stand Road, Kolkata, West Bengal",700001,"3.5-star hotel with restaurant, near Eden Gardens",1,0,49,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,The Floatel Hotel,4950,3.5,13,"9/10 Kolkatta Jetty Stand Road, Kolkata, West Bengal",700001,"3.5-star hotel with restaurant, near Eden Gardens",1,0,49,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,The Floatel Hotel,4950,3.5,13,"9/10 Kolkatta Jetty Stand Road, Kolkata, West Bengal",700001,"3.5-star hotel with restaurant, near Eden Gardens",1,0,49,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,The Floatel Hotel,4635,3.5,13,"9/10 Kolkatta Jetty Stand Road, Kolkata, West Bengal",700001,"3.5-star hotel with restaurant, near Eden Gardens",1,0,49,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,The Floatel Hotel,5850,3.5,13,"9/10 Kolkatta Jetty Stand Road, Kolkata, West Bengal",700001,"3.5-star hotel with restaurant, near Eden Gardens",1,0,49,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,The Floatel Hotel,5850,3.5,13,"9/10 Kolkatta Jetty Stand Road, Kolkata, West Bengal",700001,"3.5-star hotel with restaurant, near Eden Gardens",1,0,49,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,The Floatel Hotel,5850,3.5,13,"9/10 Kolkatta Jetty Stand Road, Kolkata, West Bengal",700001,"3.5-star hotel with restaurant, near Eden Gardens",1,0,49,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,The Gateway Hotel,7650,4,18.6,1930 Rajdanga Main Road,700107,4 start hotel,1,0,197,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,The Gateway Hotel,7820,4,18.6,1931 Rajdanga Main Road,700107,4 start hotel,1,0,197,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,The Gateway Hotel,6300,4,18.6,1932 Rajdanga Main Road,700107,4 start hotel,1,0,197,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,The Gateway Hotel,6300,4,18.6,1933 Rajdanga Main Road,700107,4 start hotel,1,0,197,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,The Gateway Hotel,6440,4,18.6,1934 Rajdanga Main Road,700107,4 start hotel,1,0,197,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,The Gateway Hotel,6300,4,18.6,1935 Rajdanga Main Road,700107,4 start hotel,1,0,197,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,The Gateway Hotel,6440,4,18.6,1936 Rajdanga Main Road,700107,4 start hotel,1,0,197,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,The Gateway Hotel,6300,4,18.6,1937 Rajdanga Main Road,700107,4 start hotel,1,0,197,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,The HHI Kolkata,8790,4.5,15,"235/1 Ajc Bose Road, Kolkata, West Bengal",700020,"Luxury hotel with outdoor pool, near Victoria Memorial",1,1,184,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,The HHI Kolkata,8790,4.5,15,"235/1 Ajc Bose Road, Kolkata, West Bengal",700020,"Luxury hotel with outdoor pool, near Victoria Memorial",1,1,184,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,The HHI Kolkata,7768,4.5,15,"235/1 Ajc Bose Road, Kolkata, West Bengal",700020,"Luxury hotel with outdoor pool, near Victoria Memorial",1,1,184,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,The HHI Kolkata,8790,4.5,15,"235/1 Ajc Bose Road, Kolkata, West Bengal",700020,"Luxury hotel with outdoor pool, near Victoria Memorial",1,1,184,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,The HHI Kolkata,8790,4.5,15,"235/1 Ajc Bose Road, Kolkata, West Bengal",700020,"Luxury hotel with outdoor pool, near Victoria Memorial",1,1,184,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,The HHI Kolkata,7768,4.5,15,"235/1 Ajc Bose Road, Kolkata, West Bengal",700020,"Luxury hotel with outdoor pool, near Victoria Memorial",1,1,184,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,The HHI Kolkata,7768,4.5,15,"235/1 Ajc Bose Road, Kolkata, West Bengal",700020,"Luxury hotel with outdoor pool, near Victoria Memorial",1,1,184,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,The HHI Kolkata,7768,4.5,15,"235/1 Ajc Bose Road, Kolkata, West Bengal",700020,"Luxury hotel with outdoor pool, near Victoria Memorial",1,1,184,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,The LaLiT Great Eastern Kolkata,7290,5,16.7,"1,2, 3, Old Court House Street, Kolkata, west bengal",700069,"Luxury hotel with spa, near Eden Gardens",1,0,195,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,The LaLiT Great Eastern Kolkata,6840,5,16.7,"1,2, 3, Old Court House Street, Kolkata, west bengal",700069,"Luxury hotel with spa, near Eden Gardens",1,0,195,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,The LaLiT Great Eastern Kolkata,6390,5,16.7,"1,2, 3, Old Court House Street, Kolkata, west bengal",700069,"Luxury hotel with spa, near Eden Gardens",1,0,195,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,The LaLiT Great Eastern Kolkata,7290,5,16.7,"1,2, 3, Old Court House Street, Kolkata, west bengal",700069,"Luxury hotel with spa, near Eden Gardens",1,0,195,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,The LaLiT Great Eastern Kolkata,6840,5,16.7,"1,2, 3, Old Court House Street, Kolkata, west bengal",700069,"Luxury hotel with spa, near Eden Gardens",1,0,195,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,The LaLiT Great Eastern Kolkata,6390,5,16.7,"1,2, 3, Old Court House Street, Kolkata, west bengal",700069,"Luxury hotel with spa, near Eden Gardens",1,0,195,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,The LaLiT Great Eastern Kolkata,6840,5,16.7,"1,2, 3, Old Court House Street, Kolkata, west bengal",700069,"Luxury hotel with spa, near Eden Gardens",1,0,195,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,The LaLiT Great Eastern Kolkata,6390,5,16.7,"1,2, 3, Old Court House Street, Kolkata, west bengal",700069,"Luxury hotel with spa, near Eden Gardens",1,0,195,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,The Oberoi Grand Kolkata,12000,5,13,15 Jawaharlal Nehru Road,700013,Luxury hotel with spa near Victoria Memorial,1,1,1,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,The Oberoi Grand Kolkata,12000,5,13,15 Jawaharlal Nehru Road,700013,Luxury hotel with spa near Victoria Memorial,1,1,1,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,The Oberoi Grand Kolkata,12500,5,13,15 Jawaharlal Nehru Road,700013,Luxury hotel with spa near Victoria Memorial,1,1,1,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,The Oberoi Grand Kolkata,12500,5,13,15 Jawaharlal Nehru Road,700013,Luxury hotel with spa near Victoria Memorial,1,1,1,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,The Oberoi Grand Kolkata,8500,5,13,15 Jawaharlal Nehru Road,700013,Luxury hotel with spa near Victoria Memorial,1,1,1,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,The Oberoi Grand Kolkata,13000,5,13,15 Jawaharlal Nehru Road,700013,Luxury hotel with spa near Victoria Memorial,1,1,1,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,The Oberoi Grand Kolkata,8500,5,13,15 Jawaharlal Nehru Road,700013,Luxury hotel with spa near Victoria Memorial,1,1,1,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,The Oberoi Grand Kolkata,8500,5,13,15 Jawaharlal Nehru Road,700013,Luxury hotel with spa near Victoria Memorial,1,1,1,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,The Park Kolkata,6205,5,26,17 Park Street,700016,Luxury hotel with spa near Victoria Memorial,1,1,149,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,The Park Kolkata,6800,5,26,17 Park Street,700016,Luxury hotel with spa near Victoria Memorial,1,1,149,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,The Park Kolkata,8500,5,26,17 Park Street,700016,Luxury hotel with spa near Victoria Memorial,1,1,149,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,The Park Kolkata,9350,5,26,17 Park Street,700016,Luxury hotel with spa near Victoria Memorial,1,1,149,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,The Park Kolkata,10625,5,26,17 Park Street,700016,Luxury hotel with spa near Victoria Memorial,1,1,149,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,The Park Kolkata,9350,5,26,17 Park Street,700016,Luxury hotel with spa near Victoria Memorial,1,1,149,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,The Park Kolkata,8330,5,14,17 Park Street,700016,Luxury hotel with spa near Victoria Memorial,1,1,149,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,The Park Kolkata,7225,5,14,17 Park Street,700016,Luxury hotel with spa near Victoria Memorial,1,1,149,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,The Peerless Inn - Kolkata,5000,4,8,12 Jawaharlal Nehru Road,700013,4-star hotel with 2 restaurants near Victoria Memorial,1,1,1,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,The Peerless Inn - Kolkata,5000,4,8,12 Jawaharlal Nehru Road,700013,4-star hotel with 2 restaurants near Victoria Memorial,1,1,1,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,The Peerless Inn - Kolkata,5000,4,8,12 Jawaharlal Nehru Road,700013,4-star hotel with 2 restaurants near Victoria Memorial,1,1,1,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,The Peerless Inn - Kolkata,5000,4,8,12 Jawaharlal Nehru Road,700013,4-star hotel with 2 restaurants near Victoria Memorial,1,1,1,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,The Peerless Inn - Kolkata,5000,4,8,12 Jawaharlal Nehru Road,700013,4-star hotel with 2 restaurants near Victoria Memorial,1,1,1,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,The Peerless Inn - Kolkata,5000,4,8,12 Jawaharlal Nehru Road,700013,4-star hotel with 2 restaurants near Victoria Memorial,1,1,1,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,The Peerless Inn - Kolkata,12000,4,8,12 Jawaharlal Nehru Road,700013,4-star hotel with 2 restaurants near Victoria Memorial,1,1,1,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,The Peerless Inn - Kolkata,6500,4,8,12 Jawaharlal Nehru Road,700013,4-star hotel with 2 restaurants near Victoria Memorial,1,1,1,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,The Sonnet,5525,4,7.2,"Block: DD. Plot No :08, Sector-01, Salt Lake",700064,"4-star hotel with outdoor pool, near Salt Lake Stadium",1,0,64,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,The Sonnet,6400,4,7.2,"Block: DD. Plot No :08, Sector-01, Salt Lake",700064,"4-star hotel with outdoor pool, near Salt Lake Stadium",1,0,64,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,The Sonnet,6800,4,7.2,"Block: DD. Plot No :08, Sector-01, Salt Lake",700064,"4-star hotel with outdoor pool, near Salt Lake Stadium",1,0,64,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,The Sonnet,6800,4,7.2,"Block: DD. Plot No :08, Sector-01, Salt Lake",700064,"4-star hotel with outdoor pool, near Salt Lake Stadium",1,0,64,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,The Sonnet,6800,4,7.2,"Block: DD. Plot No :08, Sector-01, Salt Lake",700064,"4-star hotel with outdoor pool, near Salt Lake Stadium",1,0,64,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,The Sonnet,7650,4,7.2,"Block: DD. Plot No :08, Sector-01, Salt Lake",700064,"4-star hotel with outdoor pool, near Salt Lake Stadium",1,0,64,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,The Sonnet,7650,4,7.2,"Block: DD. Plot No :08, Sector-01, Salt Lake",700064,"4-star hotel with outdoor pool, near Salt Lake Stadium",1,0,64,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,The Sonnet,7650,4,7.2,"Block: DD. Plot No :08, Sector-01, Salt Lake",700064,"4-star hotel with outdoor pool, near Salt Lake Stadium",1,0,64,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Treebo Diamond Plaza,2039,3,11,5 Gopi Bose Lane,700012,3-star hotel convenient to Eden Gardens,1,1,1,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Treebo Diamond Plaza,2175,3,11,5 Gopi Bose Lane,700012,3-star hotel convenient to Eden Gardens,1,1,1,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Treebo Diamond Plaza,2718,3,11,5 Gopi Bose Lane,700012,3-star hotel convenient to Eden Gardens,1,1,1,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Treebo Diamond Plaza,2718,3,11,5 Gopi Bose Lane,700012,3-star hotel convenient to Eden Gardens,1,1,1,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Treebo Diamond Plaza,2175,3,11,5 Gopi Bose Lane,700012,3-star hotel convenient to Eden Gardens,1,1,1,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Treebo Diamond Plaza,2175,3,11,5 Gopi Bose Lane,700012,3-star hotel convenient to Eden Gardens,1,1,1,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Treebo Diamond Plaza,2718,3,11,5 Gopi Bose Lane,700012,3-star hotel convenient to Eden Gardens,1,1,1,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Treebo Diamond Plaza,2718,3,11,5 Gopi Bose Lane,700012,3-star hotel convenient to Eden Gardens,1,1,1,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Treebo Orion West Willows,2831,3,14,"2, West Range, Beck Bagan, Near Tata Motor lexus Showroom, Kolkata",700017,"3-star hotel with restaurant, near Victoria Memorial",1,0,184,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Treebo Orion West Willows,2689,3,14,"2, West Range, Beck Bagan, Near Tata Motor lexus Showroom, Kolkata",700017,"3-star hotel with restaurant, near Victoria Memorial",1,0,184,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Treebo Orion West Willows,2857,3,14,"2, West Range, Beck Bagan, Near Tata Motor lexus Showroom, Kolkata",700017,"3-star hotel with restaurant, near Victoria Memorial",1,0,184,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Treebo Orion West Willows,2857,3,14,"2, West Range, Beck Bagan, Near Tata Motor lexus Showroom, Kolkata",700017,"3-star hotel with restaurant, near Victoria Memorial",1,0,184,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Treebo Orion West Willows,2857,3,14,"2, West Range, Beck Bagan, Near Tata Motor lexus Showroom, Kolkata",700017,"3-star hotel with restaurant, near Victoria Memorial",1,0,184,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Treebo Orion West Willows,2857,3,14,"2, West Range, Beck Bagan, Near Tata Motor lexus Showroom, Kolkata",700017,"3-star hotel with restaurant, near Victoria Memorial",1,0,184,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Treebo Orion West Willows,2785,3,14,"2, West Range, Beck Bagan, Near Tata Motor lexus Showroom, Kolkata",700017,"3-star hotel with restaurant, near Victoria Memorial",1,0,184,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Treebo Orion West Willows,2785,3,14,"2, West Range, Beck Bagan, Near Tata Motor lexus Showroom, Kolkata",700017,"3-star hotel with restaurant, near Victoria Memorial",1,0,184,1
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Treebo Platinum,2702,3,7.9,BA-169 Sector - I Salt Lake City,700064,3-star hotel with restaurant near Salt Lake Stadium,1,1,27,0
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Treebo Platinum,3226,3,7.9,BA-169 Sector - I Salt Lake City,700064,3-star hotel with restaurant near Salt Lake Stadium,1,1,27,0
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Treebo Platinum,2991,3,7.9,BA-169 Sector - I Salt Lake City,700064,3-star hotel with restaurant near Salt Lake Stadium,1,1,27,0
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Treebo Platinum,2991,3,7.9,BA-169 Sector - I Salt Lake City,700064,3-star hotel with restaurant near Salt Lake Stadium,1,1,27,0
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Treebo Platinum,2991,3,7.9,BA-169 Sector - I Salt Lake City,700064,3-star hotel with restaurant near Salt Lake Stadium,1,1,27,0
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Treebo Platinum,2991,3,7.9,BA-169 Sector - I Salt Lake City,700064,3-star hotel with restaurant near Salt Lake Stadium,1,1,27,0
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Treebo Platinum,3178,3,7.9,BA-169 Sector - I Salt Lake City,700064,3-star hotel with restaurant near Salt Lake Stadium,1,1,27,0
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Treebo Platinum,3178,3,7.9,BA-169 Sector - I Salt Lake City,700064,3-star hotel with restaurant near Salt Lake Stadium,1,1,27,0
+Kolkata,4496694,6,1,1,1,0,Dec 18 2016,Vedic Village Spa Resort,5355,4,14.6,"Shikharpur, P.O - Bagu - Rajarhat, Kolkata, West Bengal",700135,"4-star resort in Kolkata with 3 restaurants, 2 outdoor pools",1,1,200,1
+Kolkata,4496694,6,1,1,0,0,Dec 21 2016,Vedic Village Spa Resort,5355,4,14.6,"Shikharpur, P.O - Bagu - Rajarhat, Kolkata, West Bengal",700135,"4-star resort in Kolkata with 3 restaurants, 2 outdoor pools",1,1,200,1
+Kolkata,4496694,6,1,1,1,0,Dec 24 2016,Vedic Village Spa Resort,5738,4,14.6,"Shikharpur, P.O - Bagu - Rajarhat, Kolkata, West Bengal",700135,"4-star resort in Kolkata with 3 restaurants, 2 outdoor pools",1,1,200,1
+Kolkata,4496694,6,1,1,1,0,Dec 25 2016,Vedic Village Spa Resort,5355,4,14.6,"Shikharpur, P.O - Bagu - Rajarhat, Kolkata, West Bengal",700135,"4-star resort in Kolkata with 3 restaurants, 2 outdoor pools",1,1,200,1
+Kolkata,4496694,6,1,1,0,0,Dec 28 2016,Vedic Village Spa Resort,5355,4,14.6,"Shikharpur, P.O - Bagu - Rajarhat, Kolkata, West Bengal",700135,"4-star resort in Kolkata with 3 restaurants, 2 outdoor pools",1,1,200,1
+Kolkata,4496694,6,1,1,1,1,Dec 31 2016,Vedic Village Spa Resort,18500,4,14.6,"Shikharpur, P.O - Bagu - Rajarhat, Kolkata, West Bengal",700135,"4-star resort in Kolkata with 3 restaurants, 2 outdoor pools",1,1,200,1
+Kolkata,4496694,6,1,1,0,0,Jan 04 2017,Vedic Village Spa Resort,5355,4,14.6,"Shikharpur, P.O - Bagu - Rajarhat, Kolkata, West Bengal",700135,"4-star resort in Kolkata with 3 restaurants, 2 outdoor pools",1,1,200,1
+Kolkata,4496694,6,1,1,1,0,Jan 08 2017,Vedic Village Spa Resort,5355,4,14.6,"Shikharpur, P.O - Bagu - Rajarhat, Kolkata, West Bengal",700135,"4-star resort in Kolkata with 3 restaurants, 2 outdoor pools",1,1,200,1

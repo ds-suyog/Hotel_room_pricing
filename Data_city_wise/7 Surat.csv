@@ -1,0 +1,81 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Surat,4467797,7,0,0,1,0,Dec 18 2016,Best Western Yuvraj,2480,4,17,"Gulambaba Mill Compound, Opposite Railway Station, Surat",395003,City-center Surat hotel with restaurant,0,1,54,0
+Surat,4467797,7,0,0,0,0,Dec 21 2016,Best Western Yuvraj,2780,4,17,"Gulambaba Mill Compound, Opposite Railway Station, Surat",395003,City-center Surat hotel with restaurant,0,1,54,0
+Surat,4467797,7,0,0,1,0,Dec 24 2016,Best Western Yuvraj,2780,4,17,"Gulambaba Mill Compound, Opposite Railway Station, Surat",395003,City-center Surat hotel with restaurant,0,1,54,0
+Surat,4467797,7,0,0,1,0,Dec 25 2016,Best Western Yuvraj,2780,4,17,"Gulambaba Mill Compound, Opposite Railway Station, Surat",395003,City-center Surat hotel with restaurant,0,1,54,0
+Surat,4467797,7,0,0,0,0,Dec 28 2016,Best Western Yuvraj,2780,4,17,"Gulambaba Mill Compound, Opposite Railway Station, Surat",395003,City-center Surat hotel with restaurant,0,1,54,0
+Surat,4467797,7,0,0,1,1,Dec 31 2016,Best Western Yuvraj,2480,4,17,"Gulambaba Mill Compound, Opposite Railway Station, Surat",395003,City-center Surat hotel with restaurant,0,1,54,0
+Surat,4467797,7,0,0,0,0,Jan 04 2017,Best Western Yuvraj,2780,4,17,"Gulambaba Mill Compound, Opposite Railway Station, Surat",395003,City-center Surat hotel with restaurant,0,1,54,0
+Surat,4467797,7,0,0,1,0,Jan 08 2017,Best Western Yuvraj,2480,4,17,"Gulambaba Mill Compound, Opposite Railway Station, Surat",395003,City-center Surat hotel with restaurant,0,1,54,0
+Surat,4467797,7,0,0,1,0,Dec 18 2016,Budget Inn Bellevue,2899,3,18,"Sumul Dairy Road, Near Railway Station, Surat",395008,3-star Surat hotel with restaurant,1,1,44,0
+Surat,4467797,7,0,0,0,0,Dec 21 2016,Budget Inn Bellevue,3499,3,18,"Sumul Dairy Road, Near Railway Station, Surat",395008,3-star Surat hotel with restaurant,1,1,44,0
+Surat,4467797,7,0,0,1,0,Dec 24 2016,Budget Inn Bellevue,2899,3,18,"Sumul Dairy Road, Near Railway Station, Surat",395008,3-star Surat hotel with restaurant,1,1,44,0
+Surat,4467797,7,0,0,1,0,Dec 25 2016,Budget Inn Bellevue,2899,3,18,"Sumul Dairy Road, Near Railway Station, Surat",395008,3-star Surat hotel with restaurant,1,1,44,0
+Surat,4467797,7,0,0,0,0,Dec 28 2016,Budget Inn Bellevue,3499,3,18,"Sumul Dairy Road, Near Railway Station, Surat",395008,3-star Surat hotel with restaurant,1,1,44,0
+Surat,4467797,7,0,0,1,1,Dec 31 2016,Budget Inn Bellevue,2899,3,18,"Sumul Dairy Road, Near Railway Station, Surat",395008,3-star Surat hotel with restaurant,1,1,44,0
+Surat,4467797,7,0,0,0,0,Jan 04 2017,Budget Inn Bellevue,3499,3,18,"Sumul Dairy Road, Near Railway Station, Surat",395008,3-star Surat hotel with restaurant,1,1,44,0
+Surat,4467797,7,0,0,1,0,Jan 08 2017,Budget Inn Bellevue,2899,3,18,"Sumul Dairy Road, Near Railway Station, Surat",395008,3-star Surat hotel with restaurant,1,1,44,0
+Surat,4467797,7,0,0,1,0,Dec 18 2016,HOTEL ORANGE INTERNATIONAL,4465,4,14,"Railway Station Main Road, Next to Mohan Mithai, Surat",395003,3.5-star Surat hotel with restaurant,1,1,52,0
+Surat,4467797,7,0,0,0,0,Dec 21 2016,HOTEL ORANGE INTERNATIONAL,4465,4,14,"Railway Station Main Road, Next to Mohan Mithai, Surat",395003,3.5-star Surat hotel with restaurant,1,1,52,0
+Surat,4467797,7,0,0,1,0,Dec 24 2016,HOTEL ORANGE INTERNATIONAL,4465,4,14,"Railway Station Main Road, Next to Mohan Mithai, Surat",395003,3.5-star Surat hotel with restaurant,1,1,52,0
+Surat,4467797,7,0,0,1,0,Dec 25 2016,HOTEL ORANGE INTERNATIONAL,4465,4,14,"Railway Station Main Road, Next to Mohan Mithai, Surat",395003,3.5-star Surat hotel with restaurant,1,1,52,0
+Surat,4467797,7,0,0,0,0,Dec 28 2016,HOTEL ORANGE INTERNATIONAL,4465,4,14,"Railway Station Main Road, Next to Mohan Mithai, Surat",395003,3.5-star Surat hotel with restaurant,1,1,52,0
+Surat,4467797,7,0,0,1,1,Dec 31 2016,HOTEL ORANGE INTERNATIONAL,4465,4,14,"Railway Station Main Road, Next to Mohan Mithai, Surat",395003,3.5-star Surat hotel with restaurant,1,1,52,0
+Surat,4467797,7,0,0,0,0,Jan 04 2017,HOTEL ORANGE INTERNATIONAL,3294,4,14,"Railway Station Main Road, Next to Mohan Mithai, Surat",395003,3.5-star Surat hotel with restaurant,1,1,52,0
+Surat,4467797,7,0,0,1,0,Jan 08 2017,HOTEL ORANGE INTERNATIONAL,3294,4,14,"Railway Station Main Road, Next to Mohan Mithai, Surat",395003,3.5-star Surat hotel with restaurant,1,1,52,0
+Surat,4467797,7,0,0,1,0,Dec 18 2016,Hotel Sifat International,3300,3,17,"Opp Surat Railway Station, Main Road, Near Mohan Mitai, Surat",395003,3-star Surat hotel with restaurant,1,1,52,0
+Surat,4467797,7,0,0,0,0,Dec 21 2016,Hotel Sifat International,2800,3,17,"Opp Surat Railway Station, Main Road, Near Mohan Mitai, Surat",395003,3-star Surat hotel with restaurant,1,1,52,0
+Surat,4467797,7,0,0,1,0,Dec 24 2016,Hotel Sifat International,3300,3,17,"Opp Surat Railway Station, Main Road, Near Mohan Mitai, Surat",395003,3-star Surat hotel with restaurant,1,1,52,0
+Surat,4467797,7,0,0,1,0,Dec 25 2016,Hotel Sifat International,3300,3,17,"Opp Surat Railway Station, Main Road, Near Mohan Mitai, Surat",395003,3-star Surat hotel with restaurant,1,1,52,0
+Surat,4467797,7,0,0,0,0,Dec 28 2016,Hotel Sifat International,2800,3,17,"Opp Surat Railway Station, Main Road, Near Mohan Mitai, Surat",395003,3-star Surat hotel with restaurant,1,1,52,0
+Surat,4467797,7,0,0,1,1,Dec 31 2016,Hotel Sifat International,2800,3,17,"Opp Surat Railway Station, Main Road, Near Mohan Mitai, Surat",395003,3-star Surat hotel with restaurant,1,1,52,0
+Surat,4467797,7,0,0,0,0,Jan 04 2017,Hotel Sifat International,2800,3,17,"Opp Surat Railway Station, Main Road, Near Mohan Mitai, Surat",395003,3-star Surat hotel with restaurant,1,1,52,0
+Surat,4467797,7,0,0,1,0,Jan 08 2017,Hotel Sifat International,2800,3,17,"Opp Surat Railway Station, Main Road, Near Mohan Mitai, Surat",395003,3-star Surat hotel with restaurant,1,1,52,0
+Surat,4467797,7,0,0,1,0,Dec 18 2016,"Lords Plaza, Surat",3800,4,17,"Delhi Gate Ring Road, Surat",395003,"3.5-star hotel in Surat with outdoor pool, restaurant",1,1,108,1
+Surat,4467797,7,0,0,0,0,Dec 21 2016,"Lords Plaza, Surat",4000,4,17,"Delhi Gate Ring Road, Surat",395003,"3.5-star hotel in Surat with outdoor pool, restaurant",1,1,108,1
+Surat,4467797,7,0,0,1,0,Dec 24 2016,"Lords Plaza, Surat",4000,4,17,"Delhi Gate Ring Road, Surat",395003,"3.5-star hotel in Surat with outdoor pool, restaurant",1,1,108,1
+Surat,4467797,7,0,0,1,0,Dec 25 2016,"Lords Plaza, Surat",4000,4,17,"Delhi Gate Ring Road, Surat",395003,"3.5-star hotel in Surat with outdoor pool, restaurant",1,1,108,1
+Surat,4467797,7,0,0,0,0,Dec 28 2016,"Lords Plaza, Surat",4000,4,17,"Delhi Gate Ring Road, Surat",395003,"3.5-star hotel in Surat with outdoor pool, restaurant",1,1,108,1
+Surat,4467797,7,0,0,1,1,Dec 31 2016,"Lords Plaza, Surat",4000,4,17,"Delhi Gate Ring Road, Surat",395003,"3.5-star hotel in Surat with outdoor pool, restaurant",1,1,108,1
+Surat,4467797,7,0,0,0,0,Jan 04 2017,"Lords Plaza, Surat",4700,4,17,"Delhi Gate Ring Road, Surat",395003,"3.5-star hotel in Surat with outdoor pool, restaurant",1,1,108,1
+Surat,4467797,7,0,0,1,0,Jan 08 2017,"Lords Plaza, Surat",4700,4,17,"Delhi Gate Ring Road, Surat",395003,"3.5-star hotel in Surat with outdoor pool, restaurant",1,1,108,1
+Surat,4467797,7,0,0,1,0,Dec 18 2016,OYO Rooms Delhi Gate 3,2256,3,16,"Opposite Delhi gate, Ring road, Surat",395003,Surat hotel next to shopping,1,1,15,0
+Surat,4467797,7,0,0,0,0,Dec 21 2016,OYO Rooms Delhi Gate 3,2213,3,16,"Opposite Delhi gate, Ring road, Surat",395003,Surat hotel next to shopping,1,1,15,0
+Surat,4467797,7,0,0,1,0,Dec 24 2016,OYO Rooms Delhi Gate 3,2213,3,16,"Opposite Delhi gate, Ring road, Surat",395003,Surat hotel next to shopping,1,1,15,0
+Surat,4467797,7,0,0,1,0,Dec 25 2016,OYO Rooms Delhi Gate 3,2213,3,16,"Opposite Delhi gate, Ring road, Surat",395003,Surat hotel next to shopping,1,1,15,0
+Surat,4467797,7,0,0,0,0,Dec 28 2016,OYO Rooms Delhi Gate 3,2256,3,16,"Opposite Delhi gate, Ring road, Surat",395003,Surat hotel next to shopping,1,1,15,0
+Surat,4467797,7,0,0,1,1,Dec 31 2016,OYO Rooms Delhi Gate 3,2820,3,16,"Opposite Delhi gate, Ring road, Surat",395003,Surat hotel next to shopping,1,1,15,0
+Surat,4467797,7,0,0,0,0,Jan 04 2017,OYO Rooms Delhi Gate 3,5001,3,16,"Opposite Delhi gate, Ring road, Surat",395003,Surat hotel next to shopping,1,1,15,0
+Surat,4467797,7,0,0,1,0,Jan 08 2017,OYO Rooms Delhi Gate 3,5001,3,16,"Opposite Delhi gate, Ring road, Surat",395003,Surat hotel next to shopping,1,1,15,0
+Surat,4467797,7,0,0,1,0,Dec 18 2016,OYO Rooms Near Station Gulambaba Road 2,1830,3,18,"7/278 Gulambaba Mill compound, Opposite Station Road, Surat",395003,3-star hotel in Surat,1,1,15,0
+Surat,4467797,7,0,0,0,0,Dec 21 2016,OYO Rooms Near Station Gulambaba Road 2,1830,3,18,"7/278 Gulambaba Mill compound, Opposite Station Road, Surat",395003,3-star hotel in Surat,1,1,15,0
+Surat,4467797,7,0,0,1,0,Dec 24 2016,OYO Rooms Near Station Gulambaba Road 2,1830,3,18,"7/278 Gulambaba Mill compound, Opposite Station Road, Surat",395003,3-star hotel in Surat,1,1,15,0
+Surat,4467797,7,0,0,1,0,Dec 25 2016,OYO Rooms Near Station Gulambaba Road 2,1830,3,18,"7/278 Gulambaba Mill compound, Opposite Station Road, Surat",395003,3-star hotel in Surat,1,1,15,0
+Surat,4467797,7,0,0,0,0,Dec 28 2016,OYO Rooms Near Station Gulambaba Road 2,1830,3,18,"7/278 Gulambaba Mill compound, Opposite Station Road, Surat",395003,3-star hotel in Surat,1,1,15,0
+Surat,4467797,7,0,0,1,1,Dec 31 2016,OYO Rooms Near Station Gulambaba Road 2,1830,3,18,"7/278 Gulambaba Mill compound, Opposite Station Road, Surat",395003,3-star hotel in Surat,1,1,15,0
+Surat,4467797,7,0,0,0,0,Jan 04 2017,OYO Rooms Near Station Gulambaba Road 2,4895,3,18,"7/278 Gulambaba Mill compound, Opposite Station Road, Surat",395003,3-star hotel in Surat,1,1,15,0
+Surat,4467797,7,0,0,1,0,Jan 08 2017,OYO Rooms Near Station Gulambaba Road 2,4895,3,18,"7/278 Gulambaba Mill compound, Opposite Station Road, Surat",395003,3-star hotel in Surat,1,1,15,0
+Surat,4467797,7,0,0,1,0,Dec 18 2016,OYO Rooms Railway Station Jain Dharamshala,2256,3,17,"Next to Jain Dharmshala, Opposite Surat Railway Station, Surat",395003,Surat hotel next to shopping,1,1,15,0
+Surat,4467797,7,0,0,0,0,Dec 21 2016,OYO Rooms Railway Station Jain Dharamshala,2256,3,17,"Next to Jain Dharmshala, Opposite Surat Railway Station, Surat",395003,Surat hotel next to shopping,1,1,15,0
+Surat,4467797,7,0,0,1,0,Dec 24 2016,OYO Rooms Railway Station Jain Dharamshala,2256,3,17,"Next to Jain Dharmshala, Opposite Surat Railway Station, Surat",395003,Surat hotel next to shopping,1,1,15,0
+Surat,4467797,7,0,0,1,0,Dec 25 2016,OYO Rooms Railway Station Jain Dharamshala,2256,3,17,"Next to Jain Dharmshala, Opposite Surat Railway Station, Surat",395003,Surat hotel next to shopping,1,1,15,0
+Surat,4467797,7,0,0,0,0,Dec 28 2016,OYO Rooms Railway Station Jain Dharamshala,2256,3,17,"Next to Jain Dharmshala, Opposite Surat Railway Station, Surat",395003,Surat hotel next to shopping,1,1,15,0
+Surat,4467797,7,0,0,1,1,Dec 31 2016,OYO Rooms Railway Station Jain Dharamshala,2256,3,17,"Next to Jain Dharmshala, Opposite Surat Railway Station, Surat",395003,Surat hotel next to shopping,1,1,15,0
+Surat,4467797,7,0,0,0,0,Jan 04 2017,OYO Rooms Railway Station Jain Dharamshala,6385,3,17,"Next to Jain Dharmshala, Opposite Surat Railway Station, Surat",395003,Surat hotel next to shopping,1,1,15,0
+Surat,4467797,7,0,0,1,0,Jan 08 2017,OYO Rooms Railway Station Jain Dharamshala,7237,3,17,"Next to Jain Dharmshala, Opposite Surat Railway Station, Surat",395003,Surat hotel next to shopping,1,1,15,0
+Surat,4467797,7,0,0,1,0,Dec 18 2016,OYO Rooms Textile Market,2512,3,16,"Surat Textile Market complex, Ring Road, Surat",395002,Surat hotel next to shopping,1,1,10,0
+Surat,4467797,7,0,0,0,0,Dec 21 2016,OYO Rooms Textile Market,2554,3,16,"Surat Textile Market complex, Ring Road, Surat",395002,Surat hotel next to shopping,1,1,10,0
+Surat,4467797,7,0,0,1,0,Dec 24 2016,OYO Rooms Textile Market,2554,3,16,"Surat Textile Market complex, Ring Road, Surat",395002,Surat hotel next to shopping,1,1,10,0
+Surat,4467797,7,0,0,1,0,Dec 25 2016,OYO Rooms Textile Market,2554,3,16,"Surat Textile Market complex, Ring Road, Surat",395002,Surat hotel next to shopping,1,1,10,0
+Surat,4467797,7,0,0,0,0,Dec 28 2016,OYO Rooms Textile Market,2554,3,16,"Surat Textile Market complex, Ring Road, Surat",395002,Surat hotel next to shopping,1,1,10,0
+Surat,4467797,7,0,0,1,1,Dec 31 2016,OYO Rooms Textile Market,3193,3,16,"Surat Textile Market complex, Ring Road, Surat",395002,Surat hotel next to shopping,1,1,10,0
+Surat,4467797,7,0,0,0,0,Jan 04 2017,OYO Rooms Textile Market,7130,3,16,"Surat Textile Market complex, Ring Road, Surat",395002,Surat hotel next to shopping,1,1,10,0
+Surat,4467797,7,0,0,1,0,Jan 08 2017,OYO Rooms Textile Market,7130,3,16,"Surat Textile Market complex, Ring Road, Surat",395002,Surat hotel next to shopping,1,1,10,0
+Surat,4467797,7,0,0,1,0,Dec 18 2016,The Gateway Hotel Athwalines,7200,4,9,"Near Parle Point Athwa Lines, Ambika Niketan, Surat",395007,"Luxury hotel in Surat with 2 restaurants, spa",1,0,204,1
+Surat,4467797,7,0,0,0,0,Dec 21 2016,The Gateway Hotel Athwalines,7000,4,9,"Near Parle Point Athwa Lines, Ambika Niketan, Surat",395007,"Luxury hotel in Surat with 2 restaurants, spa",1,0,204,1
+Surat,4467797,7,0,0,1,0,Dec 24 2016,The Gateway Hotel Athwalines,6336,4,9,"Near Parle Point Athwa Lines, Ambika Niketan, Surat",395007,"Luxury hotel in Surat with 2 restaurants, spa",1,0,204,1
+Surat,4467797,7,0,0,1,0,Dec 25 2016,The Gateway Hotel Athwalines,7040,4,9,"Near Parle Point Athwa Lines, Ambika Niketan, Surat",395007,"Luxury hotel in Surat with 2 restaurants, spa",1,0,204,1
+Surat,4467797,7,0,0,0,0,Dec 28 2016,The Gateway Hotel Athwalines,6160,4,9,"Near Parle Point Athwa Lines, Ambika Niketan, Surat",395007,"Luxury hotel in Surat with 2 restaurants, spa",1,0,204,1
+Surat,4467797,7,0,0,1,1,Dec 31 2016,The Gateway Hotel Athwalines,7040,4,9,"Near Parle Point Athwa Lines, Ambika Niketan, Surat",395007,"Luxury hotel in Surat with 2 restaurants, spa",1,0,204,1
+Surat,4467797,7,0,0,0,0,Jan 04 2017,The Gateway Hotel Athwalines,6600,4,9,"Near Parle Point Athwa Lines, Ambika Niketan, Surat",395007,"Luxury hotel in Surat with 2 restaurants, spa",1,0,204,1
+Surat,4467797,7,0,0,1,0,Jan 08 2017,The Gateway Hotel Athwalines,6600,4,9,"Near Parle Point Athwa Lines, Ambika Niketan, Surat",395007,"Luxury hotel in Surat with 2 restaurants, spa",1,0,204,1

@@ -1,0 +1,49 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Guwahati,957352,25,0,1,1,0,Dec 18 2016,Cygnett Inn Repose,3800,3.5,25,"ABC G.S. Road Tarun Nagar 2nd By-Lane, Guwahati, Assam",781005,"3.5-star hotel in Guwahati with restaurant, bar/lounge",1,1,41,0
+Guwahati,957352,25,0,1,0,0,Dec 21 2016,Cygnett Inn Repose,3800,3.5,25,"ABC G.S. Road Tarun Nagar 2nd By-Lane, Guwahati, Assam",781005,"3.5-star hotel in Guwahati with restaurant, bar/lounge",1,1,41,0
+Guwahati,957352,25,0,1,1,0,Dec 24 2016,Cygnett Inn Repose,3800,3.5,25,"ABC G.S. Road Tarun Nagar 2nd By-Lane, Guwahati, Assam",781005,"3.5-star hotel in Guwahati with restaurant, bar/lounge",1,1,41,0
+Guwahati,957352,25,0,1,1,0,Dec 25 2016,Cygnett Inn Repose,4300,3.5,25,"ABC G.S. Road Tarun Nagar 2nd By-Lane, Guwahati, Assam",781005,"3.5-star hotel in Guwahati with restaurant, bar/lounge",1,1,41,0
+Guwahati,957352,25,0,1,0,0,Dec 28 2016,Cygnett Inn Repose,3800,3.5,25,"ABC G.S. Road Tarun Nagar 2nd By-Lane, Guwahati, Assam",781005,"3.5-star hotel in Guwahati with restaurant, bar/lounge",1,1,41,0
+Guwahati,957352,25,0,1,1,1,Dec 31 2016,Cygnett Inn Repose,3800,3.5,25,"ABC G.S. Road Tarun Nagar 2nd By-Lane, Guwahati, Assam",781005,"3.5-star hotel in Guwahati with restaurant, bar/lounge",1,1,41,0
+Guwahati,957352,25,0,1,0,0,Jan 04 2017,Cygnett Inn Repose,6500,3.5,25,"ABC G.S. Road Tarun Nagar 2nd By-Lane, Guwahati, Assam",781005,"3.5-star hotel in Guwahati with restaurant, bar/lounge",1,1,41,0
+Guwahati,957352,25,0,1,1,0,Jan 08 2017,Cygnett Inn Repose,6500,3.5,25,"ABC G.S. Road Tarun Nagar 2nd By-Lane, Guwahati, Assam",781005,"3.5-star hotel in Guwahati with restaurant, bar/lounge",1,1,41,0
+Guwahati,957352,25,0,1,1,0,Dec 18 2016,Hotel Gateway Grandeur,4860,3,25,"G.S. Road, Christianbasti, Guwahati, Assam,",781005,"3-star hotel in Guwahati with 2 restaurants, spa",1,1,49,1
+Guwahati,957352,25,0,1,0,0,Dec 21 2016,Hotel Gateway Grandeur,4860,3,25,"G.S. Road, Christianbasti, Guwahati, Assam,",781005,"3-star hotel in Guwahati with 2 restaurants, spa",1,1,49,1
+Guwahati,957352,25,0,1,1,0,Dec 24 2016,Hotel Gateway Grandeur,4860,3,25,"G.S. Road, Christianbasti, Guwahati, Assam,",781005,"3-star hotel in Guwahati with 2 restaurants, spa",1,1,49,1
+Guwahati,957352,25,0,1,1,0,Dec 25 2016,Hotel Gateway Grandeur,4860,3,25,"G.S. Road, Christianbasti, Guwahati, Assam,",781005,"3-star hotel in Guwahati with 2 restaurants, spa",1,1,49,1
+Guwahati,957352,25,0,1,0,0,Dec 28 2016,Hotel Gateway Grandeur,4860,3,25,"G.S. Road, Christianbasti, Guwahati, Assam,",781005,"3-star hotel in Guwahati with 2 restaurants, spa",1,1,49,1
+Guwahati,957352,25,0,1,1,1,Dec 31 2016,Hotel Gateway Grandeur,4860,3,25,"G.S. Road, Christianbasti, Guwahati, Assam,",781005,"3-star hotel in Guwahati with 2 restaurants, spa",1,1,49,1
+Guwahati,957352,25,0,1,0,0,Jan 04 2017,Hotel Gateway Grandeur,5400,3,25,"G.S. Road, Christianbasti, Guwahati, Assam,",781005,"3-star hotel in Guwahati with 2 restaurants, spa",1,1,49,1
+Guwahati,957352,25,0,1,1,0,Jan 08 2017,Hotel Gateway Grandeur,8000,3,25,"G.S. Road, Christianbasti, Guwahati, Assam,",781005,"3-star hotel in Guwahati with 2 restaurants, spa",1,1,49,1
+Guwahati,957352,25,0,1,1,0,Dec 18 2016,OYO Premium Anand Nagar Guwahati,3363,3,33.4,"Plot No. 17, Ananda Nagar Road, Beside Axis Bank, Six Mile, Guwahati, India",781022,3-star Dispur hotel with conference center,1,1,15,0
+Guwahati,957352,25,0,1,0,0,Dec 21 2016,OYO Premium Anand Nagar Guwahati,3363,3,33.4,"Plot No. 17, Ananda Nagar Road, Beside Axis Bank, Six Mile, Guwahati, India",781022,3-star Dispur hotel with conference center,1,1,15,0
+Guwahati,957352,25,0,1,1,0,Dec 24 2016,OYO Premium Anand Nagar Guwahati,3363,3,33.4,"Plot No. 17, Ananda Nagar Road, Beside Axis Bank, Six Mile, Guwahati, India",781022,3-star Dispur hotel with conference center,1,1,15,0
+Guwahati,957352,25,0,1,1,0,Dec 25 2016,OYO Premium Anand Nagar Guwahati,3363,3,33.4,"Plot No. 17, Ananda Nagar Road, Beside Axis Bank, Six Mile, Guwahati, India",781022,3-star Dispur hotel with conference center,1,1,15,0
+Guwahati,957352,25,0,1,0,0,Dec 28 2016,OYO Premium Anand Nagar Guwahati,3363,3,33.4,"Plot No. 17, Ananda Nagar Road, Beside Axis Bank, Six Mile, Guwahati, India",781022,3-star Dispur hotel with conference center,1,1,15,0
+Guwahati,957352,25,0,1,1,1,Dec 31 2016,OYO Premium Anand Nagar Guwahati,4204,3,33.4,"Plot No. 17, Ananda Nagar Road, Beside Axis Bank, Six Mile, Guwahati, India",781022,3-star Dispur hotel with conference center,1,1,15,0
+Guwahati,957352,25,0,1,0,0,Jan 04 2017,OYO Premium Anand Nagar Guwahati,7237,3,33.4,"Plot No. 17, Ananda Nagar Road, Beside Axis Bank, Six Mile, Guwahati, India",781022,3-star Dispur hotel with conference center,1,1,15,0
+Guwahati,957352,25,0,1,1,0,Jan 08 2017,OYO Premium Anand Nagar Guwahati,7130,3,33.4,"Plot No. 17, Ananda Nagar Road, Beside Axis Bank, Six Mile, Guwahati, India",781022,3-star Dispur hotel with conference center,1,1,15,0
+Guwahati,957352,25,0,1,1,0,Dec 18 2016,OYO Premium Paltan Bazar,4641,3,18,"A.T Road, Guwahati, India",781001,"3-star hotel in Guwahati with restaurant, bar/lounge",1,1,15,1
+Guwahati,957352,25,0,1,0,0,Dec 21 2016,OYO Premium Paltan Bazar,4641,3,18,"A.T Road, Guwahati, India",781001,"3-star hotel in Guwahati with restaurant, bar/lounge",1,1,15,1
+Guwahati,957352,25,0,1,1,0,Dec 24 2016,OYO Premium Paltan Bazar,4641,3,18,"A.T Road, Guwahati, India",781001,"3-star hotel in Guwahati with restaurant, bar/lounge",1,1,15,1
+Guwahati,957352,25,0,1,1,0,Dec 25 2016,OYO Premium Paltan Bazar,4641,3,18,"A.T Road, Guwahati, India",781001,"3-star hotel in Guwahati with restaurant, bar/lounge",1,1,15,1
+Guwahati,957352,25,0,1,0,0,Dec 28 2016,OYO Premium Paltan Bazar,4641,3,18,"A.T Road, Guwahati, India",781001,"3-star hotel in Guwahati with restaurant, bar/lounge",1,1,15,1
+Guwahati,957352,25,0,1,1,1,Dec 31 2016,OYO Premium Paltan Bazar,5801,3,18,"A.T Road, Guwahati, India",781001,"3-star hotel in Guwahati with restaurant, bar/lounge",1,1,15,1
+Guwahati,957352,25,0,1,0,0,Jan 04 2017,OYO Premium Paltan Bazar,12134,3,18,"A.T Road, Guwahati, India",781001,"3-star hotel in Guwahati with restaurant, bar/lounge",1,1,15,1
+Guwahati,957352,25,0,1,1,0,Jan 08 2017,OYO Premium Paltan Bazar,12134,3,18,"A.T Road, Guwahati, India",781001,"3-star hotel in Guwahati with restaurant, bar/lounge",1,1,15,1
+Guwahati,957352,25,0,1,1,0,Dec 18 2016,Vishwaratna Hotel,2600,3.5,18,"A. T. Road, Guwahati, Assam",781001,"3.5-star hotel in Guwahati with spa, outdoor pool",1,1,46,1
+Guwahati,957352,25,0,1,0,0,Dec 21 2016,Vishwaratna Hotel,2600,3.5,18,"A. T. Road, Guwahati, Assam",781001,"3.5-star hotel in Guwahati with spa, outdoor pool",1,1,46,1
+Guwahati,957352,25,0,1,1,0,Dec 24 2016,Vishwaratna Hotel,4000,3.5,18,"A. T. Road, Guwahati, Assam",781001,"3.5-star hotel in Guwahati with spa, outdoor pool",1,1,46,1
+Guwahati,957352,25,0,1,1,0,Dec 25 2016,Vishwaratna Hotel,4000,3.5,18,"A. T. Road, Guwahati, Assam",781001,"3.5-star hotel in Guwahati with spa, outdoor pool",1,1,46,1
+Guwahati,957352,25,0,1,0,0,Dec 28 2016,Vishwaratna Hotel,2600,3.5,18,"A. T. Road, Guwahati, Assam",781001,"3.5-star hotel in Guwahati with spa, outdoor pool",1,1,46,1
+Guwahati,957352,25,0,1,1,1,Dec 31 2016,Vishwaratna Hotel,2600,3.5,18,"A. T. Road, Guwahati, Assam",781001,"3.5-star hotel in Guwahati with spa, outdoor pool",1,1,46,1
+Guwahati,957352,25,0,1,0,0,Jan 04 2017,Vishwaratna Hotel,4000,3.5,18,"A. T. Road, Guwahati, Assam",781001,"3.5-star hotel in Guwahati with spa, outdoor pool",1,1,46,1
+Guwahati,957352,25,0,1,1,0,Jan 08 2017,Vishwaratna Hotel,4000,3.5,18,"A. T. Road, Guwahati, Assam",781001,"3.5-star hotel in Guwahati with spa, outdoor pool",1,1,46,1
+Guwahati,957352,25,0,1,1,0,Dec 18 2016,Vivanta by Taj - Guwahati,8075,5,32,"Nikita Complex Khanapara G S Road, Guwahati,",781022,"Luxury hotel in Guwahati with spa, outdoor pool",1,0,150,1
+Guwahati,957352,25,0,1,0,0,Dec 21 2016,Vivanta by Taj - Guwahati,7650,5,32,"Nikita Complex Khanapara G S Road, Guwahati,",781022,"Luxury hotel in Guwahati with spa, outdoor pool",1,0,150,1
+Guwahati,957352,25,0,1,1,0,Dec 24 2016,Vivanta by Taj - Guwahati,7999,5,32,"Nikita Complex Khanapara G S Road, Guwahati,",781022,"Luxury hotel in Guwahati with spa, outdoor pool",1,0,150,1
+Guwahati,957352,25,0,1,1,0,Dec 25 2016,Vivanta by Taj - Guwahati,7999,5,32,"Nikita Complex Khanapara G S Road, Guwahati,",781022,"Luxury hotel in Guwahati with spa, outdoor pool",1,0,150,1
+Guwahati,957352,25,0,1,0,0,Dec 28 2016,Vivanta by Taj - Guwahati,7199,5,32,"Nikita Complex Khanapara G S Road, Guwahati,",781022,"Luxury hotel in Guwahati with spa, outdoor pool",1,0,150,1
+Guwahati,957352,25,0,1,1,1,Dec 31 2016,Vivanta by Taj - Guwahati,7999,5,32,"Nikita Complex Khanapara G S Road, Guwahati,",781022,"Luxury hotel in Guwahati with spa, outdoor pool",1,0,150,1
+Guwahati,957352,25,0,1,0,0,Jan 04 2017,Vivanta by Taj - Guwahati,7199,5,32,"Nikita Complex Khanapara G S Road, Guwahati,",781022,"Luxury hotel in Guwahati with spa, outdoor pool",1,0,150,1
+Guwahati,957352,25,0,1,1,0,Jan 08 2017,Vivanta by Taj - Guwahati,7599,5,32,"Nikita Complex Khanapara G S Road, Guwahati,",781022,"Luxury hotel in Guwahati with spa, outdoor pool",1,0,150,1

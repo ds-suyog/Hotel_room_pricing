@@ -1,0 +1,145 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Nainital,41377,42,0,1,1,0,Dec 18 2016,Alpine Club,3960,3,65,"Ayarpatta Hills, Near Aurbindo Ashram, Barapatthar, Nainital",263001,"3-star hotel in Nainital with restaurant, conference center",1,0,18,0
+Nainital,41377,42,0,1,0,0,Dec 21 2016,Alpine Club,3960,3,65,"Ayarpatta Hills, Near Aurbindo Ashram, Barapatthar, Nainital",263001,"3-star hotel in Nainital with restaurant, conference center",1,0,18,0
+Nainital,41377,42,0,1,1,0,Dec 24 2016,Alpine Club,4400,3,65,"Ayarpatta Hills, Near Aurbindo Ashram, Barapatthar, Nainital",263001,"3-star hotel in Nainital with restaurant, conference center",1,0,18,0
+Nainital,41377,42,0,1,1,0,Dec 25 2016,Alpine Club,4400,3,65,"Ayarpatta Hills, Near Aurbindo Ashram, Barapatthar, Nainital",263001,"3-star hotel in Nainital with restaurant, conference center",1,0,18,0
+Nainital,41377,42,0,1,0,0,Dec 28 2016,Alpine Club,4400,3,65,"Ayarpatta Hills, Near Aurbindo Ashram, Barapatthar, Nainital",263001,"3-star hotel in Nainital with restaurant, conference center",1,0,18,0
+Nainital,41377,42,0,1,1,1,Dec 31 2016,Alpine Club,4400,3,65,"Ayarpatta Hills, Near Aurbindo Ashram, Barapatthar, Nainital",263001,"3-star hotel in Nainital with restaurant, conference center",1,0,18,0
+Nainital,41377,42,0,1,0,0,Jan 04 2017,Alpine Club,3960,3,65,"Ayarpatta Hills, Near Aurbindo Ashram, Barapatthar, Nainital",263001,"3-star hotel in Nainital with restaurant, conference center",1,0,18,0
+Nainital,41377,42,0,1,1,0,Jan 08 2017,Alpine Club,3960,3,65,"Ayarpatta Hills, Near Aurbindo Ashram, Barapatthar, Nainital",263001,"3-star hotel in Nainital with restaurant, conference center",1,0,18,0
+Nainital,41377,42,0,1,1,0,Dec 18 2016,Club Mahindra Naukuchiatal,4250,3,65,"Village: Bohra Gaon Post, Naukuchiyatal, Uttarakhand",263136,"Mountain hotel in Naukuchiyatal with restaurant, bar/lounge",1,0,30,0
+Nainital,41377,42,0,1,0,0,Dec 21 2016,Club Mahindra Naukuchiatal,4250,3,65,"Village: Bohra Gaon Post, Naukuchiyatal, Uttarakhand",263136,"Mountain hotel in Naukuchiyatal with restaurant, bar/lounge",1,0,30,0
+Nainital,41377,42,0,1,1,0,Dec 24 2016,Club Mahindra Naukuchiatal,4999,3,65,"Village: Bohra Gaon Post, Naukuchiyatal, Uttarakhand",263136,"Mountain hotel in Naukuchiyatal with restaurant, bar/lounge",1,0,30,0
+Nainital,41377,42,0,1,1,0,Dec 25 2016,Club Mahindra Naukuchiatal,4999,3,65,"Village: Bohra Gaon Post, Naukuchiyatal, Uttarakhand",263136,"Mountain hotel in Naukuchiyatal with restaurant, bar/lounge",1,0,30,0
+Nainital,41377,42,0,1,0,0,Dec 28 2016,Club Mahindra Naukuchiatal,4999,3,65,"Village: Bohra Gaon Post, Naukuchiyatal, Uttarakhand",263136,"Mountain hotel in Naukuchiyatal with restaurant, bar/lounge",1,0,30,0
+Nainital,41377,42,0,1,1,1,Dec 31 2016,Club Mahindra Naukuchiatal,4999,3,65,"Village: Bohra Gaon Post, Naukuchiyatal, Uttarakhand",263136,"Mountain hotel in Naukuchiyatal with restaurant, bar/lounge",1,0,30,0
+Nainital,41377,42,0,1,0,0,Jan 04 2017,Club Mahindra Naukuchiatal,4999,3,65,"Village: Bohra Gaon Post, Naukuchiyatal, Uttarakhand",263136,"Mountain hotel in Naukuchiyatal with restaurant, bar/lounge",1,0,30,0
+Nainital,41377,42,0,1,1,0,Jan 08 2017,Club Mahindra Naukuchiatal,4999,3,65,"Village: Bohra Gaon Post, Naukuchiyatal, Uttarakhand",263136,"Mountain hotel in Naukuchiyatal with restaurant, bar/lounge",1,0,30,0
+Nainital,41377,42,0,1,1,0,Dec 18 2016,Hotel Arif Castles,6601,3.5,65,"Mallital, Nainital, Uttarakhand",263001,"3.5-star hotel in Nainital with spa, restaurant",0,1,66,0
+Nainital,41377,42,0,1,0,0,Dec 21 2016,Hotel Arif Castles,6601,3.5,65,"Mallital, Nainital, Uttarakhand",263001,"3.5-star hotel in Nainital with spa, restaurant",0,1,66,0
+Nainital,41377,42,0,1,1,0,Dec 24 2016,Hotel Arif Castles,7334,3.5,65,"Mallital, Nainital, Uttarakhand",263001,"3.5-star hotel in Nainital with spa, restaurant",0,1,66,0
+Nainital,41377,42,0,1,1,0,Dec 25 2016,Hotel Arif Castles,7334,3.5,65,"Mallital, Nainital, Uttarakhand",263001,"3.5-star hotel in Nainital with spa, restaurant",0,1,66,0
+Nainital,41377,42,0,1,0,0,Dec 28 2016,Hotel Arif Castles,7334,3.5,65,"Mallital, Nainital, Uttarakhand",263001,"3.5-star hotel in Nainital with spa, restaurant",0,1,66,0
+Nainital,41377,42,0,1,1,1,Dec 31 2016,Hotel Arif Castles,9500,3.5,65,"Mallital, Nainital, Uttarakhand",263001,"3.5-star hotel in Nainital with spa, restaurant",0,1,66,0
+Nainital,41377,42,0,1,0,0,Jan 04 2017,Hotel Arif Castles,7380,3.5,65,"Mallital, Nainital, Uttarakhand",263001,"3.5-star hotel in Nainital with spa, restaurant",0,1,66,0
+Nainital,41377,42,0,1,1,0,Jan 08 2017,Hotel Arif Castles,7380,3.5,65,"Mallital, Nainital, Uttarakhand",263001,"3.5-star hotel in Nainital with spa, restaurant",0,1,66,0
+Nainital,41377,42,0,1,1,0,Dec 18 2016,Le Roi,4050,3,65,"Jim Corbett National Park, Ladua Chaur, Ramnagar, Dhikuli, Uttarakhand",244715,"3-star hotel in Dhikuli with outdoor pool, restaurant",1,0,24,1
+Nainital,41377,42,0,1,0,0,Dec 21 2016,Le Roi,4050,3,65,"Jim Corbett National Park, Ladua Chaur, Ramnagar, Dhikuli, Uttarakhand",244715,"3-star hotel in Dhikuli with outdoor pool, restaurant",1,0,24,1
+Nainital,41377,42,0,1,1,0,Dec 24 2016,Le Roi,7000,3,65,"Jim Corbett National Park, Ladua Chaur, Ramnagar, Dhikuli, Uttarakhand",244715,"3-star hotel in Dhikuli with outdoor pool, restaurant",1,0,24,1
+Nainital,41377,42,0,1,1,0,Dec 25 2016,Le Roi,7000,3,65,"Jim Corbett National Park, Ladua Chaur, Ramnagar, Dhikuli, Uttarakhand",244715,"3-star hotel in Dhikuli with outdoor pool, restaurant",1,0,24,1
+Nainital,41377,42,0,1,0,0,Dec 28 2016,Le Roi,7000,3,65,"Jim Corbett National Park, Ladua Chaur, Ramnagar, Dhikuli, Uttarakhand",244715,"3-star hotel in Dhikuli with outdoor pool, restaurant",1,0,24,1
+Nainital,41377,42,0,1,1,1,Dec 31 2016,Le Roi,7000,3,65,"Jim Corbett National Park, Ladua Chaur, Ramnagar, Dhikuli, Uttarakhand",244715,"3-star hotel in Dhikuli with outdoor pool, restaurant",1,0,24,1
+Nainital,41377,42,0,1,0,0,Jan 04 2017,Le Roi,4050,3,65,"Jim Corbett National Park, Ladua Chaur, Ramnagar, Dhikuli, Uttarakhand",244715,"3-star hotel in Dhikuli with outdoor pool, restaurant",1,0,24,1
+Nainital,41377,42,0,1,1,0,Jan 08 2017,Le Roi,4050,3,65,"Jim Corbett National Park, Ladua Chaur, Ramnagar, Dhikuli, Uttarakhand",244715,"3-star hotel in Dhikuli with outdoor pool, restaurant",1,0,24,1
+Nainital,41377,42,0,1,1,0,Dec 18 2016,Mapple Hermitage Bhimtal,2970,3.5,65,"Mehragaon, Bhimtal Bhawali Road, Bhimtal, Uttarakhand",263136,"Mountain hotel in Bhimtal with indoor pool, restaurant",0,0,47,0
+Nainital,41377,42,0,1,0,0,Dec 21 2016,Mapple Hermitage Bhimtal,2970,3.5,65,"Mehragaon, Bhimtal Bhawali Road, Bhimtal, Uttarakhand",263136,"Mountain hotel in Bhimtal with indoor pool, restaurant",0,0,47,0
+Nainital,41377,42,0,1,1,0,Dec 24 2016,Mapple Hermitage Bhimtal,8000,3.5,65,"Mehragaon, Bhimtal Bhawali Road, Bhimtal, Uttarakhand",263136,"Mountain hotel in Bhimtal with indoor pool, restaurant",0,0,47,0
+Nainital,41377,42,0,1,1,0,Dec 25 2016,Mapple Hermitage Bhimtal,8000,3.5,65,"Mehragaon, Bhimtal Bhawali Road, Bhimtal, Uttarakhand",263136,"Mountain hotel in Bhimtal with indoor pool, restaurant",0,0,47,0
+Nainital,41377,42,0,1,0,0,Dec 28 2016,Mapple Hermitage Bhimtal,8000,3.5,65,"Mehragaon, Bhimtal Bhawali Road, Bhimtal, Uttarakhand",263136,"Mountain hotel in Bhimtal with indoor pool, restaurant",0,0,47,0
+Nainital,41377,42,0,1,1,1,Dec 31 2016,Mapple Hermitage Bhimtal,8000,3.5,65,"Mehragaon, Bhimtal Bhawali Road, Bhimtal, Uttarakhand",263136,"Mountain hotel in Bhimtal with indoor pool, restaurant",0,0,47,0
+Nainital,41377,42,0,1,0,0,Jan 04 2017,Mapple Hermitage Bhimtal,4500,3.5,65,"Mehragaon, Bhimtal Bhawali Road, Bhimtal, Uttarakhand",263136,"Mountain hotel in Bhimtal with indoor pool, restaurant",0,0,47,0
+Nainital,41377,42,0,1,1,0,Jan 08 2017,Mapple Hermitage Bhimtal,4500,3.5,65,"Mehragaon, Bhimtal Bhawali Road, Bhimtal, Uttarakhand",263136,"Mountain hotel in Bhimtal with indoor pool, restaurant",0,0,47,0
+Nainital,41377,42,0,1,1,0,Dec 18 2016,Nainital Bhawanipur Greens A Sterling Holidays Resort,3399,3,65,"Bhawanipur Greens, Bhawanipur - Village, Jhokia, Bhowali Road, Nainital, Uttarakhand",263001,"3-star hotel in Nainital with restaurant, children's club",1,1,49,0
+Nainital,41377,42,0,1,0,0,Dec 21 2016,Nainital Bhawanipur Greens A Sterling Holidays Resort,3399,3,65,"Bhawanipur Greens, Bhawanipur - Village, Jhokia, Bhowali Road, Nainital, Uttarakhand",263001,"3-star hotel in Nainital with restaurant, children's club",1,1,49,0
+Nainital,41377,42,0,1,1,0,Dec 24 2016,Nainital Bhawanipur Greens A Sterling Holidays Resort,7199,3,65,"Bhawanipur Greens, Bhawanipur - Village, Jhokia, Bhowali Road, Nainital, Uttarakhand",263001,"3-star hotel in Nainital with restaurant, children's club",1,1,49,0
+Nainital,41377,42,0,1,1,0,Dec 25 2016,Nainital Bhawanipur Greens A Sterling Holidays Resort,7199,3,65,"Bhawanipur Greens, Bhawanipur - Village, Jhokia, Bhowali Road, Nainital, Uttarakhand",263001,"3-star hotel in Nainital with restaurant, children's club",1,1,49,0
+Nainital,41377,42,0,1,0,0,Dec 28 2016,Nainital Bhawanipur Greens A Sterling Holidays Resort,8550,3,65,"Bhawanipur Greens, Bhawanipur - Village, Jhokia, Bhowali Road, Nainital, Uttarakhand",263001,"3-star hotel in Nainital with restaurant, children's club",1,1,49,0
+Nainital,41377,42,0,1,1,1,Dec 31 2016,Nainital Bhawanipur Greens A Sterling Holidays Resort,8550,3,65,"Bhawanipur Greens, Bhawanipur - Village, Jhokia, Bhowali Road, Nainital, Uttarakhand",263001,"3-star hotel in Nainital with restaurant, children's club",1,1,49,0
+Nainital,41377,42,0,1,0,0,Jan 04 2017,Nainital Bhawanipur Greens A Sterling Holidays Resort,8550,3,65,"Bhawanipur Greens, Bhawanipur - Village, Jhokia, Bhowali Road, Nainital, Uttarakhand",263001,"3-star hotel in Nainital with restaurant, children's club",1,1,49,0
+Nainital,41377,42,0,1,1,0,Jan 08 2017,Nainital Bhawanipur Greens A Sterling Holidays Resort,8550,3,65,"Bhawanipur Greens, Bhawanipur - Village, Jhokia, Bhowali Road, Nainital, Uttarakhand",263001,"3-star hotel in Nainital with restaurant, children's club",1,1,49,0
+Nainital,41377,42,0,1,1,0,Dec 18 2016,OYO Premium Nainital Mall Road 2,2810,3,65,"Mall Road, Mallital, Nainital",263001,3-star hotel in Nainital,1,1,15,0
+Nainital,41377,42,0,1,0,0,Dec 21 2016,OYO Premium Nainital Mall Road 2,2810,3,65,"Mall Road, Mallital, Nainital",263001,3-star hotel in Nainital,1,1,15,0
+Nainital,41377,42,0,1,1,0,Dec 24 2016,OYO Premium Nainital Mall Road 2,3661,3,65,"Mall Road, Mallital, Nainital",263001,3-star hotel in Nainital,1,1,15,0
+Nainital,41377,42,0,1,1,0,Dec 25 2016,OYO Premium Nainital Mall Road 2,3661,3,65,"Mall Road, Mallital, Nainital",263001,3-star hotel in Nainital,1,1,15,0
+Nainital,41377,42,0,1,0,0,Dec 28 2016,OYO Premium Nainital Mall Road 2,3661,3,65,"Mall Road, Mallital, Nainital",263001,3-star hotel in Nainital,1,1,15,0
+Nainital,41377,42,0,1,1,1,Dec 31 2016,OYO Premium Nainital Mall Road 2,3661,3,65,"Mall Road, Mallital, Nainital",263001,3-star hotel in Nainital,1,1,15,0
+Nainital,41377,42,0,1,0,0,Jan 04 2017,OYO Premium Nainital Mall Road 2,3661,3,65,"Mall Road, Mallital, Nainital",263001,3-star hotel in Nainital,1,1,15,0
+Nainital,41377,42,0,1,1,0,Jan 08 2017,OYO Premium Nainital Mall Road 2,3661,3,65,"Mall Road, Mallital, Nainital",263001,3-star hotel in Nainital,1,1,15,0
+Nainital,41377,42,0,1,1,0,Dec 18 2016,OYO Premium Near Zoo Nainital,3789,3,65,"Zoo Road, Tallital, Nainital",263001,Nainital hotel next to shopping,1,1,15,0
+Nainital,41377,42,0,1,0,0,Dec 21 2016,OYO Premium Near Zoo Nainital,3789,3,65,"Zoo Road, Tallital, Nainital",263001,Nainital hotel next to shopping,1,1,15,0
+Nainital,41377,42,0,1,1,0,Dec 24 2016,OYO Premium Near Zoo Nainital,4087,3,65,"Zoo Road, Tallital, Nainital",263001,Nainital hotel next to shopping,1,1,15,0
+Nainital,41377,42,0,1,1,0,Dec 25 2016,OYO Premium Near Zoo Nainital,4087,3,65,"Zoo Road, Tallital, Nainital",263001,Nainital hotel next to shopping,1,1,15,0
+Nainital,41377,42,0,1,0,0,Dec 28 2016,OYO Premium Near Zoo Nainital,4462,3,65,"Zoo Road, Tallital, Nainital",263001,Nainital hotel next to shopping,1,1,15,0
+Nainital,41377,42,0,1,1,1,Dec 31 2016,OYO Premium Near Zoo Nainital,4087,3,65,"Zoo Road, Tallital, Nainital",263001,Nainital hotel next to shopping,1,1,15,0
+Nainital,41377,42,0,1,0,0,Jan 04 2017,OYO Premium Near Zoo Nainital,4462,3,65,"Zoo Road, Tallital, Nainital",263001,Nainital hotel next to shopping,1,1,15,0
+Nainital,41377,42,0,1,1,0,Jan 08 2017,OYO Premium Near Zoo Nainital,4462,3,65,"Zoo Road, Tallital, Nainital",263001,Nainital hotel next to shopping,1,1,15,0
+Nainital,41377,42,0,1,1,0,Dec 18 2016,Paatlidun Safari Lodge,12285,5,65,"Corbett, Distt. Nanital, Bakrakot, Uttarakhand",244715,"5-star hotel in Bakrakot with indoor pool, restaurant",1,0,12,1
+Nainital,41377,42,0,1,0,0,Dec 21 2016,Paatlidun Safari Lodge,12285,5,65,"Corbett, Distt. Nanital, Bakrakot, Uttarakhand",244715,"5-star hotel in Bakrakot with indoor pool, restaurant",1,0,12,1
+Nainital,41377,42,0,1,1,0,Dec 24 2016,Paatlidun Safari Lodge,15750,5,65,"Corbett, Distt. Nanital, Bakrakot, Uttarakhand",244715,"5-star hotel in Bakrakot with indoor pool, restaurant",1,0,12,1
+Nainital,41377,42,0,1,1,0,Dec 25 2016,Paatlidun Safari Lodge,15750,5,65,"Corbett, Distt. Nanital, Bakrakot, Uttarakhand",244715,"5-star hotel in Bakrakot with indoor pool, restaurant",1,0,12,1
+Nainital,41377,42,0,1,0,0,Dec 28 2016,Paatlidun Safari Lodge,15750,5,65,"Corbett, Distt. Nanital, Bakrakot, Uttarakhand",244715,"5-star hotel in Bakrakot with indoor pool, restaurant",1,0,12,1
+Nainital,41377,42,0,1,1,1,Dec 31 2016,Paatlidun Safari Lodge,15750,5,65,"Corbett, Distt. Nanital, Bakrakot, Uttarakhand",244715,"5-star hotel in Bakrakot with indoor pool, restaurant",1,0,12,1
+Nainital,41377,42,0,1,0,0,Jan 04 2017,Paatlidun Safari Lodge,10800,5,65,"Corbett, Distt. Nanital, Bakrakot, Uttarakhand",244715,"5-star hotel in Bakrakot with indoor pool, restaurant",1,0,12,1
+Nainital,41377,42,0,1,1,0,Jan 08 2017,Paatlidun Safari Lodge,10800,5,65,"Corbett, Distt. Nanital, Bakrakot, Uttarakhand",244715,"5-star hotel in Bakrakot with indoor pool, restaurant",1,0,12,1
+Nainital,41377,42,0,1,1,0,Dec 18 2016,Parfait The Roar Resort,4250,3.5,65,"Sawaldey, Dhela",244715,3.5-star Nainital hotel with restaurant,1,0,20,0
+Nainital,41377,42,0,1,0,0,Dec 21 2016,Parfait The Roar Resort,4250,3.5,65,"Sawaldey, Dhela",244715,3.5-star Nainital hotel with restaurant,1,0,20,0
+Nainital,41377,42,0,1,1,0,Dec 24 2016,Parfait The Roar Resort,6000,3.5,65,"Sawaldey, Dhela",244715,3.5-star Nainital hotel with restaurant,1,0,20,0
+Nainital,41377,42,0,1,1,0,Dec 25 2016,Parfait The Roar Resort,6000,3.5,65,"Sawaldey, Dhela",244715,3.5-star Nainital hotel with restaurant,1,0,20,0
+Nainital,41377,42,0,1,0,0,Dec 28 2016,Parfait The Roar Resort,6000,3.5,65,"Sawaldey, Dhela",244715,3.5-star Nainital hotel with restaurant,1,0,20,0
+Nainital,41377,42,0,1,1,1,Dec 31 2016,Parfait The Roar Resort,6000,3.5,65,"Sawaldey, Dhela",244715,3.5-star Nainital hotel with restaurant,1,0,20,0
+Nainital,41377,42,0,1,0,0,Jan 04 2017,Parfait The Roar Resort,5000,3.5,65,"Sawaldey, Dhela",244715,3.5-star Nainital hotel with restaurant,1,0,20,0
+Nainital,41377,42,0,1,1,0,Jan 08 2017,Parfait The Roar Resort,5000,3.5,65,"Sawaldey, Dhela",244715,3.5-star Nainital hotel with restaurant,1,0,20,0
+Nainital,41377,42,0,1,1,0,Dec 18 2016,Shervani Hilltop Nainital,6075,3.5,65,"Mallital, Nainital, Uttarakhand,",263001,"Mountain hotel in Nainital with restaurant, bar/lounge",1,1,46,0
+Nainital,41377,42,0,1,0,0,Dec 21 2016,Shervani Hilltop Nainital,6075,3.5,65,"Mallital, Nainital, Uttarakhand,",263001,"Mountain hotel in Nainital with restaurant, bar/lounge",1,1,46,0
+Nainital,41377,42,0,1,1,0,Dec 24 2016,Shervani Hilltop Nainital,11850,3.5,65,"Mallital, Nainital, Uttarakhand,",263001,"Mountain hotel in Nainital with restaurant, bar/lounge",1,1,46,0
+Nainital,41377,42,0,1,1,0,Dec 25 2016,Shervani Hilltop Nainital,11250,3.5,65,"Mallital, Nainital, Uttarakhand,",263001,"Mountain hotel in Nainital with restaurant, bar/lounge",1,1,46,0
+Nainital,41377,42,0,1,0,0,Dec 28 2016,Shervani Hilltop Nainital,9315,3.5,65,"Mallital, Nainital, Uttarakhand,",263001,"Mountain hotel in Nainital with restaurant, bar/lounge",1,1,46,0
+Nainital,41377,42,0,1,1,1,Dec 31 2016,Shervani Hilltop Nainital,11850,3.5,65,"Mallital, Nainital, Uttarakhand,",263001,"Mountain hotel in Nainital with restaurant, bar/lounge",1,1,46,0
+Nainital,41377,42,0,1,0,0,Jan 04 2017,Shervani Hilltop Nainital,9315,3.5,65,"Mallital, Nainital, Uttarakhand,",263001,"Mountain hotel in Nainital with restaurant, bar/lounge",1,1,46,0
+Nainital,41377,42,0,1,1,0,Jan 08 2017,Shervani Hilltop Nainital,9315,3.5,65,"Mallital, Nainital, Uttarakhand,",263001,"Mountain hotel in Nainital with restaurant, bar/lounge",1,1,46,0
+Nainital,41377,42,0,1,1,0,Dec 18 2016,Swiss Cottage,2478,3,65,"Swiss Hotel Compound, Mallital, Nainital, Haldwani",263001,3-star Nainital hotel with restaurant,1,1,6,0
+Nainital,41377,42,0,1,0,0,Dec 21 2016,Swiss Cottage,2478,3,65,"Swiss Hotel Compound, Mallital, Nainital, Haldwani",263001,3-star Nainital hotel with restaurant,1,1,6,0
+Nainital,41377,42,0,1,1,0,Dec 24 2016,Swiss Cottage,3982,3,65,"Swiss Hotel Compound, Mallital, Nainital, Haldwani",263001,3-star Nainital hotel with restaurant,1,1,6,0
+Nainital,41377,42,0,1,1,0,Dec 25 2016,Swiss Cottage,3982,3,65,"Swiss Hotel Compound, Mallital, Nainital, Haldwani",263001,3-star Nainital hotel with restaurant,1,1,6,0
+Nainital,41377,42,0,1,0,0,Dec 28 2016,Swiss Cottage,3982,3,65,"Swiss Hotel Compound, Mallital, Nainital, Haldwani",263001,3-star Nainital hotel with restaurant,1,1,6,0
+Nainital,41377,42,0,1,1,1,Dec 31 2016,Swiss Cottage,3982,3,65,"Swiss Hotel Compound, Mallital, Nainital, Haldwani",263001,3-star Nainital hotel with restaurant,1,1,6,0
+Nainital,41377,42,0,1,0,0,Jan 04 2017,Swiss Cottage,2832,3,65,"Swiss Hotel Compound, Mallital, Nainital, Haldwani",263001,3-star Nainital hotel with restaurant,1,1,6,0
+Nainital,41377,42,0,1,1,0,Jan 08 2017,Swiss Cottage,2832,3,65,"Swiss Hotel Compound, Mallital, Nainital, Haldwani",263001,3-star Nainital hotel with restaurant,1,1,6,0
+Nainital,41377,42,0,1,1,0,Dec 18 2016,THE FERN HILLSIDE RESORT BHIMTAL,3599,3.5,65,"69 June Estate, Nainital District, Bhimtal, Uttarakhand,",263136,3.5-star Bhimtal hotel with restaurant,1,1,21,0
+Nainital,41377,42,0,1,0,0,Dec 21 2016,THE FERN HILLSIDE RESORT BHIMTAL,3599,3.5,65,"69 June Estate, Nainital District, Bhimtal, Uttarakhand,",263136,3.5-star Bhimtal hotel with restaurant,1,1,21,0
+Nainital,41377,42,0,1,1,0,Dec 24 2016,THE FERN HILLSIDE RESORT BHIMTAL,5499,3.5,65,"69 June Estate, Nainital District, Bhimtal, Uttarakhand,",263136,3.5-star Bhimtal hotel with restaurant,1,1,21,0
+Nainital,41377,42,0,1,1,0,Dec 25 2016,THE FERN HILLSIDE RESORT BHIMTAL,5499,3.5,65,"69 June Estate, Nainital District, Bhimtal, Uttarakhand,",263136,3.5-star Bhimtal hotel with restaurant,1,1,21,0
+Nainital,41377,42,0,1,0,0,Dec 28 2016,THE FERN HILLSIDE RESORT BHIMTAL,3519,3.5,65,"69 June Estate, Nainital District, Bhimtal, Uttarakhand,",263136,3.5-star Bhimtal hotel with restaurant,1,1,21,0
+Nainital,41377,42,0,1,1,1,Dec 31 2016,THE FERN HILLSIDE RESORT BHIMTAL,7999,3.5,65,"69 June Estate, Nainital District, Bhimtal, Uttarakhand,",263136,3.5-star Bhimtal hotel with restaurant,1,1,21,0
+Nainital,41377,42,0,1,0,0,Jan 04 2017,THE FERN HILLSIDE RESORT BHIMTAL,3519,3.5,65,"69 June Estate, Nainital District, Bhimtal, Uttarakhand,",263136,3.5-star Bhimtal hotel with restaurant,1,1,21,0
+Nainital,41377,42,0,1,1,0,Jan 08 2017,THE FERN HILLSIDE RESORT BHIMTAL,3519,3.5,65,"69 June Estate, Nainital District, Bhimtal, Uttarakhand,",263136,3.5-star Bhimtal hotel with restaurant,1,1,21,0
+Nainital,41377,42,0,1,1,0,Dec 18 2016,The Gateway Resort Corbett National Park,11000,4.5,65,"Zero Garjia Dhikuli, Dhikuli, Uttarakhand,",244715,"Luxury hotel in Dhikuli with 2 restaurants, spa",1,0,61,1
+Nainital,41377,42,0,1,0,0,Dec 21 2016,The Gateway Resort Corbett National Park,11000,4.5,65,"Zero Garjia Dhikuli, Dhikuli, Uttarakhand,",244715,"Luxury hotel in Dhikuli with 2 restaurants, spa",1,0,61,1
+Nainital,41377,42,0,1,1,0,Dec 24 2016,The Gateway Resort Corbett National Park,16750,4.5,65,"Zero Garjia Dhikuli, Dhikuli, Uttarakhand,",244715,"Luxury hotel in Dhikuli with 2 restaurants, spa",1,0,61,1
+Nainital,41377,42,0,1,1,0,Dec 25 2016,The Gateway Resort Corbett National Park,16750,4.5,65,"Zero Garjia Dhikuli, Dhikuli, Uttarakhand,",244715,"Luxury hotel in Dhikuli with 2 restaurants, spa",1,0,61,1
+Nainital,41377,42,0,1,0,0,Dec 28 2016,The Gateway Resort Corbett National Park,12600,4.5,65,"Zero Garjia Dhikuli, Dhikuli, Uttarakhand,",244715,"Luxury hotel in Dhikuli with 2 restaurants, spa",1,0,61,1
+Nainital,41377,42,0,1,1,1,Dec 31 2016,The Gateway Resort Corbett National Park,16750,4.5,65,"Zero Garjia Dhikuli, Dhikuli, Uttarakhand,",244715,"Luxury hotel in Dhikuli with 2 restaurants, spa",1,0,61,1
+Nainital,41377,42,0,1,0,0,Jan 04 2017,The Gateway Resort Corbett National Park,10350,4.5,65,"Zero Garjia Dhikuli, Dhikuli, Uttarakhand,",244715,"Luxury hotel in Dhikuli with 2 restaurants, spa",1,0,61,1
+Nainital,41377,42,0,1,1,0,Jan 08 2017,The Gateway Resort Corbett National Park,10350,4.5,65,"Zero Garjia Dhikuli, Dhikuli, Uttarakhand,",244715,"Luxury hotel in Dhikuli with 2 restaurants, spa",1,0,61,1
+Nainital,41377,42,0,1,1,0,Dec 18 2016,The Manu Maharani,7500,4,65,"The Grassmere Estate, Malital, Nainital, Uttarakhand",263001,"4-star hotel in Nainital with spa, restaurant",1,1,67,0
+Nainital,41377,42,0,1,0,0,Dec 21 2016,The Manu Maharani,7500,4,65,"The Grassmere Estate, Malital, Nainital, Uttarakhand",263001,"4-star hotel in Nainital with spa, restaurant",1,1,67,0
+Nainital,41377,42,0,1,1,0,Dec 24 2016,The Manu Maharani,8500,4,65,"The Grassmere Estate, Malital, Nainital, Uttarakhand",263001,"4-star hotel in Nainital with spa, restaurant",1,1,67,0
+Nainital,41377,42,0,1,1,0,Dec 25 2016,The Manu Maharani,8500,4,65,"The Grassmere Estate, Malital, Nainital, Uttarakhand",263001,"4-star hotel in Nainital with spa, restaurant",1,1,67,0
+Nainital,41377,42,0,1,0,0,Dec 28 2016,The Manu Maharani,8500,4,65,"The Grassmere Estate, Malital, Nainital, Uttarakhand",263001,"4-star hotel in Nainital with spa, restaurant",1,1,67,0
+Nainital,41377,42,0,1,1,1,Dec 31 2016,The Manu Maharani,9000,4,65,"The Grassmere Estate, Malital, Nainital, Uttarakhand",263001,"4-star hotel in Nainital with spa, restaurant",1,1,67,0
+Nainital,41377,42,0,1,0,0,Jan 04 2017,The Manu Maharani,9000,4,65,"The Grassmere Estate, Malital, Nainital, Uttarakhand",263001,"4-star hotel in Nainital with spa, restaurant",1,1,67,0
+Nainital,41377,42,0,1,1,0,Jan 08 2017,The Manu Maharani,9000,4,65,"The Grassmere Estate, Malital, Nainital, Uttarakhand",263001,"4-star hotel in Nainital with spa, restaurant",1,1,67,0
+Nainital,41377,42,0,1,1,0,Dec 18 2016,Treebo Cloud 7,2609,3,65,"Hotel Cloud 7, Opposite Allahabad Bank, Near Bada Bazar, Mall Road, Nainital",263001,3-star hotel in Nainital,1,1,15,0
+Nainital,41377,42,0,1,0,0,Dec 21 2016,Treebo Cloud 7,2609,3,65,"Hotel Cloud 7, Opposite Allahabad Bank, Near Bada Bazar, Mall Road, Nainital",263001,3-star hotel in Nainital,1,1,15,0
+Nainital,41377,42,0,1,1,0,Dec 24 2016,Treebo Cloud 7,4134,3,65,"Hotel Cloud 7, Opposite Allahabad Bank, Near Bada Bazar, Mall Road, Nainital",263001,3-star hotel in Nainital,1,1,15,0
+Nainital,41377,42,0,1,1,0,Dec 25 2016,Treebo Cloud 7,4134,3,65,"Hotel Cloud 7, Opposite Allahabad Bank, Near Bada Bazar, Mall Road, Nainital",263001,3-star hotel in Nainital,1,1,15,0
+Nainital,41377,42,0,1,0,0,Dec 28 2016,Treebo Cloud 7,4285,3,65,"Hotel Cloud 7, Opposite Allahabad Bank, Near Bada Bazar, Mall Road, Nainital",263001,3-star hotel in Nainital,1,1,15,0
+Nainital,41377,42,0,1,1,1,Dec 31 2016,Treebo Cloud 7,4285,3,65,"Hotel Cloud 7, Opposite Allahabad Bank, Near Bada Bazar, Mall Road, Nainital",263001,3-star hotel in Nainital,1,1,15,0
+Nainital,41377,42,0,1,0,0,Jan 04 2017,Treebo Cloud 7,4285,3,65,"Hotel Cloud 7, Opposite Allahabad Bank, Near Bada Bazar, Mall Road, Nainital",263001,3-star hotel in Nainital,1,1,15,0
+Nainital,41377,42,0,1,1,0,Jan 08 2017,Treebo Cloud 7,4285,3,65,"Hotel Cloud 7, Opposite Allahabad Bank, Near Bada Bazar, Mall Road, Nainital",263001,3-star hotel in Nainital,1,1,15,0
+Nainital,41377,42,0,1,1,0,Dec 18 2016,V Resorts Ramgarh Cottage,3870,3,65,"Malla Ramgarh, Ramgarh, Uttarakhand,",263137,3-star hotel in Gagar,0,1,4,0
+Nainital,41377,42,0,1,0,0,Dec 21 2016,V Resorts Ramgarh Cottage,3870,3,65,"Malla Ramgarh, Ramgarh, Uttarakhand,",263137,3-star hotel in Gagar,0,1,4,0
+Nainital,41377,42,0,1,1,0,Dec 24 2016,V Resorts Ramgarh Cottage,4300,3,65,"Malla Ramgarh, Ramgarh, Uttarakhand,",263137,3-star hotel in Gagar,0,1,4,0
+Nainital,41377,42,0,1,1,0,Dec 25 2016,V Resorts Ramgarh Cottage,4300,3,65,"Malla Ramgarh, Ramgarh, Uttarakhand,",263137,3-star hotel in Gagar,0,1,4,0
+Nainital,41377,42,0,1,0,0,Dec 28 2016,V Resorts Ramgarh Cottage,4300,3,65,"Malla Ramgarh, Ramgarh, Uttarakhand,",263137,3-star hotel in Gagar,0,1,4,0
+Nainital,41377,42,0,1,1,1,Dec 31 2016,V Resorts Ramgarh Cottage,4300,3,65,"Malla Ramgarh, Ramgarh, Uttarakhand,",263137,3-star hotel in Gagar,0,1,4,0
+Nainital,41377,42,0,1,0,0,Jan 04 2017,V Resorts Ramgarh Cottage,3870,3,65,"Malla Ramgarh, Ramgarh, Uttarakhand,",263137,3-star hotel in Gagar,0,1,4,0
+Nainital,41377,42,0,1,1,0,Jan 08 2017,V Resorts Ramgarh Cottage,3870,3,65,"Malla Ramgarh, Ramgarh, Uttarakhand,",263137,3-star hotel in Gagar,0,1,4,0
+Nainital,41377,42,0,1,1,0,Dec 18 2016,Vikram Vintage Inn,4050,3.5,65,"Mallital, Nainital, Uttarakhand",263001,3.5-star Nainital inn with restaurant,0,0,30,0
+Nainital,41377,42,0,1,0,0,Dec 21 2016,Vikram Vintage Inn,4050,3.5,65,"Mallital, Nainital, Uttarakhand",263001,3.5-star Nainital inn with restaurant,0,0,30,0
+Nainital,41377,42,0,1,1,0,Dec 24 2016,Vikram Vintage Inn,8625,3.5,65,"Mallital, Nainital, Uttarakhand",263001,3.5-star Nainital inn with restaurant,0,0,30,0
+Nainital,41377,42,0,1,1,0,Dec 25 2016,Vikram Vintage Inn,8625,3.5,65,"Mallital, Nainital, Uttarakhand",263001,3.5-star Nainital inn with restaurant,0,0,30,0
+Nainital,41377,42,0,1,0,0,Dec 28 2016,Vikram Vintage Inn,8250,3.5,65,"Mallital, Nainital, Uttarakhand",263001,3.5-star Nainital inn with restaurant,0,0,30,0
+Nainital,41377,42,0,1,1,1,Dec 31 2016,Vikram Vintage Inn,13500,3.5,65,"Mallital, Nainital, Uttarakhand",263001,3.5-star Nainital inn with restaurant,0,0,30,0
+Nainital,41377,42,0,1,0,0,Jan 04 2017,Vikram Vintage Inn,5400,3.5,65,"Mallital, Nainital, Uttarakhand",263001,3.5-star Nainital inn with restaurant,0,0,30,0
+Nainital,41377,42,0,1,1,0,Jan 08 2017,Vikram Vintage Inn,5400,3.5,65,"Mallital, Nainital, Uttarakhand",263001,3.5-star Nainital inn with restaurant,0,0,30,0

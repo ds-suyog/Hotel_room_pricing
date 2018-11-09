@@ -1,0 +1,105 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Mangalore,499487,29,0,0,1,0,Dec 18 2016,Ginger Mangalore,2463,3,8.2,"Kottara Chowki Junction, Mangalore, Karnataka",575006,3-star Mangalore hotel with restaurant,1,0,79,0
+Mangalore,499487,29,0,0,1,0,Dec 21 2016,Ginger Mangalore,2463,3,8.2,"Kottara Chowki Junction, Mangalore, Karnataka",575006,3-star Mangalore hotel with restaurant,1,0,79,0
+Mangalore,499487,29,0,0,1,0,Dec 24 2016,Ginger Mangalore,4299,3,8.2,"Kottara Chowki Junction, Mangalore, Karnataka",575006,3-star Mangalore hotel with restaurant,1,0,79,0
+Mangalore,499487,29,0,0,1,0,Dec 25 2016,Ginger Mangalore,4299,3,8.2,"Kottara Chowki Junction, Mangalore, Karnataka",575006,3-star Mangalore hotel with restaurant,1,0,79,0
+Mangalore,499487,29,0,0,1,0,Dec 28 2016,Ginger Mangalore,4299,3,8.2,"Kottara Chowki Junction, Mangalore, Karnataka",575006,3-star Mangalore hotel with restaurant,1,0,79,0
+Mangalore,499487,29,0,0,1,1,Dec 31 2016,Ginger Mangalore,4299,3,8.2,"Kottara Chowki Junction, Mangalore, Karnataka",575006,3-star Mangalore hotel with restaurant,1,0,79,0
+Mangalore,499487,29,0,0,1,0,Jan 04 2017,Ginger Mangalore,2463,3,8.2,"Kottara Chowki Junction, Mangalore, Karnataka",575006,3-star Mangalore hotel with restaurant,1,0,79,0
+Mangalore,499487,29,0,0,1,0,Jan 08 2017,Ginger Mangalore,2463,3,8.2,"Kottara Chowki Junction, Mangalore, Karnataka",575006,3-star Mangalore hotel with restaurant,1,0,79,0
+Mangalore,499487,29,0,0,1,0,Dec 18 2016,Goldfinch Hotel,4674,3.5,11,"Near Jyoti Circle, Bunts Hostel Road, Mangalore, Karnataka, 575003 India",575003,"3.5-star hotel in Mangalore with bar/lounge, conference center",1,1,56,0
+Mangalore,499487,29,0,0,0,0,Dec 21 2016,Goldfinch Hotel,4249,3.5,11,"Near Jyoti Circle, Bunts Hostel Road, Mangalore, Karnataka, 575003 India",575003,"3.5-star hotel in Mangalore with bar/lounge, conference center",1,1,56,0
+Mangalore,499487,29,0,0,1,0,Dec 24 2016,Goldfinch Hotel,7224,3.5,11,"Near Jyoti Circle, Bunts Hostel Road, Mangalore, Karnataka, 575003 India",575003,"3.5-star hotel in Mangalore with bar/lounge, conference center",1,1,56,0
+Mangalore,499487,29,0,0,1,0,Dec 25 2016,Goldfinch Hotel,7224,3.5,11,"Near Jyoti Circle, Bunts Hostel Road, Mangalore, Karnataka, 575003 India",575003,"3.5-star hotel in Mangalore with bar/lounge, conference center",1,1,56,0
+Mangalore,499487,29,0,0,0,0,Dec 28 2016,Goldfinch Hotel,5354,3.5,11,"Near Jyoti Circle, Bunts Hostel Road, Mangalore, Karnataka, 575003 India",575003,"3.5-star hotel in Mangalore with bar/lounge, conference center",1,1,56,0
+Mangalore,499487,29,0,0,1,1,Dec 31 2016,Goldfinch Hotel,6204,3.5,11,"Near Jyoti Circle, Bunts Hostel Road, Mangalore, Karnataka, 575003 India",575003,"3.5-star hotel in Mangalore with bar/lounge, conference center",1,1,56,0
+Mangalore,499487,29,0,0,0,0,Jan 04 2017,Goldfinch Hotel,6204,3.5,11,"Near Jyoti Circle, Bunts Hostel Road, Mangalore, Karnataka, 575003 India",575003,"3.5-star hotel in Mangalore with bar/lounge, conference center",1,1,56,0
+Mangalore,499487,29,0,0,1,0,Jan 08 2017,Goldfinch Hotel,6204,3.5,11,"Near Jyoti Circle, Bunts Hostel Road, Mangalore, Karnataka, 575003 India",575003,"3.5-star hotel in Mangalore with bar/lounge, conference center",1,1,56,0
+Mangalore,499487,29,0,0,1,0,Dec 18 2016,Goldfinch Hotel,4249,4,11,"Near Jyoti Circle, Bunts Hostel Road, Mangalore",575003,"3.5-star hotel in Mangalore with bar/lounge, conference center",1,1,56,0
+Mangalore,499487,29,0,0,0,0,Dec 21 2016,Goldfinch Hotel,4249,4,11,"Near Jyoti Circle, Bunts Hostel Road, Mangalore",575003,"3.5-star hotel in Mangalore with bar/lounge, conference center",1,1,56,0
+Mangalore,499487,29,0,0,1,0,Dec 24 2016,Goldfinch Hotel,4249,4,11,"Near Jyoti Circle, Bunts Hostel Road, Mangalore",575003,"3.5-star hotel in Mangalore with bar/lounge, conference center",1,1,56,0
+Mangalore,499487,29,0,0,1,0,Dec 25 2016,Goldfinch Hotel,4249,4,11,"Near Jyoti Circle, Bunts Hostel Road, Mangalore",575003,"3.5-star hotel in Mangalore with bar/lounge, conference center",1,1,56,0
+Mangalore,499487,29,0,0,0,0,Dec 28 2016,Goldfinch Hotel,4929,4,11,"Near Jyoti Circle, Bunts Hostel Road, Mangalore",575003,"3.5-star hotel in Mangalore with bar/lounge, conference center",1,1,56,0
+Mangalore,499487,29,0,0,1,1,Dec 31 2016,Goldfinch Hotel,5779,4,11,"Near Jyoti Circle, Bunts Hostel Road, Mangalore",575003,"3.5-star hotel in Mangalore with bar/lounge, conference center",1,1,56,0
+Mangalore,499487,29,0,0,0,0,Jan 04 2017,Goldfinch Hotel,4929,4,11,"Near Jyoti Circle, Bunts Hostel Road, Mangalore",575003,"3.5-star hotel in Mangalore with bar/lounge, conference center",1,1,56,0
+Mangalore,499487,29,0,0,1,0,Jan 08 2017,Goldfinch Hotel,5354,4,11,"Near Jyoti Circle, Bunts Hostel Road, Mangalore",575003,"3.5-star hotel in Mangalore with bar/lounge, conference center",1,1,56,0
+Mangalore,499487,29,0,0,1,0,Dec 18 2016,Hotel Moti Mahal,3220,4,11,"Falnir Road, Mangalore",575001,"3.5-star hotel in Mangalore with 3 restaurants, outdoor pool",1,1,112,1
+Mangalore,499487,29,0,0,0,0,Dec 21 2016,Hotel Moti Mahal,5750,4,11,"Falnir Road, Mangalore",575001,"3.5-star hotel in Mangalore with 3 restaurants, outdoor pool",1,1,112,1
+Mangalore,499487,29,0,0,1,0,Dec 24 2016,Hotel Moti Mahal,3220,4,11,"Falnir Road, Mangalore",575001,"3.5-star hotel in Mangalore with 3 restaurants, outdoor pool",1,1,112,1
+Mangalore,499487,29,0,0,1,0,Dec 25 2016,Hotel Moti Mahal,3220,4,11,"Falnir Road, Mangalore",575001,"3.5-star hotel in Mangalore with 3 restaurants, outdoor pool",1,1,112,1
+Mangalore,499487,29,0,0,0,0,Dec 28 2016,Hotel Moti Mahal,5750,4,11,"Falnir Road, Mangalore",575001,"3.5-star hotel in Mangalore with 3 restaurants, outdoor pool",1,1,112,1
+Mangalore,499487,29,0,0,1,1,Dec 31 2016,Hotel Moti Mahal,5750,4,11,"Falnir Road, Mangalore",575001,"3.5-star hotel in Mangalore with 3 restaurants, outdoor pool",1,1,112,1
+Mangalore,499487,29,0,0,0,0,Jan 04 2017,Hotel Moti Mahal,5750,4,11,"Falnir Road, Mangalore",575001,"3.5-star hotel in Mangalore with 3 restaurants, outdoor pool",1,1,112,1
+Mangalore,499487,29,0,0,1,0,Jan 08 2017,Hotel Moti Mahal,5750,4,11,"Falnir Road, Mangalore",575001,"3.5-star hotel in Mangalore with 3 restaurants, outdoor pool",1,1,112,1
+Mangalore,499487,29,0,0,1,0,Dec 18 2016,OYO Rooms Bendoorwell Junction,2341,3,11,"14-2-99/5, 212 Near Bendorewell Junct, Kankanady - Balmatta Road, Mangalore",575003,3-star Mangalore hotel with conference center,1,1,10,0
+Mangalore,499487,29,0,0,0,0,Dec 21 2016,OYO Rooms Bendoorwell Junction,2341,3,11,"14-2-99/5, 212 Near Bendorewell Junct, Kankanady - Balmatta Road, Mangalore",575003,3-star Mangalore hotel with conference center,1,1,10,0
+Mangalore,499487,29,0,0,1,0,Dec 24 2016,OYO Rooms Bendoorwell Junction,2341,3,11,"14-2-99/5, 212 Near Bendorewell Junct, Kankanady - Balmatta Road, Mangalore",575003,3-star Mangalore hotel with conference center,1,1,10,0
+Mangalore,499487,29,0,0,1,0,Dec 25 2016,OYO Rooms Bendoorwell Junction,2341,3,11,"14-2-99/5, 212 Near Bendorewell Junct, Kankanady - Balmatta Road, Mangalore",575003,3-star Mangalore hotel with conference center,1,1,10,0
+Mangalore,499487,29,0,0,0,0,Dec 28 2016,OYO Rooms Bendoorwell Junction,2341,3,11,"14-2-99/5, 212 Near Bendorewell Junct, Kankanady - Balmatta Road, Mangalore",575003,3-star Mangalore hotel with conference center,1,1,10,0
+Mangalore,499487,29,0,0,1,1,Dec 31 2016,OYO Rooms Bendoorwell Junction,2341,3,11,"14-2-99/5, 212 Near Bendorewell Junct, Kankanady - Balmatta Road, Mangalore",575003,3-star Mangalore hotel with conference center,1,1,10,0
+Mangalore,499487,29,0,0,0,0,Jan 04 2017,OYO Rooms Bendoorwell Junction,6811,3,11,"14-2-99/5, 212 Near Bendorewell Junct, Kankanady - Balmatta Road, Mangalore",575003,3-star Mangalore hotel with conference center,1,1,10,0
+Mangalore,499487,29,0,0,1,0,Jan 08 2017,OYO Rooms Bendoorwell Junction,6811,3,11,"14-2-99/5, 212 Near Bendorewell Junct, Kankanady - Balmatta Road, Mangalore",575003,3-star Mangalore hotel with conference center,1,1,10,0
+Mangalore,499487,29,0,0,1,0,Dec 18 2016,OYO Rooms Jyothi Circle,1532,3,11,"14-4507/9, Balmatta Road, Near Jyothi Circle, Hampankatta",575001,3-star hotel in Mangalore,1,1,15,0
+Mangalore,499487,29,0,0,0,0,Dec 21 2016,OYO Rooms Jyothi Circle,1532,3,11,"14-4507/9, Balmatta Road, Near Jyothi Circle, Hampankatta",575001,3-star hotel in Mangalore,1,1,15,0
+Mangalore,499487,29,0,0,1,0,Dec 24 2016,OYO Rooms Jyothi Circle,1532,3,11,"14-4507/9, Balmatta Road, Near Jyothi Circle, Hampankatta",575001,3-star hotel in Mangalore,1,1,15,0
+Mangalore,499487,29,0,0,1,0,Dec 25 2016,OYO Rooms Jyothi Circle,1532,3,11,"14-4507/9, Balmatta Road, Near Jyothi Circle, Hampankatta",575001,3-star hotel in Mangalore,1,1,15,0
+Mangalore,499487,29,0,0,0,0,Dec 28 2016,OYO Rooms Jyothi Circle,1532,3,11,"14-4507/9, Balmatta Road, Near Jyothi Circle, Hampankatta",575001,3-star hotel in Mangalore,1,1,15,0
+Mangalore,499487,29,0,0,1,1,Dec 31 2016,OYO Rooms Jyothi Circle,1532,3,11,"14-4507/9, Balmatta Road, Near Jyothi Circle, Hampankatta",575001,3-star hotel in Mangalore,1,1,15,0
+Mangalore,499487,29,0,0,0,0,Jan 04 2017,OYO Rooms Jyothi Circle,4363,3,11,"14-4507/9, Balmatta Road, Near Jyothi Circle, Hampankatta",575001,3-star hotel in Mangalore,1,1,15,0
+Mangalore,499487,29,0,0,1,0,Jan 08 2017,OYO Rooms Jyothi Circle,4363,3,11,"14-4507/9, Balmatta Road, Near Jyothi Circle, Hampankatta",575001,3-star hotel in Mangalore,1,1,15,0
+Mangalore,499487,29,0,0,1,0,Dec 18 2016,OYO Rooms Mangalore Railway Station,2086,3,12,"18.4.T/214/15, Attavar Road, Behind Central Railway station, Mangalore, 575001 India",575001,Mangalore hotel next to shopping,1,1,10,0
+Mangalore,499487,29,0,0,0,0,Dec 21 2016,OYO Rooms Mangalore Railway Station,2128,3,12,"18.4.T/214/15, Attavar Road, Behind Central Railway station, Mangalore, 575001 India",575001,Mangalore hotel next to shopping,1,1,10,0
+Mangalore,499487,29,0,0,1,0,Dec 24 2016,OYO Rooms Mangalore Railway Station,2128,3,12,"18.4.T/214/15, Attavar Road, Behind Central Railway station, Mangalore, 575001 India",575001,Mangalore hotel next to shopping,1,1,10,0
+Mangalore,499487,29,0,0,1,0,Dec 25 2016,OYO Rooms Mangalore Railway Station,2128,3,12,"18.4.T/214/15, Attavar Road, Behind Central Railway station, Mangalore, 575001 India",575001,Mangalore hotel next to shopping,1,1,10,0
+Mangalore,499487,29,0,0,0,0,Dec 28 2016,OYO Rooms Mangalore Railway Station,2607,3,12,"18.4.T/214/15, Attavar Road, Behind Central Railway station, Mangalore, 575001 India",575001,Mangalore hotel next to shopping,1,1,10,0
+Mangalore,499487,29,0,0,1,1,Dec 31 2016,OYO Rooms Mangalore Railway Station,2607,3,12,"18.4.T/214/15, Attavar Road, Behind Central Railway station, Mangalore, 575001 India",575001,Mangalore hotel next to shopping,1,1,10,0
+Mangalore,499487,29,0,0,0,0,Jan 04 2017,OYO Rooms Mangalore Railway Station,5959,3,12,"18.4.T/214/15, Attavar Road, Behind Central Railway station, Mangalore, 575001 India",575001,Mangalore hotel next to shopping,1,1,10,0
+Mangalore,499487,29,0,0,1,0,Jan 08 2017,OYO Rooms Mangalore Railway Station,5959,3,12,"18.4.T/214/15, Attavar Road, Behind Central Railway station, Mangalore, 575001 India",575001,Mangalore hotel next to shopping,1,1,10,0
+Mangalore,499487,29,0,0,1,0,Dec 18 2016,OYO Rooms Mangalore Railway Station,2086,3,12,"18.4.T/214/15, Attavar Road, Behind Central Railway station",575001,Mangalore hotel next to shopping,1,1,10,0
+Mangalore,499487,29,0,0,1,0,Dec 21 2016,OYO Rooms Mangalore Railway Station,2128,3,12,"18.4.T/214/15, Attavar Road, Behind Central Railway station",575001,Mangalore hotel next to shopping,1,1,10,0
+Mangalore,499487,29,0,0,1,0,Dec 24 2016,OYO Rooms Mangalore Railway Station,2128,3,12,"18.4.T/214/15, Attavar Road, Behind Central Railway station",575001,Mangalore hotel next to shopping,1,1,10,0
+Mangalore,499487,29,0,0,1,0,Dec 25 2016,OYO Rooms Mangalore Railway Station,2128,3,12,"18.4.T/214/15, Attavar Road, Behind Central Railway station",575001,Mangalore hotel next to shopping,1,1,10,0
+Mangalore,499487,29,0,0,1,0,Dec 28 2016,OYO Rooms Mangalore Railway Station,2086,3,12,"18.4.T/214/15, Attavar Road, Behind Central Railway station",575001,Mangalore hotel next to shopping,1,1,10,0
+Mangalore,499487,29,0,0,1,1,Dec 31 2016,OYO Rooms Mangalore Railway Station,2607,3,12,"18.4.T/214/15, Attavar Road, Behind Central Railway station",575001,Mangalore hotel next to shopping,1,1,10,0
+Mangalore,499487,29,0,0,1,0,Jan 04 2017,OYO Rooms Mangalore Railway Station,5959,3,12,"18.4.T/214/15, Attavar Road, Behind Central Railway station",575001,Mangalore hotel next to shopping,1,1,10,0
+Mangalore,499487,29,0,0,1,0,Jan 08 2017,OYO Rooms Mangalore Railway Station,5959,3,12,"18.4.T/214/15, Attavar Road, Behind Central Railway station",575001,Mangalore hotel next to shopping,1,1,10,0
+Mangalore,499487,29,0,0,1,0,Dec 18 2016,OYO Rooms Manglore Jyothi Circle,1873,3,11,"14-4507/9, Balmatta Road, Near Jyothi Circle, Hampankatta",575001,3-star hotel in Mangalore,1,1,15,0
+Mangalore,499487,29,0,0,1,0,Dec 21 2016,OYO Rooms Manglore Jyothi Circle,1873,3,11,"14-4507/9, Balmatta Road, Near Jyothi Circle, Hampankatta",575001,3-star hotel in Mangalore,1,1,15,0
+Mangalore,499487,29,0,0,1,0,Dec 24 2016,OYO Rooms Manglore Jyothi Circle,5321,3,11,"14-4507/9, Balmatta Road, Near Jyothi Circle, Hampankatta",575001,3-star hotel in Mangalore,1,1,15,0
+Mangalore,499487,29,0,0,1,0,Dec 25 2016,OYO Rooms Manglore Jyothi Circle,5321,3,11,"14-4507/9, Balmatta Road, Near Jyothi Circle, Hampankatta",575001,3-star hotel in Mangalore,1,1,15,0
+Mangalore,499487,29,0,0,1,0,Dec 28 2016,OYO Rooms Manglore Jyothi Circle,1873,3,11,"14-4507/9, Balmatta Road, Near Jyothi Circle, Hampankatta",575001,3-star hotel in Mangalore,1,1,15,0
+Mangalore,499487,29,0,0,1,1,Dec 31 2016,OYO Rooms Manglore Jyothi Circle,5321,3,11,"14-4507/9, Balmatta Road, Near Jyothi Circle, Hampankatta",575001,3-star hotel in Mangalore,1,1,15,0
+Mangalore,499487,29,0,0,1,0,Jan 04 2017,OYO Rooms Manglore Jyothi Circle,5321,3,11,"14-4507/9, Balmatta Road, Near Jyothi Circle, Hampankatta",575001,3-star hotel in Mangalore,1,1,15,0
+Mangalore,499487,29,0,0,1,0,Jan 08 2017,OYO Rooms Manglore Jyothi Circle,5321,3,11,"14-4507/9, Balmatta Road, Near Jyothi Circle, Hampankatta",575001,3-star hotel in Mangalore,1,1,15,0
+Mangalore,499487,29,0,0,1,0,Dec 18 2016,The Gateway Hotel Old Port Rd,5100,3.5,13,"Old Port Road S K, Mangalore, Karnataka, 575 001 India",575001,"3.5-star hotel in Mangalore with outdoor pool, bar/lounge",1,0,100,1
+Mangalore,499487,29,0,0,0,0,Dec 21 2016,The Gateway Hotel Old Port Rd,5999,3.5,13,"Old Port Road S K, Mangalore, Karnataka, 575 001 India",575001,"3.5-star hotel in Mangalore with outdoor pool, bar/lounge",1,0,100,1
+Mangalore,499487,29,0,0,1,0,Dec 24 2016,The Gateway Hotel Old Port Rd,5666,3.5,13,"Old Port Road S K, Mangalore, Karnataka, 575 001 India",575001,"3.5-star hotel in Mangalore with outdoor pool, bar/lounge",1,0,100,1
+Mangalore,499487,29,0,0,1,0,Dec 25 2016,The Gateway Hotel Old Port Rd,5666,3.5,13,"Old Port Road S K, Mangalore, Karnataka, 575 001 India",575001,"3.5-star hotel in Mangalore with outdoor pool, bar/lounge",1,0,100,1
+Mangalore,499487,29,0,0,0,0,Dec 28 2016,The Gateway Hotel Old Port Rd,5999,3.5,13,"Old Port Road S K, Mangalore, Karnataka, 575 001 India",575001,"3.5-star hotel in Mangalore with outdoor pool, bar/lounge",1,0,100,1
+Mangalore,499487,29,0,0,1,1,Dec 31 2016,The Gateway Hotel Old Port Rd,5666,3.5,13,"Old Port Road S K, Mangalore, Karnataka, 575 001 India",575001,"3.5-star hotel in Mangalore with outdoor pool, bar/lounge",1,0,100,1
+Mangalore,499487,29,0,0,0,0,Jan 04 2017,The Gateway Hotel Old Port Rd,5666,3.5,13,"Old Port Road S K, Mangalore, Karnataka, 575 001 India",575001,"3.5-star hotel in Mangalore with outdoor pool, bar/lounge",1,0,100,1
+Mangalore,499487,29,0,0,1,0,Jan 08 2017,The Gateway Hotel Old Port Rd,5666,3.5,13,"Old Port Road S K, Mangalore, Karnataka, 575 001 India",575001,"3.5-star hotel in Mangalore with outdoor pool, bar/lounge",1,0,100,1
+Mangalore,499487,29,0,0,1,0,Dec 18 2016,The Gateway Hotel Old Port Rd,5100,4,13,"Old Port Road S K, Mangalore, Karnataka",575001,"3.5-star hotel in Mangalore with outdoor pool, bar/lounge",1,0,100,1
+Mangalore,499487,29,0,0,1,0,Dec 21 2016,The Gateway Hotel Old Port Rd,5999,4,13,"Old Port Road S K, Mangalore, Karnataka",575001,"3.5-star hotel in Mangalore with outdoor pool, bar/lounge",1,0,100,1
+Mangalore,499487,29,0,0,1,0,Dec 24 2016,The Gateway Hotel Old Port Rd,5666,4,13,"Old Port Road S K, Mangalore, Karnataka",575001,"3.5-star hotel in Mangalore with outdoor pool, bar/lounge",1,0,100,1
+Mangalore,499487,29,0,0,1,0,Dec 25 2016,The Gateway Hotel Old Port Rd,5666,4,13,"Old Port Road S K, Mangalore, Karnataka",575001,"3.5-star hotel in Mangalore with outdoor pool, bar/lounge",1,0,100,1
+Mangalore,499487,29,0,0,1,0,Dec 28 2016,The Gateway Hotel Old Port Rd,5999,4,13,"Old Port Road S K, Mangalore, Karnataka",575001,"3.5-star hotel in Mangalore with outdoor pool, bar/lounge",1,0,100,1
+Mangalore,499487,29,0,0,1,1,Dec 31 2016,The Gateway Hotel Old Port Rd,5666,4,13,"Old Port Road S K, Mangalore, Karnataka",575001,"3.5-star hotel in Mangalore with outdoor pool, bar/lounge",1,0,100,1
+Mangalore,499487,29,0,0,1,0,Jan 04 2017,The Gateway Hotel Old Port Rd,5999,4,13,"Old Port Road S K, Mangalore, Karnataka",575001,"3.5-star hotel in Mangalore with outdoor pool, bar/lounge",1,0,100,1
+Mangalore,499487,29,0,0,1,0,Jan 08 2017,The Gateway Hotel Old Port Rd,5525,4,13,"Old Port Road S K, Mangalore, Karnataka",575001,"3.5-star hotel in Mangalore with outdoor pool, bar/lounge",1,0,100,1
+Mangalore,499487,29,0,0,1,0,Dec 18 2016,The Verda Saffron,5514,3,12,"GHS Road, Hampankatta, Mangalore",575001,3-star Mangalore hotel with restaurant,1,1,42,0
+Mangalore,499487,29,0,0,1,0,Dec 21 2016,The Verda Saffron,5514,3,12,"GHS Road, Hampankatta, Mangalore",575001,3-star Mangalore hotel with restaurant,1,1,42,0
+Mangalore,499487,29,0,0,1,0,Dec 24 2016,The Verda Saffron,5514,3,12,"GHS Road, Hampankatta, Mangalore",575001,3-star Mangalore hotel with restaurant,1,1,42,0
+Mangalore,499487,29,0,0,1,0,Dec 25 2016,The Verda Saffron,5514,3,12,"GHS Road, Hampankatta, Mangalore",575001,3-star Mangalore hotel with restaurant,1,1,42,0
+Mangalore,499487,29,0,0,1,0,Dec 28 2016,The Verda Saffron,5514,3,12,"GHS Road, Hampankatta, Mangalore",575001,3-star Mangalore hotel with restaurant,1,1,42,0
+Mangalore,499487,29,0,0,1,1,Dec 31 2016,The Verda Saffron,5514,3,12,"GHS Road, Hampankatta, Mangalore",575001,3-star Mangalore hotel with restaurant,1,1,42,0
+Mangalore,499487,29,0,0,1,0,Jan 04 2017,The Verda Saffron,3600,3,12,"GHS Road, Hampankatta, Mangalore",575001,3-star Mangalore hotel with restaurant,1,1,42,0
+Mangalore,499487,29,0,0,1,0,Jan 08 2017,The Verda Saffron,3600,3,12,"GHS Road, Hampankatta, Mangalore",575001,3-star Mangalore hotel with restaurant,1,1,42,0
+Mangalore,499487,29,0,0,1,0,Dec 18 2016,Treebo Pappilon Palace,1619,3,11,"Pappilon Palace, Navbharath circle, Kodialbail Near Sony show room",575003,3-star hotel in Mangalore,1,1,0,0
+Mangalore,499487,29,0,0,1,0,Dec 21 2016,Treebo Pappilon Palace,1619,3,11,"Pappilon Palace, Navbharath circle, Kodialbail Near Sony show room",575003,3-star hotel in Mangalore,1,1,0,0
+Mangalore,499487,29,0,0,1,0,Dec 24 2016,Treebo Pappilon Palace,2065,3,11,"Pappilon Palace, Navbharath circle, Kodialbail Near Sony show room",575003,3-star hotel in Mangalore,1,1,0,0
+Mangalore,499487,29,0,0,1,0,Dec 25 2016,Treebo Pappilon Palace,2313,3,11,"Pappilon Palace, Navbharath circle, Kodialbail Near Sony show room",575003,3-star hotel in Mangalore,1,1,0,0
+Mangalore,499487,29,0,0,1,0,Dec 28 2016,Treebo Pappilon Palace,2313,3,11,"Pappilon Palace, Navbharath circle, Kodialbail Near Sony show room",575003,3-star hotel in Mangalore,1,1,0,0
+Mangalore,499487,29,0,0,1,1,Dec 31 2016,Treebo Pappilon Palace,2313,3,11,"Pappilon Palace, Navbharath circle, Kodialbail Near Sony show room",575003,3-star hotel in Mangalore,1,1,0,0
+Mangalore,499487,29,0,0,1,0,Jan 04 2017,Treebo Pappilon Palace,2313,3,11,"Pappilon Palace, Navbharath circle, Kodialbail Near Sony show room",575003,3-star hotel in Mangalore,1,1,0,0
+Mangalore,499487,29,0,0,1,0,Jan 08 2017,Treebo Pappilon Palace,2313,3,11,"Pappilon Palace, Navbharath circle, Kodialbail Near Sony show room",575003,3-star hotel in Mangalore,1,1,0,0

@@ -1,0 +1,289 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Manali,8096,44,0,1,1,0,Dec 18 2016,OYO Rooms Simsa Manali,1319,2.5,50.5,Kanyal Road,175131,2.5-star hotel,1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,OYO Rooms Simsa Manali,2314,2.5,50.5,Kanyal Road,175131,2.5-star hotel,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,OYO Rooms Simsa Manali,2384,2.5,50.5,Kanyal Road,175131,2.5-star hotel,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,OYO Rooms Simsa Manali,2384,2.5,50.5,Kanyal Road,175131,2.5-star hotel,1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,OYO Rooms Simsa Manali,2554,2.5,50.5,Kanyal Road,175131,2.5-star hotel,1,1,15,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,OYO Rooms Simsa Manali,5959,2.5,50.5,Kanyal Road,175131,2.5-star hotel,1,1,15,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,OYO Rooms Simsa Manali,6385,2.5,50.5,Kanyal Road,175131,2.5-star hotel,1,1,15,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,OYO Rooms Simsa Manali,4043,2.5,50.5,Kanyal Road,175131,2.5-star hotel,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,Hotel Angels Inn,2594,2.5,41,"Naggar Road, New Manali,Distt. Kullu H.P.,Manali,Himachal Pradesh,India",175131,No-frills Aleo hotel with restaurant,1,0,25,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,Hotel Angels Inn,2594,2.5,41,"Naggar Road, New Manali,Distt. Kullu H.P.,Manali,Himachal Pradesh,India",175131,No-frills Aleo hotel with restaurant,1,0,25,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,Hotel Angels Inn,2594,2.5,41,"Naggar Road, New Manali,Distt. Kullu H.P.,Manali,Himachal Pradesh,India",175131,No-frills Aleo hotel with restaurant,1,0,25,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,Hotel Angels Inn,2594,2.5,41,"Naggar Road, New Manali,Distt. Kullu H.P.,Manali,Himachal Pradesh,India",175131,No-frills Aleo hotel with restaurant,1,0,25,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,Hotel Angels Inn,2594,2.5,41,"Naggar Road, New Manali,Distt. Kullu H.P.,Manali,Himachal Pradesh,India",175131,No-frills Aleo hotel with restaurant,1,0,25,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,Hotel Angels Inn,2594,2.5,41,"Naggar Road, New Manali,Distt. Kullu H.P.,Manali,Himachal Pradesh,India",175131,No-frills Aleo hotel with restaurant,1,0,25,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,Hotel Angels Inn,2594,2.5,41,"Naggar Road, New Manali,Distt. Kullu H.P.,Manali,Himachal Pradesh,India",175131,No-frills Aleo hotel with restaurant,1,0,25,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,Hotel Angels Inn,2224,2.5,41,"Naggar Road, New Manali,Distt. Kullu H.P.,Manali,Himachal Pradesh,India",175131,No-frills Aleo hotel with restaurant,1,0,25,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,Urvashi's Retreat,4677,3,41,"Manali, Himachal Pradesh, 175131, India",175131,"Mountain hotel in Manali with restaurant, bar/lounge",1,1,6,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,Urvashi's Retreat,4697,3,41,"Manali, Himachal Pradesh, 175131, India",175131,"Mountain hotel in Manali with restaurant, bar/lounge",1,1,6,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,Urvashi's Retreat,4725,3,41,"Manali, Himachal Pradesh, 175131, India",175131,"Mountain hotel in Manali with restaurant, bar/lounge",1,1,6,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,Urvashi's Retreat,4737,3,41,"Manali, Himachal Pradesh, 175131, India",175131,"Mountain hotel in Manali with restaurant, bar/lounge",1,1,6,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,Urvashi's Retreat,4783,3,41,"Manali, Himachal Pradesh, 175131, India",175131,"Mountain hotel in Manali with restaurant, bar/lounge",1,1,6,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,Urvashi's Retreat,4861,3,41,"Manali, Himachal Pradesh, 175131, India",175131,"Mountain hotel in Manali with restaurant, bar/lounge",1,1,6,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,Urvashi's Retreat,4550,3,41,"Manali, Himachal Pradesh, 175131, India",175131,"Mountain hotel in Manali with restaurant, bar/lounge",1,1,6,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,Urvashi's Retreat,4550,3,41,"Manali, Himachal Pradesh, 175131, India",175131,"Mountain hotel in Manali with restaurant, bar/lounge",1,1,6,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,OYO Premium Apple Garden,2469,3,39,"Circuit House Road, Near Hotel Whispering Inn, Manali, Himachal Pradesh, 175131, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,OYO Premium Apple Garden,2916,3,39,"Circuit House Road, Near Hotel Whispering Inn, Manali, Himachal Pradesh, 175131, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,OYO Premium Apple Garden,3959,3,39,"Circuit House Road, Near Hotel Whispering Inn, Manali, Himachal Pradesh, 175131, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,OYO Premium Apple Garden,3959,3,39,"Circuit House Road, Near Hotel Whispering Inn, Manali, Himachal Pradesh, 175131, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,OYO Premium Apple Garden,3193,3,39,"Circuit House Road, Near Hotel Whispering Inn, Manali, Himachal Pradesh, 175131, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,OYO Premium Apple Garden,3959,3,39,"Circuit House Road, Near Hotel Whispering Inn, Manali, Himachal Pradesh, 175131, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,OYO Premium Apple Garden,5001,3,39,"Circuit House Road, Near Hotel Whispering Inn, Manali, Himachal Pradesh, 175131, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,OYO Premium Apple Garden,5001,3,39,"Circuit House Road, Near Hotel Whispering Inn, Manali, Himachal Pradesh, 175131, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,OYO Premium Hadimba Temple,8298,3,41,"Near Hadimba Mata Temple, Hadimba Road, Manali, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,OYO Premium Hadimba Temple,8885,3,41,"Near Hadimba Mata Temple, Hadimba Road, Manali, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,OYO Premium Hadimba Temple,9505,3,41,"Near Hadimba Mata Temple, Hadimba Road, Manali, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,OYO Premium Hadimba Temple,9676,3,41,"Near Hadimba Mata Temple, Hadimba Road, Manali, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,OYO Premium Hadimba Temple,10227,3,41,"Near Hadimba Mata Temple, Hadimba Road, Manali, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",1,1,15,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,OYO Premium Hadimba Temple,11093,3,41,"Near Hadimba Mata Temple, Hadimba Road, Manali, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",1,1,15,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,OYO Premium Hadimba Temple,10792,3,41,"Near Hadimba Mata Temple, Hadimba Road, Manali, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",1,1,15,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,OYO Premium Hadimba Temple,10324,3,41,"Near Hadimba Mata Temple, Hadimba Road, Manali, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,OYO Premium Hampta View,7343,3,39,"Naggar Road,,Manali,,India",175131,3-star hotel in Manali,1,0,15,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,OYO Premium Hampta View,3150,3,39,"Naggar Road,,Manali,,India",175131,3-star hotel in Manali,1,0,15,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,OYO Premium Hampta View,7343,3,39,"Naggar Road,,Manali,,India",175131,3-star hotel in Manali,1,0,15,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,OYO Premium Hampta View,4470,3,39,"Naggar Road,,Manali,,India",175131,3-star hotel in Manali,1,0,15,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,OYO Premium Hampta View,3619,3,39,"Naggar Road,,Manali,,India",175131,3-star hotel in Manali,1,0,15,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,OYO Premium Hampta View,4470,3,39,"Naggar Road,,Manali,,India",175131,3-star hotel in Manali,1,0,15,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,OYO Premium Hampta View,7343,3,39,"Naggar Road,,Manali,,India",175131,3-star hotel in Manali,1,0,15,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,OYO Premium Hampta View,3511,3,39,"Naggar Road,,Manali,,India",175131,3-star hotel in Manali,1,0,15,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,OYO Premium Himalayan View,1830,3,39,"Rangri, Sajjanu Ville, Manali, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,OYO Premium Himalayan View,2937,3,39,"Rangri, Sajjanu Ville, Manali, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,OYO Premium Himalayan View,3832,3,39,"Rangri, Sajjanu Ville, Manali, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,OYO Premium Himalayan View,3832,3,39,"Rangri, Sajjanu Ville, Manali, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,OYO Premium Himalayan View,3108,3,39,"Rangri, Sajjanu Ville, Manali, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",1,1,15,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,OYO Premium Himalayan View,7769,3,39,"Rangri, Sajjanu Ville, Manali, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",1,1,15,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,OYO Premium Himalayan View,7769,3,39,"Rangri, Sajjanu Ville, Manali, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",1,1,15,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,OYO Premium Himalayan View,4895,3,39,"Rangri, Sajjanu Ville, Manali, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,OYO Premium Log Huts,2469,3,42,"Log Huts, Manali, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,OYO Premium Log Huts,2895,3,42,"Log Huts, Manali, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,OYO Premium Log Huts,2895,3,42,"Log Huts, Manali, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,OYO Premium Log Huts,2895,3,42,"Log Huts, Manali, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,OYO Premium Log Huts,2895,3,42,"Log Huts, Manali, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,OYO Premium Log Huts,2895,3,42,"Log Huts, Manali, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,OYO Premium Log Huts,8408,3,42,"Log Huts, Manali, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,OYO Premium Log Huts,4363,3,42,"Log Huts, Manali, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,OYO Premium Simsa Resort,2256,3,38,"Simsa Kanyal Road, Manali, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,OYO Premium Simsa Resort,2256,3,38,"Simsa Kanyal Road, Manali, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,OYO Premium Simsa Resort,3150,3,38,"Simsa Kanyal Road, Manali, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,OYO Premium Simsa Resort,3150,3,38,"Simsa Kanyal Road, Manali, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,OYO Premium Simsa Resort,3874,3,38,"Simsa Kanyal Road, Manali, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,OYO Premium Simsa Resort,3150,3,38,"Simsa Kanyal Road, Manali, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,OYO Premium Simsa Resort,5959,3,38,"Simsa Kanyal Road, Manali, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,OYO Premium Simsa Resort,5959,3,38,"Simsa Kanyal Road, Manali, India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,OYO Premium Star Prini,1702,3,52,"Shuru, Naggar Road",175131,3-star hotel,1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,OYO Premium Star Prini,2639,3,52,"Shuru, Naggar Road",175131,3-star hotel,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,OYO Premium Star Prini,4470,3,52,"Shuru, Naggar Road",175131,3-star hotel,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,OYO Premium Star Prini,4470,3,52,"Shuru, Naggar Road",175131,3-star hotel,1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,OYO Premium Star Prini,3363,3,52,"Shuru, Naggar Road",175131,3-star hotel,1,1,15,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,OYO Premium Star Prini,4470,3,52,"Shuru, Naggar Road",175131,3-star hotel,1,1,15,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,OYO Premium Star Prini,6811,3,52,"Shuru, Naggar Road",175131,3-star hotel,1,1,15,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,OYO Premium Star Prini,4256,3,52,"Shuru, Naggar Road",175131,3-star hotel,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,OYO Rooms Aleo Manali,2086,3,52,Aleo Left Bank Naggar Road,175131,3-start hotel,1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,OYO Rooms Aleo Manali,3193,3,52,Aleo Left Bank Naggar Road,175131,3-start hotel,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,OYO Rooms Aleo Manali,4555,3,52,Aleo Left Bank Naggar Road,175131,3-start hotel,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,OYO Rooms Aleo Manali,4555,3,52,Aleo Left Bank Naggar Road,175131,3-start hotel,1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,OYO Rooms Aleo Manali,3704,3,52,Aleo Left Bank Naggar Road,175131,3-start hotel,1,1,15,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,OYO Rooms Aleo Manali,4555,3,52,Aleo Left Bank Naggar Road,175131,3-start hotel,1,1,15,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,OYO Rooms Aleo Manali,7450,3,52,Aleo Left Bank Naggar Road,175131,3-start hotel,1,1,15,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,OYO Rooms Aleo Manali,4895,3,52,Aleo Left Bank Naggar Road,175131,3-start hotel,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,OYO Rooms Beas Valley,4151,3,26,"Aleo Left Bank Naggar Road, Manali, India",175123,3-star hotel in Manali,1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,OYO Rooms Beas Valley,4480,3,26,"Aleo Left Bank Naggar Road, Manali, India",175123,3-star hotel in Manali,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,OYO Rooms Beas Valley,4710,3,26,"Aleo Left Bank Naggar Road, Manali, India",175123,3-star hotel in Manali,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,OYO Rooms Beas Valley,4755,3,26,"Aleo Left Bank Naggar Road, Manali, India",175123,3-star hotel in Manali,1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,OYO Rooms Beas Valley,5060,3,26,"Aleo Left Bank Naggar Road, Manali, India",175123,3-star hotel in Manali,1,1,15,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,OYO Rooms Beas Valley,5569,3,26,"Aleo Left Bank Naggar Road, Manali, India",175123,3-star hotel in Manali,1,1,15,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,OYO Rooms Beas Valley,4937,3,26,"Aleo Left Bank Naggar Road, Manali, India",175123,3-star hotel in Manali,1,1,15,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,OYO Rooms Beas Valley,3830,3,26,"Aleo Left Bank Naggar Road, Manali, India",175123,3-star hotel in Manali,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,OYO Rooms Model Town,1702,3,41,"model town, near telephone exchange,,Manali,,India",175131,3-star hotel in Manali,1,0,15,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,OYO Rooms Model Town,1702,3,41,"model town, near telephone exchange,,Manali,,India",175131,3-star hotel in Manali,1,0,15,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,OYO Rooms Model Town,4172,3,41,"model town, near telephone exchange,,Manali,,India",175131,3-star hotel in Manali,1,0,15,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,OYO Rooms Model Town,4172,3,41,"model town, near telephone exchange,,Manali,,India",175131,3-star hotel in Manali,1,0,15,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,OYO Rooms Model Town,3278,3,41,"model town, near telephone exchange,,Manali,,India",175131,3-star hotel in Manali,1,0,15,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,OYO Rooms Model Town,4172,3,41,"model town, near telephone exchange,,Manali,,India",175131,3-star hotel in Manali,1,0,15,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,OYO Rooms Model Town,4172,3,42,"model town, near telephone exchange,,Manali,,India",175131,3-star hotel in Manali,1,0,15,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,OYO Rooms Model Town,4172,3,43,"model town, near telephone exchange,,Manali,,India",175131,3-star hotel in Manali,1,0,15,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,OYO Rooms Rangri Valley Manali,3617,3,39,"Near by Hotel Victoria, Kanyal Road,Rangri Kanyal Road,Manali,,India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,OYO Rooms Rangri Valley Manali,1319,3,39,"Near by Hotel Victoria, Kanyal Road,Rangri Kanyal Road,Manali,,India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,OYO Rooms Rangri Valley Manali,3617,3,35,"Near by Hotel Victoria, Kanyal Road,Rangri Kanyal Road,Manali,,India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,OYO Rooms Rangri Valley Manali,3617,3,36,"Near by Hotel Victoria, Kanyal Road,Rangri Kanyal Road,Manali,,India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,OYO Rooms Rangri Valley Manali,3617,3,37,"Near by Hotel Victoria, Kanyal Road,Rangri Kanyal Road,Manali,,India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,OYO Rooms Rangri Valley Manali,3617,3,38,"Near by Hotel Victoria, Kanyal Road,Rangri Kanyal Road,Manali,,India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,OYO Rooms Rangri Valley Manali,3617,3,39,"Near by Hotel Victoria, Kanyal Road,Rangri Kanyal Road,Manali,,India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,OYO Rooms Rangri Valley Manali,3617,3,39,"Near by Hotel Victoria, Kanyal Road,Rangri Kanyal Road,Manali,,India",175131,Manali hotel next to shopping,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,OYO Rooms Valley View Manali,1234,3,39,"Near Hotel Nagesh Rangri, Kanyal Road, Manali, Himachal Pradesh",175131,3-star Manali hotel with conference center,0,1,15,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,OYO Rooms Valley View Manali,1234,3,39,"Near Hotel Nagesh Rangri, Kanyal Road, Manali, Himachal Pradesh",175131,3-star Manali hotel with conference center,0,1,15,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,OYO Rooms Valley View Manali,2852,3,39,"Near Hotel Nagesh Rangri, Kanyal Road, Manali, Himachal Pradesh",175131,3-star Manali hotel with conference center,0,1,15,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,OYO Rooms Valley View Manali,2852,3,39,"Near Hotel Nagesh Rangri, Kanyal Road, Manali, Himachal Pradesh",175131,3-star Manali hotel with conference center,0,1,15,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,OYO Rooms Valley View Manali,2341,3,39,"Near Hotel Nagesh Rangri, Kanyal Road, Manali, Himachal Pradesh",175131,3-star Manali hotel with conference center,0,1,15,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,OYO Rooms Valley View Manali,3565,3,39,"Near Hotel Nagesh Rangri, Kanyal Road, Manali, Himachal Pradesh",175131,3-star Manali hotel with conference center,0,1,15,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,OYO Rooms Valley View Manali,3298,3,39,"Near Hotel Nagesh Rangri, Kanyal Road, Manali, Himachal Pradesh",175131,3-star Manali hotel with conference center,0,1,15,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,OYO Rooms Valley View Manali,3298,3,39,"Near Hotel Nagesh Rangri, Kanyal Road, Manali, Himachal Pradesh",175131,3-star Manali hotel with conference center,0,1,15,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,Treebo Celebriti,1678,3,51,"Old Manali, Near Clubhouse and La Plage Restaurant",175131,3-star hotel,1,1,20,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,Treebo Celebriti,1678,3,51,"Old Manali, Near Clubhouse and La Plage Restaurant",175131,3-star hotel,1,1,20,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,Treebo Celebriti,1678,3,51,"Old Manali, Near Clubhouse and La Plage Restaurant",175131,3-star hotel,1,1,20,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,Treebo Celebriti,1678,3,51,"Old Manali, Near Clubhouse and La Plage Restaurant",175131,3-star hotel,1,1,20,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,Treebo Celebriti,1678,3,51,"Old Manali, Near Clubhouse and La Plage Restaurant",175131,3-star hotel,1,1,20,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,Treebo Celebriti,2714,3,51,"Old Manali, Near Clubhouse and La Plage Restaurant",175131,3-star hotel,1,1,20,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,Treebo Celebriti,2714,3,51,"Old Manali, Near Clubhouse and La Plage Restaurant",175131,3-star hotel,1,1,20,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,Treebo Celebriti,1535,3,51,"Old Manali, Near Clubhouse and La Plage Restaurant",175131,3-star hotel,1,1,20,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,Hotel Snowcrest Manor,2438,3,43,"Beyond Log Huts, Manali, Himachal Pradesh, 175131, India",175131,"Manali hotel with restaurant, bar/lounge",0,0,32,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,Hotel Snowcrest Manor,2493,3,43,"Beyond Log Huts, Manali, Himachal Pradesh, 175131, India",175131,"Manali hotel with restaurant, bar/lounge",0,0,32,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,Hotel Snowcrest Manor,2520,3,43,"Beyond Log Huts, Manali, Himachal Pradesh, 175131, India",175131,"Manali hotel with restaurant, bar/lounge",0,0,32,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,Hotel Snowcrest Manor,2498,3,43,"Beyond Log Huts, Manali, Himachal Pradesh, 175131, India",175131,"Manali hotel with restaurant, bar/lounge",0,0,32,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,Hotel Snowcrest Manor,2409,3,43,"Beyond Log Huts, Manali, Himachal Pradesh, 175131, India",175131,"Manali hotel with restaurant, bar/lounge",0,0,32,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,Hotel Snowcrest Manor,2261,3,43,"Beyond Log Huts, Manali, Himachal Pradesh, 175131, India",175131,"Manali hotel with restaurant, bar/lounge",0,0,32,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,Hotel Snowcrest Manor,2092,3,43,"Beyond Log Huts, Manali, Himachal Pradesh, 175131, India",175131,"Manali hotel with restaurant, bar/lounge",0,0,32,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,Hotel Snowcrest Manor,2092,3,43,"Beyond Log Huts, Manali, Himachal Pradesh, 175131, India",175131,"Manali hotel with restaurant, bar/lounge",0,0,32,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,Heritage Village Resorts,2170,3,28,"Jhonger, Village Sarsai, Naggar-Manali Highway, Manali, Himachal Pradesh",175136,"Art Deco resort in Manali with restaurant, bar/lounge",1,0,40,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,Heritage Village Resorts,2170,3,28,"Jhonger, Village Sarsai, Naggar-Manali Highway, Manali, Himachal Pradesh",175136,"Art Deco resort in Manali with restaurant, bar/lounge",1,0,40,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,Heritage Village Resorts,3900,3,28,"Jhonger, Village Sarsai, Naggar-Manali Highway, Manali, Himachal Pradesh",175136,"Art Deco resort in Manali with restaurant, bar/lounge",1,0,40,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,Heritage Village Resorts,3900,3,28,"Jhonger, Village Sarsai, Naggar-Manali Highway, Manali, Himachal Pradesh",175136,"Art Deco resort in Manali with restaurant, bar/lounge",1,0,40,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,Heritage Village Resorts,3900,3,28,"Jhonger, Village Sarsai, Naggar-Manali Highway, Manali, Himachal Pradesh",175136,"Art Deco resort in Manali with restaurant, bar/lounge",1,0,40,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,Heritage Village Resorts,3900,3,28,"Jhonger, Village Sarsai, Naggar-Manali Highway, Manali, Himachal Pradesh",175136,"Art Deco resort in Manali with restaurant, bar/lounge",1,0,40,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,Heritage Village Resorts,3100,3,28,"Jhonger, Village Sarsai, Naggar-Manali Highway, Manali, Himachal Pradesh",175136,"Art Deco resort in Manali with restaurant, bar/lounge",1,0,40,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,Heritage Village Resorts,3100,3,28,"Jhonger, Village Sarsai, Naggar-Manali Highway, Manali, Himachal Pradesh",175136,"Art Deco resort in Manali with restaurant, bar/lounge",1,0,40,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,White Meadows Manali by Mahindra Holidays,4471,3,50,"Prini, Naggar Highway",175131,4-start hotel,1,1,40,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,White Meadows Manali by Mahindra Holidays,4472,3,50,"Prini, Naggar Highway",175131,4-start hotel,1,1,40,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,White Meadows Manali by Mahindra Holidays,6333,3,50,"Prini, Naggar Highway",175131,4-start hotel,1,1,40,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,White Meadows Manali by Mahindra Holidays,6333,3,50,"Prini, Naggar Highway",175131,4-start hotel,1,1,40,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,White Meadows Manali by Mahindra Holidays,6333,3,50,"Prini, Naggar Highway",175131,4-start hotel,1,1,40,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,White Meadows Manali by Mahindra Holidays,6333,3,50,"Prini, Naggar Highway",175131,4-start hotel,1,1,40,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,White Meadows Manali by Mahindra Holidays,5590,3,50,"Prini, Naggar Highway",175131,4-start hotel,1,1,40,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,White Meadows Manali by Mahindra Holidays,5590,3,50,"Prini, Naggar Highway",175131,4-start hotel,1,1,40,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,Honeymoon Inn,5000,3,41,"Left Bank,Aleo,Manali,Himachal Pradesh,India",175131,3-star Manali hotel with restaurant,1,0,59,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,Honeymoon Inn,5000,3,41,"Left Bank,Aleo,Manali,Himachal Pradesh,India",175131,3-star Manali hotel with restaurant,1,0,59,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,Honeymoon Inn,5000,3,41,"Left Bank,Aleo,Manali,Himachal Pradesh,India",175131,3-star Manali hotel with restaurant,1,0,59,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,Honeymoon Inn,5000,3,41,"Left Bank,Aleo,Manali,Himachal Pradesh,India",175131,3-star Manali hotel with restaurant,1,0,59,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,Honeymoon Inn,5000,3,41,"Left Bank,Aleo,Manali,Himachal Pradesh,India",175131,3-star Manali hotel with restaurant,1,0,59,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,Honeymoon Inn,5000,3,41,"Left Bank,Aleo,Manali,Himachal Pradesh,India",175131,3-star Manali hotel with restaurant,1,0,59,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,Honeymoon Inn,5000,3,41,"Left Bank,Aleo,Manali,Himachal Pradesh,India",175131,3-star Manali hotel with restaurant,1,0,59,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,Honeymoon Inn,3500,3,41,"Left Bank,Aleo,Manali,Himachal Pradesh,India",175131,3-star Manali hotel with restaurant,1,0,59,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,Treebo Woodstock Inn,1184,3,41,"Left Bank Aleo, Kullu-Naggar-Manali Rd, Aleo, Manali",175131,3-star Aleo hotel with restaurant,1,1,70,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,Treebo Woodstock Inn,1184,3,41,"Left Bank Aleo, Kullu-Naggar-Manali Rd, Aleo, Manali",175131,3-star Aleo hotel with restaurant,1,1,70,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,Treebo Woodstock Inn,2772,3,41,"Left Bank Aleo, Kullu-Naggar-Manali Rd, Aleo, Manali",175131,3-star Aleo hotel with restaurant,1,1,70,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,Treebo Woodstock Inn,2772,3,41,"Left Bank Aleo, Kullu-Naggar-Manali Rd, Aleo, Manali",175131,3-star Aleo hotel with restaurant,1,1,70,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,Treebo Woodstock Inn,2772,3,41,"Left Bank Aleo, Kullu-Naggar-Manali Rd, Aleo, Manali",175131,3-star Aleo hotel with restaurant,1,1,70,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,Treebo Woodstock Inn,2772,3,41,"Left Bank Aleo, Kullu-Naggar-Manali Rd, Aleo, Manali",175131,3-star Aleo hotel with restaurant,1,1,70,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,Treebo Woodstock Inn,2772,3,41,"Left Bank Aleo, Kullu-Naggar-Manali Rd, Aleo, Manali",175131,3-star Aleo hotel with restaurant,1,1,70,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,Treebo Woodstock Inn,1806,3,41,"Left Bank Aleo, Kullu-Naggar-Manali Rd, Aleo, Manali",175131,3-star Aleo hotel with restaurant,1,1,70,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,Manali White Mist A Sterling Holidays RESORT,5316,3,39,"Prini Naggar Hwy, Left Bank Road, Prini, Kullu Dist, Manali, Himachal Pradesh, 175131, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",0,1,80,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,Manali White Mist A Sterling Holidays RESORT,5541,3,39,"Prini Naggar Hwy, Left Bank Road, Prini, Kullu Dist, Manali, Himachal Pradesh, 175131, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",0,1,80,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,Manali White Mist A Sterling Holidays RESORT,5708,3,39,"Prini Naggar Hwy, Left Bank Road, Prini, Kullu Dist, Manali, Himachal Pradesh, 175131, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",0,1,80,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,Manali White Mist A Sterling Holidays RESORT,5579,3,39,"Prini Naggar Hwy, Left Bank Road, Prini, Kullu Dist, Manali, Himachal Pradesh, 175131, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",0,1,80,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,Manali White Mist A Sterling Holidays RESORT,5174,3,39,"Prini Naggar Hwy, Left Bank Road, Prini, Kullu Dist, Manali, Himachal Pradesh, 175131, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",0,1,80,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,Manali White Mist A Sterling Holidays RESORT,4399,3,39,"Prini Naggar Hwy, Left Bank Road, Prini, Kullu Dist, Manali, Himachal Pradesh, 175131, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",0,1,80,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,Manali White Mist A Sterling Holidays RESORT,3599,3,39,"Prini Naggar Hwy, Left Bank Road, Prini, Kullu Dist, Manali, Himachal Pradesh, 175131, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",0,1,80,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,Manali White Mist A Sterling Holidays RESORT,3599,3,39,"Prini Naggar Hwy, Left Bank Road, Prini, Kullu Dist, Manali, Himachal Pradesh, 175131, India",175131,"3-star hotel in Manali with restaurant, bar/lounge",0,1,80,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,The Anantmaya Resort,5595,3.5,38,"Naggar road, Shuru, Manali, 175131 India",175131,"3.5-star hotel in Manali with restaurant, conference center",1,0,42,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,The Anantmaya Resort,7695,3.5,38,"Naggar road, Shuru, Manali, 175131 India",175131,"3.5-star hotel in Manali with restaurant, conference center",1,0,42,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,The Anantmaya Resort,7695,3.5,38,"Naggar road, Shuru, Manali, 175131 India",175131,"3.5-star hotel in Manali with restaurant, conference center",1,0,42,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,The Anantmaya Resort,7695,3.5,38,"Naggar road, Shuru, Manali, 175131 India",175131,"3.5-star hotel in Manali with restaurant, conference center",1,0,42,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,The Anantmaya Resort,8695,3.5,38,"Naggar road, Shuru, Manali, 175131 India",175131,"3.5-star hotel in Manali with restaurant, conference center",1,0,42,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,The Anantmaya Resort,7695,3.5,38,"Naggar road, Shuru, Manali, 175131 India",175131,"3.5-star hotel in Manali with restaurant, conference center",1,0,42,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,The Anantmaya Resort,7695,3.5,38,"Naggar road, Shuru, Manali, 175131 India",175131,"3.5-star hotel in Manali with restaurant, conference center",1,0,42,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,The Anantmaya Resort,5595,3.5,38,"Naggar road, Shuru, Manali, 175131 India",175131,"3.5-star hotel in Manali with restaurant, conference center",1,0,42,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,Snow Valley Resorts,3560,3.5,41,"Log Hut Area, Manali, Himachal Pradesh",175131,"3.5-star hotel in Manali with restaurant, bar/lounge",1,1,52,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,Snow Valley Resorts,4449,3.5,41,"Log Hut Area, Manali, Himachal Pradesh",175131,"3.5-star hotel in Manali with restaurant, bar/lounge",1,1,52,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,Snow Valley Resorts,5086,3.5,41,"Log Hut Area, Manali, Himachal Pradesh",175131,"3.5-star hotel in Manali with restaurant, bar/lounge",1,1,52,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,Snow Valley Resorts,5086,3.5,41,"Log Hut Area, Manali, Himachal Pradesh",175131,"3.5-star hotel in Manali with restaurant, bar/lounge",1,1,52,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,Snow Valley Resorts,3668,3.5,41,"Log Hut Area, Manali, Himachal Pradesh",175131,"3.5-star hotel in Manali with restaurant, bar/lounge",1,1,52,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,Snow Valley Resorts,5086,3.5,41,"Log Hut Area, Manali, Himachal Pradesh",175131,"3.5-star hotel in Manali with restaurant, bar/lounge",1,1,52,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,Snow Valley Resorts,4449,3.5,41,"Log Hut Area, Manali, Himachal Pradesh",175131,"3.5-star hotel in Manali with restaurant, bar/lounge",1,1,52,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,Snow Valley Resorts,4449,3.5,41,"Log Hut Area, Manali, Himachal Pradesh",175131,"3.5-star hotel in Manali with restaurant, bar/lounge",1,1,52,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,Solang Valley Resort,9999,3.5,11,"V.P.O. Palchan, Manali, Dist. Kulu, Kullu, Himachal Pradesh, 175 131 India",175131,"3.5-star resort in Kullu with bar/lounge, conference center",1,1,68,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,Solang Valley Resort,9999,3.5,11,"V.P.O. Palchan, Manali, Dist. Kulu, Kullu, Himachal Pradesh, 175 131 India",175131,"3.5-star resort in Kullu with bar/lounge, conference center",1,1,68,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,Solang Valley Resort,9999,3.5,11,"V.P.O. Palchan, Manali, Dist. Kulu, Kullu, Himachal Pradesh, 175 131 India",175131,"3.5-star resort in Kullu with bar/lounge, conference center",1,1,68,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,Solang Valley Resort,9999,3.5,11,"V.P.O. Palchan, Manali, Dist. Kulu, Kullu, Himachal Pradesh, 175 131 India",175131,"3.5-star resort in Kullu with bar/lounge, conference center",1,1,68,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,Solang Valley Resort,11999,3.5,11,"V.P.O. Palchan, Manali, Dist. Kulu, Kullu, Himachal Pradesh, 175 131 India",175131,"3.5-star resort in Kullu with bar/lounge, conference center",1,1,68,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,Solang Valley Resort,11999,3.5,11,"V.P.O. Palchan, Manali, Dist. Kulu, Kullu, Himachal Pradesh, 175 131 India",175131,"3.5-star resort in Kullu with bar/lounge, conference center",1,1,68,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,Solang Valley Resort,11999,3.5,11,"V.P.O. Palchan, Manali, Dist. Kulu, Kullu, Himachal Pradesh, 175 131 India",175131,"3.5-star resort in Kullu with bar/lounge, conference center",1,1,68,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,Solang Valley Resort,8999,3.5,11,"V.P.O. Palchan, Manali, Dist. Kulu, Kullu, Himachal Pradesh, 175 131 India",175131,"3.5-star resort in Kullu with bar/lounge, conference center",1,1,68,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,Citrus Manali Resorts,4200,3.5,37,"Kullu Manali National Highway, District Kullu, Manali, Himachal Pradesh",175131,"Mountain resort in Manali with bar/lounge, conference center",1,0,112,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,Citrus Manali Resorts,2900,3.5,37,"Kullu Manali National Highway, District Kullu, Manali, Himachal Pradesh",175131,"Mountain resort in Manali with bar/lounge, conference center",1,0,112,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,Citrus Manali Resorts,7450,3.5,37,"Kullu Manali National Highway, District Kullu, Manali, Himachal Pradesh",175131,"Mountain resort in Manali with bar/lounge, conference center",1,0,112,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,Citrus Manali Resorts,7450,3.5,37,"Kullu Manali National Highway, District Kullu, Manali, Himachal Pradesh",175131,"Mountain resort in Manali with bar/lounge, conference center",1,0,112,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,Citrus Manali Resorts,7450,3.5,37,"Kullu Manali National Highway, District Kullu, Manali, Himachal Pradesh",175131,"Mountain resort in Manali with bar/lounge, conference center",1,0,112,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,Citrus Manali Resorts,7450,3.5,37,"Kullu Manali National Highway, District Kullu, Manali, Himachal Pradesh",175131,"Mountain resort in Manali with bar/lounge, conference center",1,0,112,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,Citrus Manali Resorts,4700,3.5,37,"Kullu Manali National Highway, District Kullu, Manali, Himachal Pradesh",175131,"Mountain resort in Manali with bar/lounge, conference center",1,0,112,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,Citrus Manali Resorts,4700,3.5,37,"Kullu Manali National Highway, District Kullu, Manali, Himachal Pradesh",175131,"Mountain resort in Manali with bar/lounge, conference center",1,0,112,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,OYO Premium Jagatsukh Valley,7678,4,52.7,"Shami Nala Jagatsukh, Naggar Road",175131,4-start hotel,1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,OYO Premium Jagatsukh Valley,4854,4,52.7,"Shami Nala Jagatsukh, Naggar Road",175131,4-start hotel,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,OYO Premium Jagatsukh Valley,8005,4,52.7,"Shami Nala Jagatsukh, Naggar Road",175131,4-start hotel,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,OYO Premium Jagatsukh Valley,8005,4,52.7,"Shami Nala Jagatsukh, Naggar Road",175131,4-start hotel,1,1,15,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,OYO Premium Jagatsukh Valley,6003,4,52.7,"Shami Nala Jagatsukh, Naggar Road",175131,4-start hotel,1,1,15,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,OYO Premium Jagatsukh Valley,8005,4,52.7,"Shami Nala Jagatsukh, Naggar Road",175131,4-start hotel,1,1,15,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,OYO Premium Jagatsukh Valley,12134,4,52.7,"Shami Nala Jagatsukh, Naggar Road",175131,4-start hotel,1,1,15,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,OYO Premium Jagatsukh Valley,7876,4,52.7,"Shami Nala Jagatsukh, Naggar Road",175131,4-start hotel,1,1,15,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,Vivaan The Sunrise Resort,4273,4,39,"Simsa-Kanyal Road, Kanyal Hills, Rangri, Manali, Himachal Pradesh, 175131, India",175131,3.5-star Manali hotel with restaurant,1,0,18,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,Vivaan The Sunrise Resort,4237,4,39,"Simsa-Kanyal Road, Kanyal Hills, Rangri, Manali, Himachal Pradesh, 175131, India",175131,3.5-star Manali hotel with restaurant,1,0,18,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,Vivaan The Sunrise Resort,4188,4,39,"Simsa-Kanyal Road, Kanyal Hills, Rangri, Manali, Himachal Pradesh, 175131, India",175131,3.5-star Manali hotel with restaurant,1,0,18,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,Vivaan The Sunrise Resort,4167,4,39,"Simsa-Kanyal Road, Kanyal Hills, Rangri, Manali, Himachal Pradesh, 175131, India",175131,3.5-star Manali hotel with restaurant,1,0,18,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,Vivaan The Sunrise Resort,4083,4,39,"Simsa-Kanyal Road, Kanyal Hills, Rangri, Manali, Himachal Pradesh, 175131, India",175131,3.5-star Manali hotel with restaurant,1,0,18,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,Vivaan The Sunrise Resort,3944,4,39,"Simsa-Kanyal Road, Kanyal Hills, Rangri, Manali, Himachal Pradesh, 175131, India",175131,3.5-star Manali hotel with restaurant,1,0,18,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,Vivaan The Sunrise Resort,2500,4,39,"Simsa-Kanyal Road, Kanyal Hills, Rangri, Manali, Himachal Pradesh, 175131, India",175131,3.5-star Manali hotel with restaurant,1,0,18,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,Vivaan The Sunrise Resort,2500,4,39,"Simsa-Kanyal Road, Kanyal Hills, Rangri, Manali, Himachal Pradesh, 175131, India",175131,3.5-star Manali hotel with restaurant,1,0,18,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,La Ri Sa Resort,5985,4,31,"Naggar- Manali Road, Distt Kullu, Manali, Himachal Pradesh",175136,"4-star resort in Manali with outdoor pool, restaurant",1,0,22,1
+Manali,8096,44,0,1,0,0,Dec 21 2016,La Ri Sa Resort,8500,4,31,"Naggar- Manali Road, Distt Kullu, Manali, Himachal Pradesh",175136,"4-star resort in Manali with outdoor pool, restaurant",1,0,22,1
+Manali,8096,44,0,1,1,0,Dec 24 2016,La Ri Sa Resort,8500,4,31,"Naggar- Manali Road, Distt Kullu, Manali, Himachal Pradesh",175136,"4-star resort in Manali with outdoor pool, restaurant",1,0,22,1
+Manali,8096,44,0,1,1,0,Dec 25 2016,La Ri Sa Resort,8500,4,31,"Naggar- Manali Road, Distt Kullu, Manali, Himachal Pradesh",175136,"4-star resort in Manali with outdoor pool, restaurant",1,0,22,1
+Manali,8096,44,0,1,0,0,Dec 28 2016,La Ri Sa Resort,8500,4,31,"Naggar- Manali Road, Distt Kullu, Manali, Himachal Pradesh",175136,"4-star resort in Manali with outdoor pool, restaurant",1,0,22,1
+Manali,8096,44,0,1,1,1,Dec 31 2016,La Ri Sa Resort,8500,4,31,"Naggar- Manali Road, Distt Kullu, Manali, Himachal Pradesh",175136,"4-star resort in Manali with outdoor pool, restaurant",1,0,22,1
+Manali,8096,44,0,1,0,0,Jan 04 2017,La Ri Sa Resort,8500,4,31,"Naggar- Manali Road, Distt Kullu, Manali, Himachal Pradesh",175136,"4-star resort in Manali with outdoor pool, restaurant",1,0,22,1
+Manali,8096,44,0,1,1,0,Jan 08 2017,La Ri Sa Resort,5985,4,31,"Naggar- Manali Road, Distt Kullu, Manali, Himachal Pradesh",175136,"4-star resort in Manali with outdoor pool, restaurant",1,0,22,1
+Manali,8096,44,0,1,1,0,Dec 18 2016,Summit Chandertal Regency & Spa,2200,4,38,"Naggar Road, Village Shuru, Near Green Tax Barrier, Manali, 175143, India",175143,"3.5-star hotel in Manali with restaurant, conference center",1,1,27,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,Summit Chandertal Regency & Spa,3000,4,38,"Naggar Road, Village Shuru, Near Green Tax Barrier, Manali, 175143, India",175143,"3.5-star hotel in Manali with restaurant, conference center",1,1,27,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,Summit Chandertal Regency & Spa,4200,4,38,"Naggar Road, Village Shuru, Near Green Tax Barrier, Manali, 175143, India",175143,"3.5-star hotel in Manali with restaurant, conference center",1,1,27,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,Summit Chandertal Regency & Spa,5000,4,38,"Naggar Road, Village Shuru, Near Green Tax Barrier, Manali, 175143, India",175143,"3.5-star hotel in Manali with restaurant, conference center",1,1,27,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,Summit Chandertal Regency & Spa,5200,4,38,"Naggar Road, Village Shuru, Near Green Tax Barrier, Manali, 175143, India",175143,"3.5-star hotel in Manali with restaurant, conference center",1,1,27,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,Summit Chandertal Regency & Spa,4600,4,38,"Naggar Road, Village Shuru, Near Green Tax Barrier, Manali, 175143, India",175143,"3.5-star hotel in Manali with restaurant, conference center",1,1,27,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,Summit Chandertal Regency & Spa,3200,4,38,"Naggar Road, Village Shuru, Near Green Tax Barrier, Manali, 175143, India",175143,"3.5-star hotel in Manali with restaurant, conference center",1,1,27,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,Summit Chandertal Regency & Spa,2200,4,38,"Naggar Road, Village Shuru, Near Green Tax Barrier, Manali, 175143, India",175143,"3.5-star hotel in Manali with restaurant, conference center",1,1,27,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,Hill Place Hotels,1340,4,42,"Mall Road, Dhungri Village, Opposite IOC Bus Stand, Manali, Himachal Pradesh, 175131 India",175131,"3.5-star hotel in Manali with 2 restaurants, spa",1,1,30,1
+Manali,8096,44,0,1,0,0,Dec 21 2016,Hill Place Hotels,1340,4,42,"Mall Road, Dhungri Village, Opposite IOC Bus Stand, Manali, Himachal Pradesh, 175131 India",175131,"3.5-star hotel in Manali with 2 restaurants, spa",1,1,30,1
+Manali,8096,44,0,1,1,0,Dec 24 2016,Hill Place Hotels,1340,4,42,"Mall Road, Dhungri Village, Opposite IOC Bus Stand, Manali, Himachal Pradesh, 175131 India",175131,"3.5-star hotel in Manali with 2 restaurants, spa",1,1,30,1
+Manali,8096,44,0,1,1,0,Dec 25 2016,Hill Place Hotels,1340,4,42,"Mall Road, Dhungri Village, Opposite IOC Bus Stand, Manali, Himachal Pradesh, 175131 India",175131,"3.5-star hotel in Manali with 2 restaurants, spa",1,1,30,1
+Manali,8096,44,0,1,0,0,Dec 28 2016,Hill Place Hotels,1248,4,42,"Mall Road, Dhungri Village, Opposite IOC Bus Stand, Manali, Himachal Pradesh, 175131 India",175131,"3.5-star hotel in Manali with 2 restaurants, spa",1,1,30,1
+Manali,8096,44,0,1,1,1,Dec 31 2016,Hill Place Hotels,1340,4,42,"Mall Road, Dhungri Village, Opposite IOC Bus Stand, Manali, Himachal Pradesh, 175131 India",175131,"3.5-star hotel in Manali with 2 restaurants, spa",1,1,30,1
+Manali,8096,44,0,1,0,0,Jan 04 2017,Hill Place Hotels,1248,4,42,"Mall Road, Dhungri Village, Opposite IOC Bus Stand, Manali, Himachal Pradesh, 175131 India",175131,"3.5-star hotel in Manali with 2 restaurants, spa",1,1,30,1
+Manali,8096,44,0,1,1,0,Jan 08 2017,Hill Place Hotels,1248,4,42,"Mall Road, Dhungri Village, Opposite IOC Bus Stand, Manali, Himachal Pradesh, 175131 India",175131,"3.5-star hotel in Manali with 2 restaurants, spa",1,1,30,1
+Manali,8096,44,0,1,1,0,Dec 18 2016,Club Mahindra Manali,4000,4,39,"Prini Village, Kullu District, Manali, Himachal Pradesh, 175131, India",175131,"4-star hotel in Manali with restaurant, bar/lounge",1,1,34,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,Club Mahindra Manali,4000,4,39,"Prini Village, Kullu District, Manali, Himachal Pradesh, 175131, India",175131,"4-star hotel in Manali with restaurant, bar/lounge",1,1,34,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,Club Mahindra Manali,4000,4,39,"Prini Village, Kullu District, Manali, Himachal Pradesh, 175131, India",175131,"4-star hotel in Manali with restaurant, bar/lounge",1,1,34,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,Club Mahindra Manali,4000,4,39,"Prini Village, Kullu District, Manali, Himachal Pradesh, 175131, India",175131,"4-star hotel in Manali with restaurant, bar/lounge",1,1,34,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,Club Mahindra Manali,4700,4,39,"Prini Village, Kullu District, Manali, Himachal Pradesh, 175131, India",175131,"4-star hotel in Manali with restaurant, bar/lounge",1,1,34,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,Club Mahindra Manali,4700,4,39,"Prini Village, Kullu District, Manali, Himachal Pradesh, 175131, India",175131,"4-star hotel in Manali with restaurant, bar/lounge",1,1,34,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,Club Mahindra Manali,4700,4,39,"Prini Village, Kullu District, Manali, Himachal Pradesh, 175131, India",175131,"4-star hotel in Manali with restaurant, bar/lounge",1,1,34,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,Club Mahindra Manali,4700,4,39,"Prini Village, Kullu District, Manali, Himachal Pradesh, 175131, India",175131,"4-star hotel in Manali with restaurant, bar/lounge",1,1,34,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,ShivAdya Resort & Spa,7600,4,32,"VPO, Karjan, Manali, 175136 India",175136,Manali upscale resort with restaurant,1,1,35,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,ShivAdya Resort & Spa,9000,4,32,"VPO, Karjan, Manali, 175136 India",175136,Manali upscale resort with restaurant,1,1,35,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,ShivAdya Resort & Spa,9000,4,32,"VPO, Karjan, Manali, 175136 India",175136,Manali upscale resort with restaurant,1,1,35,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,ShivAdya Resort & Spa,9000,4,32,"VPO, Karjan, Manali, 175136 India",175136,Manali upscale resort with restaurant,1,1,35,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,ShivAdya Resort & Spa,9000,4,32,"VPO, Karjan, Manali, 175136 India",175136,Manali upscale resort with restaurant,1,1,35,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,ShivAdya Resort & Spa,9000,4,32,"VPO, Karjan, Manali, 175136 India",175136,Manali upscale resort with restaurant,1,1,35,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,ShivAdya Resort & Spa,7600,4,32,"VPO, Karjan, Manali, 175136 India",175136,Manali upscale resort with restaurant,1,1,35,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,ShivAdya Resort & Spa,7600,4,32,"VPO, Karjan, Manali, 175136 India",175136,Manali upscale resort with restaurant,1,1,35,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,Apple Country Resorts - Manali,7223,4,43,"Log Huts Area Manali Dist Kullu H P, Manali, Himachal Pradesh, 175 131, India",175131,"Manali ski-in/ski-out resort with spa, ski rentals",1,1,39,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,Apple Country Resorts - Manali,7487,4,43,"Log Huts Area Manali Dist Kullu H P, Manali, Himachal Pradesh, 175 131, India",175131,"Manali ski-in/ski-out resort with spa, ski rentals",1,1,39,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,Apple Country Resorts - Manali,7419,4,43,"Log Huts Area Manali Dist Kullu H P, Manali, Himachal Pradesh, 175 131, India",175131,"Manali ski-in/ski-out resort with spa, ski rentals",1,1,39,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,Apple Country Resorts - Manali,7390,4,43,"Log Huts Area Manali Dist Kullu H P, Manali, Himachal Pradesh, 175 131, India",175131,"Manali ski-in/ski-out resort with spa, ski rentals",1,1,39,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,Apple Country Resorts - Manali,7275,4,43,"Log Huts Area Manali Dist Kullu H P, Manali, Himachal Pradesh, 175 131, India",175131,"Manali ski-in/ski-out resort with spa, ski rentals",1,1,39,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,Apple Country Resorts - Manali,7083,4,43,"Log Huts Area Manali Dist Kullu H P, Manali, Himachal Pradesh, 175 131, India",175131,"Manali ski-in/ski-out resort with spa, ski rentals",1,1,39,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,Apple Country Resorts - Manali,6170,4,43,"Log Huts Area Manali Dist Kullu H P, Manali, Himachal Pradesh, 175 131, India",175131,"Manali ski-in/ski-out resort with spa, ski rentals",1,1,39,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,Apple Country Resorts - Manali,5250,4,43,"Log Huts Area Manali Dist Kullu H P, Manali, Himachal Pradesh, 175 131, India",175131,"Manali ski-in/ski-out resort with spa, ski rentals",1,1,39,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,Manali Heights,3933,4,42,"Log Hut Area, Manali, Himachal Pradesh, 175131, India",175131,"Mountain hotel in Manali with health club, conference center",1,1,43,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,Manali Heights,4300,4,42,"Log Hut Area, Manali, Himachal Pradesh, 175131, India",175131,"Mountain hotel in Manali with health club, conference center",1,1,43,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,Manali Heights,4732,4,42,"Log Hut Area, Manali, Himachal Pradesh, 175131, India",175131,"Mountain hotel in Manali with health club, conference center",1,1,43,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,Manali Heights,4732,4,42,"Log Hut Area, Manali, Himachal Pradesh, 175131, India",175131,"Mountain hotel in Manali with health club, conference center",1,1,43,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,Manali Heights,4732,4,42,"Log Hut Area, Manali, Himachal Pradesh, 175131, India",175131,"Mountain hotel in Manali with health club, conference center",1,1,43,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,Manali Heights,4732,4,42,"Log Hut Area, Manali, Himachal Pradesh, 175131, India",175131,"Mountain hotel in Manali with health club, conference center",1,1,43,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,Manali Heights,3933,4,42,"Log Hut Area, Manali, Himachal Pradesh, 175131, India",175131,"Mountain hotel in Manali with health club, conference center",1,1,43,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,Manali Heights,3933,4,42,"Log Hut Area, Manali, Himachal Pradesh, 175131, India",175131,"Mountain hotel in Manali with health club, conference center",1,1,43,0
+Manali,8096,44,0,1,1,0,Dec 18 2016,Manuallaya The Resort Spa in the Himalayas,7666,5,41,"Sunny Side Chadiyari, Manali, Himachal Pradesh",175131,"Manali ski-in/ski-out resort with spa, indoor pool",0,1,55,0
+Manali,8096,44,0,1,0,0,Dec 21 2016,Manuallaya The Resort Spa in the Himalayas,9668,5,41,"Sunny Side Chadiyari, Manali, Himachal Pradesh",175131,"Manali ski-in/ski-out resort with spa, indoor pool",0,1,55,0
+Manali,8096,44,0,1,1,0,Dec 24 2016,Manuallaya The Resort Spa in the Himalayas,9668,5,41,"Sunny Side Chadiyari, Manali, Himachal Pradesh",175131,"Manali ski-in/ski-out resort with spa, indoor pool",0,1,55,0
+Manali,8096,44,0,1,1,0,Dec 25 2016,Manuallaya The Resort Spa in the Himalayas,9668,5,41,"Sunny Side Chadiyari, Manali, Himachal Pradesh",175131,"Manali ski-in/ski-out resort with spa, indoor pool",0,1,55,0
+Manali,8096,44,0,1,0,0,Dec 28 2016,Manuallaya The Resort Spa in the Himalayas,9668,5,41,"Sunny Side Chadiyari, Manali, Himachal Pradesh",175131,"Manali ski-in/ski-out resort with spa, indoor pool",0,1,55,0
+Manali,8096,44,0,1,1,1,Dec 31 2016,Manuallaya The Resort Spa in the Himalayas,9668,5,41,"Sunny Side Chadiyari, Manali, Himachal Pradesh",175131,"Manali ski-in/ski-out resort with spa, indoor pool",0,1,55,0
+Manali,8096,44,0,1,0,0,Jan 04 2017,Manuallaya The Resort Spa in the Himalayas,9668,5,41,"Sunny Side Chadiyari, Manali, Himachal Pradesh",175131,"Manali ski-in/ski-out resort with spa, indoor pool",0,1,55,0
+Manali,8096,44,0,1,1,0,Jan 08 2017,Manuallaya The Resort Spa in the Himalayas,7666,5,41,"Sunny Side Chadiyari, Manali, Himachal Pradesh",175131,"Manali ski-in/ski-out resort with spa, indoor pool",0,1,55,0

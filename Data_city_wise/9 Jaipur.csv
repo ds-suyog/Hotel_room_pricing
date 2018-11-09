@@ -1,0 +1,769 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,OYO Rooms Raja Park,851,3,7.7,"189A, Panchwati Circle, Lane no.- 1, Raja Park",302004,Jaipur hotel next to shopping,1,1,8,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,OYO Rooms Raja Park,851,3,7.7,"189A, Panchwati Circle, Lane no.- 1, Raja Park",302004,Jaipur hotel next to shopping,1,1,8,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,OYO Rooms Raja Park,1106,3,7.7,"189A, Panchwati Circle, Lane no.- 1, Raja Park",302004,Jaipur hotel next to shopping,1,1,8,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,OYO Rooms Raja Park,1106,3,7.7,"189A, Panchwati Circle, Lane no.- 1, Raja Park",302004,Jaipur hotel next to shopping,1,1,8,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,OYO Rooms Raja Park,1106,3,7.7,"189A, Panchwati Circle, Lane no.- 1, Raja Park",302004,Jaipur hotel next to shopping,1,1,8,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,OYO Rooms Raja Park,1106,3,7.7,"189A, Panchwati Circle, Lane no.- 1, Raja Park",302004,Jaipur hotel next to shopping,1,1,8,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,OYO Rooms Raja Park,1106,3,7.7,"189A, Panchwati Circle, Lane no.- 1, Raja Park",302004,Jaipur hotel next to shopping,1,1,8,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,OYO Rooms Raja Park,1106,3,7.7,"189A, Panchwati Circle, Lane no.- 1, Raja Park",302004,Jaipur hotel next to shopping,1,1,8,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Rawla Rawatsar,2000,3.5,12,"D-194-A Jagdish Marg, Bani Park, Behind Sindhi Camp bus station, Jaipur, Rajasthan, India",302016,3.5-star Jaipur B&B with restaurant,1,1,8,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Rawla Rawatsar,2000,3.5,12,"D-194-A Jagdish Marg, Bani Park, Behind Sindhi Camp bus station, Jaipur, Rajasthan, India",302016,3.5-star Jaipur B&B with restaurant,1,1,8,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Rawla Rawatsar,4300,3.5,12,"D-194-A Jagdish Marg, Bani Park, Behind Sindhi Camp bus station, Jaipur, Rajasthan, India",302016,3.5-star Jaipur B&B with restaurant,1,1,8,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Rawla Rawatsar,3900,3.5,12,"D-194-A Jagdish Marg, Bani Park, Behind Sindhi Camp bus station, Jaipur, Rajasthan, India",302016,3.5-star Jaipur B&B with restaurant,1,1,8,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Rawla Rawatsar,4300,3.5,12,"D-194-A Jagdish Marg, Bani Park, Behind Sindhi Camp bus station, Jaipur, Rajasthan, India",302016,3.5-star Jaipur B&B with restaurant,1,1,8,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Rawla Rawatsar,2000,3.5,12,"D-194-A Jagdish Marg, Bani Park, Behind Sindhi Camp bus station, Jaipur, Rajasthan, India",302016,3.5-star Jaipur B&B with restaurant,1,1,8,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Rawla Rawatsar,2000,3.5,12,"D-194-A Jagdish Marg, Bani Park, Behind Sindhi Camp bus station, Jaipur, Rajasthan, India",302016,3.5-star Jaipur B&B with restaurant,1,1,8,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Rawla Rawatsar,2000,3.5,12,"D-194-A Jagdish Marg, Bani Park, Behind Sindhi Camp bus station, Jaipur, Rajasthan, India",302016,3.5-star Jaipur B&B with restaurant,1,1,8,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Gitanjali Jaipur,3200,3,11,"D-98 Pawan Path, Hanuman Nagar, Vaishali Nagar",302021,"3-star hotel in Jaipur with restaurant, conference center",1,0,14,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Gitanjali Jaipur,3200,3,11,"D-98 Pawan Path, Hanuman Nagar, Vaishali Nagar",302021,"3-star hotel in Jaipur with restaurant, conference center",1,0,14,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Gitanjali Jaipur,3620,3,11,"D-98 Pawan Path, Hanuman Nagar, Vaishali Nagar",302021,"3-star hotel in Jaipur with restaurant, conference center",1,0,14,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Gitanjali Jaipur,3620,3,11,"D-98 Pawan Path, Hanuman Nagar, Vaishali Nagar",302021,"3-star hotel in Jaipur with restaurant, conference center",1,0,14,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Gitanjali Jaipur,3620,3,11,"D-98 Pawan Path, Hanuman Nagar, Vaishali Nagar",302021,"3-star hotel in Jaipur with restaurant, conference center",1,0,14,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Gitanjali Jaipur,3620,3,11,"D-98 Pawan Path, Hanuman Nagar, Vaishali Nagar",302021,"3-star hotel in Jaipur with restaurant, conference center",1,0,14,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Gitanjali Jaipur,4500,3,11,"D-98 Pawan Path, Hanuman Nagar, Vaishali Nagar",302021,"3-star hotel in Jaipur with restaurant, conference center",1,0,14,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Gitanjali Jaipur,3000,3,11,"D-98 Pawan Path, Hanuman Nagar, Vaishali Nagar",302021,"3-star hotel in Jaipur with restaurant, conference center",1,0,14,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,The Gateway Hotel Ramgarh,21000,4,35,"The Ramgarh Lake,Jamwa Ramgarh",303109,"4-star hotel in Gop?lgarh with outdoor pool, restaurant",1,0,14,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,The Gateway Hotel Ramgarh,21000,4,35,"The Ramgarh Lake,Jamwa Ramgarh",303109,"4-star hotel in Gop?lgarh with outdoor pool, restaurant",1,0,14,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,The Gateway Hotel Ramgarh,21000,4,35,"The Ramgarh Lake,Jamwa Ramgarh",303109,"4-star hotel in Gop?lgarh with outdoor pool, restaurant",1,0,14,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,The Gateway Hotel Ramgarh,21000,4,35,"The Ramgarh Lake,Jamwa Ramgarh",303109,"4-star hotel in Gop?lgarh with outdoor pool, restaurant",1,0,14,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,The Gateway Hotel Ramgarh,21000,4,35,"The Ramgarh Lake,Jamwa Ramgarh",303109,"4-star hotel in Gop?lgarh with outdoor pool, restaurant",1,0,14,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,The Gateway Hotel Ramgarh,21000,4,35,"The Ramgarh Lake,Jamwa Ramgarh",303109,"4-star hotel in Gop?lgarh with outdoor pool, restaurant",1,0,14,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,The Gateway Hotel Ramgarh,21000,4,35,"The Ramgarh Lake,Jamwa Ramgarh",303109,"4-star hotel in Gop?lgarh with outdoor pool, restaurant",1,0,14,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,The Gateway Hotel Ramgarh,10000,4,35,"The Ramgarh Lake,Jamwa Ramgarh",303109,"4-star hotel in Gop?lgarh with outdoor pool, restaurant",1,0,14,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Oyo premiuim Delhi Jaipur Highway,2128,3,27.2,"Opp. Golden Petrol Pump, Peepliyon ki dhaani, Kunda, Amer",302028,"3-star hotel in Amer with restaurant, conference center",1,1,15,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Oyo premiuim Delhi Jaipur Highway,2554,3,27.2,"Opp. Golden Petrol Pump, Peepliyon ki dhaani, Kunda, Amer",302028,"3-star hotel in Amer with restaurant, conference center",1,1,15,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Oyo premiuim Delhi Jaipur Highway,4683,3,27.2,"Opp. Golden Petrol Pump, Peepliyon ki dhaani, Kunda, Amer",302028,"3-star hotel in Amer with restaurant, conference center",1,1,15,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Oyo premiuim Delhi Jaipur Highway,4683,3,27.2,"Opp. Golden Petrol Pump, Peepliyon ki dhaani, Kunda, Amer",302028,"3-star hotel in Amer with restaurant, conference center",1,1,15,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Oyo premiuim Delhi Jaipur Highway,4641,3,27.2,"Opp. Golden Petrol Pump, Peepliyon ki dhaani, Kunda, Amer",302028,"3-star hotel in Amer with restaurant, conference center",1,1,15,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Oyo premiuim Delhi Jaipur Highway,4641,3,27.2,"Opp. Golden Petrol Pump, Peepliyon ki dhaani, Kunda, Amer",302028,"3-star hotel in Amer with restaurant, conference center",1,1,15,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Oyo premiuim Delhi Jaipur Highway,7663,3,27.2,"Opp. Golden Petrol Pump, Peepliyon ki dhaani, Kunda, Amer",302028,"3-star hotel in Amer with restaurant, conference center",1,1,15,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Oyo premiuim Delhi Jaipur Highway,7663,3,27.2,"Opp. Golden Petrol Pump, Peepliyon ki dhaani, Kunda, Amer",302028,"3-star hotel in Amer with restaurant, conference center",1,1,15,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,OYO Premium Bani Park,5194,3,11,"D-251, Near Collectorate Circle, Devi Marg, Jaipur, India",302016,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,OYO Premium Bani Park,5194,3,11,"D-251, Near Collectorate Circle, Devi Marg, Jaipur, India",302016,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,OYO Premium Bani Park,13518,3,11,"D-251, Near Collectorate Circle, Devi Marg, Jaipur, India",302016,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,OYO Premium Bani Park,13518,3,11,"D-251, Near Collectorate Circle, Devi Marg, Jaipur, India",302016,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,OYO Premium Bani Park,13518,3,11,"D-251, Near Collectorate Circle, Devi Marg, Jaipur, India",302016,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,OYO Premium Bani Park,13518,3,11,"D-251, Near Collectorate Circle, Devi Marg, Jaipur, India",302016,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,OYO Premium Bani Park,13518,3,11,"D-251, Near Collectorate Circle, Devi Marg, Jaipur, India",302016,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,OYO Premium Bani Park,13518,3,11,"D-251, Near Collectorate Circle, Devi Marg, Jaipur, India",302016,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,OYO Premium Malviya Nagar JLN Marg,2384,3,2.7,"D-359, Near Gaurav Tower, Malviya Nagar",302017,"3-star hotel in Jaipur with restaurant, bar/lounge",1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,OYO Premium Malviya Nagar JLN Marg,2384,3,2.7,"D-359, Near Gaurav Tower, Malviya Nagar",302018,"3-star hotel in Jaipur with restaurant, bar/lounge",1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,OYO Premium Malviya Nagar JLN Marg,3832,3,2.7,"D-359, Near Gaurav Tower, Malviya Nagar",302019,"3-star hotel in Jaipur with restaurant, bar/lounge",1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,OYO Premium Malviya Nagar JLN Marg,3832,3,2.7,"D-359, Near Gaurav Tower, Malviya Nagar",302020,"3-star hotel in Jaipur with restaurant, bar/lounge",1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,OYO Premium Malviya Nagar JLN Marg,3832,3,2.7,"D-359, Near Gaurav Tower, Malviya Nagar",302021,"3-star hotel in Jaipur with restaurant, bar/lounge",1,1,15,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,OYO Premium Malviya Nagar JLN Marg,4789,3,2.7,"D-359, Near Gaurav Tower, Malviya Nagar",302022,"3-star hotel in Jaipur with restaurant, bar/lounge",1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,OYO Premium Malviya Nagar JLN Marg,6172,3,2.7,"D-359, Near Gaurav Tower, Malviya Nagar",302023,"3-star hotel in Jaipur with restaurant, bar/lounge",1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,OYO Premium Malviya Nagar JLN Marg,6172,3,2.7,"D-359, Near Gaurav Tower, Malviya Nagar",302024,"3-star hotel in Jaipur with restaurant, bar/lounge",1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,OYO Premium World Trade Park,2895,3,2.6,"Adinath Nagar, JLN Marg Sanyam Marg",302018,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,OYO Premium World Trade Park,2895,3,2.6,"Adinath Nagar, JLN Marg Sanyam Marg",302019,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,OYO Premium World Trade Park,4598,3,2.6,"Adinath Nagar, JLN Marg Sanyam Marg",302020,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,OYO Premium World Trade Park,4598,3,2.6,"Adinath Nagar, JLN Marg Sanyam Marg",302021,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,OYO Premium World Trade Park,4598,3,2.6,"Adinath Nagar, JLN Marg Sanyam Marg",302022,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,OYO Premium World Trade Park,5748,3,2.6,"Adinath Nagar, JLN Marg Sanyam Marg",302023,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,OYO Premium World Trade Park,7556,3,2.6,"Adinath Nagar, JLN Marg Sanyam Marg",302024,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,OYO Premium World Trade Park,7556,3,2.6,"Adinath Nagar, JLN Marg Sanyam Marg",302025,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,OYO Rooms Aatish Market,1277,3,7.1,"Opp Metro Pillar 57, Gopalpura Bypass, New Aatish Market Metro Station",302019,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,OYO Rooms Aatish Market,1021,3,7.1,"Opp Metro Pillar 57, Gopalpura Bypass, New Aatish Market Metro Station",302019,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,OYO Rooms Aatish Market,1277,3,7.1,"Opp Metro Pillar 57, Gopalpura Bypass, New Aatish Market Metro Station",302019,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,OYO Rooms Aatish Market,1277,3,7.1,"Opp Metro Pillar 57, Gopalpura Bypass, New Aatish Market Metro Station",302019,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,OYO Rooms Aatish Market,1277,3,7.1,"Opp Metro Pillar 57, Gopalpura Bypass, New Aatish Market Metro Station",302019,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,OYO Rooms Aatish Market,1277,3,7.1,"Opp Metro Pillar 57, Gopalpura Bypass, New Aatish Market Metro Station",302019,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,OYO Rooms Aatish Market,1277,3,7.1,"Opp Metro Pillar 57, Gopalpura Bypass, New Aatish Market Metro Station",302019,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,OYO Rooms Aatish Market,1277,3,7.1,"Opp Metro Pillar 57, Gopalpura Bypass, New Aatish Market Metro Station",302019,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,OYO Rooms Bani Park Shri Ram Marg,4895,3,11,"Plot no A-1, Near Collectorate Circle, Kabir Marg, Barodia",302016,Bani Park hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,OYO Rooms Bani Park Shri Ram Marg,1788,3,11,"Plot no A-1, Near Collectorate Circle, Kabir Marg, Barodia",302016,Bani Park hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,OYO Rooms Bani Park Shri Ram Marg,2980,3,11,"Plot no A-1, Near Collectorate Circle, Kabir Marg, Barodia",302016,Bani Park hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,OYO Rooms Bani Park Shri Ram Marg,2980,3,11,"Plot no A-1, Near Collectorate Circle, Kabir Marg, Barodia",302016,Bani Park hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,OYO Rooms Bani Park Shri Ram Marg,2980,3,11,"Plot no A-1, Near Collectorate Circle, Kabir Marg, Barodia",302016,Bani Park hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,OYO Rooms Bani Park Shri Ram Marg,4895,3,11,"Plot no A-1, Near Collectorate Circle, Kabir Marg, Barodia",302016,Bani Park hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,OYO Rooms Bani Park Shri Ram Marg,4895,3,11,"Plot no A-1, Near Collectorate Circle, Kabir Marg, Barodia",302016,Bani Park hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,OYO Rooms Bani Park Shri Ram Marg,4895,3,11,"Plot no A-1, Near Collectorate Circle, Kabir Marg, Barodia",302016,Bani Park hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,OYO Rooms Gopalpura Flyover Tonk Road,1788,3,4,"A-211, Himmat Nagar, Gopalpura Mod, Jaipur",302018,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,OYO Rooms Gopalpura Flyover Tonk Road,1788,3,4,"A-211, Himmat Nagar, Gopalpura Mod, Jaipur",302018,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,OYO Rooms Gopalpura Flyover Tonk Road,1788,3,4,"A-211, Himmat Nagar, Gopalpura Mod, Jaipur",302018,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,OYO Rooms Gopalpura Flyover Tonk Road,1788,3,4,"A-211, Himmat Nagar, Gopalpura Mod, Jaipur",302018,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,OYO Rooms Gopalpura Flyover Tonk Road,1788,3,4,"A-211, Himmat Nagar, Gopalpura Mod, Jaipur",302018,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,OYO Rooms Gopalpura Flyover Tonk Road,1788,3,4,"A-211, Himmat Nagar, Gopalpura Mod, Jaipur",302018,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,OYO Rooms Gopalpura Flyover Tonk Road,4896,3,4,"A-211, Himmat Nagar, Gopalpura Mod, Jaipur",302018,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,OYO Rooms Gopalpura Flyover Tonk Road,4896,3,4,"A-211, Himmat Nagar, Gopalpura Mod, Jaipur",302018,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,OYO Rooms Khole Ke Hanuman Ji,2086,3,16.5,"Opposite to Khole ke Hanuman ji Mandir, Delhi Bypass Road, Jaipur",302002,3-star Jaipur hotel with restaurant,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,OYO Rooms Khole Ke Hanuman Ji,2086,3,16.5,"Opposite to Khole ke Hanuman ji Mandir, Delhi Bypass Road, Jaipur",302002,3-star Jaipur hotel with restaurant,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,OYO Rooms Khole Ke Hanuman Ji,2086,3,16.5,"Opposite to Khole ke Hanuman ji Mandir, Delhi Bypass Road, Jaipur",302002,3-star Jaipur hotel with restaurant,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,OYO Rooms Khole Ke Hanuman Ji,2086,3,16.5,"Opposite to Khole ke Hanuman ji Mandir, Delhi Bypass Road, Jaipur",302002,3-star Jaipur hotel with restaurant,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,OYO Rooms Khole Ke Hanuman Ji,2299,3,16.5,"Opposite to Khole ke Hanuman ji Mandir, Delhi Bypass Road, Jaipur",302002,3-star Jaipur hotel with restaurant,1,1,15,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,OYO Rooms Khole Ke Hanuman Ji,5427,3,16.5,"Opposite to Khole ke Hanuman ji Mandir, Delhi Bypass Road, Jaipur",302002,3-star Jaipur hotel with restaurant,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,OYO Rooms Khole Ke Hanuman Ji,5427,3,16.5,"Opposite to Khole ke Hanuman ji Mandir, Delhi Bypass Road, Jaipur",302002,3-star Jaipur hotel with restaurant,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,OYO Rooms Khole Ke Hanuman Ji,5427,3,16.5,"Opposite to Khole ke Hanuman ji Mandir, Delhi Bypass Road, Jaipur",302002,3-star Jaipur hotel with restaurant,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,OYO Rooms Shanti Path Jawahar Nagar,1617,3,7.6,"D-33,Patrakar Colony, Shanti Path",302004,3-star Jaipur hotel with restaurant,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,OYO Rooms Shanti Path Jawahar Nagar,1617,3,7.6,"D-33,Patrakar Colony, Shanti Path",302004,3-star Jaipur hotel with restaurant,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,OYO Rooms Shanti Path Jawahar Nagar,5214,3,7.6,"D-33,Patrakar Colony, Shanti Path",302004,3-star Jaipur hotel with restaurant,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,OYO Rooms Shanti Path Jawahar Nagar,3193,3,7.6,"D-33,Patrakar Colony, Shanti Path",302004,3-star Jaipur hotel with restaurant,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,OYO Rooms Shanti Path Jawahar Nagar,3193,3,7.6,"D-33,Patrakar Colony, Shanti Path",302004,3-star Jaipur hotel with restaurant,1,1,15,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,OYO Rooms Shanti Path Jawahar Nagar,3991,3,7.6,"D-33,Patrakar Colony, Shanti Path",302004,3-star Jaipur hotel with restaurant,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,OYO Rooms Shanti Path Jawahar Nagar,5214,3,7.6,"D-33,Patrakar Colony, Shanti Path",302004,3-star Jaipur hotel with restaurant,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,OYO Rooms Shanti Path Jawahar Nagar,5214,3,7.6,"D-33,Patrakar Colony, Shanti Path",302004,3-star Jaipur hotel with restaurant,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,OYO Rooms Tonk Phatak,1862,3,6,"N-1, Lal Kothi District Shopping Centre, Laxmi Mandir, Shankar Marg, Tonk Rd, Jaipur",302015,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,OYO Rooms Tonk Phatak,1862,3,6,"N-1, Lal Kothi District Shopping Centre, Laxmi Mandir, Shankar Marg, Tonk Rd, Jaipur",302015,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,OYO Rooms Tonk Phatak,1862,3,6,"N-1, Lal Kothi District Shopping Centre, Laxmi Mandir, Shankar Marg, Tonk Rd, Jaipur",302015,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,OYO Rooms Tonk Phatak,1862,3,6,"N-1, Lal Kothi District Shopping Centre, Laxmi Mandir, Shankar Marg, Tonk Rd, Jaipur",302015,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,OYO Rooms Tonk Phatak,1862,3,6,"N-1, Lal Kothi District Shopping Centre, Laxmi Mandir, Shankar Marg, Tonk Rd, Jaipur",302015,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,OYO Rooms Tonk Phatak,1862,3,6,"N-1, Lal Kothi District Shopping Centre, Laxmi Mandir, Shankar Marg, Tonk Rd, Jaipur",302015,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,OYO Rooms Tonk Phatak,5959,3,6,"N-1, Lal Kothi District Shopping Centre, Laxmi Mandir, Shankar Marg, Tonk Rd, Jaipur",302015,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,OYO Rooms Tonk Phatak,5959,3,6,"N-1, Lal Kothi District Shopping Centre, Laxmi Mandir, Shankar Marg, Tonk Rd, Jaipur",302015,Jaipur hotel next to shopping,1,1,15,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Hotel Satkar,937,2,11,"187, barodia, Scheme, Banipark, Jaipur, Rajasthan,  India",302006,City-center hotel in Jaipur,0,0,18,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Hotel Satkar,937,2,11,"187, barodia, Scheme, Banipark, Jaipur, Rajasthan,  India",302006,City-center hotel in Jaipur,0,0,18,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Hotel Satkar,937,2,11,"187, barodia, Scheme, Banipark, Jaipur, Rajasthan,  India",302006,City-center hotel in Jaipur,0,0,18,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Hotel Satkar,937,2,11,"187, barodia, Scheme, Banipark, Jaipur, Rajasthan,  India",302006,City-center hotel in Jaipur,0,0,18,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Hotel Satkar,937,2,11,"187, barodia, Scheme, Banipark, Jaipur, Rajasthan,  India",302006,City-center hotel in Jaipur,0,0,18,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Hotel Satkar,937,2,11,"187, barodia, Scheme, Banipark, Jaipur, Rajasthan,  India",302006,City-center hotel in Jaipur,0,0,18,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Hotel Satkar,937,2,11,"187, barodia, Scheme, Banipark, Jaipur, Rajasthan,  India",302006,City-center hotel in Jaipur,0,0,18,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Hotel Satkar,896,2,11,"187, barodia, Scheme, Banipark, Jaipur, Rajasthan,  India",302006,City-center hotel in Jaipur,0,0,18,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Dera Rawatsar,4000,3,11,"D-194/C, Vijay Path, Bani Park, Jaipur, Rajasthan, India",302016,"3-star inn in Bani Park with outdoor pool, restaurant",1,1,19,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Dera Rawatsar,4500,3,11,"D-194/C, Vijay Path, Bani Park, Jaipur, Rajasthan, India",302016,"3-star inn in Bani Park with outdoor pool, restaurant",1,1,19,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Dera Rawatsar,4500,3,11,"D-194/C, Vijay Path, Bani Park, Jaipur, Rajasthan, India",302016,"3-star inn in Bani Park with outdoor pool, restaurant",1,1,19,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Dera Rawatsar,5500,3,11,"D-194/C, Vijay Path, Bani Park, Jaipur, Rajasthan, India",302016,"3-star inn in Bani Park with outdoor pool, restaurant",1,1,19,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Dera Rawatsar,5500,3,11,"D-194/C, Vijay Path, Bani Park, Jaipur, Rajasthan, India",302016,"3-star inn in Bani Park with outdoor pool, restaurant",1,1,19,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Dera Rawatsar,5500,3,11,"D-194/C, Vijay Path, Bani Park, Jaipur, Rajasthan, India",302016,"3-star inn in Bani Park with outdoor pool, restaurant",1,1,19,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Dera Rawatsar,4500,3,11,"D-194/C, Vijay Path, Bani Park, Jaipur, Rajasthan, India",302016,"3-star inn in Bani Park with outdoor pool, restaurant",1,1,19,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Dera Rawatsar,4500,3,11,"D-194/C, Vijay Path, Bani Park, Jaipur, Rajasthan, India",302016,"3-star inn in Bani Park with outdoor pool, restaurant",1,1,19,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Hotel Golden Deluxe,1500,2,11,"17-18 Kanti Nagar,Hathi Babbu Ka Ahhta, Opp.Polovictory Cinema Hall Station Road, Jaipur, Rajasthan, India",302016,No-frills hotel in Bani Park with restaurant,1,0,19,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Hotel Golden Deluxe,1500,2,11,"17-18 Kanti Nagar,Hathi Babbu Ka Ahhta, Opp.Polovictory Cinema Hall Station Road, Jaipur, Rajasthan, India",302016,No-frills hotel in Bani Park with restaurant,1,0,19,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Hotel Golden Deluxe,1500,2,11,"17-18 Kanti Nagar,Hathi Babbu Ka Ahhta, Opp.Polovictory Cinema Hall Station Road, Jaipur, Rajasthan, India",302016,No-frills hotel in Bani Park with restaurant,1,0,19,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Hotel Golden Deluxe,1500,2,11,"17-18 Kanti Nagar,Hathi Babbu Ka Ahhta, Opp.Polovictory Cinema Hall Station Road, Jaipur, Rajasthan, India",302016,No-frills hotel in Bani Park with restaurant,1,0,19,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Hotel Golden Deluxe,1500,2,11,"17-18 Kanti Nagar,Hathi Babbu Ka Ahhta, Opp.Polovictory Cinema Hall Station Road, Jaipur, Rajasthan, India",302016,No-frills hotel in Bani Park with restaurant,1,0,19,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Hotel Golden Deluxe,1500,2,11,"17-18 Kanti Nagar,Hathi Babbu Ka Ahhta, Opp.Polovictory Cinema Hall Station Road, Jaipur, Rajasthan, India",302016,No-frills hotel in Bani Park with restaurant,1,0,19,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Hotel Golden Deluxe,1200,2,11,"17-18 Kanti Nagar,Hathi Babbu Ka Ahhta, Opp.Polovictory Cinema Hall Station Road, Jaipur, Rajasthan, India",302016,No-frills hotel in Bani Park with restaurant,1,0,19,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Hotel Golden Deluxe,1200,2,11,"17-18 Kanti Nagar,Hathi Babbu Ka Ahhta, Opp.Polovictory Cinema Hall Station Road, Jaipur, Rajasthan, India",302016,No-frills hotel in Bani Park with restaurant,1,0,19,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Hotel Vimal Heritage,2300,3,11,"148, A/2 Durga Marg, Bani Park, Jaipur, Rajasthan,  India",302016,"3-star hotel in Bani Park with 2 restaurants, outdoor pool",1,1,20,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Hotel Vimal Heritage,2200,3,11,"148, A/2 Durga Marg, Bani Park, Jaipur, Rajasthan,  India",302016,"3-star hotel in Bani Park with 2 restaurants, outdoor pool",1,1,20,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Hotel Vimal Heritage,2800,3,11,"148, A/2 Durga Marg, Bani Park, Jaipur, Rajasthan,  India",302016,"3-star hotel in Bani Park with 2 restaurants, outdoor pool",1,1,20,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Hotel Vimal Heritage,2800,3,11,"148, A/2 Durga Marg, Bani Park, Jaipur, Rajasthan,  India",302016,"3-star hotel in Bani Park with 2 restaurants, outdoor pool",1,1,20,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Hotel Vimal Heritage,2800,3,11,"148, A/2 Durga Marg, Bani Park, Jaipur, Rajasthan,  India",302016,"3-star hotel in Bani Park with 2 restaurants, outdoor pool",1,1,20,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Hotel Vimal Heritage,2800,3,11,"148, A/2 Durga Marg, Bani Park, Jaipur, Rajasthan,  India",302016,"3-star hotel in Bani Park with 2 restaurants, outdoor pool",1,1,20,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Hotel Vimal Heritage,2200,3,11,"148, A/2 Durga Marg, Bani Park, Jaipur, Rajasthan,  India",302016,"3-star hotel in Bani Park with 2 restaurants, outdoor pool",1,1,20,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Hotel Vimal Heritage,2800,3,11,"148, A/2 Durga Marg, Bani Park, Jaipur, Rajasthan,  India",302016,"3-star hotel in Bani Park with 2 restaurants, outdoor pool",1,1,20,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Jaipur Inn,1200,2.5,13.6,"Shiv Marg Bani Park, Jaipur,",302016,City-center Bani Park hotel with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Jaipur Inn,1500,2.5,13.6,"Shiv Marg Bani Park, Jaipur,",302016,City-center Bani Park hotel with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Jaipur Inn,1500,2.5,13.6,"Shiv Marg Bani Park, Jaipur,",302016,City-center Bani Park hotel with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Jaipur Inn,1500,2.5,13.6,"Shiv Marg Bani Park, Jaipur,",302016,City-center Bani Park hotel with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Jaipur Inn,1500,2.5,13.6,"Shiv Marg Bani Park, Jaipur,",302016,City-center Bani Park hotel with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Jaipur Inn,1500,2.5,13.6,"Shiv Marg Bani Park, Jaipur,",302016,City-center Bani Park hotel with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Jaipur Inn,1500,2.5,13.6,"Shiv Marg Bani Park, Jaipur,",302016,City-center Bani Park hotel with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Jaipur Inn,1500,2.5,13.6,"Shiv Marg Bani Park, Jaipur,",302016,City-center Bani Park hotel with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Royal Aashiyana,727,2.5,13.7,"Barodia, Kabir Marg, Bani Park, Jaipur",302016,No-frills hotel in Bani Park with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Royal Aashiyana,727,2.5,13.7,"Barodia, Kabir Marg, Bani Park, Jaipur",302016,No-frills hotel in Bani Park with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Royal Aashiyana,909,2.5,13.7,"Barodia, Kabir Marg, Bani Park, Jaipur",302016,No-frills hotel in Bani Park with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Royal Aashiyana,909,2.5,13.7,"Barodia, Kabir Marg, Bani Park, Jaipur",302016,No-frills hotel in Bani Park with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Royal Aashiyana,909,2.5,13.7,"Barodia, Kabir Marg, Bani Park, Jaipur",302016,No-frills hotel in Bani Park with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Royal Aashiyana,909,2.5,13.7,"Barodia, Kabir Marg, Bani Park, Jaipur",302016,No-frills hotel in Bani Park with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Royal Aashiyana,727,2.5,13.7,"Barodia, Kabir Marg, Bani Park, Jaipur",302016,No-frills hotel in Bani Park with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Royal Aashiyana,727,2.5,13.7,"Barodia, Kabir Marg, Bani Park, Jaipur",302016,No-frills hotel in Bani Park with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Royal Aashiyana Palace Hotel,655,2.5,11,"3-A, ”Anand-Kunj”, Barodia, Kabir Marg, Bani Park, Jaipur, Rajasthan, India",302016,No-frills hotel in Bani Park with restaurant,1,0,20,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Royal Aashiyana Palace Hotel,655,2.5,11,"3-A, ”Anand-Kunj”, Barodia, Kabir Marg, Bani Park, Jaipur, Rajasthan, India",302016,No-frills hotel in Bani Park with restaurant,1,0,20,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Royal Aashiyana Palace Hotel,909,2.5,11,"3-A, ”Anand-Kunj”, Barodia, Kabir Marg, Bani Park, Jaipur, Rajasthan, India",302016,No-frills hotel in Bani Park with restaurant,1,0,20,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Royal Aashiyana Palace Hotel,909,2.5,11,"3-A, ”Anand-Kunj”, Barodia, Kabir Marg, Bani Park, Jaipur, Rajasthan, India",302016,No-frills hotel in Bani Park with restaurant,1,0,20,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Royal Aashiyana Palace Hotel,909,2.5,11,"3-A, ”Anand-Kunj”, Barodia, Kabir Marg, Bani Park, Jaipur, Rajasthan, India",302016,No-frills hotel in Bani Park with restaurant,1,0,20,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Royal Aashiyana Palace Hotel,909,2.5,11,"3-A, ”Anand-Kunj”, Barodia, Kabir Marg, Bani Park, Jaipur, Rajasthan, India",302016,No-frills hotel in Bani Park with restaurant,1,0,20,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Royal Aashiyana Palace Hotel,655,2.5,11,"3-A, ”Anand-Kunj”, Barodia, Kabir Marg, Bani Park, Jaipur, Rajasthan, India",302016,No-frills hotel in Bani Park with restaurant,1,0,20,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Royal Aashiyana Palace Hotel,491,2.5,11,"3-A, ”Anand-Kunj”, Barodia, Kabir Marg, Bani Park, Jaipur, Rajasthan, India",302016,No-frills hotel in Bani Park with restaurant,1,0,20,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Treebo Woodsvilla Suites,3448,3,6.8,"B - 136 A, Rajendra Marg, Bapu Nagar, Near Janta Store Crossing",302015,3-star Jaipur hotel with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Treebo Woodsvilla Suites,3448,3,6.8,"B - 136 A, Rajendra Marg, Bapu Nagar, Near Janta Store Crossing",302015,3-star Jaipur hotel with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Treebo Woodsvilla Suites,3448,3,6.8,"B - 136 A, Rajendra Marg, Bapu Nagar, Near Janta Store Crossing",302015,3-star Jaipur hotel with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Treebo Woodsvilla Suites,3448,3,6.8,"B - 136 A, Rajendra Marg, Bapu Nagar, Near Janta Store Crossing",302015,3-star Jaipur hotel with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Treebo Woodsvilla Suites,3448,3,6.8,"B - 136 A, Rajendra Marg, Bapu Nagar, Near Janta Store Crossing",302015,3-star Jaipur hotel with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Treebo Woodsvilla Suites,3448,3,6.8,"B - 136 A, Rajendra Marg, Bapu Nagar, Near Janta Store Crossing",302015,3-star Jaipur hotel with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Treebo Woodsvilla Suites,2183,3,6.8,"B - 136 A, Rajendra Marg, Bapu Nagar, Near Janta Store Crossing",302015,3-star Jaipur hotel with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Treebo Woodsvilla Suites,2183,3,6.8,"B - 136 A, Rajendra Marg, Bapu Nagar, Near Janta Store Crossing",302015,3-star Jaipur hotel with restaurant,1,1,20,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Anuraag Villa,1200,3,11,"D-249 Devi Marg, Bani Park, Jaipur, Rajasthan, India",302016,3-star hotel in Jaipur,1,0,21,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Anuraag Villa,1200,3,11,"D-249 Devi Marg, Bani Park, Jaipur, Rajasthan, India",302016,3-star hotel in Jaipur,1,0,21,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Anuraag Villa,2200,3,11,"D-249 Devi Marg, Bani Park, Jaipur, Rajasthan, India",302016,3-star hotel in Jaipur,1,0,21,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Anuraag Villa,2200,3,11,"D-249 Devi Marg, Bani Park, Jaipur, Rajasthan, India",302016,3-star hotel in Jaipur,1,0,21,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Anuraag Villa,2200,3,11,"D-249 Devi Marg, Bani Park, Jaipur, Rajasthan, India",302016,3-star hotel in Jaipur,1,0,21,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Anuraag Villa,2200,3,11,"D-249 Devi Marg, Bani Park, Jaipur, Rajasthan, India",302016,3-star hotel in Jaipur,1,0,21,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Anuraag Villa,1200,3,11,"D-249 Devi Marg, Bani Park, Jaipur, Rajasthan, India",302016,3-star hotel in Jaipur,1,0,21,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Anuraag Villa,2200,3,11,"D-249 Devi Marg, Bani Park, Jaipur, Rajasthan, India",302016,3-star hotel in Jaipur,1,0,21,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,FabHotel Padmavati Palace,1359,3,7.9,"15, Padmavati Colony 1st, Kings Road, Near Mansarovar Metro Station",302019,3-star Jaipur hotel with restaurant,1,0,21,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,FabHotel Padmavati Palace,1359,3,7.9,"15, Padmavati Colony 1st, Kings Road, Near Mansarovar Metro Station",302019,3-star Jaipur hotel with restaurant,1,0,21,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,FabHotel Padmavati Palace,1359,3,7.9,"15, Padmavati Colony 1st, Kings Road, Near Mansarovar Metro Station",302019,3-star Jaipur hotel with restaurant,1,0,21,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,FabHotel Padmavati Palace,1359,3,7.9,"15, Padmavati Colony 1st, Kings Road, Near Mansarovar Metro Station",302019,3-star Jaipur hotel with restaurant,1,0,21,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,FabHotel Padmavati Palace,1359,3,7.9,"15, Padmavati Colony 1st, Kings Road, Near Mansarovar Metro Station",302019,3-star Jaipur hotel with restaurant,1,0,21,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,FabHotel Padmavati Palace,1359,3,7.9,"15, Padmavati Colony 1st, Kings Road, Near Mansarovar Metro Station",302019,3-star Jaipur hotel with restaurant,1,0,21,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,FabHotel Padmavati Palace,1599,3,7.9,"15, Padmavati Colony 1st, Kings Road, Near Mansarovar Metro Station",302019,3-star Jaipur hotel with restaurant,1,0,21,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,FabHotel Padmavati Palace,1599,3,7.9,"15, Padmavati Colony 1st, Kings Road, Near Mansarovar Metro Station",302019,3-star Jaipur hotel with restaurant,1,0,21,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Treebo Aroma Residency,1731,3,11,D-71 Tulsi Marg,302016,3-star Jaipur hotel with restaurant,1,1,21,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Treebo Aroma Residency,1520,3,11,D-71 Tulsi Marg,302016,3-star Jaipur hotel with restaurant,1,1,21,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Treebo Aroma Residency,3214,3,11,D-71 Tulsi Marg,302016,3-star Jaipur hotel with restaurant,1,1,21,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Treebo Aroma Residency,2642,3,11,D-71 Tulsi Marg,302016,3-star Jaipur hotel with restaurant,1,1,21,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Treebo Aroma Residency,2642,3,11,D-71 Tulsi Marg,302016,3-star Jaipur hotel with restaurant,1,1,21,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Treebo Aroma Residency,3214,3,11,D-71 Tulsi Marg,302016,3-star Jaipur hotel with restaurant,1,1,21,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Treebo Aroma Residency,1520,3,11,D-71 Tulsi Marg,302016,3-star Jaipur hotel with restaurant,1,1,21,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Treebo Aroma Residency,1520,3,11,D-71 Tulsi Marg,302016,3-star Jaipur hotel with restaurant,1,1,21,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,66 Residency,2490,3.5,8.7,"66, Gaurav Nagar, Civil Lines,Jaipur",302006,3.5-star Civil Lines hotel with restaurant,1,0,22,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,66 Residency,2490,3.5,8.7,"66, Gaurav Nagar, Civil Lines,Jaipur",302006,3.5-star Civil Lines hotel with restaurant,1,0,22,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,66 Residency,2490,3.5,8.7,"66, Gaurav Nagar, Civil Lines,Jaipur",302006,3.5-star Civil Lines hotel with restaurant,1,0,22,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,66 Residency,2490,3.5,8.7,"66, Gaurav Nagar, Civil Lines,Jaipur",302006,3.5-star Civil Lines hotel with restaurant,1,0,22,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,66 Residency,2490,3.5,8.7,"66, Gaurav Nagar, Civil Lines,Jaipur",302006,3.5-star Civil Lines hotel with restaurant,1,0,22,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,66 Residency,2490,3.5,8.7,"66, Gaurav Nagar, Civil Lines,Jaipur",302006,3.5-star Civil Lines hotel with restaurant,1,0,22,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,66 Residency,2180,3.5,8.7,"66, Gaurav Nagar, Civil Lines,Jaipur",302006,3.5-star Civil Lines hotel with restaurant,1,0,22,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,66 Residency,2180,3.5,8.7,"66, Gaurav Nagar, Civil Lines,Jaipur",302006,3.5-star Civil Lines hotel with restaurant,1,0,22,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Treebo Signature Inn,1323,3,2.1,"E-58, Girdhar Marg, Malviya Nagar, JLN Marg",302017,"3-star hotel in Jaipur with restaurant, conference center",1,1,22,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Treebo Signature Inn,1520,3,2.1,"E-58, Girdhar Marg, Malviya Nagar, JLN Marg",302017,"3-star hotel in Jaipur with restaurant, conference center",1,1,22,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Treebo Signature Inn,3214,3,2.1,"E-58, Girdhar Marg, Malviya Nagar, JLN Marg",302017,"3-star hotel in Jaipur with restaurant, conference center",1,1,22,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Treebo Signature Inn,2642,3,2.1,"E-58, Girdhar Marg, Malviya Nagar, JLN Marg",302017,"3-star hotel in Jaipur with restaurant, conference center",1,1,22,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Treebo Signature Inn,2642,3,2.1,"E-58, Girdhar Marg, Malviya Nagar, JLN Marg",302017,"3-star hotel in Jaipur with restaurant, conference center",1,1,22,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Treebo Signature Inn,3571,3,2.1,"E-58, Girdhar Marg, Malviya Nagar, JLN Marg",302017,"3-star hotel in Jaipur with restaurant, conference center",1,1,22,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Treebo Signature Inn,1520,3,2.1,"E-58, Girdhar Marg, Malviya Nagar, JLN Marg",302017,"3-star hotel in Jaipur with restaurant, conference center",1,1,22,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Treebo Signature Inn,1520,3,2.1,"E-58, Girdhar Marg, Malviya Nagar, JLN Marg",302017,"3-star hotel in Jaipur with restaurant, conference center",1,1,22,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Hotel V Inn Bani Park,1733,3,12,"I-7 C2, Siddhi Colony, Banipark",302016,City-center Bani Park hotel with restaurant,1,0,23,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Hotel V Inn Bani Park,1733,3,12,"I-7 C2, Siddhi Colony, Banipark",302016,City-center Bani Park hotel with restaurant,1,0,23,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Hotel V Inn Bani Park,2632,3,12,"I-7 C2, Siddhi Colony, Banipark",302016,City-center Bani Park hotel with restaurant,1,0,23,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Hotel V Inn Bani Park,2632,3,12,"I-7 C2, Siddhi Colony, Banipark",302016,City-center Bani Park hotel with restaurant,1,0,23,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Hotel V Inn Bani Park,2632,3,12,"I-7 C2, Siddhi Colony, Banipark",302016,City-center Bani Park hotel with restaurant,1,0,23,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Hotel V Inn Bani Park,2632,3,12,"I-7 C2, Siddhi Colony, Banipark",302016,City-center Bani Park hotel with restaurant,1,0,23,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Hotel V Inn Bani Park,1733,3,12,"I-7 C2, Siddhi Colony, Banipark",302016,City-center Bani Park hotel with restaurant,1,0,23,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Hotel V Inn Bani Park,1733,3,12,"I-7 C2, Siddhi Colony, Banipark",302016,City-center Bani Park hotel with restaurant,1,0,23,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,OYO premium airport extension,2639,3,1.2,"A-18, Saraswati Nagar, Jawahar Circle, Malviya Nagar, Jaipur, Rajasthan",302017,3-star hotel in Jaipur,1,1,24,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,OYO premium airport extension,4896,3,1.2,"A-18, Saraswati Nagar, Jawahar Circle, Malviya Nagar, Jaipur, Rajasthan",302017,3-star hotel in Jaipur,1,1,24,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,OYO premium airport extension,2213,3,1.2,"A-18, Saraswati Nagar, Jawahar Circle, Malviya Nagar, Jaipur, Rajasthan",302017,3-star hotel in Jaipur,1,1,24,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,OYO premium airport extension,7792,3,1.2,"A-18, Saraswati Nagar, Jawahar Circle, Malviya Nagar, Jaipur, Rajasthan",302017,3-star hotel in Jaipur,1,1,24,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,OYO premium airport extension,7792,3,1.2,"A-18, Saraswati Nagar, Jawahar Circle, Malviya Nagar, Jaipur, Rajasthan",302017,3-star hotel in Jaipur,1,1,24,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,OYO premium airport extension,7792,3,1.2,"A-18, Saraswati Nagar, Jawahar Circle, Malviya Nagar, Jaipur, Rajasthan",302017,3-star hotel in Jaipur,1,1,24,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,OYO premium airport extension,12773,3,1.2,"A-18, Saraswati Nagar, Jawahar Circle, Malviya Nagar, Jaipur, Rajasthan",302017,3-star hotel in Jaipur,1,1,24,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,OYO premium airport extension,12773,3,1.2,"A-18, Saraswati Nagar, Jawahar Circle, Malviya Nagar, Jaipur, Rajasthan",302017,3-star hotel in Jaipur,1,1,24,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Suryaa Villa,3000,3,8.2,"C-2, Peelwa Garden, Moti Doongri Road",302004,"Art Deco hotel in Jaipur with indoor pool, restaurant",1,1,24,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Suryaa Villa,3000,3,8.2,"C-2, Peelwa Garden, Moti Doongri Road",302004,"Art Deco hotel in Jaipur with indoor pool, restaurant",1,1,24,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Suryaa Villa,5500,3,8.2,"C-2, Peelwa Garden, Moti Doongri Road",302004,"Art Deco hotel in Jaipur with indoor pool, restaurant",1,1,24,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Suryaa Villa,5500,3,8.2,"C-2, Peelwa Garden, Moti Doongri Road",302004,"Art Deco hotel in Jaipur with indoor pool, restaurant",1,1,24,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Suryaa Villa,5500,3,8.2,"C-2, Peelwa Garden, Moti Doongri Road",302004,"Art Deco hotel in Jaipur with indoor pool, restaurant",1,1,24,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Suryaa Villa,5500,3,8.2,"C-2, Peelwa Garden, Moti Doongri Road",302004,"Art Deco hotel in Jaipur with indoor pool, restaurant",1,1,24,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Suryaa Villa,3000,3,8.2,"C-2, Peelwa Garden, Moti Doongri Road",302004,"Art Deco hotel in Jaipur with indoor pool, restaurant",1,1,24,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Suryaa Villa,5500,3,8.2,"C-2, Peelwa Garden, Moti Doongri Road",302004,"Art Deco hotel in Jaipur with indoor pool, restaurant",1,1,24,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Tara Niwas,1650,2,11,"B-22/B, Shiv Marg,, Bani Park, Jaipur, Rajasthan, India",302016,City-center Bani Park hotel with restaurant,1,0,24,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Tara Niwas,1650,2,11,"B-22/B, Shiv Marg,, Bani Park, Jaipur, Rajasthan, India",302016,City-center Bani Park hotel with restaurant,1,0,24,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Tara Niwas,1700,2,11,"B-22/B, Shiv Marg,, Bani Park, Jaipur, Rajasthan, India",302016,City-center Bani Park hotel with restaurant,1,0,24,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Tara Niwas,2150,2,11,"B-22/B, Shiv Marg,, Bani Park, Jaipur, Rajasthan, India",302016,City-center Bani Park hotel with restaurant,1,0,24,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Tara Niwas,2150,2,11,"B-22/B, Shiv Marg,, Bani Park, Jaipur, Rajasthan, India",302016,City-center Bani Park hotel with restaurant,1,0,24,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Tara Niwas,2150,2,11,"B-22/B, Shiv Marg,, Bani Park, Jaipur, Rajasthan, India",302016,City-center Bani Park hotel with restaurant,1,0,24,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Tara Niwas,1700,2,11,"B-22/B, Shiv Marg,, Bani Park, Jaipur, Rajasthan, India",302016,City-center Bani Park hotel with restaurant,1,0,24,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Tara Niwas,1700,2,11,"B-22/B, Shiv Marg,, Bani Park, Jaipur, Rajasthan, India",302016,City-center Bani Park hotel with restaurant,1,0,24,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Hotel Savi Residency,1429,3,6.8,"S-6, Shree Gopal Nagar, Gopalpura Bye Pass, Jaipur, Rajasthan",302018,"3-star guesthouse in Jaipur with restaurant, bar/lounge",1,1,25,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Hotel Savi Residency,1429,3,6.8,"S-6, Shree Gopal Nagar, Gopalpura Bye Pass, Jaipur, Rajasthan",302018,"3-star guesthouse in Jaipur with restaurant, bar/lounge",1,1,25,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Hotel Savi Residency,1429,3,6.8,"S-6, Shree Gopal Nagar, Gopalpura Bye Pass, Jaipur, Rajasthan",302018,"3-star guesthouse in Jaipur with restaurant, bar/lounge",1,1,25,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Hotel Savi Residency,1429,3,6.8,"S-6, Shree Gopal Nagar, Gopalpura Bye Pass, Jaipur, Rajasthan",302018,"3-star guesthouse in Jaipur with restaurant, bar/lounge",1,1,25,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Hotel Savi Residency,1429,3,6.8,"S-6, Shree Gopal Nagar, Gopalpura Bye Pass, Jaipur, Rajasthan",302018,"3-star guesthouse in Jaipur with restaurant, bar/lounge",1,1,25,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Hotel Savi Residency,2521,3,6.8,"S-6, Shree Gopal Nagar, Gopalpura Bye Pass, Jaipur, Rajasthan",302018,"3-star guesthouse in Jaipur with restaurant, bar/lounge",1,1,25,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Hotel Savi Residency,1513,3,6.8,"S-6, Shree Gopal Nagar, Gopalpura Bye Pass, Jaipur, Rajasthan",302018,"3-star guesthouse in Jaipur with restaurant, bar/lounge",1,1,25,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Hotel Savi Residency,1513,3,6.8,"S-6, Shree Gopal Nagar, Gopalpura Bye Pass, Jaipur, Rajasthan",302018,"3-star guesthouse in Jaipur with restaurant, bar/lounge",1,1,25,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Hotel Amer View,1703,3,19,"53, Chattriya, Opp K K Royal Days",303101,"Art Deco hotel with 2 restaurants, near Amber Fort",1,0,26,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Hotel Amer View,1448,3,19,"53, Chattriya, Opp K K Royal Days",303101,"Art Deco hotel with 2 restaurants, near Amber Fort",1,0,26,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Hotel Amer View,1703,3,19,"53, Chattriya, Opp K K Royal Days",303101,"Art Deco hotel with 2 restaurants, near Amber Fort",1,0,26,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Hotel Amer View,1703,3,19,"53, Chattriya, Opp K K Royal Days",303101,"Art Deco hotel with 2 restaurants, near Amber Fort",1,0,26,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Hotel Amer View,1703,3,19,"53, Chattriya, Opp K K Royal Days",303101,"Art Deco hotel with 2 restaurants, near Amber Fort",1,0,26,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Hotel Amer View,1703,3,19,"53, Chattriya, Opp K K Royal Days",303101,"Art Deco hotel with 2 restaurants, near Amber Fort",1,0,26,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Hotel Amer View,1022,3,19,"53, Chattriya, Opp K K Royal Days",303101,"Art Deco hotel with 2 restaurants, near Amber Fort",1,0,26,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Hotel Amer View,1022,3,19,"53, Chattriya, Opp K K Royal Days",303101,"Art Deco hotel with 2 restaurants, near Amber Fort",1,0,26,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Om Niwas Suite Hotel,3103,3,11,"E - 23, Kaushalya Path, Durga Marg, Bani Park, Jaipur, Rajasthan, India",302001,"3-star hotel in Bani Park with restaurant, conference center",1,1,27,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Om Niwas Suite Hotel,2655,3,11,"E - 23, Kaushalya Path, Durga Marg, Bani Park, Jaipur, Rajasthan, India",302001,"3-star hotel in Bani Park with restaurant, conference center",1,1,27,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Om Niwas Suite Hotel,4200,3,11,"E - 23, Kaushalya Path, Durga Marg, Bani Park, Jaipur, Rajasthan, India",302001,"3-star hotel in Bani Park with restaurant, conference center",1,1,27,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Om Niwas Suite Hotel,4200,3,11,"E - 23, Kaushalya Path, Durga Marg, Bani Park, Jaipur, Rajasthan, India",302001,"3-star hotel in Bani Park with restaurant, conference center",1,1,27,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Om Niwas Suite Hotel,4200,3,11,"E - 23, Kaushalya Path, Durga Marg, Bani Park, Jaipur, Rajasthan, India",302001,"3-star hotel in Bani Park with restaurant, conference center",1,1,27,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Om Niwas Suite Hotel,2950,3,11,"E - 23, Kaushalya Path, Durga Marg, Bani Park, Jaipur, Rajasthan, India",302001,"3-star hotel in Bani Park with restaurant, conference center",1,1,27,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Om Niwas Suite Hotel,2950,3,11,"E - 23, Kaushalya Path, Durga Marg, Bani Park, Jaipur, Rajasthan, India",302001,"3-star hotel in Bani Park with restaurant, conference center",1,1,27,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Om Niwas Suite Hotel,2655,3,11,"E - 23, Kaushalya Path, Durga Marg, Bani Park, Jaipur, Rajasthan, India",302001,"3-star hotel in Bani Park with restaurant, conference center",1,1,27,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,SMS Hotel,8500,3,8.7,"Sawai Ram Singh Road, Opposite Reserve Bank Of India, Jaipur",302005,"3-star hotel in Jaipur with outdoor pool, restaurant",1,0,27,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,SMS Hotel,8500,3,8.7,"Sawai Ram Singh Road, Opposite Reserve Bank Of India, Jaipur",302006,"3-star hotel in Jaipur with outdoor pool, restaurant",1,0,27,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,SMS Hotel,12700,3,8.7,"Sawai Ram Singh Road, Opposite Reserve Bank Of India, Jaipur",302007,"3-star hotel in Jaipur with outdoor pool, restaurant",1,0,27,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,SMS Hotel,12700,3,8.7,"Sawai Ram Singh Road, Opposite Reserve Bank Of India, Jaipur",302008,"3-star hotel in Jaipur with outdoor pool, restaurant",1,0,27,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,SMS Hotel,12700,3,8.7,"Sawai Ram Singh Road, Opposite Reserve Bank Of India, Jaipur",302009,"3-star hotel in Jaipur with outdoor pool, restaurant",1,0,27,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,SMS Hotel,12700,3,8.7,"Sawai Ram Singh Road, Opposite Reserve Bank Of India, Jaipur",302010,"3-star hotel in Jaipur with outdoor pool, restaurant",1,0,27,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,SMS Hotel,10800,3,8.7,"Sawai Ram Singh Road, Opposite Reserve Bank Of India, Jaipur",302011,"3-star hotel in Jaipur with outdoor pool, restaurant",1,0,27,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,SMS Hotel,6300,3,8.7,"Sawai Ram Singh Road, Opposite Reserve Bank Of India, Jaipur",302012,"3-star hotel in Jaipur with outdoor pool, restaurant",1,0,27,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Treebo Raya Inn,1982,3.5,11,"32, Power House Road, Opp. Jaipur Junction",302001,City-center Bani Park hotel with restaurant,1,1,27,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Treebo Raya Inn,1982,3.5,11,"32, Power House Road, Opp. Jaipur Junction",302001,City-center Bani Park hotel with restaurant,1,1,27,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Treebo Raya Inn,3928,3.5,11,"32, Power House Road, Opp. Jaipur Junction",302001,City-center Bani Park hotel with restaurant,1,1,27,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Treebo Raya Inn,3571,3.5,11,"32, Power House Road, Opp. Jaipur Junction",302001,City-center Bani Park hotel with restaurant,1,1,27,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Treebo Raya Inn,3928,3.5,11,"32, Power House Road, Opp. Jaipur Junction",302001,City-center Bani Park hotel with restaurant,1,1,27,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Treebo Raya Inn,3928,3.5,11,"32, Power House Road, Opp. Jaipur Junction",302001,City-center Bani Park hotel with restaurant,1,1,27,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Treebo Raya Inn,2106,3.5,11,"32, Power House Road, Opp. Jaipur Junction",302001,City-center Bani Park hotel with restaurant,1,1,27,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Treebo Raya Inn,2106,3.5,11,"32, Power House Road, Opp. Jaipur Junction",302001,City-center Bani Park hotel with restaurant,1,1,27,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Flute Boutique Hotel,2890,4,9.4,"D-81, Shiv Hira Path, Chomu House,Punch Batti,Jaipur",302001,Jaipur upscale hotel with restaurant,1,1,28,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Flute Boutique Hotel,5500,4,9.4,"D-81, Shiv Hira Path, Chomu House,Punch Batti,Jaipur",302001,Jaipur upscale hotel with restaurant,1,1,28,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Flute Boutique Hotel,5500,4,9.4,"D-81, Shiv Hira Path, Chomu House,Punch Batti,Jaipur",302001,Jaipur upscale hotel with restaurant,1,1,28,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Flute Boutique Hotel,5500,4,9.4,"D-81, Shiv Hira Path, Chomu House,Punch Batti,Jaipur",302001,Jaipur upscale hotel with restaurant,1,1,28,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Flute Boutique Hotel,5500,4,9.4,"D-81, Shiv Hira Path, Chomu House,Punch Batti,Jaipur",302001,Jaipur upscale hotel with restaurant,1,1,28,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Flute Boutique Hotel,2550,4,9.4,"D-81, Shiv Hira Path, Chomu House,Punch Batti,Jaipur",302001,Jaipur upscale hotel with restaurant,1,1,28,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Flute Boutique Hotel,2550,4,9.4,"D-81, Shiv Hira Path, Chomu House,Punch Batti,Jaipur",302001,Jaipur upscale hotel with restaurant,1,1,28,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Flute Boutique Hotel,2550,4,9.4,"D-81, Shiv Hira Path, Chomu House,Punch Batti,Jaipur",302001,Jaipur upscale hotel with restaurant,1,1,28,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Hotel Hayat Rabbani,1073,3,11,"47, Kanti Nagar, Opp. Polovictory Cinema Station Rd, Jaipur, Rajasthan, India",302006,"Bayfront hotel in Bani Park with restaurant, conference center",1,1,28,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Hotel Hayat Rabbani,1150,3,11,"47, Kanti Nagar, Opp. Polovictory Cinema Station Rd, Jaipur, Rajasthan, India",302006,"Bayfront hotel in Bani Park with restaurant, conference center",1,1,28,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Hotel Hayat Rabbani,1150,3,11,"47, Kanti Nagar, Opp. Polovictory Cinema Station Rd, Jaipur, Rajasthan, India",302006,"Bayfront hotel in Bani Park with restaurant, conference center",1,1,28,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Hotel Hayat Rabbani,1150,3,11,"47, Kanti Nagar, Opp. Polovictory Cinema Station Rd, Jaipur, Rajasthan, India",302006,"Bayfront hotel in Bani Park with restaurant, conference center",1,1,28,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Hotel Hayat Rabbani,1150,3,11,"47, Kanti Nagar, Opp. Polovictory Cinema Station Rd, Jaipur, Rajasthan, India",302006,"Bayfront hotel in Bani Park with restaurant, conference center",1,1,28,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Hotel Hayat Rabbani,1150,3,11,"47, Kanti Nagar, Opp. Polovictory Cinema Station Rd, Jaipur, Rajasthan, India",302006,"Bayfront hotel in Bani Park with restaurant, conference center",1,1,28,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Hotel Hayat Rabbani,613,3,11,"47, Kanti Nagar, Opp. Polovictory Cinema Station Rd, Jaipur, Rajasthan, India",302006,"Bayfront hotel in Bani Park with restaurant, conference center",1,1,28,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Hotel Hayat Rabbani,613,3,11,"47, Kanti Nagar, Opp. Polovictory Cinema Station Rd, Jaipur, Rajasthan, India",302006,"Bayfront hotel in Bani Park with restaurant, conference center",1,1,28,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,"RnB 1598, Jaipur",1870,3.5,1.9,"D-823 Sunder Nagar, Malviya Nagar, Behind Fortis Hospital, Jaipur, Rajasthan",302017,"Adults-only hotel in Jaipur with restaurant, conference center",1,1,28,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,"RnB 1598, Jaipur",2360,3.5,1.9,"D-823 Sunder Nagar, Malviya Nagar, Behind Fortis Hospital, Jaipur, Rajasthan",302017,"Adults-only hotel in Jaipur with restaurant, conference center",1,1,28,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,"RnB 1598, Jaipur",1760,3.5,1.9,"D-823 Sunder Nagar, Malviya Nagar, Behind Fortis Hospital, Jaipur, Rajasthan",302017,"Adults-only hotel in Jaipur with restaurant, conference center",1,1,28,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,"RnB 1598, Jaipur",1760,3.5,1.9,"D-823 Sunder Nagar, Malviya Nagar, Behind Fortis Hospital, Jaipur, Rajasthan",302017,"Adults-only hotel in Jaipur with restaurant, conference center",1,1,28,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,"RnB 1598, Jaipur",1760,3.5,1.9,"D-823 Sunder Nagar, Malviya Nagar, Behind Fortis Hospital, Jaipur, Rajasthan",302017,"Adults-only hotel in Jaipur with restaurant, conference center",1,1,28,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,"RnB 1598, Jaipur",1760,3.5,1.9,"D-823 Sunder Nagar, Malviya Nagar, Behind Fortis Hospital, Jaipur, Rajasthan",302017,"Adults-only hotel in Jaipur with restaurant, conference center",1,1,28,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,"RnB 1598, Jaipur",1760,3.5,1.9,"D-823 Sunder Nagar, Malviya Nagar, Behind Fortis Hospital, Jaipur, Rajasthan",302017,"Adults-only hotel in Jaipur with restaurant, conference center",1,1,28,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,"RnB 1598, Jaipur",1760,3.5,1.9,"D-823 Sunder Nagar, Malviya Nagar, Behind Fortis Hospital, Jaipur, Rajasthan",302017,"Adults-only hotel in Jaipur with restaurant, conference center",1,1,28,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,The Raj Palace,20000,5,13,"Amber Road, Zorawar Singh Gate, Jaipur",302002,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,29,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,The Raj Palace,21500,5,13,"Amber Road, Zorawar Singh Gate, Jaipur",302002,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,29,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,The Raj Palace,32000,5,13,"Amber Road, Zorawar Singh Gate, Jaipur",302002,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,29,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,The Raj Palace,21500,5,13,"Amber Road, Zorawar Singh Gate, Jaipur",302002,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,29,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,The Raj Palace,32000,5,13,"Amber Road, Zorawar Singh Gate, Jaipur",302002,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,29,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,The Raj Palace,38000,5,13,"Amber Road, Zorawar Singh Gate, Jaipur",302002,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,29,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,The Raj Palace,20000,5,12,"The Raj Palace, Amber Road, Zorawar Singh Gate, Jaipur, Rajasthan",302002,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,29,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,The Raj Palace,21500,5,12,"The Raj Palace, Amber Road, Zorawar Singh Gate, Jaipur, Rajasthan",302002,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,29,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,The Raj Palace,32000,5,12,"The Raj Palace, Amber Road, Zorawar Singh Gate, Jaipur, Rajasthan",302002,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,29,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,The Raj Palace,21500,5,12,"The Raj Palace, Amber Road, Zorawar Singh Gate, Jaipur, Rajasthan",302002,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,29,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,The Raj Palace,32000,5,12,"The Raj Palace, Amber Road, Zorawar Singh Gate, Jaipur, Rajasthan",302002,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,29,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,The Raj Palace,38000,5,12,"The Raj Palace, Amber Road, Zorawar Singh Gate, Jaipur, Rajasthan",302002,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,29,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,The Raj Palace,20000,5,12,"The Raj Palace, Amber Road, Zorawar Singh Gate, Jaipur, Rajasthan",302002,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,29,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,The Raj Palace,20000,5,12,"The Raj Palace, Amber Road, Zorawar Singh Gate, Jaipur, Rajasthan",302002,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,29,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Amer City Heritage,2742,3.5,18,"B-2 Near Brahmpuri police Station, amer road, Jaipur, Rajasthan",302002,"3.5-star hotel in Jaipur with restaurant, bar/lounge",1,1,30,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Amer City Heritage,2742,3.5,18,"B-2 Near Brahmpuri police Station, amer road, Jaipur, Rajasthan",302002,"3.5-star hotel in Jaipur with restaurant, bar/lounge",1,1,30,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Amer City Heritage,4777,3.5,18,"B-2 Near Brahmpuri police Station, amer road, Jaipur, Rajasthan",302002,"3.5-star hotel in Jaipur with restaurant, bar/lounge",1,1,30,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Amer City Heritage,4777,3.5,18,"B-2 Near Brahmpuri police Station, amer road, Jaipur, Rajasthan",302002,"3.5-star hotel in Jaipur with restaurant, bar/lounge",1,1,30,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Amer City Heritage,4777,3.5,18,"B-2 Near Brahmpuri police Station, amer road, Jaipur, Rajasthan",302002,"3.5-star hotel in Jaipur with restaurant, bar/lounge",1,1,30,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Amer City Heritage,4777,3.5,18,"B-2 Near Brahmpuri police Station, amer road, Jaipur, Rajasthan",302002,"3.5-star hotel in Jaipur with restaurant, bar/lounge",1,1,30,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Amer City Heritage,2742,3.5,18,"B-2 Near Brahmpuri police Station, amer road, Jaipur, Rajasthan",302002,"3.5-star hotel in Jaipur with restaurant, bar/lounge",1,1,30,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Amer City Heritage,2742,3.5,18,"B-2 Near Brahmpuri police Station, amer road, Jaipur, Rajasthan",302002,"3.5-star hotel in Jaipur with restaurant, bar/lounge",1,1,30,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Hotel Kings Corner,1699,3,7.4,"555, Lane 6, Near AC Market, Raja Park",302004,"3-star hotel in Jaipur with 2 bars/lounges, restauran",1,1,30,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Hotel Kings Corner,1999,3,7.4,"555, Lane 6, Near AC Market, Raja Park",302004,"3-star hotel in Jaipur with 2 bars/lounges, restauran",1,1,30,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Hotel Kings Corner,2499,3,7.4,"555, Lane 6, Near AC Market, Raja Park",302004,"3-star hotel in Jaipur with 2 bars/lounges, restauran",1,1,30,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Hotel Kings Corner,2499,3,7.4,"555, Lane 6, Near AC Market, Raja Park",302004,"3-star hotel in Jaipur with 2 bars/lounges, restauran",1,1,30,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Hotel Kings Corner,2499,3,7.4,"555, Lane 6, Near AC Market, Raja Park",302004,"3-star hotel in Jaipur with 2 bars/lounges, restauran",1,1,30,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Hotel Kings Corner,2499,3,7.4,"555, Lane 6, Near AC Market, Raja Park",302004,"3-star hotel in Jaipur with 2 bars/lounges, restauran",1,1,30,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Hotel Kings Corner,1699,3,7.4,"555, Lane 6, Near AC Market, Raja Park",302004,"3-star hotel in Jaipur with 2 bars/lounges, restauran",1,1,30,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Hotel Kings Corner,1699,3,7.4,"555, Lane 6, Near AC Market, Raja Park",302004,"3-star hotel in Jaipur with 2 bars/lounges, restauran",1,1,30,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Hotel Sarang Palace,1600,3,12,"A-40, Subhash Nagar",302016,Suburban hotel in Jaipur with 2 restaurants,1,0,31,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Hotel Sarang Palace,1600,3,12,"A-40, Subhash Nagar",302016,Suburban hotel in Jaipur with 2 restaurants,1,0,31,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Hotel Sarang Palace,2500,3,12,"A-40, Subhash Nagar",302016,Suburban hotel in Jaipur with 2 restaurants,1,0,31,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Hotel Sarang Palace,2500,3,12,"A-40, Subhash Nagar",302016,Suburban hotel in Jaipur with 2 restaurants,1,0,31,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Hotel Sarang Palace,2500,3,12,"A-40, Subhash Nagar",302016,Suburban hotel in Jaipur with 2 restaurants,1,0,31,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Hotel Sarang Palace,3000,3,12,"A-40, Subhash Nagar",302016,Suburban hotel in Jaipur with 2 restaurants,1,0,31,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Hotel Sarang Palace,1800,3,12,"A-40, Subhash Nagar",302016,Suburban hotel in Jaipur with 2 restaurants,1,0,31,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Hotel Sarang Palace,1800,3,12,"A-40, Subhash Nagar",302016,Suburban hotel in Jaipur with 2 restaurants,1,0,31,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,The Wallstreet A Busines Hotel,2520,3,11,"C-7, New Colony M.I. Road, Near Panch Bhatti Circle",302001,"Art Deco hotel in Jaipur with restaurant, bar/lounge",1,1,31,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,The Wallstreet A Busines Hotel,4050,3,11,"C-7, New Colony M.I. Road, Near Panch Bhatti Circle",302001,"Art Deco hotel in Jaipur with restaurant, bar/lounge",1,1,31,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,The Wallstreet A Busines Hotel,7000,3,11,"C-7, New Colony M.I. Road, Near Panch Bhatti Circle",302001,"Art Deco hotel in Jaipur with restaurant, bar/lounge",1,1,31,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,The Wallstreet A Busines Hotel,2640,3,11,"C-7, New Colony M.I. Road, Near Panch Bhatti Circle",302001,"Art Deco hotel in Jaipur with restaurant, bar/lounge",1,1,31,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,The Wallstreet A Busines Hotel,3960,3,11,"C-7, New Colony M.I. Road, Near Panch Bhatti Circle",302001,"Art Deco hotel in Jaipur with restaurant, bar/lounge",1,1,31,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,The Wallstreet A Busines Hotel,7000,3,11,"C-7, New Colony M.I. Road, Near Panch Bhatti Circle",302001,"Art Deco hotel in Jaipur with restaurant, bar/lounge",1,1,31,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,The Wallstreet A Busines Hotel,3520,3,11,"C-7, New Colony M.I. Road, Near Panch Bhatti Circle",302001,"Art Deco hotel in Jaipur with restaurant, bar/lounge",1,1,31,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,The Wallstreet A Busines Hotel,3520,3,11,"C-7, New Colony M.I. Road, Near Panch Bhatti Circle",302001,"Art Deco hotel in Jaipur with restaurant, bar/lounge",1,1,31,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Citrus Hotels,2500,4,6.7,"B 204 A, Rajendra Marg, Bapu Nagar, Near Janta Store, Jaipur, Rajasthan",302015,"4-star hotel in Jaipur with restaurant, bar/lounge",1,1,32,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Citrus Hotels,2500,4,6.7,"B 204 A, Rajendra Marg, Bapu Nagar, Near Janta Store, Jaipur, Rajasthan",302015,"4-star hotel in Jaipur with restaurant, bar/lounge",1,1,32,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Citrus Hotels,3999,4,6.7,"B 204 A, Rajendra Marg, Bapu Nagar, Near Janta Store, Jaipur, Rajasthan",302015,"4-star hotel in Jaipur with restaurant, bar/lounge",1,1,32,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Citrus Hotels,2999,4,6.7,"B 204 A, Rajendra Marg, Bapu Nagar, Near Janta Store, Jaipur, Rajasthan",302015,"4-star hotel in Jaipur with restaurant, bar/lounge",1,1,32,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Citrus Hotels,2999,4,6.7,"B 204 A, Rajendra Marg, Bapu Nagar, Near Janta Store, Jaipur, Rajasthan",302015,"4-star hotel in Jaipur with restaurant, bar/lounge",1,1,32,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Citrus Hotels,2999,4,6.7,"B 204 A, Rajendra Marg, Bapu Nagar, Near Janta Store, Jaipur, Rajasthan",302015,"4-star hotel in Jaipur with restaurant, bar/lounge",1,1,32,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Citrus Hotels,2500,4,6.7,"B 204 A, Rajendra Marg, Bapu Nagar, Near Janta Store, Jaipur, Rajasthan",302015,"4-star hotel in Jaipur with restaurant, bar/lounge",1,1,32,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Citrus Hotels,2500,4,6.7,"B 204 A, Rajendra Marg, Bapu Nagar, Near Janta Store, Jaipur, Rajasthan",302015,"4-star hotel in Jaipur with restaurant, bar/lounge",1,1,32,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Comfort Inn Sapphire,2479,4,9.4,"C-5, New Colony, Near Panchbatti,M I Road,Jaipur",302001,Jaipur upscale hotel with restaurant,1,1,32,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Comfort Inn Sapphire,2479,4,9.4,"C-5, New Colony, Near Panchbatti,M I Road,Jaipur",302001,Jaipur upscale hotel with restaurant,1,1,32,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Comfort Inn Sapphire,2719,4,9.4,"C-5, New Colony, Near Panchbatti,M I Road,Jaipur",302001,Jaipur upscale hotel with restaurant,1,1,32,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Comfort Inn Sapphire,2719,4,9.4,"C-5, New Colony, Near Panchbatti,M I Road,Jaipur",302001,Jaipur upscale hotel with restaurant,1,1,32,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Comfort Inn Sapphire,2719,4,9.4,"C-5, New Colony, Near Panchbatti,M I Road,Jaipur",302001,Jaipur upscale hotel with restaurant,1,1,32,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Comfort Inn Sapphire,2719,4,9.4,"C-5, New Colony, Near Panchbatti,M I Road,Jaipur",302001,Jaipur upscale hotel with restaurant,1,1,32,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Comfort Inn Sapphire,2719,4,9.4,"C-5, New Colony, Near Panchbatti,M I Road,Jaipur",302001,Jaipur upscale hotel with restaurant,1,1,32,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Comfort Inn Sapphire,2479,4,9.4,"C-5, New Colony, Near Panchbatti,M I Road,Jaipur",302001,Jaipur upscale hotel with restaurant,1,1,32,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,OYO Rooms Airport Tonk Road,5640,3,1.2,"Shop No. 1-2, Mathur Vaishya Nagar, Sitabari, Tonk Road",302001,Jaipur hotel next to shopping,1,1,32,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,OYO Rooms Airport Tonk Road,5640,3,1.2,"Shop No. 1-2, Mathur Vaishya Nagar, Sitabari, Tonk Road",302001,Jaipur hotel next to shopping,1,1,32,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,OYO Rooms Airport Tonk Road,1532,3,1.2,"Shop No. 1-2, Mathur Vaishya Nagar, Sitabari, Tonk Road",302001,Jaipur hotel next to shopping,1,1,32,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,OYO Rooms Airport Tonk Road,1532,3,1.2,"Shop No. 1-2, Mathur Vaishya Nagar, Sitabari, Tonk Road",302001,Jaipur hotel next to shopping,1,1,32,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,OYO Rooms Airport Tonk Road,1532,3,1.2,"Shop No. 1-2, Mathur Vaishya Nagar, Sitabari, Tonk Road",302001,Jaipur hotel next to shopping,1,1,32,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,OYO Rooms Airport Tonk Road,1532,3,1.2,"Shop No. 1-2, Mathur Vaishya Nagar, Sitabari, Tonk Road",302001,Jaipur hotel next to shopping,1,1,32,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,OYO Rooms Airport Tonk Road,5640,3,1.2,"Shop No. 1-2, Mathur Vaishya Nagar, Sitabari, Tonk Road",302001,Jaipur hotel next to shopping,1,1,32,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,OYO Rooms Airport Tonk Road,5640,3,1.2,"Shop No. 1-2, Mathur Vaishya Nagar, Sitabari, Tonk Road",302001,Jaipur hotel next to shopping,1,1,32,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Hotel H.R. Palace,2050,3,11,"D-157, A- Kabir Marg, Bani Park",302016,3-star Jaipur hotel with restaurant,1,0,35,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Hotel H.R. Palace,2050,3,11,"D-157, A- Kabir Marg, Bani Park",302016,3-star Jaipur hotel with restaurant,1,0,35,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Hotel H.R. Palace,2900,3,11,"D-157, A- Kabir Marg, Bani Park",302016,3-star Jaipur hotel with restaurant,1,0,35,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Hotel H.R. Palace,2900,3,11,"D-157, A- Kabir Marg, Bani Park",302016,3-star Jaipur hotel with restaurant,1,0,35,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Hotel H.R. Palace,2900,3,11,"D-157, A- Kabir Marg, Bani Park",302016,3-star Jaipur hotel with restaurant,1,0,35,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Hotel H.R. Palace,2900,3,11,"D-157, A- Kabir Marg, Bani Park",302016,3-star Jaipur hotel with restaurant,1,0,35,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Hotel H.R. Palace,2100,3,11,"D-157, A- Kabir Marg, Bani Park",302016,3-star Jaipur hotel with restaurant,1,0,35,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Hotel H.R. Palace,2900,3,11,"D-157, A- Kabir Marg, Bani Park",302016,3-star Jaipur hotel with restaurant,1,0,35,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Hotel H.R. Palace,2050,3,11,"D-157, A- Kabir Marg, Bani Park, Jaipur, Rajasthan, India",302016,3-star Jaipur hotel with restaurant,1,0,35,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Hotel H.R. Palace,2050,3,11,"D-157, A- Kabir Marg, Bani Park, Jaipur, Rajasthan, India",302016,3-star Jaipur hotel with restaurant,1,0,35,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Hotel H.R. Palace,3300,3,11,"D-157, A- Kabir Marg, Bani Park, Jaipur, Rajasthan, India",302016,3-star Jaipur hotel with restaurant,1,0,35,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Hotel H.R. Palace,3400,3,11,"D-157, A- Kabir Marg, Bani Park, Jaipur, Rajasthan, India",302016,3-star Jaipur hotel with restaurant,1,0,35,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Hotel H.R. Palace,2900,3,11,"D-157, A- Kabir Marg, Bani Park, Jaipur, Rajasthan, India",302016,3-star Jaipur hotel with restaurant,1,0,35,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Hotel H.R. Palace,2900,3,11,"D-157, A- Kabir Marg, Bani Park, Jaipur, Rajasthan, India",302016,3-star Jaipur hotel with restaurant,1,0,35,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Hotel H.R. Palace,2900,3,11,"D-157, A- Kabir Marg, Bani Park, Jaipur, Rajasthan, India",302016,3-star Jaipur hotel with restaurant,1,0,35,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Hotel H.R. Palace,2900,3,11,"D-157, A- Kabir Marg, Bani Park, Jaipur, Rajasthan, India",302016,3-star Jaipur hotel with restaurant,1,0,35,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Umaid Mahal,6000,3.5,11,C-20/B2 Behari Marg Bani Park,302016,"3.5-star hotel in Jaipur with indoor pool, restaurant",1,1,35,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Umaid Mahal,6000,3.5,11,C-20/B2 Behari Marg Bani Park,302016,"3.5-star hotel in Jaipur with indoor pool, restaurant",1,1,35,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Umaid Mahal,6000,3.5,11,C-20/B2 Behari Marg Bani Park,302016,"3.5-star hotel in Jaipur with indoor pool, restaurant",1,1,35,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Umaid Mahal,6000,3.5,11,C-20/B2 Behari Marg Bani Park,302016,"3.5-star hotel in Jaipur with indoor pool, restaurant",1,1,35,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Umaid Mahal,4000,3.5,11,C-20/B2 Behari Marg Bani Park,302016,"3.5-star hotel in Jaipur with indoor pool, restaurant",1,1,35,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Umaid Mahal,6000,3.5,11,C-20/B2 Behari Marg Bani Park,302016,"3.5-star hotel in Jaipur with indoor pool, restaurant",1,1,35,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Umaid Mahal,6000,3.5,11,C-20/B2 Behari Marg Bani Park,302016,"3.5-star hotel in Jaipur with indoor pool, restaurant",1,1,35,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Umaid Mahal,4000,3.5,11,C-20/B2 Behari Marg Bani Park,302016,"3.5-star hotel in Jaipur with indoor pool, restaurant",1,1,35,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,The Lalit Traveller Jaipur,5499,4.5,1.2,"2B & 2C, Jagatpura Road,Jawahar Circle,Jaipur",302017,"Luxury hotel in Jaipur with restaurant, bar/lounge",0,0,37,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,The Lalit Traveller Jaipur,5499,4.5,1.2,"2B & 2C, Jagatpura Road,Jawahar Circle,Jaipur",302017,"Luxury hotel in Jaipur with restaurant, bar/lounge",0,0,37,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,The Lalit Traveller Jaipur,4499,4.5,1.2,"2B & 2C, Jagatpura Road,Jawahar Circle,Jaipur",302017,"Luxury hotel in Jaipur with restaurant, bar/lounge",0,0,37,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,The Lalit Traveller Jaipur,4499,4.5,1.2,"2B & 2C, Jagatpura Road,Jawahar Circle,Jaipur",302017,"Luxury hotel in Jaipur with restaurant, bar/lounge",0,0,37,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,The Lalit Traveller Jaipur,4499,4.5,1.2,"2B & 2C, Jagatpura Road,Jawahar Circle,Jaipur",302017,"Luxury hotel in Jaipur with restaurant, bar/lounge",0,0,37,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,The Lalit Traveller Jaipur,5499,4.5,1.2,"2B & 2C, Jagatpura Road,Jawahar Circle,Jaipur",302017,"Luxury hotel in Jaipur with restaurant, bar/lounge",0,0,37,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,The Lalit Traveller Jaipur,5499,4.5,1.2,"2B & 2C, Jagatpura Road,Jawahar Circle,Jaipur",302017,"Luxury hotel in Jaipur with restaurant, bar/lounge",0,0,37,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,The Lalit Traveller Jaipur,5499,4.5,1.2,"2B & 2C, Jagatpura Road,Jawahar Circle,Jaipur",302017,"Luxury hotel in Jaipur with restaurant, bar/lounge",0,0,37,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,The lalit traveller jaipur,5499,3,1.2,"2B & 2C, Jagatpura Road, Jawahar Circle, Jaipur, Rajasthan",302017,"Luxury hotel in Jaipur with restaurant, bar/lounge",1,1,37,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,The lalit traveller jaipur,5499,3,1.2,"2B & 2C, Jagatpura Road, Jawahar Circle, Jaipur, Rajasthan",302017,"Luxury hotel in Jaipur with restaurant, bar/lounge",1,1,37,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,The lalit traveller jaipur,4499,3,1.2,"2B & 2C, Jagatpura Road, Jawahar Circle, Jaipur, Rajasthan",302017,"Luxury hotel in Jaipur with restaurant, bar/lounge",1,1,37,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,The lalit traveller jaipur,4499,3,1.2,"2B & 2C, Jagatpura Road, Jawahar Circle, Jaipur, Rajasthan",302017,"Luxury hotel in Jaipur with restaurant, bar/lounge",1,1,37,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,The lalit traveller jaipur,5499,3,1.2,"2B & 2C, Jagatpura Road, Jawahar Circle, Jaipur, Rajasthan",302017,"Luxury hotel in Jaipur with restaurant, bar/lounge",1,1,37,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,The lalit traveller jaipur,5499,3,1.2,"2B & 2C, Jagatpura Road, Jawahar Circle, Jaipur, Rajasthan",302017,"Luxury hotel in Jaipur with restaurant, bar/lounge",1,1,37,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,The lalit traveller jaipur,5499,3,1.2,"2B & 2C, Jagatpura Road, Jawahar Circle, Jaipur, Rajasthan",302017,"Luxury hotel in Jaipur with restaurant, bar/lounge",1,1,37,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,The lalit traveller jaipur,5499,3,1.2,"2B & 2C, Jagatpura Road, Jawahar Circle, Jaipur, Rajasthan",302017,"Luxury hotel in Jaipur with restaurant, bar/lounge",1,1,37,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Samode Haveli,15800,4,55,"Gangapole, Jaipur, Rajasthan",302002,"4-star hotel in Pink City with outdoor pool, restaurant",1,1,39,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Samode Haveli,20000,4,55,"Gangapole, Jaipur, Rajasthan",302002,"4-star hotel in Pink City with outdoor pool, restaurant",1,1,39,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Samode Haveli,20000,4,55,"Gangapole, Jaipur, Rajasthan",302002,"4-star hotel in Pink City with outdoor pool, restaurant",1,1,39,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Samode Haveli,20000,4,55,"Gangapole, Jaipur, Rajasthan",302002,"4-star hotel in Pink City with outdoor pool, restaurant",1,1,39,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Samode Haveli,20000,4,55,"Gangapole, Jaipur, Rajasthan",302002,"4-star hotel in Pink City with outdoor pool, restaurant",1,1,39,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Samode Haveli,20000,4,55,"Gangapole, Jaipur, Rajasthan",302002,"4-star hotel in Pink City with outdoor pool, restaurant",1,1,39,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Samode Haveli,20000,4,55,"Gangapole, Jaipur, Rajasthan",302002,"4-star hotel in Pink City with outdoor pool, restaurant",1,1,39,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Samode Haveli,15800,4,55,"Gangapole, Jaipur, Rajasthan",302002,"4-star hotel in Pink City with outdoor pool, restaurant",1,1,39,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Hotel Gandharva By Peppermint,2490,3,11,"Station Road, Near Reserve Police Lines",302006,City-center Jaipur hotel with restaurant,1,1,42,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Hotel Gandharva By Peppermint,2490,3,11,"Station Road, Near Reserve Police Lines",302006,City-center Jaipur hotel with restaurant,1,1,42,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Hotel Gandharva By Peppermint,6980,3,11,"Station Road, Near Reserve Police Lines",302006,City-center Jaipur hotel with restaurant,1,1,42,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Hotel Gandharva By Peppermint,3112,3,11,"Station Road, Near Reserve Police Lines",302006,City-center Jaipur hotel with restaurant,1,1,42,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Hotel Gandharva By Peppermint,8725,3,11,"Station Road, Near Reserve Police Lines",302006,City-center Jaipur hotel with restaurant,1,1,42,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Hotel Gandharva By Peppermint,8725,3,11,"Station Road, Near Reserve Police Lines",302006,City-center Jaipur hotel with restaurant,1,1,42,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Hotel Gandharva By Peppermint,4980,3,11,"Station Road, Near Reserve Police Lines",302006,City-center Jaipur hotel with restaurant,1,1,42,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Hotel Gandharva By Peppermint,4980,3,11,"Station Road, Near Reserve Police Lines",302006,City-center Jaipur hotel with restaurant,1,1,42,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Hotel Golden Manor,2200,3,11,"B-22/B-1 2 Shiv Marg, Collectorate Cir, Banipark, Jaipur, Rajasthan, India",302016,"3-star hotel in Jaipur with 2 bars/lounges, restaurant",1,0,43,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Hotel Golden Manor,2200,3,11,"B-22/B-1 2 Shiv Marg, Collectorate Cir, Banipark, Jaipur, Rajasthan, India",302016,"3-star hotel in Jaipur with 2 bars/lounges, restaurant",1,0,43,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Hotel Golden Manor,2870,3,11,"B-22/B-1 2 Shiv Marg, Collectorate Cir, Banipark, Jaipur, Rajasthan, India",302016,"3-star hotel in Jaipur with 2 bars/lounges, restaurant",1,0,43,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Hotel Golden Manor,2870,3,11,"B-22/B-1 2 Shiv Marg, Collectorate Cir, Banipark, Jaipur, Rajasthan, India",302016,"3-star hotel in Jaipur with 2 bars/lounges, restaurant",1,0,43,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Hotel Golden Manor,2870,3,11,"B-22/B-1 2 Shiv Marg, Collectorate Cir, Banipark, Jaipur, Rajasthan, India",302016,"3-star hotel in Jaipur with 2 bars/lounges, restaurant",1,0,43,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Hotel Golden Manor,6500,3,11,"B-22/B-1 2 Shiv Marg, Collectorate Cir, Banipark, Jaipur, Rajasthan, India",302016,"3-star hotel in Jaipur with 2 bars/lounges, restaurant",1,0,43,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Hotel Golden Manor,2870,3,11,"B-22/B-1 2 Shiv Marg, Collectorate Cir, Banipark, Jaipur, Rajasthan, India",302016,"3-star hotel in Jaipur with 2 bars/lounges, restaurant",1,0,43,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Hotel Golden Manor,2870,3,11,"B-22/B-1 2 Shiv Marg, Collectorate Cir, Banipark, Jaipur, Rajasthan, India",302016,"3-star hotel in Jaipur with 2 bars/lounges, restaurant",1,0,43,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Zone by The Park Bani Park Jaipur,7225,4,12,"Madhosingh Road, Bani Park, Jaipur, Rajasthan, India",302016,"4-star hotel in Bani Park with spa, outdoor pool",1,0,47,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Zone by The Park Bani Park Jaipur,4250,4,12,"Madhosingh Road, Bani Park, Jaipur, Rajasthan, India",302016,"4-star hotel in Bani Park with spa, outdoor pool",1,0,47,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Zone by The Park Bani Park Jaipur,4250,4,12,"Madhosingh Road, Bani Park, Jaipur, Rajasthan, India",302016,"4-star hotel in Bani Park with spa, outdoor pool",1,0,47,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Zone by The Park Bani Park Jaipur,4250,4,12,"Madhosingh Road, Bani Park, Jaipur, Rajasthan, India",302016,"4-star hotel in Bani Park with spa, outdoor pool",1,0,47,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Zone by The Park Bani Park Jaipur,4250,4,12,"Madhosingh Road, Bani Park, Jaipur, Rajasthan, India",302016,"4-star hotel in Bani Park with spa, outdoor pool",1,0,47,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Zone by The Park Bani Park Jaipur,7225,4,12,"Madhosingh Road, Bani Park, Jaipur, Rajasthan, India",302016,"4-star hotel in Bani Park with spa, outdoor pool",1,0,47,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Zone by The Park Bani Park Jaipur,4250,4,12,"Madhosingh Road, Bani Park, Jaipur, Rajasthan, India",302016,"4-star hotel in Bani Park with spa, outdoor pool",1,0,47,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Zone by The Park Bani Park Jaipur,7225,4,12,"Madhosingh Road, Bani Park, Jaipur, Rajasthan, India",302016,"4-star hotel in Bani Park with spa, outdoor pool",1,0,47,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Crimson Park - The Heritage,4000,3.5,14,"Amer Road, Near Jal Mahal,Jaipur",302001,3.5-star Jaipur hotel with restaurant,1,0,51,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Crimson Park - The Heritage,2800,3.5,14,"Amer Road, Near Jal Mahal,Jaipur",302001,3.5-star Jaipur hotel with restaurant,1,0,51,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Crimson Park - The Heritage,4000,3.5,14,"Amer Road, Near Jal Mahal,Jaipur",302001,3.5-star Jaipur hotel with restaurant,1,0,51,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Crimson Park - The Heritage,3500,3.5,14,"Amer Road, Near Jal Mahal,Jaipur",302001,3.5-star Jaipur hotel with restaurant,1,0,51,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Crimson Park - The Heritage,3500,3.5,14,"Amer Road, Near Jal Mahal,Jaipur",302001,3.5-star Jaipur hotel with restaurant,1,0,51,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Crimson Park - The Heritage,4000,3.5,14,"Amer Road, Near Jal Mahal,Jaipur",302001,3.5-star Jaipur hotel with restaurant,1,0,51,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Crimson Park - The Heritage,4000,3.5,14,"Amer Road, Near Jal Mahal,Jaipur",302001,3.5-star Jaipur hotel with restaurant,1,0,51,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Crimson Park - The Heritage,4000,3.5,14,"Amer Road, Near Jal Mahal,Jaipur",302001,3.5-star Jaipur hotel with restaurant,1,0,51,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Umaid Haveli Hotel & Resorts,4500,3.5,24,"CP-5 RIICO Kukas, Kukas",302028,"Mountain hotel in Kukas with outdoor pool, bar/lounge",1,1,55,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Umaid Haveli Hotel & Resorts,5500,3.5,24,"CP-5 RIICO Kukas, Kukas",302028,"Mountain hotel in Kukas with outdoor pool, bar/lounge",1,1,55,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Umaid Haveli Hotel & Resorts,5500,3.5,24,"CP-5 RIICO Kukas, Kukas",302028,"Mountain hotel in Kukas with outdoor pool, bar/lounge",1,1,55,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Umaid Haveli Hotel & Resorts,5500,3.5,24,"CP-5 RIICO Kukas, Kukas",302028,"Mountain hotel in Kukas with outdoor pool, bar/lounge",1,1,55,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Umaid Haveli Hotel & Resorts,4500,3.5,24,"CP-5 RIICO Kukas, Kukas",302028,"Mountain hotel in Kukas with outdoor pool, bar/lounge",1,1,55,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Umaid Haveli Hotel & Resorts,5500,3.5,24,"CP-5 RIICO Kukas, Kukas",302028,"Mountain hotel in Kukas with outdoor pool, bar/lounge",1,1,55,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Umaid Haveli Hotel & Resorts,4500,3.5,24,"CP-5 RIICO Kukas, Kukas",302028,"Mountain hotel in Kukas with outdoor pool, bar/lounge",1,1,55,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Umaid Haveli Hotel & Resorts,4500,3.5,24,"CP-5 RIICO Kukas, Kukas",302028,"Mountain hotel in Kukas with outdoor pool, bar/lounge",1,1,55,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Umaid Haveli Hotels & Resorts,4500,3.5,29,"CP-5 RIICO Kukas, Kukas, Rajasthan",302028,"Mountain hotel in Kukas with outdoor pool, bar/lounge",1,1,55,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Umaid Haveli Hotels & Resorts,5500,3.5,29,"CP-5 RIICO Kukas, Kukas, Rajasthan",302028,"Mountain hotel in Kukas with outdoor pool, bar/lounge",1,1,55,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Umaid Haveli Hotels & Resorts,5500,3.5,29,"CP-5 RIICO Kukas, Kukas, Rajasthan",302028,"Mountain hotel in Kukas with outdoor pool, bar/lounge",1,1,55,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Umaid Haveli Hotels & Resorts,5500,3.5,29,"CP-5 RIICO Kukas, Kukas, Rajasthan",302028,"Mountain hotel in Kukas with outdoor pool, bar/lounge",1,1,55,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Umaid Haveli Hotels & Resorts,4500,3.5,29,"CP-5 RIICO Kukas, Kukas, Rajasthan",302028,"Mountain hotel in Kukas with outdoor pool, bar/lounge",1,1,55,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Umaid Haveli Hotels & Resorts,4500,3.5,29,"CP-5 RIICO Kukas, Kukas, Rajasthan",302028,"Mountain hotel in Kukas with outdoor pool, bar/lounge",1,1,55,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Umaid Haveli Hotels & Resorts,4500,3.5,29,"CP-5 RIICO Kukas, Kukas, Rajasthan",302028,"Mountain hotel in Kukas with outdoor pool, bar/lounge",1,1,55,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Umaid Haveli Hotels & Resorts,4500,3.5,29,"CP-5 RIICO Kukas, Kukas, Rajasthan",302028,"Mountain hotel in Kukas with outdoor pool, bar/lounge",1,1,55,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Jagrati Lords Inn,2430,3.5,3,"SP 2 RIICO Industrial Area, Mansarovar",302020,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,1,56,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Jagrati Lords Inn,2430,3.5,3,"SP 2 RIICO Industrial Area, Mansarovar",302020,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,1,56,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Jagrati Lords Inn,2430,3.5,3,"SP 2 RIICO Industrial Area, Mansarovar",302020,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,1,56,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Jagrati Lords Inn,2430,3.5,3,"SP 2 RIICO Industrial Area, Mansarovar",302020,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,1,56,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Jagrati Lords Inn,2430,3.5,3,"SP 2 RIICO Industrial Area, Mansarovar",302020,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,1,56,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Jagrati Lords Inn,2430,3.5,3,"SP 2 RIICO Industrial Area, Mansarovar",302020,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,1,56,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Jagrati Lords Inn,9000,3.5,3,"SP 2 RIICO Industrial Area, Mansarovar",302020,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,1,56,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Jagrati Lords Inn,9000,3.5,3,"SP 2 RIICO Industrial Area, Mansarovar",302020,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,1,56,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Vesta Maurya Palace,2719,3.5,9.7,"S-35A, Arvind Marg",302001,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,0,56,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Vesta Maurya Palace,2719,3.5,9.7,"S-35A, Arvind Marg",302001,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,0,56,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Vesta Maurya Palace,3199,3.5,9.7,"S-35A, Arvind Marg",302001,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,0,56,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Vesta Maurya Palace,3499,3.5,9.7,"S-35A, Arvind Marg",302001,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,0,56,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Vesta Maurya Palace,3199,3.5,9.7,"S-35A, Arvind Marg",302001,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,0,56,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Vesta Maurya Palace,3499,3.5,9.7,"S-35A, Arvind Marg",302001,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,0,56,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Vesta Maurya Palace,2719,3.5,9.7,"S-35A, Arvind Marg",302001,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,0,56,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Vesta Maurya Palace,2719,3.5,9.7,"S-35A, Arvind Marg",302001,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,0,56,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,"lebua Resort, Jaipur",10000,5,13,"Jamdoli, Agra Road, Tehsil Ballupura, Jaipur",302031,"Mountain hotel in Jaipur with spa, outdoor pool",1,0,63,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,"lebua Resort, Jaipur",8000,5,13,"Jamdoli, Agra Road, Tehsil Ballupura, Jaipur",302031,"Mountain hotel in Jaipur with spa, outdoor pool",1,0,63,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,"lebua Resort, Jaipur",10800,5,13,"Jamdoli, Agra Road, Tehsil Ballupura, Jaipur",302031,"Mountain hotel in Jaipur with spa, outdoor pool",1,0,63,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,"lebua Resort, Jaipur",9000,5,13,"Jamdoli, Agra Road, Tehsil Ballupura, Jaipur",302031,"Mountain hotel in Jaipur with spa, outdoor pool",1,0,63,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,"lebua Resort, Jaipur",9000,5,13,"Jamdoli, Agra Road, Tehsil Ballupura, Jaipur",302031,"Mountain hotel in Jaipur with spa, outdoor pool",1,0,63,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,"lebua Resort, Jaipur",33500,5,13,"Jamdoli, Agra Road, Tehsil Ballupura, Jaipur",302031,"Mountain hotel in Jaipur with spa, outdoor pool",1,0,63,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,"lebua Resort, Jaipur",7200,5,13,"Jamdoli, Agra Road, Tehsil Ballupura, Jaipur",302031,"Mountain hotel in Jaipur with spa, outdoor pool",1,0,63,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,"lebua Resort, Jaipur",7200,5,13,"Jamdoli, Agra Road, Tehsil Ballupura, Jaipur",302031,"Mountain hotel in Jaipur with spa, outdoor pool",1,0,63,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,The Oberoi Rajvilas,44000,5,9.2,"Goner Road, Jaipur",303012,"Luxury hotel in Jaipur with 2 restaurants, spa",1,0,71,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,The Oberoi Rajvilas,67000,5,9.2,"Goner Road, Jaipur",303012,"Luxury hotel in Jaipur with 2 restaurants, spa",1,0,71,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,The Oberoi Rajvilas,67000,5,9.2,"Goner Road, Jaipur",303012,"Luxury hotel in Jaipur with 2 restaurants, spa",1,0,71,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,The Oberoi Rajvilas,67000,5,9.2,"Goner Road, Jaipur",303012,"Luxury hotel in Jaipur with 2 restaurants, spa",1,0,71,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,The Oberoi Rajvilas,67000,5,9.2,"Goner Road, Jaipur",303012,"Luxury hotel in Jaipur with 2 restaurants, spa",1,0,71,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,The Oberoi Rajvilas,67000,5,9.2,"Goner Road, Jaipur",303012,"Luxury hotel in Jaipur with 2 restaurants, spa",1,0,71,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Park Regis,5200,4,13,"Amer Road Rajasthan,Jaipur",302002,"4-star hotel in Jaipur with spa, outdoor pool",0,0,72,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Park Regis,5200,4,13,"Amer Road Rajasthan,Jaipur",302002,"4-star hotel in Jaipur with spa, outdoor pool",0,0,72,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Park Regis,5200,4,13,"Amer Road Rajasthan,Jaipur",302002,"4-star hotel in Jaipur with spa, outdoor pool",0,0,72,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Park Regis,5200,4,13,"Amer Road Rajasthan,Jaipur",302002,"4-star hotel in Jaipur with spa, outdoor pool",0,0,72,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Park Regis,5200,4,13,"Amer Road Rajasthan,Jaipur",302002,"4-star hotel in Jaipur with spa, outdoor pool",0,0,72,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Park Regis,6200,4,13,"Amer Road Rajasthan,Jaipur",302002,"4-star hotel in Jaipur with spa, outdoor pool",0,0,72,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Park Regis,4000,4,13,"Amer Road Rajasthan,Jaipur",302002,"4-star hotel in Jaipur with spa, outdoor pool",0,0,72,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Park Regis,4000,4,13,"Amer Road Rajasthan,Jaipur",302002,"4-star hotel in Jaipur with spa, outdoor pool",0,0,72,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Park Regis Jaipur,4000,4,18,"Amer Road Rajasthan, Jaipur, Rajasthan",302002,"4-star hotel in Jaipur with spa, outdoor pool",1,1,72,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Park Regis Jaipur,5200,4,18,"Amer Road Rajasthan, Jaipur, Rajasthan",302002,"4-star hotel in Jaipur with spa, outdoor pool",1,1,72,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Park Regis Jaipur,6200,4,18,"Amer Road Rajasthan, Jaipur, Rajasthan",302002,"4-star hotel in Jaipur with spa, outdoor pool",1,1,72,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Park Regis Jaipur,5200,4,18,"Amer Road Rajasthan, Jaipur, Rajasthan",302002,"4-star hotel in Jaipur with spa, outdoor pool",1,1,72,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Park Regis Jaipur,5200,4,18,"Amer Road Rajasthan, Jaipur, Rajasthan",302002,"4-star hotel in Jaipur with spa, outdoor pool",1,1,72,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Park Regis Jaipur,6200,4,18,"Amer Road Rajasthan, Jaipur, Rajasthan",302002,"4-star hotel in Jaipur with spa, outdoor pool",1,1,72,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Park Regis Jaipur,4000,4,18,"Amer Road Rajasthan, Jaipur, Rajasthan",302002,"4-star hotel in Jaipur with spa, outdoor pool",1,1,72,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Park Regis Jaipur,4000,4,18,"Amer Road Rajasthan, Jaipur, Rajasthan",302002,"4-star hotel in Jaipur with spa, outdoor pool",1,1,72,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Hotel Marigold Jaipur,4500,4,5.1,"IT 20, Sitapura Industrial Area, Near, Jaipur Exhibition & Convention Ctr, Jaipur",302022,"4-star hotel in Jaipur with outdoor pool, restaurant",1,1,75,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Hotel Marigold Jaipur,4500,4,5.1,"IT 20, Sitapura Industrial Area, Near, Jaipur Exhibition & Convention Ctr, Jaipur",302022,"4-star hotel in Jaipur with outdoor pool, restaurant",1,1,75,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Hotel Marigold Jaipur,4500,4,5.1,"IT 20, Sitapura Industrial Area, Near, Jaipur Exhibition & Convention Ctr, Jaipur",302022,"4-star hotel in Jaipur with outdoor pool, restaurant",1,1,75,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Hotel Marigold Jaipur,5000,4,5.1,"IT 20, Sitapura Industrial Area, Near, Jaipur Exhibition & Convention Ctr, Jaipur",302022,"4-star hotel in Jaipur with outdoor pool, restaurant",1,1,75,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Hotel Marigold Jaipur,5000,4,5.1,"IT 20, Sitapura Industrial Area, Near, Jaipur Exhibition & Convention Ctr, Jaipur",302022,"4-star hotel in Jaipur with outdoor pool, restaurant",1,1,75,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Hotel Marigold Jaipur,5000,4,5.1,"IT 20, Sitapura Industrial Area, Near, Jaipur Exhibition & Convention Ctr, Jaipur",302022,"4-star hotel in Jaipur with outdoor pool, restaurant",1,1,75,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Hotel Marigold Jaipur,5500,4,5.1,"IT 20, Sitapura Industrial Area, Near, Jaipur Exhibition & Convention Ctr, Jaipur",302022,"4-star hotel in Jaipur with outdoor pool, restaurant",1,1,75,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Hotel Marigold Jaipur,5500,4,5.1,"IT 20, Sitapura Industrial Area, Near, Jaipur Exhibition & Convention Ctr, Jaipur",302022,"4-star hotel in Jaipur with outdoor pool, restaurant",1,1,75,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Park Inn Jaipur,3500,4,11,"A-28/C/3, Sawai Jaisingh Hwy, Baark,Rajasthan,Jaipur",302016,"4-star hotel in Bani Park with 2 restaurants, bar/lounge",1,0,76,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Park Inn Jaipur,5700,4,11,"A-28/C/3, Sawai Jaisingh Hwy, Baark,Rajasthan,Jaipur",302016,"4-star hotel in Bani Park with 2 restaurants, bar/lounge",1,0,76,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Park Inn Jaipur,5700,4,11,"A-28/C/3, Sawai Jaisingh Hwy, Baark,Rajasthan,Jaipur",302016,"4-star hotel in Bani Park with 2 restaurants, bar/lounge",1,0,76,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Park Inn Jaipur,5700,4,11,"A-28/C/3, Sawai Jaisingh Hwy, Baark,Rajasthan,Jaipur",302016,"4-star hotel in Bani Park with 2 restaurants, bar/lounge",1,0,76,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Park Inn Jaipur,4500,4,11,"A-28/C/3, Sawai Jaisingh Hwy, Baark,Rajasthan,Jaipur",302016,"4-star hotel in Bani Park with 2 restaurants, bar/lounge",1,0,76,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Park Inn Jaipur,5700,4,11,"A-28/C/3, Sawai Jaisingh Hwy, Baark,Rajasthan,Jaipur",302016,"4-star hotel in Bani Park with 2 restaurants, bar/lounge",1,0,76,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Park Inn Jaipur,5700,4,11,"A-28/C/3, Sawai Jaisingh Hwy, Baark,Rajasthan,Jaipur",302016,"4-star hotel in Bani Park with 2 restaurants, bar/lounge",1,0,76,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Park Inn Jaipur,4500,4,11,"A-28/C/3, Sawai Jaisingh Hwy, Baark,Rajasthan,Jaipur",302016,"4-star hotel in Bani Park with 2 restaurants, bar/lounge",1,0,76,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Shiv Vilas Resorts,21000,5,27,"Jaipur Delhi Highway,Kukas, Jaipur",303101,"Luxury hotel in Kookas with 4 restaurants, spa",1,0,78,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Shiv Vilas Resorts,14000,5,27,"Jaipur Delhi Highway,Kukas, Jaipur",303101,"Luxury hotel in Kookas with 4 restaurants, spa",1,0,78,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Shiv Vilas Resorts,20000,5,27,"Jaipur Delhi Highway,Kukas, Jaipur",303101,"Luxury hotel in Kookas with 4 restaurants, spa",1,0,78,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Shiv Vilas Resorts,21000,5,27,"Jaipur Delhi Highway,Kukas, Jaipur",303101,"Luxury hotel in Kookas with 4 restaurants, spa",1,0,78,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Shiv Vilas Resorts,21000,5,27,"Jaipur Delhi Highway,Kukas, Jaipur",303101,"Luxury hotel in Kookas with 4 restaurants, spa",1,0,78,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Shiv Vilas Resorts,21000,5,27,"Jaipur Delhi Highway,Kukas, Jaipur",303101,"Luxury hotel in Kookas with 4 restaurants, spa",1,0,78,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Shiv Vilas Resorts,12000,5,27,"Jaipur Delhi Highway,Kukas, Jaipur",303101,"Luxury hotel in Kookas with 4 restaurants, spa",1,0,78,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Shiv Vilas Resorts,12000,5,27,"Jaipur Delhi Highway,Kukas, Jaipur",303101,"Luxury hotel in Kookas with 4 restaurants, spa",1,0,78,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Rambagh Palace,322500,5,7.7,"Bhawani Singh Road, Jaipur",302005,"Luxury hotel in C-Scheme with 3 restaurants, 2 bars/lounges",1,0,79,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Rambagh Palace,322500,5,7.7,"Bhawani Singh Road, Jaipur",302005,"Luxury hotel in C-Scheme with 3 restaurants, 2 bars/lounges",1,0,79,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Rambagh Palace,137500,5,7.7,"Bhawani Singh Road, Jaipur",302005,"Luxury hotel in C-Scheme with 3 restaurants, 2 bars/lounges",1,0,79,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Rambagh Palace,68500,5,7.7,"Bhawani Singh Road, Jaipur",302005,"Luxury hotel in C-Scheme with 3 restaurants, 2 bars/lounges",1,0,79,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Rambagh Palace,68500,5,7.7,"Bhawani Singh Road, Jaipur",302005,"Luxury hotel in C-Scheme with 3 restaurants, 2 bars/lounges",1,0,79,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Rambagh Palace,68500,5,7.7,"Bhawani Singh Road, Jaipur",302005,"Luxury hotel in C-Scheme with 3 restaurants, 2 bars/lounges",1,0,79,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Rambagh Palace,68500,5,7.7,"Bhawani Singh Road, Jaipur",302005,"Luxury hotel in C-Scheme with 3 restaurants, 2 bars/lounges",1,0,79,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Rambagh Palace,41850,5,7.7,"Bhawani Singh Road, Jaipur",302005,"Luxury hotel in C-Scheme with 3 restaurants, 2 bars/lounges",1,0,79,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Souvenir Premier,3665,3.5,7.4,"New Atish Market, Gopalpura Bypass,Mansarovar,Jaipur",302019,"3.5-star hotel in Jaipur with spa, outdoor pool",1,0,80,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Souvenir Premier,6999,3.5,7.4,"New Atish Market, Gopalpura Bypass,Mansarovar,Jaipur",302019,"3.5-star hotel in Jaipur with spa, outdoor pool",1,0,80,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Souvenir Premier,6999,3.5,7.4,"New Atish Market, Gopalpura Bypass,Mansarovar,Jaipur",302019,"3.5-star hotel in Jaipur with spa, outdoor pool",1,0,80,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Souvenir Premier,6999,3.5,7.4,"New Atish Market, Gopalpura Bypass,Mansarovar,Jaipur",302019,"3.5-star hotel in Jaipur with spa, outdoor pool",1,0,80,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Souvenir Premier,4330,3.5,7.4,"New Atish Market, Gopalpura Bypass,Mansarovar,Jaipur",302019,"3.5-star hotel in Jaipur with spa, outdoor pool",1,0,80,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Souvenir Premier,19999,3.5,7.4,"New Atish Market, Gopalpura Bypass,Mansarovar,Jaipur",302019,"3.5-star hotel in Jaipur with spa, outdoor pool",1,0,80,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Souvenir Premier,6999,3.5,7.4,"New Atish Market, Gopalpura Bypass,Mansarovar,Jaipur",302019,"3.5-star hotel in Jaipur with spa, outdoor pool",1,0,80,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Souvenir Premier,6999,3.5,7.4,"New Atish Market, Gopalpura Bypass,Mansarovar,Jaipur",302019,"3.5-star hotel in Jaipur with spa, outdoor pool",1,0,80,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Nirwana Hometel Jaipur - A Sarovar Hotel,4000,3,10,"4 - D Villa, Khasa Kothi Circle, Station Road",302001,"3-star hotel in Bani Park with restaurant, bar/lounge",1,1,82,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Nirwana Hometel Jaipur - A Sarovar Hotel,4000,3,10,"4 - D Villa, Khasa Kothi Circle, Station Road",302001,"3-star hotel in Bani Park with restaurant, bar/lounge",1,1,82,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Nirwana Hometel Jaipur - A Sarovar Hotel,5500,3,10,"4 - D Villa, Khasa Kothi Circle, Station Road",302001,"3-star hotel in Bani Park with restaurant, bar/lounge",1,1,82,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Nirwana Hometel Jaipur - A Sarovar Hotel,5500,3,10,"4 - D Villa, Khasa Kothi Circle, Station Road",302001,"3-star hotel in Bani Park with restaurant, bar/lounge",1,1,82,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Nirwana Hometel Jaipur - A Sarovar Hotel,4000,3,10,"4 - D Villa, Khasa Kothi Circle, Station Road",302001,"3-star hotel in Bani Park with restaurant, bar/lounge",1,1,82,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Nirwana Hometel Jaipur - A Sarovar Hotel,5500,3,10,"4 - D Villa, Khasa Kothi Circle, Station Road",302001,"3-star hotel in Bani Park with restaurant, bar/lounge",1,1,82,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Nirwana Hometel Jaipur - A Sarovar Hotel,5500,3,10,"4 - D Villa, Khasa Kothi Circle, Station Road",302001,"3-star hotel in Bani Park with restaurant, bar/lounge",1,1,82,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Nirwana Hometel Jaipur - A Sarovar Hotel,5500,3,10,"4 - D Villa, Khasa Kothi Circle, Station Road",302001,"3-star hotel in Bani Park with restaurant, bar/lounge",1,1,82,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Sarovar Portico Jaipur,3300,3.5,9.8,"Plot No 90,Bhan Nagar, Prince Road,Queens Road,Vaishali",302021,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,0,82,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Sarovar Portico Jaipur,3300,3.5,9.8,"Plot No 90,Bhan Nagar, Prince Road,Queens Road,Vaishali",302021,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,0,82,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Sarovar Portico Jaipur,4000,3.5,9.8,"Plot No 90,Bhan Nagar, Prince Road,Queens Road,Vaishali",302021,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,0,82,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Sarovar Portico Jaipur,3300,3.5,9.8,"Plot No 90,Bhan Nagar, Prince Road,Queens Road,Vaishali",302021,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,0,82,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Sarovar Portico Jaipur,3300,3.5,9.8,"Plot No 90,Bhan Nagar, Prince Road,Queens Road,Vaishali",302021,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,0,82,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Sarovar Portico Jaipur,7000,3.5,9.8,"Plot No 90,Bhan Nagar, Prince Road,Queens Road,Vaishali",302021,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,0,82,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Sarovar Portico Jaipur,7000,3.5,9.8,"Plot No 90,Bhan Nagar, Prince Road,Queens Road,Vaishali",302021,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,0,82,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Sarovar Portico Jaipur,7000,3.5,9.8,"Plot No 90,Bhan Nagar, Prince Road,Queens Road,Vaishali",302021,"3.5-star hotel in Jaipur with outdoor pool, restaurant",1,0,82,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,The Fern - An Ecotel Hotel,5399,4,2,"3, Airport Plaza , Nr.Durgapura,Tonk Road,Jaipur",302018,"4-star hotel in Jaipur with spa, outdoor pool",1,0,85,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,The Fern - An Ecotel Hotel,5399,4,2,"3, Airport Plaza , Nr.Durgapura,Tonk Road,Jaipur",302018,"4-star hotel in Jaipur with spa, outdoor pool",1,0,85,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,The Fern - An Ecotel Hotel,4999,4,2,"3, Airport Plaza , Nr.Durgapura,Tonk Road,Jaipur",302018,"4-star hotel in Jaipur with spa, outdoor pool",1,0,85,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,The Fern - An Ecotel Hotel,4499,4,2,"3, Airport Plaza , Nr.Durgapura,Tonk Road,Jaipur",302018,"4-star hotel in Jaipur with spa, outdoor pool",1,0,85,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,The Fern - An Ecotel Hotel,3399,4,2,"3, Airport Plaza , Nr.Durgapura,Tonk Road,Jaipur",302018,"4-star hotel in Jaipur with spa, outdoor pool",1,0,85,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,The Fern - An Ecotel Hotel,5399,4,2,"3, Airport Plaza , Nr.Durgapura,Tonk Road,Jaipur",302018,"4-star hotel in Jaipur with spa, outdoor pool",1,0,85,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,The Fern - An Ecotel Hotel,5399,4,2,"3, Airport Plaza , Nr.Durgapura,Tonk Road,Jaipur",302018,"4-star hotel in Jaipur with spa, outdoor pool",1,0,85,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,The Fern - An Ecotel Hotel,5399,4,2,"3, Airport Plaza , Nr.Durgapura,Tonk Road,Jaipur",302018,"4-star hotel in Jaipur with spa, outdoor pool",1,0,85,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Fortune Select Metropolitan,8800,4,8.3,"Near Nehru Sahkar Bhawan, Bais Godam,Circle. C-Scheme,Jaipur",302001,"4-star hotel in C-Scheme with 2 restaurants, spa",1,0,90,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Fortune Select Metropolitan,8800,4,8.3,"Near Nehru Sahkar Bhawan, Bais Godam,Circle. C-Scheme,Jaipur",302001,"4-star hotel in C-Scheme with 2 restaurants, spa",1,0,90,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Fortune Select Metropolitan,6800,4,8.3,"Near Nehru Sahkar Bhawan, Bais Godam,Circle. C-Scheme,Jaipur",302001,"4-star hotel in C-Scheme with 2 restaurants, spa",1,0,90,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Fortune Select Metropolitan,6375,4,8.3,"Near Nehru Sahkar Bhawan, Bais Godam,Circle. C-Scheme,Jaipur",302001,"4-star hotel in C-Scheme with 2 restaurants, spa",1,0,90,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Fortune Select Metropolitan,5950,4,8.3,"Near Nehru Sahkar Bhawan, Bais Godam,Circle. C-Scheme,Jaipur",302001,"4-star hotel in C-Scheme with 2 restaurants, spa",1,0,90,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Fortune Select Metropolitan,8800,4,8.3,"Near Nehru Sahkar Bhawan, Bais Godam,Circle. C-Scheme,Jaipur",302001,"4-star hotel in C-Scheme with 2 restaurants, spa",1,0,90,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Fortune Select Metropolitan,4400,4,8.3,"Near Nehru Sahkar Bhawan, Bais Godam,Circle. C-Scheme,Jaipur",302001,"4-star hotel in C-Scheme with 2 restaurants, spa",1,0,90,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Fortune Select Metropolitan,8800,4,8.3,"Near Nehru Sahkar Bhawan, Bais Godam,Circle. C-Scheme,Jaipur",302001,"4-star hotel in C-Scheme with 2 restaurants, spa",1,0,90,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Hotel Jaipur Ashok,2600,4,11,"Jaisingh Circle, Bani Park,Jaipur",302016,"4-star hotel in Bani Park with restaurant, bar/lounge",1,0,97,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Hotel Jaipur Ashok,2600,4,11,"Jaisingh Circle, Bani Park,Jaipur",302016,"4-star hotel in Bani Park with restaurant, bar/lounge",1,0,97,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Hotel Jaipur Ashok,2600,4,11,"Jaisingh Circle, Bani Park,Jaipur",302016,"4-star hotel in Bani Park with restaurant, bar/lounge",1,0,97,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Hotel Jaipur Ashok,2600,4,11,"Jaisingh Circle, Bani Park,Jaipur",302016,"4-star hotel in Bani Park with restaurant, bar/lounge",1,0,97,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Hotel Jaipur Ashok,2600,4,11,"Jaisingh Circle, Bani Park,Jaipur",302016,"4-star hotel in Bani Park with restaurant, bar/lounge",1,0,97,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Hotel Jaipur Ashok,2600,4,11,"Jaisingh Circle, Bani Park,Jaipur",302016,"4-star hotel in Bani Park with restaurant, bar/lounge",1,0,97,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Hotel Jaipur Ashok,2250,4,11,"Jaisingh Circle, Bani Park,Jaipur",302016,"4-star hotel in Bani Park with restaurant, bar/lounge",1,0,97,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Hotel Jaipur Ashok,2250,4,11,"Jaisingh Circle, Bani Park,Jaipur",302016,"4-star hotel in Bani Park with restaurant, bar/lounge",1,0,97,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Jai Mahal Palace,14875,5,9.5,"Jacob Road Civil Lines, Jaipur",302006,"Luxury hotel in Civil Lines with outdoor pool, bar/lounge",1,0,100,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Jai Mahal Palace,19000,5,9.5,"Jacob Road Civil Lines, Jaipur",302006,"Luxury hotel in Civil Lines with outdoor pool, bar/lounge",1,0,100,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Jai Mahal Palace,22000,5,9.5,"Jacob Road Civil Lines, Jaipur",302006,"Luxury hotel in Civil Lines with outdoor pool, bar/lounge",1,0,100,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Jai Mahal Palace,22000,5,9.5,"Jacob Road Civil Lines, Jaipur",302006,"Luxury hotel in Civil Lines with outdoor pool, bar/lounge",1,0,100,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Jai Mahal Palace,25000,5,9.5,"Jacob Road Civil Lines, Jaipur",302006,"Luxury hotel in Civil Lines with outdoor pool, bar/lounge",1,0,100,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Jai Mahal Palace,25000,5,9.5,"Jacob Road Civil Lines, Jaipur",302006,"Luxury hotel in Civil Lines with outdoor pool, bar/lounge",1,0,100,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Golden Tulip Jaipur,4499,4,11,"Opp. Gpo Mi Road Behind Jangid Bhawan, Jaipur, Rajasthan",302001,"4-star hotel in Jaipur with outdoor pool, restaurant",1,1,102,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Golden Tulip Jaipur,4499,4,11,"Opp. Gpo Mi Road Behind Jangid Bhawan, Jaipur, Rajasthan",302001,"4-star hotel in Jaipur with outdoor pool, restaurant",1,1,102,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Golden Tulip Jaipur,4499,4,11,"Opp. Gpo Mi Road Behind Jangid Bhawan, Jaipur, Rajasthan",302001,"4-star hotel in Jaipur with outdoor pool, restaurant",1,1,102,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Golden Tulip Jaipur,4499,4,11,"Opp. Gpo Mi Road Behind Jangid Bhawan, Jaipur, Rajasthan",302001,"4-star hotel in Jaipur with outdoor pool, restaurant",1,1,102,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Golden Tulip Jaipur,4499,4,11,"Opp. Gpo Mi Road Behind Jangid Bhawan, Jaipur, Rajasthan",302001,"4-star hotel in Jaipur with outdoor pool, restaurant",1,1,102,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Golden Tulip Jaipur,4499,4,11,"Opp. Gpo Mi Road Behind Jangid Bhawan, Jaipur, Rajasthan",302001,"4-star hotel in Jaipur with outdoor pool, restaurant",1,1,102,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Golden Tulip Jaipur,4499,4,11,"Opp. Gpo Mi Road Behind Jangid Bhawan, Jaipur, Rajasthan",302001,"4-star hotel in Jaipur with outdoor pool, restaurant",1,1,102,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Golden Tulip Jaipur,3999,4,11,"Opp. Gpo Mi Road Behind Jangid Bhawan, Jaipur, Rajasthan",302001,"4-star hotel in Jaipur with outdoor pool, restaurant",1,1,102,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Ginger Jaipur,2727,3,8.5,"Geejgarh House, Civil Lines, Hawa Sadak",302006,3-star Jaipur hotel with restaurant,1,0,103,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Ginger Jaipur,2727,3,8.5,"Geejgarh House, Civil Lines, Hawa Sadak",302006,3-star Jaipur hotel with restaurant,1,0,103,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Ginger Jaipur,4799,3,8.5,"Geejgarh House, Civil Lines, Hawa Sadak",302006,3-star Jaipur hotel with restaurant,1,0,103,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Ginger Jaipur,4799,3,8.5,"Geejgarh House, Civil Lines, Hawa Sadak",302006,3-star Jaipur hotel with restaurant,1,0,103,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Ginger Jaipur,4799,3,8.5,"Geejgarh House, Civil Lines, Hawa Sadak",302006,3-star Jaipur hotel with restaurant,1,0,103,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Ginger Jaipur,4799,3,8.5,"Geejgarh House, Civil Lines, Hawa Sadak",302006,3-star Jaipur hotel with restaurant,1,0,103,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Ginger Jaipur,2463,3,8.5,"Geejgarh House, Civil Lines, Hawa Sadak",302006,3-star Jaipur hotel with restaurant,1,0,103,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Ginger Jaipur,2463,3,8.5,"Geejgarh House, Civil Lines, Hawa Sadak",302006,3-star Jaipur hotel with restaurant,1,0,103,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Chokhi Dhani Resort,19999,4.5,7.5,"12th Mile Tonk Road,via Vatika,Jaipur",303905,"Luxury resort in Jaipur with 7 restaurants, 2 bars/lounges",1,0,104,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Chokhi Dhani Resort,19999,4.5,7.5,"12th Mile Tonk Road,via Vatika,Jaipur,Rajasthan,India",303905,"Luxury resort in Jaipur with 7 restaurants, 2 bars/lounges",1,0,104,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Chokhi Dhani Resort,9999,4.5,7.5,"12th Mile Tonk Road,via Vatika,Jaipur,Rajasthan,India",303905,"Luxury resort in Jaipur with 7 restaurants, 2 bars/lounges",1,0,104,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Chokhi Dhani Resort,11999,4.5,7.5,"12th Mile Tonk Road,via Vatika,Jaipur,Rajasthan,India",303905,"Luxury resort in Jaipur with 7 restaurants, 2 bars/lounges",1,0,104,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Chokhi Dhani Resort,9999,4.5,7.5,"12th Mile Tonk Road,via Vatika,Jaipur,Rajasthan,India",303905,"Luxury resort in Jaipur with 7 restaurants, 2 bars/lounges",1,0,104,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Chokhi Dhani Resort,19999,4.5,7.5,"12th Mile Tonk Road,via Vatika,Jaipur,Rajasthan,India",303905,"Luxury resort in Jaipur with 7 restaurants, 2 bars/lounges",1,0,104,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Chokhi Dhani Resort,19999,4.5,7.5,"12th Mile Tonk Road,via Vatika,Jaipur,Rajasthan,India",303905,"Luxury resort in Jaipur with 7 restaurants, 2 bars/lounges",1,0,104,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Chokhi Dhani Resort,6999,4.5,7.5,"12th Mile Tonk Road,via Vatika,Jaipur,Rajasthan,India",303905,"Luxury resort in Jaipur with 7 restaurants, 2 bars/lounges",1,0,104,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Hotel Mansingh,5500,4,10,"Sansar Chandra Road,Jaipur",302001,"4-star hotel in Jaipur with outdoor pool, restaurant",0,1,106,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Hotel Mansingh,5500,4,10,"Sansar Chandra Road,Jaipur",302001,"4-star hotel in Jaipur with outdoor pool, restaurant",0,1,106,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Hotel Mansingh,5500,4,10,"Sansar Chandra Road,Jaipur",302001,"4-star hotel in Jaipur with outdoor pool, restaurant",0,1,106,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Hotel Mansingh,5500,4,10,"Sansar Chandra Road,Jaipur",302001,"4-star hotel in Jaipur with outdoor pool, restaurant",0,1,106,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Hotel Mansingh,5500,4,10,"Sansar Chandra Road,Jaipur",302001,"4-star hotel in Jaipur with outdoor pool, restaurant",0,1,106,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Hotel Mansingh,5500,4,10,"Sansar Chandra Road,Jaipur",302001,"4-star hotel in Jaipur with outdoor pool, restaurant",0,1,106,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Hotel Mansingh,4750,4,10,"Sansar Chandra Road,Jaipur",302001,"4-star hotel in Jaipur with outdoor pool, restaurant",0,1,106,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Hotel Mansingh,5500,4,10,"Sansar Chandra Road,Jaipur",302001,"4-star hotel in Jaipur with outdoor pool, restaurant",0,1,106,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,"Lemon Tree Premier, Jaipur",5004,4,11,"Nirwan Marg, Bani Park, Jaipur, Rajasthan,  India",302016,"4-star hotel in Bani Park with outdoor pool, restaurant",1,0,108,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,"Lemon Tree Premier, Jaipur",4674,4,11,"Nirwan Marg, Bani Park, Jaipur, Rajasthan,  India",302016,"4-star hotel in Bani Park with outdoor pool, restaurant",1,0,108,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,"Lemon Tree Premier, Jaipur",8331,4,11,"Nirwan Marg, Bani Park, Jaipur, Rajasthan,  India",302016,"4-star hotel in Bani Park with outdoor pool, restaurant",1,0,108,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,"Lemon Tree Premier, Jaipur",5776,4,11,"Nirwan Marg, Bani Park, Jaipur, Rajasthan,  India",302016,"4-star hotel in Bani Park with outdoor pool, restaurant",1,0,108,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,"Lemon Tree Premier, Jaipur",6554,4,11,"Nirwan Marg, Bani Park, Jaipur, Rajasthan,  India",302016,"4-star hotel in Bani Park with outdoor pool, restaurant",1,0,108,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,"Lemon Tree Premier, Jaipur",8331,4,11,"Nirwan Marg, Bani Park, Jaipur, Rajasthan,  India",302016,"4-star hotel in Bani Park with outdoor pool, restaurant",1,0,108,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,"Lemon Tree Premier, Jaipur",5332,4,11,"Nirwan Marg, Bani Park, Jaipur, Rajasthan,  India",302016,"4-star hotel in Bani Park with outdoor pool, restaurant",1,0,108,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,"Lemon Tree Premier, Jaipur",5332,4,11,"Nirwan Marg, Bani Park, Jaipur, Rajasthan,  India",302016,"4-star hotel in Bani Park with outdoor pool, restaurant",1,0,108,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Fortune Bella Casa,4299,4,1.8,"Cityplex,1 Ashram Marg Tonk Road Junct.,Tonk road,Jaipur",302018,"4-star hotel in Jaipur with 2 restaurants, outdoor pool",0,0,109,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Fortune Bella Casa,4299,4,1.8,"Cityplex,1 Ashram Marg Tonk Road Junct.,Tonk road,Jaipur",302018,"4-star hotel in Jaipur with 2 restaurants, outdoor pool",0,0,109,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Fortune Bella Casa,4299,4,1.8,"Cityplex,1 Ashram Marg Tonk Road Junct.,Tonk road,Jaipur",302018,"4-star hotel in Jaipur with 2 restaurants, outdoor pool",0,0,109,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Fortune Bella Casa,4299,4,1.8,"Cityplex,1 Ashram Marg Tonk Road Junct.,Tonk road,Jaipur",302018,"4-star hotel in Jaipur with 2 restaurants, outdoor pool",0,0,109,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Fortune Bella Casa,4299,4,1.8,"Cityplex,1 Ashram Marg Tonk Road Junct.,Tonk road,Jaipur",302018,"4-star hotel in Jaipur with 2 restaurants, outdoor pool",0,0,109,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Fortune Bella Casa,4999,4,1.8,"Cityplex,1 Ashram Marg Tonk Road Junct.,Tonk road,Jaipur",302018,"4-star hotel in Jaipur with 2 restaurants, outdoor pool",0,0,109,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Fortune Bella Casa,3074,4,1.8,"Cityplex,1 Ashram Marg Tonk Road Junct.,Tonk road,Jaipur",302018,"4-star hotel in Jaipur with 2 restaurants, outdoor pool",0,0,109,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Fortune Bella Casa,3074,4,1.8,"Cityplex,1 Ashram Marg Tonk Road Junct.,Tonk road,Jaipur",302018,"4-star hotel in Jaipur with 2 restaurants, outdoor pool",0,0,109,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,KK Royal Hotel & Convection Center ,5000,4,19,"Delhi Road, Amer Road, Amer, Rajasthan",302028,"Suburban hotel with outdoor pool, near Amber Fort",1,1,111,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,KK Royal Hotel & Convection Center ,5000,4,19,"Delhi Road, Amer Road, Amer, Rajasthan",302028,"Suburban hotel with outdoor pool, near Amber Fort",1,1,111,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,KK Royal Hotel & Convection Center ,7500,4,19,"Delhi Road, Amer Road, Amer, Rajasthan",302028,"Suburban hotel with outdoor pool, near Amber Fort",1,1,111,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,KK Royal Hotel & Convection Center ,7500,4,19,"Delhi Road, Amer Road, Amer, Rajasthan",302028,"Suburban hotel with outdoor pool, near Amber Fort",1,1,111,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,KK Royal Hotel & Convection Center ,7500,4,19,"Delhi Road, Amer Road, Amer, Rajasthan",302028,"Suburban hotel with outdoor pool, near Amber Fort",1,1,111,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,KK Royal Hotel & Convection Center ,7500,4,19,"Delhi Road, Amer Road, Amer, Rajasthan",302028,"Suburban hotel with outdoor pool, near Amber Fort",1,1,111,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,KK Royal Hotel & Convection Center ,5000,4,19,"Delhi Road, Amer Road, Amer, Rajasthan",302028,"Suburban hotel with outdoor pool, near Amber Fort",1,1,111,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,KK Royal Hotel & Convection Center ,5000,4,19,"Delhi Road, Amer Road, Amer, Rajasthan",302028,"Suburban hotel with outdoor pool, near Amber Fort",1,1,111,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Country Inn & Suites by Carlson,9199,4.5,10,"Khasa Kothi Circle, M.I. Road,,Jaipur",302001,"Luxury hotel in Jaipur with 4 restaurants, spa",1,0,112,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Country Inn & Suites by Carlson,6000,4.5,10,"Khasa Kothi Circle, M.I. Road,,Jaipur",302001,"Luxury hotel in Jaipur with 4 restaurants, spa",1,0,112,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Country Inn & Suites by Carlson,9199,4.5,10,"Khasa Kothi Circle, M.I. Road,,Jaipur",302001,"Luxury hotel in Jaipur with 4 restaurants, spa",1,0,112,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Country Inn & Suites by Carlson,9199,4.5,10,"Khasa Kothi Circle, M.I. Road,,Jaipur",302001,"Luxury hotel in Jaipur with 4 restaurants, spa",1,0,112,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Country Inn & Suites by Carlson,9199,4.5,10,"Khasa Kothi Circle, M.I. Road,,Jaipur",302001,"Luxury hotel in Jaipur with 4 restaurants, spa",1,0,112,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Country Inn & Suites by Carlson,9199,4.5,10,"Khasa Kothi Circle, M.I. Road,,Jaipur",302001,"Luxury hotel in Jaipur with 4 restaurants, spa",1,0,112,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Country Inn & Suites by Carlson,6000,4.5,10,"Khasa Kothi Circle, M.I. Road,,Jaipur",302001,"Luxury hotel in Jaipur with 4 restaurants, spa",1,0,112,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Country Inn & Suites by Carlson,5200,4.5,10,"Khasa Kothi Circle, M.I. Road,,Jaipur",302001,"Luxury hotel in Jaipur with 4 restaurants, spa",1,0,112,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Arya Niwas,2150,3,10,"Sansar Chandra Road, Behind Amber Tower",302001,City-center Jaipur hotel with restaurant,1,0,128,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Arya Niwas,2350,3,10,"Sansar Chandra Road, Behind Amber Tower",302001,City-center Jaipur hotel with restaurant,1,0,128,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Arya Niwas,2650,3,10,"Sansar Chandra Road, Behind Amber Tower",302001,City-center Jaipur hotel with restaurant,1,0,128,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Arya Niwas,2250,3,10,"Sansar Chandra Road, Behind Amber Tower",302001,City-center Jaipur hotel with restaurant,1,0,128,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Arya Niwas,2250,3,10,"Sansar Chandra Road, Behind Amber Tower",302001,City-center Jaipur hotel with restaurant,1,0,128,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Arya Niwas,2650,3,10,"Sansar Chandra Road, Behind Amber Tower",302001,City-center Jaipur hotel with restaurant,1,0,128,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Arya Niwas,2250,3,10,"Sansar Chandra Road, Behind Amber Tower",302001,City-center Jaipur hotel with restaurant,1,0,128,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Arya Niwas,2250,3,10,"Sansar Chandra Road, Behind Amber Tower",302001,City-center Jaipur hotel with restaurant,1,0,128,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,"Trident, Jaipur",20000,4.5,15,"Amber Fort Road Opposite Jal,Jaipur",302002,"Luxury hotel in Jaipur with spa, outdoor pool",1,0,132,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,"Trident, Jaipur",20000,4.5,15,"Amber Fort Road Opposite Jal,Jaipur",302002,"Luxury hotel in Jaipur with spa, outdoor pool",1,0,132,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,"Trident, Jaipur",9000,4.5,15,"Amber Fort Road Opposite Jal,Jaipur",302002,"Luxury hotel in Jaipur with spa, outdoor pool",1,0,132,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,"Trident, Jaipur",9500,4.5,15,"Amber Fort Road Opposite Jal,Jaipur",302002,"Luxury hotel in Jaipur with spa, outdoor pool",1,0,132,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,"Trident, Jaipur",20000,4.5,15,"Amber Fort Road Opposite Jal,Jaipur",302002,"Luxury hotel in Jaipur with spa, outdoor pool",1,0,132,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,"Trident, Jaipur",20000,4.5,15,"Amber Fort Road Opposite Jal,Jaipur",302002,"Luxury hotel in Jaipur with spa, outdoor pool",1,0,132,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,"Trident, Jaipur",7500,4.5,15,"Amber Fort Road Opposite Jal,Jaipur",302002,"Luxury hotel in Jaipur with spa, outdoor pool",1,0,132,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,"Trident, Jaipur",8000,4.5,15,"Amber Fort Road Opposite Jal,Jaipur",302002,"Luxury hotel in Jaipur with spa, outdoor pool",1,0,132,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Ibis Jaipur Hotel,2199,3.5,9.2,"Civil Lines Area, Ajmer Road, Near Civil Lines Metro Station",302006,"3.5-star hotel in Civil Lines with outdoor pool, bar/lounge",1,0,140,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Ibis Jaipur Hotel,2199,3.5,9.2,"Civil Lines Area, Ajmer Road, Near Civil Lines Metro Station",302006,"3.5-star hotel in Civil Lines with outdoor pool, bar/lounge",1,0,140,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Ibis Jaipur Hotel,4711,3.5,9.2,"Civil Lines Area, Ajmer Road, Near Civil Lines Metro Station",302006,"3.5-star hotel in Civil Lines with outdoor pool, bar/lounge",1,0,140,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Ibis Jaipur Hotel,4711,3.5,9.2,"Civil Lines Area, Ajmer Road, Near Civil Lines Metro Station",302006,"3.5-star hotel in Civil Lines with outdoor pool, bar/lounge",1,0,140,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Ibis Jaipur Hotel,3599,3.5,9.2,"Civil Lines Area, Ajmer Road, Near Civil Lines Metro Station",302006,"3.5-star hotel in Civil Lines with outdoor pool, bar/lounge",1,0,140,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Ibis Jaipur Hotel,4711,3.5,9.2,"Civil Lines Area, Ajmer Road, Near Civil Lines Metro Station",302006,"3.5-star hotel in Civil Lines with outdoor pool, bar/lounge",1,0,140,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Ibis Jaipur Hotel,2499,3.5,9.2,"Civil Lines Area, Ajmer Road, Near Civil Lines Metro Station",302006,"3.5-star hotel in Civil Lines with outdoor pool, bar/lounge",1,0,140,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Ibis Jaipur Hotel,3299,3.5,9.2,"Civil Lines Area, Ajmer Road, Near Civil Lines Metro Station",302006,"3.5-star hotel in Civil Lines with outdoor pool, bar/lounge",1,0,140,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Holiday Inn Jaipur,4410,4,8.3,"Commercial Plot No 1 Sardar Patel Road,,Jaipur,Rajasthan,India",302001,"4-star hotel in C-Scheme with outdoor pool, bar/lounge",1,0,172,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Holiday Inn Jaipur,16499,4,8.3,"Commercial Plot No 1 Sardar Patel Road,,Jaipur,Rajasthan,India",302001,"4-star hotel in C-Scheme with outdoor pool, bar/lounge",1,0,172,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Holiday Inn Jaipur,11690,4,8.3,"Commercial Plot No 1 Sardar Patel Road,,Jaipur,Rajasthan,India",302001,"4-star hotel in C-Scheme with outdoor pool, bar/lounge",1,0,172,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Holiday Inn Jaipur,8299,4,8.3,"Commercial Plot No 1 Sardar Patel Road,,Jaipur,Rajasthan,India",302001,"4-star hotel in C-Scheme with outdoor pool, bar/lounge",1,0,172,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Holiday Inn Jaipur,5670,4,8.3,"Commercial Plot No 1 Sardar Patel Road,,Jaipur,Rajasthan,India",302001,"4-star hotel in C-Scheme with outdoor pool, bar/lounge",1,0,172,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Holiday Inn Jaipur,16499,4,8.3,"Commercial Plot No 1 Sardar Patel Road,,Jaipur,Rajasthan,India",302001,"4-star hotel in C-Scheme with outdoor pool, bar/lounge",1,0,172,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Holiday Inn Jaipur,4500,4,8.3,"Commercial Plot No 1 Sardar Patel Road,,Jaipur,Rajasthan,India",302001,"4-star hotel in C-Scheme with outdoor pool, bar/lounge",1,0,172,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Holiday Inn Jaipur,4770,4,8.3,"Commercial Plot No 1 Sardar Patel Road,,Jaipur,Rajasthan,India",302001,"4-star hotel in C-Scheme with outdoor pool, bar/lounge",1,0,172,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Radisson Blu Jaipur,7599,4.5,2,"Plot No 5 & 6 Airport Plaza,Tonk Road,Jaipur,Rajasthan,India",302018,"Luxury hotel in Jaipur with 2 restaurants, 2 bars/lounges",1,0,177,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Radisson Blu Jaipur,7599,4.5,2,"Plot No 5 & 6 Airport Plaza,Tonk Road,Jaipur,Rajasthan,India",302018,"Luxury hotel in Jaipur with 2 restaurants, 2 bars/lounges",1,0,177,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Radisson Blu Jaipur,7599,4.5,2,"Plot No 5 & 6 Airport Plaza,Tonk Road,Jaipur",302018,"Luxury hotel in Jaipur with 2 restaurants, 2 bars/lounges",1,0,177,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Radisson Blu Jaipur,7599,4.5,2,"Plot No 5 & 6 Airport Plaza,Tonk Road,Jaipur",302018,"Luxury hotel in Jaipur with 2 restaurants, 2 bars/lounges",1,0,177,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Radisson Blu Jaipur,7599,4.5,2,"Plot No 5 & 6 Airport Plaza,Tonk Road,Jaipur",302018,"Luxury hotel in Jaipur with 2 restaurants, 2 bars/lounges",1,0,177,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Radisson Blu Jaipur,7599,4.5,2,"Plot No 5 & 6 Airport Plaza,Tonk Road,Jaipur",302018,"Luxury hotel in Jaipur with 2 restaurants, 2 bars/lounges",1,0,177,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Radisson Blu Jaipur,4299,4.5,2,"Plot No 5 & 6 Airport Plaza,Tonk Road,Jaipur",302018,"Luxury hotel in Jaipur with 2 restaurants, 2 bars/lounges",1,0,177,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Radisson Blu Jaipur,4999,4.5,2,"Plot No 5 & 6 Airport Plaza,Tonk Road,Jaipur",302018,"Luxury hotel in Jaipur with 2 restaurants, 2 bars/lounges",1,0,177,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Hilton Jaipur,8500,5,8.4,"42 Geejgarh House Hawa Sadak, Jaipur",302006,"Luxury hotel in Jaipur with 2 restaurants, spa",0,0,179,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Hilton Jaipur,9500,5,8.4,"43 Geejgarh House Hawa Sadak, Jaipur",302006,"Luxury hotel in Jaipur with 2 restaurants, spa",0,0,179,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Hilton Jaipur,11000,5,8.4,"44 Geejgarh House Hawa Sadak, Jaipur",302006,"Luxury hotel in Jaipur with 2 restaurants, spa",0,0,179,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Hilton Jaipur,10000,5,8.4,"45 Geejgarh House Hawa Sadak, Jaipur",302006,"Luxury hotel in Jaipur with 2 restaurants, spa",0,0,179,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Hilton Jaipur,9500,5,8.4,"46 Geejgarh House Hawa Sadak, Jaipur",302006,"Luxury hotel in Jaipur with 2 restaurants, spa",0,0,179,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Hilton Jaipur,11000,5,8.4,"47 Geejgarh House Hawa Sadak, Jaipur",302006,"Luxury hotel in Jaipur with 2 restaurants, spa",0,0,179,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Hilton Jaipur,8500,5,8.4,"48 Geejgarh House Hawa Sadak, Jaipur",302006,"Luxury hotel in Jaipur with 2 restaurants, spa",0,0,179,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Hilton Jaipur,11000,5,8.4,"49 Geejgarh House Hawa Sadak, Jaipur",302006,"Luxury hotel in Jaipur with 2 restaurants, spa",0,0,179,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Red Fox Hotel,2077,3,4,"Jawahar Lal Nehru Marg, Opp. MNIT College, Bajaj Nagar",302017,"3-star hotel in Jaipur with restaurant, conference center",1,0,183,0
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Red Fox Hotel,2454,3,4,"Jawahar Lal Nehru Marg, Opp. MNIT College, Bajaj Nagar",302017,"3-star hotel in Jaipur with restaurant, conference center",1,0,183,0
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Red Fox Hotel,3210,3,4,"Jawahar Lal Nehru Marg, Opp. MNIT College, Bajaj Nagar",302017,"3-star hotel in Jaipur with restaurant, conference center",1,0,183,0
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Red Fox Hotel,2738,3,4,"Jawahar Lal Nehru Marg, Opp. MNIT College, Bajaj Nagar",302017,"3-star hotel in Jaipur with restaurant, conference center",1,0,183,0
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Red Fox Hotel,3588,3,4,"Jawahar Lal Nehru Marg, Opp. MNIT College, Bajaj Nagar",302017,"3-star hotel in Jaipur with restaurant, conference center",1,0,183,0
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Red Fox Hotel,3588,3,4,"Jawahar Lal Nehru Marg, Opp. MNIT College, Bajaj Nagar",302017,"3-star hotel in Jaipur with restaurant, conference center",1,0,183,0
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Red Fox Hotel,2077,3,4,"Jawahar Lal Nehru Marg, Opp. MNIT College, Bajaj Nagar",302017,"3-star hotel in Jaipur with restaurant, conference center",1,0,183,0
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Red Fox Hotel,2879,3,4,"Jawahar Lal Nehru Marg, Opp. MNIT College, Bajaj Nagar",302017,"3-star hotel in Jaipur with restaurant, conference center",1,0,183,0
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Clarks Amer,4319,4,2,"Jawahar Lal Nehru Marg,,Jaipur",302018,"4-star hotel in Jaipur with outdoor pool, health club",1,0,211,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Clarks Amer,6800,4,2,"Jawahar Lal Nehru Marg,,Jaipur",302018,"4-star hotel in Jaipur with outdoor pool, health club",1,0,211,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Clarks Amer,4079,4,2,"Jawahar Lal Nehru Marg,,Jaipur",302018,"4-star hotel in Jaipur with outdoor pool, health club",1,0,211,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Clarks Amer,6800,4,2,"Jawahar Lal Nehru Marg,,Jaipur",302018,"4-star hotel in Jaipur with outdoor pool, health club",1,0,211,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Clarks Amer,6800,4,2,"Jawahar Lal Nehru Marg,,Jaipur",302018,"4-star hotel in Jaipur with outdoor pool, health club",1,0,211,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Clarks Amer,4674,4,2,"Jawahar Lal Nehru Marg,,Jaipur",302018,"4-star hotel in Jaipur with outdoor pool, health club",1,0,211,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Clarks Amer,6800,4,2,"Jawahar Lal Nehru Marg,,Jaipur",302018,"4-star hotel in Jaipur with outdoor pool, health club",1,0,211,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Clarks Amer,6800,4,2,"Jawahar Lal Nehru Marg,,Jaipur",302018,"4-star hotel in Jaipur with outdoor pool, health club",1,0,211,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Crowne Plaza Jaipur,6375,5,5.8,"Sitapura Industrial Area Tonk Road, Jaipur",302022,"5-star hotel in Jaipur with 3 restaurants, spa",1,0,218,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Crowne Plaza Jaipur,4250,5,5.8,"Sitapura Industrial Area Tonk Road, Jaipur",302022,"5-star hotel in Jaipur with 3 restaurants, spa",1,0,218,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Crowne Plaza Jaipur,7650,5,5.8,"Sitapura Industrial Area Tonk Road, Jaipur",302022,"5-star hotel in Jaipur with 3 restaurants, spa",1,0,218,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Crowne Plaza Jaipur,7500,5,5.8,"Sitapura Industrial Area Tonk Road, Jaipur",302022,"5-star hotel in Jaipur with 3 restaurants, spa",1,0,218,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Crowne Plaza Jaipur,6800,5,5.8,"Sitapura Industrial Area Tonk Road, Jaipur",302022,"5-star hotel in Jaipur with 3 restaurants, spa",1,0,218,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Crowne Plaza Jaipur,13250,5,5.8,"Sitapura Industrial Area Tonk Road, Jaipur",302022,"5-star hotel in Jaipur with 3 restaurants, spa",1,0,218,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,Crowne Plaza Jaipur,5950,5,5.8,"Sitapura Industrial Area Tonk Road, Jaipur",302022,"5-star hotel in Jaipur with 3 restaurants, spa",1,0,218,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,Crowne Plaza Jaipur,5525,5,5.8,"Sitapura Industrial Area Tonk Road, Jaipur",302022,"5-star hotel in Jaipur with 3 restaurants, spa",1,0,218,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,ITC Rajputana- Jaipur,5135,5,10,"Palace Road Rajasthan, Jaipur, Rajasthan, ",302006,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,218,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,ITC Rajputana- Jaipur,5315,5,10,"Palace Road Rajasthan, Jaipur, Rajasthan, ",302006,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,218,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,ITC Rajputana- Jaipur,6299,5,10,"Palace Road Rajasthan, Jaipur, Rajasthan, ",302006,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,218,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,ITC Rajputana- Jaipur,6299,5,10,"Palace Road Rajasthan, Jaipur, Rajasthan, ",302006,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,218,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,ITC Rajputana- Jaipur,6299,5,10,"Palace Road Rajasthan, Jaipur, Rajasthan, ",302006,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,218,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,ITC Rajputana- Jaipur,5315,5,10,"Palace Road Rajasthan, Jaipur, Rajasthan, ",302006,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,218,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,ITC Rajputana- Jaipur,5315,5,10,"Palace Road Rajasthan, Jaipur, Rajasthan, ",302006,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,218,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,ITC Rajputana- Jaipur,5315,5,10,"Palace Road Rajasthan, Jaipur, Rajasthan, ",302006,"Luxury hotel in Jaipur with 3 restaurants, spa",1,1,218,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,The LaLiT Jaipur,7649,5,1.5,"2B, 2C Jagatpura Road, Near Jawahar Circle, Jaipur",302017,"Luxury hotel in Jaipur with 2 restaurants, spa",1,1,231,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,The LaLiT Jaipur,8999,5,1.5,"2B, 2C Jagatpura Road, Near Jawahar Circle, Jaipur",302017,"Luxury hotel in Jaipur with 2 restaurants, spa",1,1,231,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,The LaLiT Jaipur,8999,5,1.5,"2B, 2C Jagatpura Road, Near Jawahar Circle, Jaipur",302017,"Luxury hotel in Jaipur with 2 restaurants, spa",1,1,231,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,The LaLiT Jaipur,8999,5,1.5,"2B, 2C Jagatpura Road, Near Jawahar Circle, Jaipur",302017,"Luxury hotel in Jaipur with 2 restaurants, spa",1,1,231,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,The LaLiT Jaipur,10999,5,1.5,"2B, 2C Jagatpura Road, Near Jawahar Circle, Jaipur",302017,"Luxury hotel in Jaipur with 2 restaurants, spa",1,1,231,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,The LaLiT Jaipur,10999,5,1.5,"2B, 2C Jagatpura Road, Near Jawahar Circle, Jaipur",302017,"Luxury hotel in Jaipur with 2 restaurants, spa",1,1,231,1
+Jaipur,3046163,9,0,1,0,0,Jan 04 2017,The LaLiT Jaipur,8999,5,1.5,"2B, 2C Jagatpura Road, Near Jawahar Circle, Jaipur",302017,"Luxury hotel in Jaipur with 2 restaurants, spa",1,1,231,1
+Jaipur,3046163,9,0,1,1,0,Jan 08 2017,The LaLiT Jaipur,7379,5,1.5,"2B, 2C Jagatpura Road, Near Jawahar Circle, Jaipur",302017,"Luxury hotel in Jaipur with 2 restaurants, spa",1,1,231,1
+Jaipur,3046163,9,0,1,1,0,Dec 18 2016,Jaipur Marriott Hotel,6800,5,1.7,"Ashram Marg Near Jawahar Circle, Tonk Road, Jaipur",302015,"Luxury hotel in Jaipur with 4 restaurants, spa",0,0,317,1
+Jaipur,3046163,9,0,1,0,0,Dec 21 2016,Jaipur Marriott Hotel,7000,5,1.7,"Ashram Marg Near Jawahar Circle, Tonk Road, Jaipur",302015,"Luxury hotel in Jaipur with 4 restaurants, spa",0,0,317,1
+Jaipur,3046163,9,0,1,1,0,Dec 24 2016,Jaipur Marriott Hotel,11000,5,1.7,"Ashram Marg Near Jawahar Circle, Tonk Road, Jaipur",302015,"Luxury hotel in Jaipur with 4 restaurants, spa",0,0,317,1
+Jaipur,3046163,9,0,1,1,0,Dec 25 2016,Jaipur Marriott Hotel,8000,5,1.7,"Ashram Marg Near Jawahar Circle, Tonk Road, Jaipur",302015,"Luxury hotel in Jaipur with 4 restaurants, spa",0,0,317,1
+Jaipur,3046163,9,0,1,0,0,Dec 28 2016,Jaipur Marriott Hotel,8500,5,1.7,"Ashram Marg Near Jawahar Circle, Tonk Road, Jaipur",302015,"Luxury hotel in Jaipur with 4 restaurants, spa",0,0,317,1
+Jaipur,3046163,9,0,1,1,1,Dec 31 2016,Jaipur Marriott Hotel,11000,5,1.7,"Ashram Marg Near Jawahar Circle, Tonk Road, Jaipur",302015,"Luxury hotel in Jaipur with 4 restaurants, spa",0,0,317,1

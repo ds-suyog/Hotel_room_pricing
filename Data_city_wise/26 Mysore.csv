@@ -1,0 +1,161 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Mysore,755379,26,1,1,1,0,Dec 18 2016,Aishwarya Suites,1200,3,13.5,"3844/3, Near KSRTC Bus depot, New Bamboo Bazaar Road, Highway Circle",570015,No-frills hotel in Mysore,1,0,24,0
+Mysore,755379,26,1,1,0,0,Dec 21 2016,Aishwarya Suites,1200,3,13.5,"3844/3, Near KSRTC Bus depot, New Bamboo Bazaar Road, Highway Circle",570015,No-frills hotel in Mysore,1,0,24,0
+Mysore,755379,26,1,1,1,0,Dec 24 2016,Aishwarya Suites,3000,3,13.5,"3844/3, Near KSRTC Bus depot, New Bamboo Bazaar Road, Highway Circle",570015,No-frills hotel in Mysore,1,0,24,0
+Mysore,755379,26,1,1,1,0,Dec 25 2016,Aishwarya Suites,3000,3,13.5,"3844/3, Near KSRTC Bus depot, New Bamboo Bazaar Road, Highway Circle",570015,No-frills hotel in Mysore,1,0,24,0
+Mysore,755379,26,1,1,0,0,Dec 28 2016,Aishwarya Suites,2000,3,13.5,"3844/3, Near KSRTC Bus depot, New Bamboo Bazaar Road, Highway Circle",570015,No-frills hotel in Mysore,1,0,24,0
+Mysore,755379,26,1,1,1,1,Dec 31 2016,Aishwarya Suites,1500,3,13.5,"3844/3, Near KSRTC Bus depot, New Bamboo Bazaar Road, Highway Circle",570015,No-frills hotel in Mysore,1,0,24,0
+Mysore,755379,26,1,1,0,0,Jan 04 2017,Aishwarya Suites,1200,3,13.5,"3844/3, Near KSRTC Bus depot, New Bamboo Bazaar Road, Highway Circle",570015,No-frills hotel in Mysore,1,0,24,0
+Mysore,755379,26,1,1,1,0,Jan 08 2017,Aishwarya Suites,1550,3,13.5,"3844/3, Near KSRTC Bus depot, New Bamboo Bazaar Road, Highway Circle",570015,No-frills hotel in Mysore,1,0,24,0
+Mysore,755379,26,1,1,1,0,Dec 18 2016,Casa Clarks INN Mysore,2465,3,13.8,"1/3 KB Arcade Hunsur Road, Padavarahali Signal",570012,3-star Mysore hotel with restaurant,1,1,52,0
+Mysore,755379,26,1,1,0,0,Dec 21 2016,Casa Clarks INN Mysore,2465,3,13.8,"1/3 KB Arcade Hunsur Road, Padavarahali Signal",570012,3-star Mysore hotel with restaurant,1,1,52,0
+Mysore,755379,26,1,1,1,0,Dec 24 2016,Casa Clarks INN Mysore,2465,3,13.8,"1/3 KB Arcade Hunsur Road, Padavarahali Signal",570012,3-star Mysore hotel with restaurant,1,1,52,0
+Mysore,755379,26,1,1,1,0,Dec 25 2016,Casa Clarks INN Mysore,2975,3,13.8,"1/3 KB Arcade Hunsur Road, Padavarahali Signal",570012,3-star Mysore hotel with restaurant,1,1,52,0
+Mysore,755379,26,1,1,0,0,Dec 28 2016,Casa Clarks INN Mysore,2465,3,13.8,"1/3 KB Arcade Hunsur Road, Padavarahali Signal",570012,3-star Mysore hotel with restaurant,1,1,52,0
+Mysore,755379,26,1,1,1,1,Dec 31 2016,Casa Clarks INN Mysore,2975,3,13.8,"1/3 KB Arcade Hunsur Road, Padavarahali Signal",570012,3-star Mysore hotel with restaurant,1,1,52,0
+Mysore,755379,26,1,1,0,0,Jan 04 2017,Casa Clarks INN Mysore,2125,3,13.8,"1/3 KB Arcade Hunsur Road, Padavarahali Signal",570012,3-star Mysore hotel with restaurant,1,1,52,0
+Mysore,755379,26,1,1,1,0,Jan 08 2017,Casa Clarks INN Mysore,2125,3,13.8,"1/3 KB Arcade Hunsur Road, Padavarahali Signal",570012,3-star Mysore hotel with restaurant,1,1,52,0
+Mysore,755379,26,1,1,1,0,Dec 18 2016,Country Inn & Suites By Carlson Mysore,4839,4,17.8,"345/A, Hebbal Area",570016,4 star hotel near Basappa Memorial hospital,1,1,130,1
+Mysore,755379,26,1,1,0,0,Dec 21 2016,Country Inn & Suites By Carlson Mysore,4839,4,17.8,"345/A, Hebbal Area",570016,4 star hotel near Basappa Memorial hospital,1,1,130,1
+Mysore,755379,26,1,1,1,0,Dec 24 2016,Country Inn & Suites By Carlson Mysore,4839,4,17.8,"345/A, Hebbal Area",570016,4 star hotel near Basappa Memorial hospital,1,1,130,1
+Mysore,755379,26,1,1,1,0,Dec 25 2016,Country Inn & Suites By Carlson Mysore,6159,4,17.8,"345/A, Hebbal Area",570016,4 star hotel near Basappa Memorial hospital,1,1,130,1
+Mysore,755379,26,1,1,0,0,Dec 28 2016,Country Inn & Suites By Carlson Mysore,6159,4,17.8,"345/A, Hebbal Area",570016,4 star hotel near Basappa Memorial hospital,1,1,130,1
+Mysore,755379,26,1,1,1,1,Dec 31 2016,Country Inn & Suites By Carlson Mysore,6159,4,17.8,"345/A, Hebbal Area",570016,4 star hotel near Basappa Memorial hospital,1,1,130,1
+Mysore,755379,26,1,1,0,0,Jan 04 2017,Country Inn & Suites By Carlson Mysore,6479,4,17.8,"345/A, Hebbal Area",570016,4 star hotel near Basappa Memorial hospital,1,1,130,1
+Mysore,755379,26,1,1,1,0,Jan 08 2017,Country Inn & Suites By Carlson Mysore,4199,4,17.8,"345/A, Hebbal Area",570016,4 star hotel near Basappa Memorial hospital,1,1,130,1
+Mysore,755379,26,1,1,1,0,Dec 18 2016,FabHotel Dawn Mysore,2484,3,14.7,"No 15, Beside JSS Dental College, Mysore Bangalore Rd, Bannimantap",570015,3-star Mysore hotel with restaurant,1,1,25,0
+Mysore,755379,26,1,1,0,0,Dec 21 2016,FabHotel Dawn Mysore,2484,3,14.7,"No 15, Beside JSS Dental College, Mysore Bangalore Rd, Bannimantap",570015,3-star Mysore hotel with restaurant,1,1,25,0
+Mysore,755379,26,1,1,1,0,Dec 24 2016,FabHotel Dawn Mysore,2484,3,14.7,"No 15, Beside JSS Dental College, Mysore Bangalore Rd, Bannimantap",570015,3-star Mysore hotel with restaurant,1,1,25,0
+Mysore,755379,26,1,1,1,0,Dec 25 2016,FabHotel Dawn Mysore,2624,3,14.7,"No 15, Beside JSS Dental College, Mysore Bangalore Rd, Bannimantap",570015,3-star Mysore hotel with restaurant,1,1,25,0
+Mysore,755379,26,1,1,0,0,Dec 28 2016,FabHotel Dawn Mysore,2484,3,14.7,"No 15, Beside JSS Dental College, Mysore Bangalore Rd, Bannimantap",570015,3-star Mysore hotel with restaurant,1,1,25,0
+Mysore,755379,26,1,1,1,1,Dec 31 2016,FabHotel Dawn Mysore,2624,3,14.7,"No 15, Beside JSS Dental College, Mysore Bangalore Rd, Bannimantap",570015,3-star Mysore hotel with restaurant,1,1,25,0
+Mysore,755379,26,1,1,0,0,Jan 04 2017,FabHotel Dawn Mysore,2624,3,14.7,"No 15, Beside JSS Dental College, Mysore Bangalore Rd, Bannimantap",570015,3-star Mysore hotel with restaurant,1,1,25,0
+Mysore,755379,26,1,1,1,0,Jan 08 2017,FabHotel Dawn Mysore,1434,3,14.7,"No 15, Beside JSS Dental College, Mysore Bangalore Rd, Bannimantap",570015,3-star Mysore hotel with restaurant,1,1,25,0
+Mysore,755379,26,1,1,1,0,Dec 18 2016,FabHotel Olive Comfort,2476,3,11.1,"615, New Sayyaji Rao Road, Near Old RMC Circle",570021,3-star Mysore resort with restaurant,1,1,52,0
+Mysore,755379,26,1,1,0,0,Dec 21 2016,FabHotel Olive Comfort,2029,3,11.1,"615, New Sayyaji Rao Road, Near Old RMC Circle",570021,3-star Mysore resort with restaurant,1,1,52,0
+Mysore,755379,26,1,1,1,0,Dec 24 2016,FabHotel Olive Comfort,2099,3,11.1,"615, New Sayyaji Rao Road, Near Old RMC Circle",570021,3-star Mysore resort with restaurant,1,1,52,0
+Mysore,755379,26,1,1,1,0,Dec 25 2016,FabHotel Olive Comfort,2099,3,11.1,"615, New Sayyaji Rao Road, Near Old RMC Circle",570021,3-star Mysore resort with restaurant,1,1,52,0
+Mysore,755379,26,1,1,0,0,Dec 28 2016,FabHotel Olive Comfort,2099,3,11.1,"615, New Sayyaji Rao Road, Near Old RMC Circle",570021,3-star Mysore resort with restaurant,1,1,52,0
+Mysore,755379,26,1,1,1,1,Dec 31 2016,FabHotel Olive Comfort,2099,3,11.1,"615, New Sayyaji Rao Road, Near Old RMC Circle",570021,3-star Mysore resort with restaurant,1,1,52,0
+Mysore,755379,26,1,1,0,0,Jan 04 2017,FabHotel Olive Comfort,2999,3,11.1,"615, New Sayyaji Rao Road, Near Old RMC Circle",570021,3-star Mysore resort with restaurant,1,1,52,0
+Mysore,755379,26,1,1,1,0,Jan 08 2017,FabHotel Olive Comfort,1549,3,11.1,"615, New Sayyaji Rao Road, Near Old RMC Circle",570021,3-star Mysore resort with restaurant,1,1,52,0
+Mysore,755379,26,1,1,1,0,Dec 18 2016,Fortune JP Palace,5100,4,11.9,"No.3, Abba Road, Nazarbad",570007,4 star hotel at the heart of the city,1,1,108,1
+Mysore,755379,26,1,1,0,0,Dec 21 2016,Fortune JP Palace,4759,4,11.9,"No.3, Abba Road, Nazarbad",570007,4 star hotel at the heart of the city,1,1,108,1
+Mysore,755379,26,1,1,1,0,Dec 24 2016,Fortune JP Palace,6800,4,11.9,"No.3, Abba Road, Nazarbad",570007,4 star hotel at the heart of the city,1,1,108,1
+Mysore,755379,26,1,1,1,0,Dec 25 2016,Fortune JP Palace,6800,4,11.9,"No.3, Abba Road, Nazarbad",570007,4 star hotel at the heart of the city,1,1,108,1
+Mysore,755379,26,1,1,0,0,Dec 28 2016,Fortune JP Palace,6080,4,11.9,"No.3, Abba Road, Nazarbad",570007,4 star hotel at the heart of the city,1,1,108,1
+Mysore,755379,26,1,1,1,1,Dec 31 2016,Fortune JP Palace,7220,4,11.9,"No.3, Abba Road, Nazarbad",570007,4 star hotel at the heart of the city,1,1,108,1
+Mysore,755379,26,1,1,0,0,Jan 04 2017,Fortune JP Palace,6840,4,11.9,"No.3, Abba Road, Nazarbad",570007,4 star hotel at the heart of the city,1,1,108,1
+Mysore,755379,26,1,1,1,0,Jan 08 2017,Fortune JP Palace,6840,4,11.9,"No.3, Abba Road, Nazarbad",570007,4 star hotel at the heart of the city,1,1,108,1
+Mysore,755379,26,1,1,1,0,Dec 18 2016,Ginger Mysore,2906,3,11.1,"Near Nazarabad Police Station, Vasant Mahal Road, Opp Vasant Mahal, Mysore, Karnataka,",570010,3 star hotel near mysore zoo,1,1,98,0
+Mysore,755379,26,1,1,0,0,Dec 21 2016,Ginger Mysore,2375,3,11.1,"Near Nazarabad Police Station, Vasant Mahal Road, Opp Vasant Mahal, Mysore, Karnataka,",570010,3 star hotel near mysore zoo,1,1,98,0
+Mysore,755379,26,1,1,1,0,Dec 24 2016,Ginger Mysore,4599,3,11.1,"Near Nazarabad Police Station, Vasant Mahal Road, Opp Vasant Mahal, Mysore, Karnataka,",570010,3 star hotel near mysore zoo,1,1,98,0
+Mysore,755379,26,1,1,1,0,Dec 25 2016,Ginger Mysore,4599,3,11.1,"Near Nazarabad Police Station, Vasant Mahal Road, Opp Vasant Mahal, Mysore, Karnataka,",570010,3 star hotel near mysore zoo,1,1,98,0
+Mysore,755379,26,1,1,0,0,Dec 28 2016,Ginger Mysore,4599,3,11.1,"Near Nazarabad Police Station, Vasant Mahal Road, Opp Vasant Mahal, Mysore, Karnataka,",570010,3 star hotel near mysore zoo,1,1,98,0
+Mysore,755379,26,1,1,1,1,Dec 31 2016,Ginger Mysore,4599,3,11.1,"Near Nazarabad Police Station, Vasant Mahal Road, Opp Vasant Mahal, Mysore, Karnataka,",570010,3 star hotel near mysore zoo,1,1,98,0
+Mysore,755379,26,1,1,0,0,Jan 04 2017,Ginger Mysore,2375,3,11.1,"Near Nazarabad Police Station, Vasant Mahal Road, Opp Vasant Mahal, Mysore, Karnataka,",570010,3 star hotel near mysore zoo,1,1,98,0
+Mysore,755379,26,1,1,1,0,Jan 08 2017,Ginger Mysore,2375,3,11.1,"Near Nazarabad Police Station, Vasant Mahal Road, Opp Vasant Mahal, Mysore, Karnataka,",570010,3 star hotel near mysore zoo,1,1,98,0
+Mysore,755379,26,1,1,1,0,Dec 18 2016,Hotel Le Ruchi the Prince,4790,4,22.1,"#986/625, Mysore-Hunsur Main Road, Opp- Nissan car showroom, Hinkal",570017,"4-star hotel in Mysore with 2 restaurants, spa",1,1,72,1
+Mysore,755379,26,1,1,0,0,Dec 21 2016,Hotel Le Ruchi the Prince,4790,4,22.1,"#986/625, Mysore-Hunsur Main Road, Opp- Nissan car showroom, Hinkal",570017,"4-star hotel in Mysore with 2 restaurants, spa",1,1,72,1
+Mysore,755379,26,1,1,1,0,Dec 24 2016,Hotel Le Ruchi the Prince,4790,4,22.1,"#986/625, Mysore-Hunsur Main Road, Opp- Nissan car showroom, Hinkal",570017,"4-star hotel in Mysore with 2 restaurants, spa",1,1,72,1
+Mysore,755379,26,1,1,1,0,Dec 25 2016,Hotel Le Ruchi the Prince,4790,4,22.1,"#986/625, Mysore-Hunsur Main Road, Opp- Nissan car showroom, Hinkal",570017,"4-star hotel in Mysore with 2 restaurants, spa",1,1,72,1
+Mysore,755379,26,1,1,0,0,Dec 28 2016,Hotel Le Ruchi the Prince,5760,4,22.1,"#986/625, Mysore-Hunsur Main Road, Opp- Nissan car showroom, Hinkal",570017,"4-star hotel in Mysore with 2 restaurants, spa",1,1,72,1
+Mysore,755379,26,1,1,1,1,Dec 31 2016,Hotel Le Ruchi the Prince,5760,4,22.1,"#986/625, Mysore-Hunsur Main Road, Opp- Nissan car showroom, Hinkal",570017,"4-star hotel in Mysore with 2 restaurants, spa",1,1,72,1
+Mysore,755379,26,1,1,0,0,Jan 04 2017,Hotel Le Ruchi the Prince,6970,4,22.1,"#986/625, Mysore-Hunsur Main Road, Opp- Nissan car showroom, Hinkal",570017,"4-star hotel in Mysore with 2 restaurants, spa",1,1,72,1
+Mysore,755379,26,1,1,1,0,Jan 08 2017,Hotel Le Ruchi the Prince,4790,4,22.1,"#986/625, Mysore-Hunsur Main Road, Opp- Nissan car showroom, Hinkal",570017,"4-star hotel in Mysore with 2 restaurants, spa",1,1,72,1
+Mysore,755379,26,1,1,1,0,Dec 18 2016,Hotel Luciya International,1281,3,10.9,"771, Urs Complex, Near Prabha Theatre, Sardar Patel Road",570001,Comfortable Mysore guestrooms with kitchens,1,0,64,0
+Mysore,755379,26,1,1,0,0,Dec 21 2016,Hotel Luciya International,1206,3,10.9,"771, Urs Complex, Near Prabha Theatre, Sardar Patel Road",570001,Comfortable Mysore guestrooms with kitchens,1,0,64,0
+Mysore,755379,26,1,1,1,0,Dec 24 2016,Hotel Luciya International,921,3,10.9,"771, Urs Complex, Near Prabha Theatre, Sardar Patel Road",570001,Comfortable Mysore guestrooms with kitchens,1,0,64,0
+Mysore,755379,26,1,1,1,0,Dec 25 2016,Hotel Luciya International,1507,3,10.9,"771, Urs Complex, Near Prabha Theatre, Sardar Patel Road",570001,Comfortable Mysore guestrooms with kitchens,1,0,64,0
+Mysore,755379,26,1,1,0,0,Dec 28 2016,Hotel Luciya International,1402,3,10.9,"771, Urs Complex, Near Prabha Theatre, Sardar Patel Road",570001,Comfortable Mysore guestrooms with kitchens,1,0,64,0
+Mysore,755379,26,1,1,1,1,Dec 31 2016,Hotel Luciya International,1172,3,10.9,"771, Urs Complex, Near Prabha Theatre, Sardar Patel Road",570001,Comfortable Mysore guestrooms with kitchens,1,0,64,0
+Mysore,755379,26,1,1,0,0,Jan 04 2017,Hotel Luciya International,921,3,10.9,"771, Urs Complex, Near Prabha Theatre, Sardar Patel Road",570001,Comfortable Mysore guestrooms with kitchens,1,0,64,0
+Mysore,755379,26,1,1,1,0,Jan 08 2017,Hotel Luciya International,921,3,10.9,"771, Urs Complex, Near Prabha Theatre, Sardar Patel Road",570001,Comfortable Mysore guestrooms with kitchens,1,0,64,0
+Mysore,755379,26,1,1,1,0,Dec 18 2016,Hotel Paradise,1900,3,14.2,"No. 104, Vivekananda Road, Yadavagiri",570020,3-star Mysore hotel with restaurant,1,1,80,0
+Mysore,755379,26,1,1,0,0,Dec 21 2016,Hotel Paradise,1900,3,14.2,"No. 104, Vivekananda Road, Yadavagiri",570020,3-star Mysore hotel with restaurant,1,1,80,0
+Mysore,755379,26,1,1,1,0,Dec 24 2016,Hotel Paradise,2500,3,14.2,"No. 104, Vivekananda Road, Yadavagiri",570020,3-star Mysore hotel with restaurant,1,1,80,0
+Mysore,755379,26,1,1,1,0,Dec 25 2016,Hotel Paradise,2500,3,14.2,"No. 104, Vivekananda Road, Yadavagiri",570020,3-star Mysore hotel with restaurant,1,1,80,0
+Mysore,755379,26,1,1,0,0,Dec 28 2016,Hotel Paradise,2500,3,14.2,"No. 104, Vivekananda Road, Yadavagiri",570020,3-star Mysore hotel with restaurant,1,1,80,0
+Mysore,755379,26,1,1,1,1,Dec 31 2016,Hotel Paradise,1900,3,14.2,"No. 104, Vivekananda Road, Yadavagiri",570020,3-star Mysore hotel with restaurant,1,1,80,0
+Mysore,755379,26,1,1,0,0,Jan 04 2017,Hotel Paradise,1000,3,14.2,"No. 104, Vivekananda Road, Yadavagiri",570020,3-star Mysore hotel with restaurant,1,1,80,0
+Mysore,755379,26,1,1,1,0,Jan 08 2017,Hotel Paradise,1000,3,14.2,"No. 104, Vivekananda Road, Yadavagiri",570020,3-star Mysore hotel with restaurant,1,1,80,0
+Mysore,755379,26,1,1,1,0,Dec 18 2016,Olive Residency,2852,3,23.3,"783/3 229/4 Mahajana Layout, Abhishek Road Hebbal",570017,Mysore award-winning hotel with restaurant,1,1,18,0
+Mysore,755379,26,1,1,0,0,Dec 21 2016,Olive Residency,1926,3,23.3,"783/3 229/4 Mahajana Layout, Abhishek Road Hebbal",570017,Mysore award-winning hotel with restaurant,1,1,18,0
+Mysore,755379,26,1,1,1,0,Dec 24 2016,Olive Residency,3032,3,23.3,"783/3 229/4 Mahajana Layout, Abhishek Road Hebbal",570017,Mysore award-winning hotel with restaurant,1,1,18,0
+Mysore,755379,26,1,1,1,0,Dec 25 2016,Olive Residency,3032,3,23.3,"783/3 229/4 Mahajana Layout, Abhishek Road Hebbal",570017,Mysore award-winning hotel with restaurant,1,1,18,0
+Mysore,755379,26,1,1,0,0,Dec 28 2016,Olive Residency,3032,3,23.3,"783/3 229/4 Mahajana Layout, Abhishek Road Hebbal",570017,Mysore award-winning hotel with restaurant,1,1,18,0
+Mysore,755379,26,1,1,1,1,Dec 31 2016,Olive Residency,3032,3,23.3,"783/3 229/4 Mahajana Layout, Abhishek Road Hebbal",570017,Mysore award-winning hotel with restaurant,1,1,18,0
+Mysore,755379,26,1,1,0,0,Jan 04 2017,Olive Residency,1926,3,23.3,"783/3 229/4 Mahajana Layout, Abhishek Road Hebbal",570017,Mysore award-winning hotel with restaurant,1,1,18,0
+Mysore,755379,26,1,1,1,0,Jan 08 2017,Olive Residency,1926,3,23.3,"783/3 229/4 Mahajana Layout, Abhishek Road Hebbal",570017,Mysore award-winning hotel with restaurant,1,1,18,0
+Mysore,755379,26,1,1,1,0,Dec 18 2016,OYO Premium Mysore Railway Station,3022,3,12.6,"2249/1, New No.10,10/1, Devaraj Mohalla, Jhansi Lakshmi Bai Cross Road",570001,"Free continental breakfast, free WiFi, and free parking",1,1,15,0
+Mysore,755379,26,1,1,0,0,Dec 21 2016,OYO Premium Mysore Railway Station,3022,3,12.6,"2249/1, New No.10,10/1, Devaraj Mohalla, Jhansi Lakshmi Bai Cross Road",570001,"Free continental breakfast, free WiFi, and free parking",1,1,15,0
+Mysore,755379,26,1,1,1,0,Dec 24 2016,OYO Premium Mysore Railway Station,4044,3,12.6,"2249/1, New No.10,10/1, Devaraj Mohalla, Jhansi Lakshmi Bai Cross Road",570001,"Free continental breakfast, free WiFi, and free parking",1,1,15,0
+Mysore,755379,26,1,1,1,0,Dec 25 2016,OYO Premium Mysore Railway Station,4044,3,12.6,"2249/1, New No.10,10/1, Devaraj Mohalla, Jhansi Lakshmi Bai Cross Road",570001,"Free continental breakfast, free WiFi, and free parking",1,1,15,0
+Mysore,755379,26,1,1,0,0,Dec 28 2016,OYO Premium Mysore Railway Station,4044,3,12.6,"2249/1, New No.10,10/1, Devaraj Mohalla, Jhansi Lakshmi Bai Cross Road",570001,"Free continental breakfast, free WiFi, and free parking",1,1,15,0
+Mysore,755379,26,1,1,1,1,Dec 31 2016,OYO Premium Mysore Railway Station,4044,3,12.6,"2249/1, New No.10,10/1, Devaraj Mohalla, Jhansi Lakshmi Bai Cross Road",570001,"Free continental breakfast, free WiFi, and free parking",1,1,15,0
+Mysore,755379,26,1,1,0,0,Jan 04 2017,OYO Premium Mysore Railway Station,7982,3,12.6,"2249/1, New No.10,10/1, Devaraj Mohalla, Jhansi Lakshmi Bai Cross Road",570001,"Free continental breakfast, free WiFi, and free parking",1,1,15,0
+Mysore,755379,26,1,1,1,0,Jan 08 2017,OYO Premium Mysore Railway Station,7982,3,12.6,"2249/1, New No.10,10/1, Devaraj Mohalla, Jhansi Lakshmi Bai Cross Road",570001,"Free continental breakfast, free WiFi, and free parking",1,1,15,0
+Mysore,755379,26,1,1,1,0,Dec 18 2016,OYO Rooms Mysore MG Road,2235,3,22.2,"65, MG Road, Opp. JSS Hospital",570004,3-star Mysore hotel with conference center,1,1,10,0
+Mysore,755379,26,1,1,0,0,Dec 21 2016,OYO Rooms Mysore MG Road,2235,3,22.2,"65, MG Road, Opp. JSS Hospital",570004,3-star Mysore hotel with conference center,1,1,10,0
+Mysore,755379,26,1,1,1,0,Dec 24 2016,OYO Rooms Mysore MG Road,2345,3,22.2,"65, MG Road, Opp. JSS Hospital",570004,3-star Mysore hotel with conference center,1,1,10,0
+Mysore,755379,26,1,1,1,0,Dec 25 2016,OYO Rooms Mysore MG Road,2345,3,22.2,"65, MG Road, Opp. JSS Hospital",570004,3-star Mysore hotel with conference center,1,1,10,0
+Mysore,755379,26,1,1,0,0,Dec 28 2016,OYO Rooms Mysore MG Road,3465,3,22.2,"65, MG Road, Opp. JSS Hospital",570004,3-star Mysore hotel with conference center,1,1,10,0
+Mysore,755379,26,1,1,1,1,Dec 31 2016,OYO Rooms Mysore MG Road,3465,3,22.2,"65, MG Road, Opp. JSS Hospital",570004,3-star Mysore hotel with conference center,1,1,10,0
+Mysore,755379,26,1,1,0,0,Jan 04 2017,OYO Rooms Mysore MG Road,4895,3,22.2,"65, MG Road, Opp. JSS Hospital",570004,3-star Mysore hotel with conference center,1,1,10,0
+Mysore,755379,26,1,1,1,0,Jan 08 2017,OYO Rooms Mysore MG Road,4895,3,22.2,"65, MG Road, Opp. JSS Hospital",570004,3-star Mysore hotel with conference center,1,1,10,0
+Mysore,755379,26,1,1,1,0,Dec 18 2016,Royal Orchid Metropole Mysore,6300,3.5,11.9,"No. 5, Jhansi Lakshmibai Road",570005,"3.5-star hotel in Mysore with outdoor pool, restaurant",1,1,30,1
+Mysore,755379,26,1,1,0,0,Dec 21 2016,Royal Orchid Metropole Mysore,6800,3.5,11.9,"No. 5, Jhansi Lakshmibai Road",570005,"3.5-star hotel in Mysore with outdoor pool, restaurant",1,1,30,1
+Mysore,755379,26,1,1,1,0,Dec 24 2016,Royal Orchid Metropole Mysore,14450,3.5,11.9,"No. 5, Jhansi Lakshmibai Road",570005,"3.5-star hotel in Mysore with outdoor pool, restaurant",1,1,30,1
+Mysore,755379,26,1,1,1,0,Dec 25 2016,Royal Orchid Metropole Mysore,5950,3.5,11.9,"No. 5, Jhansi Lakshmibai Road",570005,"3.5-star hotel in Mysore with outdoor pool, restaurant",1,1,30,1
+Mysore,755379,26,1,1,0,0,Dec 28 2016,Royal Orchid Metropole Mysore,14450,3.5,11.9,"No. 5, Jhansi Lakshmibai Road",570005,"3.5-star hotel in Mysore with outdoor pool, restaurant",1,1,30,1
+Mysore,755379,26,1,1,1,1,Dec 31 2016,Royal Orchid Metropole Mysore,5950,3.5,11.9,"No. 5, Jhansi Lakshmibai Road",570005,"3.5-star hotel in Mysore with outdoor pool, restaurant",1,1,30,1
+Mysore,755379,26,1,1,0,0,Jan 04 2017,Royal Orchid Metropole Mysore,5950,3.5,11.9,"No. 5, Jhansi Lakshmibai Road",570005,"3.5-star hotel in Mysore with outdoor pool, restaurant",1,1,30,1
+Mysore,755379,26,1,1,1,0,Jan 08 2017,Royal Orchid Metropole Mysore,5950,3.5,11.9,"No. 5, Jhansi Lakshmibai Road",570005,"3.5-star hotel in Mysore with outdoor pool, restaurant",1,1,30,1
+Mysore,755379,26,1,1,1,0,Dec 18 2016,Southern Star,3536,3,12,13-14 Vinobha Road,570005,3 star hotel near folklore museum,1,1,107,1
+Mysore,755379,26,1,1,0,0,Dec 21 2016,Southern Star,3536,3,12,13-14 Vinobha Road,570005,3 star hotel near folklore museum,1,1,107,1
+Mysore,755379,26,1,1,1,0,Dec 24 2016,Southern Star,5722,3,12,13-14 Vinobha Road,570005,3 star hotel near folklore museum,1,1,107,1
+Mysore,755379,26,1,1,1,0,Dec 25 2016,Southern Star,8518,3,12,13-14 Vinobha Road,570005,3 star hotel near folklore museum,1,1,107,1
+Mysore,755379,26,1,1,0,0,Dec 28 2016,Southern Star,4286,3,12,13-14 Vinobha Road,570005,3 star hotel near folklore museum,1,1,107,1
+Mysore,755379,26,1,1,1,1,Dec 31 2016,Southern Star,8518,3,12,13-14 Vinobha Road,570005,3 star hotel near folklore museum,1,1,107,1
+Mysore,755379,26,1,1,0,0,Jan 04 2017,Southern Star,3536,3,12,13-14 Vinobha Road,570005,3 star hotel near folklore museum,1,1,107,1
+Mysore,755379,26,1,1,1,0,Jan 08 2017,Southern Star,3536,3,12,13-14 Vinobha Road,570005,3 star hotel near folklore museum,1,1,107,1
+Mysore,755379,26,1,1,1,0,Dec 18 2016,Suvarna Residency,1239,3,11.3,"1015, Udayaravi Road, Kuvempunagar",570023,"Luxury hotel in Mysore with restaurant, conference center",1,1,25,0
+Mysore,755379,26,1,1,0,0,Dec 21 2016,Suvarna Residency,1291,3,11.3,"1015, Udayaravi Road, Kuvempunagar",570023,"Luxury hotel in Mysore with restaurant, conference center",1,1,25,0
+Mysore,755379,26,1,1,1,0,Dec 24 2016,Suvarna Residency,1381,3,11.3,"1015, Udayaravi Road, Kuvempunagar",570023,"Luxury hotel in Mysore with restaurant, conference center",1,1,25,0
+Mysore,755379,26,1,1,1,0,Dec 25 2016,Suvarna Residency,1336,3,11.3,"1015, Udayaravi Road, Kuvempunagar",570023,"Luxury hotel in Mysore with restaurant, conference center",1,1,25,0
+Mysore,755379,26,1,1,0,0,Dec 28 2016,Suvarna Residency,1336,3,11.3,"1015, Udayaravi Road, Kuvempunagar",570023,"Luxury hotel in Mysore with restaurant, conference center",1,1,25,0
+Mysore,755379,26,1,1,1,1,Dec 31 2016,Suvarna Residency,1700,3,11.3,"1015, Udayaravi Road, Kuvempunagar",570023,"Luxury hotel in Mysore with restaurant, conference center",1,1,25,0
+Mysore,755379,26,1,1,0,0,Jan 04 2017,Suvarna Residency,1120,3,11.3,"1015, Udayaravi Road, Kuvempunagar",570023,"Luxury hotel in Mysore with restaurant, conference center",1,1,25,0
+Mysore,755379,26,1,1,1,0,Jan 08 2017,Suvarna Residency,1120,3,11.3,"1015, Udayaravi Road, Kuvempunagar",570023,"Luxury hotel in Mysore with restaurant, conference center",1,1,25,0
+Mysore,755379,26,1,1,1,0,Dec 18 2016,The viceroy comforts,1489,3,10.6,"770/5, F-25, Ramanuja Road, Annex Rajendra, Kalamandhira",570004,City-center Mysore hotel with restaurant,1,1,45,0
+Mysore,755379,26,1,1,0,0,Dec 21 2016,The viceroy comforts,1489,3,10.6,"770/5, F-25, Ramanuja Road, Annex Rajendra, Kalamandhira",570004,City-center Mysore hotel with restaurant,1,1,45,0
+Mysore,755379,26,1,1,1,0,Dec 24 2016,The viceroy comforts,1675,3,10.6,"770/5, F-25, Ramanuja Road, Annex Rajendra, Kalamandhira",570004,City-center Mysore hotel with restaurant,1,1,45,0
+Mysore,755379,26,1,1,1,0,Dec 25 2016,The viceroy comforts,1800,3,10.6,"770/5, F-25, Ramanuja Road, Annex Rajendra, Kalamandhira",570004,City-center Mysore hotel with restaurant,1,1,45,0
+Mysore,755379,26,1,1,0,0,Dec 28 2016,The viceroy comforts,1675,3,10.6,"770/5, F-25, Ramanuja Road, Annex Rajendra, Kalamandhira",570004,City-center Mysore hotel with restaurant,1,1,45,0
+Mysore,755379,26,1,1,1,1,Dec 31 2016,The viceroy comforts,1489,3,10.6,"770/5, F-25, Ramanuja Road, Annex Rajendra, Kalamandhira",570004,City-center Mysore hotel with restaurant,1,1,45,0
+Mysore,755379,26,1,1,0,0,Jan 04 2017,The viceroy comforts,1489,3,10.6,"770/5, F-25, Ramanuja Road, Annex Rajendra, Kalamandhira",570004,City-center Mysore hotel with restaurant,1,1,45,0
+Mysore,755379,26,1,1,1,0,Jan 08 2017,The viceroy comforts,1489,3,10.6,"770/5, F-25, Ramanuja Road, Annex Rajendra, Kalamandhira",570004,City-center Mysore hotel with restaurant,1,1,45,0
+Mysore,755379,26,1,1,1,0,Dec 18 2016,Treebo Golden Castle,1286,2,12.3,"3615/1 Sayyaji Rao Road, Mysore,",570021,No-frills hotel in Mysore,1,1,29,0
+Mysore,755379,26,1,1,0,0,Dec 21 2016,Treebo Golden Castle,1286,2,12.3,"3615/1 Sayyaji Rao Road, Mysore,",570021,No-frills hotel in Mysore,1,1,29,0
+Mysore,755379,26,1,1,1,0,Dec 24 2016,Treebo Golden Castle,1286,2,12.3,"3615/1 Sayyaji Rao Road, Mysore,",570021,No-frills hotel in Mysore,1,1,29,0
+Mysore,755379,26,1,1,1,0,Dec 25 2016,Treebo Golden Castle,1286,2,12.3,"3615/1 Sayyaji Rao Road, Mysore,",570021,No-frills hotel in Mysore,1,1,29,0
+Mysore,755379,26,1,1,0,0,Dec 28 2016,Treebo Golden Castle,2589,2,12.3,"3615/1 Sayyaji Rao Road, Mysore,",570021,No-frills hotel in Mysore,1,1,29,0
+Mysore,755379,26,1,1,1,1,Dec 31 2016,Treebo Golden Castle,2589,2,12.3,"3615/1 Sayyaji Rao Road, Mysore,",570021,No-frills hotel in Mysore,1,1,29,0
+Mysore,755379,26,1,1,0,0,Jan 04 2017,Treebo Golden Castle,1826,2,12.3,"3615/1 Sayyaji Rao Road, Mysore,",570021,No-frills hotel in Mysore,1,1,29,0
+Mysore,755379,26,1,1,1,0,Jan 08 2017,Treebo Golden Castle,1826,2,12.3,"3615/1 Sayyaji Rao Road, Mysore,",570021,No-frills hotel in Mysore,1,1,29,0
+Mysore,755379,26,1,1,1,0,Dec 18 2016,Treebo Spectrum Suites,2479,3,15,"116,117,118, 6th Main, 3rd Cross, Jayalakshmipuram",570012,3-star Mysore hotel with restaurant,1,1,52,0
+Mysore,755379,26,1,1,0,0,Dec 21 2016,Treebo Spectrum Suites,2479,3,15,"116,117,118, 6th Main, 3rd Cross, Jayalakshmipuram",570012,3-star Mysore hotel with restaurant,1,1,52,0
+Mysore,755379,26,1,1,1,0,Dec 24 2016,Treebo Spectrum Suites,3150,3,15,"116,117,118, 6th Main, 3rd Cross, Jayalakshmipuram",570012,3-star Mysore hotel with restaurant,1,1,52,0
+Mysore,755379,26,1,1,1,0,Dec 25 2016,Treebo Spectrum Suites,3150,3,15,"116,117,118, 6th Main, 3rd Cross, Jayalakshmipuram",570012,3-star Mysore hotel with restaurant,1,1,52,0
+Mysore,755379,26,1,1,0,0,Dec 28 2016,Treebo Spectrum Suites,3123,3,15,"116,117,118, 6th Main, 3rd Cross, Jayalakshmipuram",570012,3-star Mysore hotel with restaurant,1,1,52,0
+Mysore,755379,26,1,1,1,1,Dec 31 2016,Treebo Spectrum Suites,2837,3,15,"116,117,118, 6th Main, 3rd Cross, Jayalakshmipuram",570012,3-star Mysore hotel with restaurant,1,1,52,0
+Mysore,755379,26,1,1,0,0,Jan 04 2017,Treebo Spectrum Suites,2479,3,15,"116,117,118, 6th Main, 3rd Cross, Jayalakshmipuram",570012,3-star Mysore hotel with restaurant,1,1,52,0
+Mysore,755379,26,1,1,1,0,Jan 08 2017,Treebo Spectrum Suites,2479,3,15,"116,117,118, 6th Main, 3rd Cross, Jayalakshmipuram",570012,3-star Mysore hotel with restaurant,1,1,52,0
+Mysore,755379,26,1,1,1,0,Dec 18 2016,Treebo Urban Oasis,2317,3,14.4,"2761, 5th Main Road, VV Mohalla",570002,No-frills Mysore hotel with restaurant,1,1,19,0
+Mysore,755379,26,1,1,0,0,Dec 21 2016,Treebo Urban Oasis,2317,3,14.4,"2761, 5th Main Road, VV Mohalla",570002,No-frills Mysore hotel with restaurant,1,1,19,0
+Mysore,755379,26,1,1,1,0,Dec 24 2016,Treebo Urban Oasis,2317,3,14.4,"2761, 5th Main Road, VV Mohalla",570002,No-frills Mysore hotel with restaurant,1,1,19,0
+Mysore,755379,26,1,1,1,0,Dec 25 2016,Treebo Urban Oasis,2827,3,14.4,"2761, 5th Main Road, VV Mohalla",570002,No-frills Mysore hotel with restaurant,1,1,19,0
+Mysore,755379,26,1,1,0,0,Dec 28 2016,Treebo Urban Oasis,2537,3,14.4,"2761, 5th Main Road, VV Mohalla",570002,No-frills Mysore hotel with restaurant,1,1,19,0
+Mysore,755379,26,1,1,1,1,Dec 31 2016,Treebo Urban Oasis,2537,3,14.4,"2761, 5th Main Road, VV Mohalla",570002,No-frills Mysore hotel with restaurant,1,1,19,0
+Mysore,755379,26,1,1,0,0,Jan 04 2017,Treebo Urban Oasis,2199,3,14.4,"2761, 5th Main Road, VV Mohalla",570002,No-frills Mysore hotel with restaurant,1,1,19,0
+Mysore,755379,26,1,1,1,0,Jan 08 2017,Treebo Urban Oasis,2300,3,14.4,"2761, 5th Main Road, VV Mohalla",570002,No-frills Mysore hotel with restaurant,1,1,19,0

@@ -1,0 +1,609 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Abad Atrium,3919,3,23,"M.G. Road, Cochin, Kerala, 682035 India",682035,"3-star hotel in Cochin with outdoor pool, restaurant",1,1,52,1
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Abad Atrium,3919,3,23,"M.G. Road, Cochin, Kerala, 682035 India",682035,"3-star hotel in Cochin with outdoor pool, restaurant",1,1,52,1
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Abad Atrium,3919,3,23,"M.G. Road, Cochin, Kerala, 682035 India",682035,"3-star hotel in Cochin with outdoor pool, restaurant",1,1,52,1
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Abad Atrium,3919,3,23,"M.G. Road, Cochin, Kerala, 682035 India",682035,"3-star hotel in Cochin with outdoor pool, restaurant",1,1,52,1
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Abad Atrium,3919,3,23,"M.G. Road, Cochin, Kerala, 682035 India",682035,"3-star hotel in Cochin with outdoor pool, restaurant",1,1,52,1
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Abad Atrium,3919,3,23,"M.G. Road, Cochin, Kerala, 682035 India",682035,"3-star hotel in Cochin with outdoor pool, restaurant",1,1,52,1
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Abad Atrium,4538,3,23,"M.G. Road, Cochin, Kerala, 682035 India",682035,"3-star hotel in Cochin with outdoor pool, restaurant",1,1,52,1
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Abad Atrium,3919,3,23,"M.G. Road, Cochin, Kerala, 682035 India",682035,"3-star hotel in Cochin with outdoor pool, restaurant",1,1,52,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Abad Metro,2310,3,23,"Rajaji Road, Off. M.G. Road, Ernakulam, Cochin, Kerala, India",682035,No-frills Cochin hotel with restaurant,1,0,37,0
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Abad Metro,1485,3,23,"Rajaji Road, Off. M.G. Road, Ernakulam, Cochin, Kerala, India",682035,No-frills Cochin hotel with restaurant,1,0,37,0
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Abad Metro,1485,3,23,"Rajaji Road, Off. M.G. Road, Ernakulam, Cochin, Kerala, India",682035,No-frills Cochin hotel with restaurant,1,0,37,0
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Abad Metro,1485,3,23,"Rajaji Road, Off. M.G. Road, Ernakulam, Cochin, Kerala, India",682035,No-frills Cochin hotel with restaurant,1,0,37,0
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Abad Metro,1485,3,23,"Rajaji Road, Off. M.G. Road, Ernakulam, Cochin, Kerala, India",682035,No-frills Cochin hotel with restaurant,1,0,37,0
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Abad Metro,1485,3,23,"Rajaji Road, Off. M.G. Road, Ernakulam, Cochin, Kerala, India",682035,No-frills Cochin hotel with restaurant,1,0,37,0
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Abad Metro,1485,3,23,"Rajaji Road, Off. M.G. Road, Ernakulam, Cochin, Kerala, India",682035,No-frills Cochin hotel with restaurant,1,0,37,0
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Abad Metro,1485,3,23,"Rajaji Road, Off. M.G. Road, Ernakulam, Cochin, Kerala, India",682035,No-frills Cochin hotel with restaurant,1,0,37,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Aquatic Floating Resort,10500,3,35,"4-360A, Puthankary, Kumbalangi PO, Cochin, Kerala, 682 007, India",682007,"Riverfront resort in Cochin with outdoor pool, restaurant",1,1,10,1
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Aquatic Floating Resort,15000,3,35,"4-360A, Puthankary, Kumbalangi PO, Cochin, Kerala, 682 007, India",682007,"Riverfront resort in Cochin with outdoor pool, restaurant",1,1,10,1
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Aquatic Floating Resort,22500,3,35,"4-360A, Puthankary, Kumbalangi PO, Cochin, Kerala, 682 007, India",682007,"Riverfront resort in Cochin with outdoor pool, restaurant",1,1,10,1
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Aquatic Floating Resort,18000,3,35,"4-360A, Puthankary, Kumbalangi PO, Cochin, Kerala, 682 007, India",682007,"Riverfront resort in Cochin with outdoor pool, restaurant",1,1,10,1
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Aquatic Floating Resort,18000,3,35,"4-360A, Puthankary, Kumbalangi PO, Cochin, Kerala, 682 007, India",682007,"Riverfront resort in Cochin with outdoor pool, restaurant",1,1,10,1
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Aquatic Floating Resort,25000,3,35,"4-360A, Puthankary, Kumbalangi PO, Cochin, Kerala, 682 007, India",682007,"Riverfront resort in Cochin with outdoor pool, restaurant",1,1,10,1
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Aquatic Floating Resort,15000,3,35,"4-360A, Puthankary, Kumbalangi PO, Cochin, Kerala, 682 007, India",682007,"Riverfront resort in Cochin with outdoor pool, restaurant",1,1,10,1
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Aquatic Floating Resort,15000,3,35,"4-360A, Puthankary, Kumbalangi PO, Cochin, Kerala, 682 007, India",682007,"Riverfront resort in Cochin with outdoor pool, restaurant",1,1,10,1
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Aroma Homestay,2252,2.5,27,"1/1469(1) Opp. St. Antony's Chappel, Near Pattalam Market, Cochin, Kerala, 682001 India",682001,No-frills B&B in Fort Kochi,1,1,4,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Aroma Homestay,2502,2.5,27,"1/1469(1) Opp. St. Antony's Chappel, Near Pattalam Market, Cochin, Kerala, 682001 India",682001,No-frills B&B in Fort Kochi,1,1,4,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Aroma Homestay,2502,2.5,27,"1/1469(1) Opp. St. Antony's Chappel, Near Pattalam Market, Cochin, Kerala, 682001 India",682001,No-frills B&B in Fort Kochi,1,1,4,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Aroma Homestay,2502,2.5,27,"1/1469(1) Opp. St. Antony's Chappel, Near Pattalam Market, Cochin, Kerala, 682001 India",682001,No-frills B&B in Fort Kochi,1,1,4,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Aroma Homestay,2502,2.5,27,"1/1469(1) Opp. St. Antony's Chappel, Near Pattalam Market, Cochin, Kerala, 682001 India",682001,No-frills B&B in Fort Kochi,1,1,4,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Aroma Homestay,2502,2.5,27,"1/1469(1) Opp. St. Antony's Chappel, Near Pattalam Market, Cochin, Kerala, 682001 India",682001,No-frills B&B in Fort Kochi,1,1,4,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Aroma Homestay,2252,2.5,27,"1/1469(1) Opp. St. Antony's Chappel, Near Pattalam Market, Cochin, Kerala, 682001 India",682001,No-frills B&B in Fort Kochi,1,1,4,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Aroma Homestay,2252,2.5,27,"1/1469(1) Opp. St. Antony's Chappel, Near Pattalam Market, Cochin, Kerala, 682001 India",682001,No-frills B&B in Fort Kochi,1,1,4,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Atlas Airport Hotel Apartment,1708,3,1.7,"Oppo. Cochin International Airport, Nayathodu, Nedumbassery, Kerala, 683 572, India",683572,Comfortable Nedumbassery apartment with balcony,1,1,106,1
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Atlas Airport Hotel Apartment,2070,3,1.7,"Oppo. Cochin International Airport, Nayathodu, Nedumbassery, Kerala, 683 572, India",683572,Comfortable Nedumbassery apartment with balcony,1,1,106,1
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Atlas Airport Hotel Apartment,2070,3,1.7,"Oppo. Cochin International Airport, Nayathodu, Nedumbassery, Kerala, 683 572, India",683572,Comfortable Nedumbassery apartment with balcony,1,1,106,1
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Atlas Airport Hotel Apartment,2070,3,1.7,"Oppo. Cochin International Airport, Nayathodu, Nedumbassery, Kerala, 683 572, India",683572,Comfortable Nedumbassery apartment with balcony,1,1,106,1
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Atlas Airport Hotel Apartment,2070,3,1.7,"Oppo. Cochin International Airport, Nayathodu, Nedumbassery, Kerala, 683 572, India",683572,Comfortable Nedumbassery apartment with balcony,1,1,106,1
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Atlas Airport Hotel Apartment,2070,3,1.7,"Oppo. Cochin International Airport, Nayathodu, Nedumbassery, Kerala, 683 572, India",683572,Comfortable Nedumbassery apartment with balcony,1,1,106,1
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Atlas Airport Hotel Apartment,2070,3,1.7,"Oppo. Cochin International Airport, Nayathodu, Nedumbassery, Kerala, 683 572, India",683572,Comfortable Nedumbassery apartment with balcony,1,1,106,1
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Atlas Airport Hotel Apartment,2070,3,1.7,"Oppo. Cochin International Airport, Nayathodu, Nedumbassery, Kerala, 683 572, India",683572,Comfortable Nedumbassery apartment with balcony,1,1,106,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Beaumonde The Fern,3083,4,23,"Vivekananda Lane, Off MG Rd, Ernakulam, Cochin, Kerala, India",682016,"4-star hotel in Ernakulam with spa, outdoor poo",1,1,49,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Beaumonde The Fern,3083,4,23,"Vivekananda Lane, Off MG Rd, Ernakulam, Cochin, Kerala, India",682016,"4-star hotel in Ernakulam with spa, outdoor poo",1,1,49,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Beaumonde The Fern,3425,4,23,"Vivekananda Lane, Off MG Rd, Ernakulam, Cochin, Kerala, India",682016,"4-star hotel in Ernakulam with spa, outdoor poo",1,1,49,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Beaumonde The Fern,8500,4,23,"Vivekananda Lane, Off MG Rd, Ernakulam, Cochin, Kerala, India",682016,"4-star hotel in Ernakulam with spa, outdoor poo",1,1,49,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Beaumonde The Fern,2911,4,23,"Vivekananda Lane, Off MG Rd, Ernakulam, Cochin, Kerala, India",682016,"4-star hotel in Ernakulam with spa, outdoor poo",1,1,49,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Beaumonde The Fern,3425,4,23,"Vivekananda Lane, Off MG Rd, Ernakulam, Cochin, Kerala, India",682016,"4-star hotel in Ernakulam with spa, outdoor poo",1,1,49,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Beaumonde The Fern,8500,4,23,"Vivekananda Lane, Off MG Rd, Ernakulam, Cochin, Kerala, India",682016,"4-star hotel in Ernakulam with spa, outdoor poo",1,1,49,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Beaumonde The Fern,3676,4,23,"Vivekananda Lane, Off MG Rd, Ernakulam, Cochin, Kerala, India",682016,"4-star hotel in Ernakulam with spa, outdoor poo",1,1,49,1
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Bharat Hotel,3377,3,24,"P.B.No.2357, Gandhi Square, Durbar Hall Road, Cochin, Kerala, 682 016 India",682016,"3-star hotel in Ernakulam with 2 restaurants, conference center",1,1,87,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Bharat Hotel,3377,3,24,"P.B.No.2357, Gandhi Square, Durbar Hall Road, Cochin, Kerala, 682 016 India",682016,"3-star hotel in Ernakulam with 2 restaurants, conference center",1,1,87,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Bharat Hotel,3753,3,24,"P.B.No.2357, Gandhi Square, Durbar Hall Road, Cochin, Kerala, 682 016 India",682016,"3-star hotel in Ernakulam with 2 restaurants, conference center",1,1,87,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Bharat Hotel,3753,3,24,"P.B.No.2357, Gandhi Square, Durbar Hall Road, Cochin, Kerala, 682 016 India",682016,"3-star hotel in Ernakulam with 2 restaurants, conference center",1,1,87,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Bharat Hotel,3753,3,24,"P.B.No.2357, Gandhi Square, Durbar Hall Road, Cochin, Kerala, 682 016 India",682016,"3-star hotel in Ernakulam with 2 restaurants, conference center",1,1,87,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Bharat Hotel,3753,3,24,"P.B.No.2357, Gandhi Square, Durbar Hall Road, Cochin, Kerala, 682 016 India",682016,"3-star hotel in Ernakulam with 2 restaurants, conference center",1,1,87,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Bharat Hotel,3753,3,24,"P.B.No.2357, Gandhi Square, Durbar Hall Road, Cochin, Kerala, 682 016 India",682016,"3-star hotel in Ernakulam with 2 restaurants, conference center",1,1,87,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Bharat Hotel,3753,3,24,"P.B.No.2357, Gandhi Square, Durbar Hall Road, Cochin, Kerala, 682 016 India",682016,"3-star hotel in Ernakulam with 2 restaurants, conference center",1,1,87,0
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Brunton Boatyard,18319,5,26,"Calvetty Road, Fort Kochi, Cochin, Kerala, India",682001,5-star hotel in Fort Kochi with 2 restaurants and outdoor pool,1,1,22,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Brunton Boatyard,20084,5,26,"Calvetty Road, Fort Kochi, Cochin, Kerala, India",682001,5-star hotel in Fort Kochi with 2 restaurants and outdoor pool,1,1,22,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Brunton Boatyard,20084,5,26,"Calvetty Road, Fort Kochi, Cochin, Kerala, India",682001,5-star hotel in Fort Kochi with 2 restaurants and outdoor pool,1,1,22,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Brunton Boatyard,20084,5,26,"Calvetty Road, Fort Kochi, Cochin, Kerala, India",682001,5-star hotel in Fort Kochi with 2 restaurants and outdoor pool,1,1,22,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Brunton Boatyard,20084,5,26,"Calvetty Road, Fort Kochi, Cochin, Kerala, India",682001,5-star hotel in Fort Kochi with 2 restaurants and outdoor pool,1,1,22,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Brunton Boatyard,20084,5,26,"Calvetty Road, Fort Kochi, Cochin, Kerala, India",682001,5-star hotel in Fort Kochi with 2 restaurants and outdoor pool,1,1,22,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Brunton Boatyard,20084,5,26,"Calvetty Road, Fort Kochi, Cochin, Kerala, India",682001,5-star hotel in Fort Kochi with 2 restaurants and outdoor pool,1,1,22,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Brunton Boatyard,20084,5,26,"Calvetty Road, Fort Kochi, Cochin, Kerala, India",682001,5-star hotel in Fort Kochi with 2 restaurants and outdoor pool,1,1,22,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,BTH Sarovaram,2919,2,24,"NH 47, Cochin Bypass, Maradu, Cochin, Kerala",682304,No-frills hotel in Ernakulam with restaurant,1,1,14,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,BTH Sarovaram,2919,2,24,"NH 47, Cochin Bypass, Maradu, Cochin, Kerala",682304,No-frills hotel in Ernakulam with restaurant,1,1,14,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,BTH Sarovaram,2919,2,24,"NH 47, Cochin Bypass, Maradu, Cochin, Kerala",682304,No-frills hotel in Ernakulam with restaurant,1,1,14,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,BTH Sarovaram,3753,2,24,"NH 47, Cochin Bypass, Maradu, Cochin, Kerala",682304,No-frills hotel in Ernakulam with restaurant,1,1,14,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,BTH Sarovaram,2919,2,24,"NH 47, Cochin Bypass, Maradu, Cochin, Kerala",682304,No-frills hotel in Ernakulam with restaurant,1,1,14,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,BTH Sarovaram,2919,2,24,"NH 47, Cochin Bypass, Maradu, Cochin, Kerala",682304,No-frills hotel in Ernakulam with restaurant,1,1,14,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,BTH Sarovaram,2919,2,24,"NH 47, Cochin Bypass, Maradu, Cochin, Kerala",682304,No-frills hotel in Ernakulam with restaurant,1,1,14,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,BTH Sarovaram,2919,2,24,"NH 47, Cochin Bypass, Maradu, Cochin, Kerala",682304,No-frills hotel in Ernakulam with restaurant,1,1,14,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Casino Hotel ,4622,3,25,"Willingdon Island, Cochin, Kerala",682003,"3.5-star hotel in Cochin with 2 restaurants, outdoor pool",1,1,67,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Casino Hotel ,5882,3,25,"Willingdon Island, Cochin, Kerala",682003,"3.5-star hotel in Cochin with 2 restaurants, outdoor pool",1,1,67,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Casino Hotel ,7143,3,25,"Willingdon Island, Cochin, Kerala",682003,"3.5-star hotel in Cochin with 2 restaurants, outdoor pool",1,1,67,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Casino Hotel ,7143,3,25,"Willingdon Island, Cochin, Kerala",682003,"3.5-star hotel in Cochin with 2 restaurants, outdoor pool",1,1,67,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Casino Hotel ,7773,3,25,"Willingdon Island, Cochin, Kerala",682003,"3.5-star hotel in Cochin with 2 restaurants, outdoor pool",1,1,67,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Casino Hotel ,7143,3,25,"Willingdon Island, Cochin, Kerala",682003,"3.5-star hotel in Cochin with 2 restaurants, outdoor pool",1,1,67,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Casino Hotel ,5882,3,25,"Willingdon Island, Cochin, Kerala",682003,"3.5-star hotel in Cochin with 2 restaurants, outdoor pool",1,1,67,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Casino Hotel ,4622,3,25,"Willingdon Island, Cochin, Kerala",682003,"3.5-star hotel in Cochin with 2 restaurants, outdoor pool",1,1,67,1
+Kochi,595575,17,0,1,1,0,Dec 18 2016,"Casino Hotel- CGH Earth, Cochin",3782,3.5,25,"Willingdon Island, Cochin, Kerala, 682 003 India",682003,"3.5-star hotel in Cochin with 2 restaurants, outdoor pool",1,0,67,1
+Kochi,595575,17,0,1,0,0,Dec 21 2016,"Casino Hotel- CGH Earth, Cochin",5042,3.5,25,"Willingdon Island, Cochin, Kerala, 682 003 India",682003,"3.5-star hotel in Cochin with 2 restaurants, outdoor pool",1,0,67,1
+Kochi,595575,17,0,1,1,0,Dec 24 2016,"Casino Hotel- CGH Earth, Cochin",7143,3.5,25,"Willingdon Island, Cochin, Kerala, 682 003 India",682003,"3.5-star hotel in Cochin with 2 restaurants, outdoor pool",1,0,67,1
+Kochi,595575,17,0,1,1,0,Dec 25 2016,"Casino Hotel- CGH Earth, Cochin",6303,3.5,25,"Willingdon Island, Cochin, Kerala, 682 003 India",682003,"3.5-star hotel in Cochin with 2 restaurants, outdoor pool",1,0,67,1
+Kochi,595575,17,0,1,0,0,Dec 28 2016,"Casino Hotel- CGH Earth, Cochin",6933,3.5,25,"Willingdon Island, Cochin, Kerala, 682 003 India",682003,"3.5-star hotel in Cochin with 2 restaurants, outdoor pool",1,0,67,1
+Kochi,595575,17,0,1,1,1,Dec 31 2016,"Casino Hotel- CGH Earth, Cochin",6303,3.5,25,"Willingdon Island, Cochin, Kerala, 682 003 India",682003,"3.5-star hotel in Cochin with 2 restaurants, outdoor pool",1,0,67,1
+Kochi,595575,17,0,1,0,0,Jan 04 2017,"Casino Hotel- CGH Earth, Cochin",5042,3.5,25,"Willingdon Island, Cochin, Kerala, 682 003 India",682003,"3.5-star hotel in Cochin with 2 restaurants, outdoor pool",1,0,67,1
+Kochi,595575,17,0,1,0,0,Jan 08 2017,"Casino Hotel- CGH Earth, Cochin",5882,3.5,25,"Willingdon Island, Cochin, Kerala, 682 003 India",682003,"3.5-star hotel in Cochin with 2 restaurants, outdoor pool",1,0,67,1
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Courtyard Kochi Airport,6500,5,1.1,"VIP Road, Opp. Kochi International Airport, Nedumbassery, Kerala, 683572, India",683572,"5-star hotel in Nedumbassery with spa, outdoor pool",0,0,106,1
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Courtyard Kochi Airport,6500,5,1.1,"VIP Road, Opp. Kochi International Airport, Nedumbassery, Kerala, 683572, India",683572,"5-star hotel in Nedumbassery with spa, outdoor pool",0,0,106,1
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Courtyard Kochi Airport,6500,5,1.1,"VIP Road, Opp. Kochi International Airport, Nedumbassery, Kerala, 683572, India",683572,"5-star hotel in Nedumbassery with spa, outdoor pool",0,0,106,1
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Courtyard Kochi Airport,6500,5,1.1,"VIP Road, Opp. Kochi International Airport, Nedumbassery, Kerala, 683572, India",683572,"5-star hotel in Nedumbassery with spa, outdoor pool",0,0,106,1
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Courtyard Kochi Airport,9000,5,1.1,"VIP Road, Opp. Kochi International Airport, Nedumbassery, Kerala, 683572, India",683572,"5-star hotel in Nedumbassery with spa, outdoor pool",0,0,106,1
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Courtyard Kochi Airport,8500,5,1.1,"VIP Road, Opp. Kochi International Airport, Nedumbassery, Kerala, 683572, India",683572,"5-star hotel in Nedumbassery with spa, outdoor pool",0,0,106,1
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Courtyard Kochi Airport,6100,5,1.1,"VIP Road, Opp. Kochi International Airport, Nedumbassery, Kerala, 683572, India",683572,"5-star hotel in Nedumbassery with spa, outdoor pool",0,0,106,1
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Courtyard Kochi Airport,6100,5,1.1,"VIP Road, Opp. Kochi International Airport, Nedumbassery, Kerala, 683572, India",683572,"5-star hotel in Nedumbassery with spa, outdoor pool",0,0,106,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Crowne Plaza Kochi,14732,5,26,"XI/641A Kundanoor Junction, NH-47 Bypass, Maradu, Cochin, Kerala, India",682304,"Lakefront hotel in Ernakulam with 3 restaurants, spa",1,1,269,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Crowne Plaza Kochi,6499,5,26,"XI/641A Kundanoor Junction, NH-47 Bypass, Maradu, Cochin, Kerala, India",682304,"Lakefront hotel in Ernakulam with 3 restaurants, spa",1,1,269,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Crowne Plaza Kochi,5400,5,26,"XI/641A Kundanoor Junction, NH-47 Bypass, Maradu, Cochin, Kerala, India",682304,"Lakefront hotel in Ernakulam with 3 restaurants, spa",1,1,269,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Crowne Plaza Kochi,5400,5,26,"XI/641A Kundanoor Junction, NH-47 Bypass, Maradu, Cochin, Kerala, India",682304,"Lakefront hotel in Ernakulam with 3 restaurants, spa",1,1,269,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Crowne Plaza Kochi,5400,5,26,"XI/641A Kundanoor Junction, NH-47 Bypass, Maradu, Cochin, Kerala, India",682304,"Lakefront hotel in Ernakulam with 3 restaurants, spa",1,1,269,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Crowne Plaza Kochi,8291,5,26,"XI/641A Kundanoor Junction, NH-47 Bypass, Maradu, Cochin, Kerala, India",682304,"Lakefront hotel in Ernakulam with 3 restaurants, spa",1,1,269,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Crowne Plaza Kochi,5400,5,26,"XI/641A Kundanoor Junction, NH-47 Bypass, Maradu, Cochin, Kerala, India",682304,"Lakefront hotel in Ernakulam with 3 restaurants, spa",1,1,269,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Crowne Plaza Kochi,5400,5,26,"XI/641A Kundanoor Junction, NH-47 Bypass, Maradu, Cochin, Kerala, India",682304,"Lakefront hotel in Ernakulam with 3 restaurants, spa",1,1,269,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Diana Heights,2673,4,4,"Near Athani, Cochin Intl. Airport, Nedumbassery, Kerala, India",683585,"Luxury hotel in Nedumbassery with 3 restaurants, spa",1,1,43,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Diana Heights,2673,4,4,"Near Athani, Cochin Intl. Airport, Nedumbassery, Kerala, India",683585,"Luxury hotel in Nedumbassery with 3 restaurants, spa",1,1,43,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Diana Heights,2673,4,4,"Near Athani, Cochin Intl. Airport, Nedumbassery, Kerala, India",683585,"Luxury hotel in Nedumbassery with 3 restaurants, spa",1,1,43,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Diana Heights,3151,4,4,"Near Athani, Cochin Intl. Airport, Nedumbassery, Kerala, India",683585,"Luxury hotel in Nedumbassery with 3 restaurants, spa",1,1,43,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Diana Heights,2673,4,4,"Near Athani, Cochin Intl. Airport, Nedumbassery, Kerala, India",683585,"Luxury hotel in Nedumbassery with 3 restaurants, spa",1,1,43,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Diana Heights,3151,4,4,"Near Athani, Cochin Intl. Airport, Nedumbassery, Kerala, India",683585,"Luxury hotel in Nedumbassery with 3 restaurants, spa",1,1,43,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Diana Heights,3151,4,4,"Near Athani, Cochin Intl. Airport, Nedumbassery, Kerala, India",683585,"Luxury hotel in Nedumbassery with 3 restaurants, spa",1,1,43,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Diana Heights,3151,4,4,"Near Athani, Cochin Intl. Airport, Nedumbassery, Kerala, India",683585,"Luxury hotel in Nedumbassery with 3 restaurants, spa",1,1,43,1
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Ecolodge,1980,2.5,23,"40/4969-A, Basin Road, Opp. High Court, Cochin, Kerala, 682031 India",682031,No-frills hotel in Cochin,0,1,16,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Ecolodge,1980,2.5,23,"40/4969-A, Basin Road, Opp. High Court, Cochin, Kerala, 682031 India",682031,No-frills hotel in Cochin,0,1,16,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Ecolodge,2200,2.5,23,"40/4969-A, Basin Road, Opp. High Court, Cochin, Kerala, 682031 India",682031,No-frills hotel in Cochin,0,1,16,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Ecolodge,2200,2.5,23,"40/4969-A, Basin Road, Opp. High Court, Cochin, Kerala, 682031 India",682031,No-frills hotel in Cochin,0,1,16,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Ecolodge,2200,2.5,23,"40/4969-A, Basin Road, Opp. High Court, Cochin, Kerala, 682031 India",682031,No-frills hotel in Cochin,0,1,16,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Ecolodge,2200,2.5,23,"40/4969-A, Basin Road, Opp. High Court, Cochin, Kerala, 682031 India",682031,No-frills hotel in Cochin,0,1,16,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Ecolodge,1980,2.5,23,"40/4969-A, Basin Road, Opp. High Court, Cochin, Kerala, 682031 India",682031,No-frills hotel in Cochin,0,1,16,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Ecolodge,1980,2.5,23,"40/4969-A, Basin Road, Opp. High Court, Cochin, Kerala, 682031 India",682031,No-frills hotel in Cochin,0,1,16,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Eden Garden Heritage Homestay,2626,3,27,"10/1335, Varekat, (Rose Land) , Amaravathy, Cochin, Kerala, 682001, India",682001,3-star guesthouse in Cochin,1,0,3,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Eden Garden Heritage Homestay,2626,3,27,"10/1335, Varekat, (Rose Land) , Amaravathy, Cochin, Kerala, 682001, India",682001,3-star guesthouse in Cochin,1,0,3,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Eden Garden Heritage Homestay,2626,3,27,"10/1335, Varekat, (Rose Land) , Amaravathy, Cochin, Kerala, 682001, India",682001,3-star guesthouse in Cochin,1,0,3,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Eden Garden Heritage Homestay,2918,3,27,"10/1335, Varekat, (Rose Land) , Amaravathy, Cochin, Kerala, 682001, India",682001,3-star guesthouse in Cochin,1,0,3,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Eden Garden Heritage Homestay,2918,3,27,"10/1335, Varekat, (Rose Land) , Amaravathy, Cochin, Kerala, 682001, India",682001,3-star guesthouse in Cochin,1,0,3,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Eden Garden Heritage Homestay,2918,3,27,"10/1335, Varekat, (Rose Land) , Amaravathy, Cochin, Kerala, 682001, India",682001,3-star guesthouse in Cochin,1,0,3,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Eden Garden Heritage Homestay,2626,3,27,"10/1335, Varekat, (Rose Land) , Amaravathy, Cochin, Kerala, 682001, India",682001,3-star guesthouse in Cochin,1,0,3,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Eden Garden Heritage Homestay,2626,3,27,"10/1335, Varekat, (Rose Land) , Amaravathy, Cochin, Kerala, 682001, India",682001,3-star guesthouse in Cochin,1,0,3,0
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Eigth Bastion,12185,3,27,"Napier Street, Fort Kochin, Cochin, Kerala",682001,"3.5-star hotel in Fort Kochi with outdoor pool, restaurant",1,1,19,0
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Eigth Bastion,15210,3,27,"Napier Street, Fort Kochin, Cochin, Kerala",682001,"3.5-star hotel in Fort Kochi with outdoor pool, restaurant",1,1,19,0
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Eigth Bastion,15210,3,27,"Napier Street, Fort Kochin, Cochin, Kerala",682001,"3.5-star hotel in Fort Kochi with outdoor pool, restaurant",1,1,19,0
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Eigth Bastion,15210,3,27,"Napier Street, Fort Kochin, Cochin, Kerala",682001,"3.5-star hotel in Fort Kochi with outdoor pool, restaurant",1,1,19,0
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Eigth Bastion,15210,3,27,"Napier Street, Fort Kochin, Cochin, Kerala",682001,"3.5-star hotel in Fort Kochi with outdoor pool, restaurant",1,1,19,0
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Eigth Bastion,15210,3,27,"Napier Street, Fort Kochin, Cochin, Kerala",682001,"3.5-star hotel in Fort Kochi with outdoor pool, restaurant",1,1,19,0
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Eigth Bastion,15210,3,27,"Napier Street, Fort Kochin, Cochin, Kerala",682001,"3.5-star hotel in Fort Kochi with outdoor pool, restaurant",1,1,19,0
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Eigth Bastion,15210,3,27,"Napier Street, Fort Kochin, Cochin, Kerala",682001,"3.5-star hotel in Fort Kochi with outdoor pool, restaurant",1,1,19,0
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Elphinstone Residency,2941,3,27,"Elphinstone Rd, Beach Rd, Fort Kochi, Near Bishop Palace & Britto School, Cochin, Kerala, India",682001,3-star Cochin hotel with restaurant,1,1,7,0
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Elphinstone Residency,3529,3,27,"Elphinstone Rd, Beach Rd, Fort Kochi, Near Bishop Palace & Britto School, Cochin, Kerala, India",682001,3-star Cochin hotel with restaurant,1,1,7,0
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Elphinstone Residency,3529,3,27,"Elphinstone Rd, Beach Rd, Fort Kochi, Near Bishop Palace & Britto School, Cochin, Kerala, India",682001,3-star Cochin hotel with restaurant,1,1,7,0
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Elphinstone Residency,3529,3,27,"Elphinstone Rd, Beach Rd, Fort Kochi, Near Bishop Palace & Britto School, Cochin, Kerala, India",682001,3-star Cochin hotel with restaurant,1,1,7,0
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Elphinstone Residency,3529,3,27,"Elphinstone Rd, Beach Rd, Fort Kochi, Near Bishop Palace & Britto School, Cochin, Kerala, India",682001,3-star Cochin hotel with restaurant,1,1,7,0
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Elphinstone Residency,3529,3,27,"Elphinstone Rd, Beach Rd, Fort Kochi, Near Bishop Palace & Britto School, Cochin, Kerala, India",682001,3-star Cochin hotel with restaurant,1,1,7,0
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Elphinstone Residency,1294,3,27,"Elphinstone Rd, Beach Rd, Fort Kochi, Near Bishop Palace & Britto School, Cochin, Kerala, India",682001,3-star Cochin hotel with restaurant,1,1,7,0
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Elphinstone Residency,1294,3,27,"Elphinstone Rd, Beach Rd, Fort Kochi, Near Bishop Palace & Britto School, Cochin, Kerala, India",682001,3-star Cochin hotel with restaurant,1,1,7,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Equator,1440,2.5,27,"Near Saint Antonys shrine, Opp to Mathrubhumi press, Azad Road, Cochin, Kerala, 682001 India",682001,No-frills Cochin hotel with conference center,1,0,11,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Equator,1440,2.5,27,"Near Saint Antonys shrine, Opp to Mathrubhumi press, Azad Road, Cochin, Kerala, 682001 India",682001,No-frills Cochin hotel with conference center,1,0,11,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Equator,1600,2.5,27,"Near Saint Antonys shrine, Opp to Mathrubhumi press, Azad Road, Cochin, Kerala, 682001 India",682001,No-frills Cochin hotel with conference center,1,0,11,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Equator,1600,2.5,27,"Near Saint Antonys shrine, Opp to Mathrubhumi press, Azad Road, Cochin, Kerala, 682001 India",682001,No-frills Cochin hotel with conference center,1,0,11,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Equator,1600,2.5,27,"Near Saint Antonys shrine, Opp to Mathrubhumi press, Azad Road, Cochin, Kerala, 682001 India",682001,No-frills Cochin hotel with conference center,1,0,11,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Equator,1600,2.5,27,"Near Saint Antonys shrine, Opp to Mathrubhumi press, Azad Road, Cochin, Kerala, 682001 India",682001,No-frills Cochin hotel with conference center,1,0,11,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Equator,1440,2.5,27,"Near Saint Antonys shrine, Opp to Mathrubhumi press, Azad Road, Cochin, Kerala, 682001 India",682001,No-frills Cochin hotel with conference center,1,0,11,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Equator,1440,2.5,27,"Near Saint Antonys shrine, Opp to Mathrubhumi press, Azad Road, Cochin, Kerala, 682001 India",682001,No-frills Cochin hotel with conference center,1,0,11,0
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Flora Airport Hotel,3799,4,0.9,"Opp. Cochin International Airport, Nedumbassery Nayathodu, Nedumbassery, Kerala, India",683572,"4-star hotel in Nedumbassery with 3 restaurants, spa",1,1,60,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Flora Airport Hotel,4499,4,0.9,"Opp. Cochin International Airport, Nedumbassery Nayathodu, Nedumbassery, Kerala, India",683572,"4-star hotel in Nedumbassery with 3 restaurants, spa",1,1,60,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Flora Airport Hotel,5759,4,0.9,"Opp. Cochin International Airport, Nedumbassery Nayathodu, Nedumbassery, Kerala, India",683572,"4-star hotel in Nedumbassery with 3 restaurants, spa",1,1,60,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Flora Airport Hotel,5759,4,0.9,"Opp. Cochin International Airport, Nedumbassery Nayathodu, Nedumbassery, Kerala, India",683572,"4-star hotel in Nedumbassery with 3 restaurants, spa",1,1,60,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Flora Airport Hotel,5759,4,0.9,"Opp. Cochin International Airport, Nedumbassery Nayathodu, Nedumbassery, Kerala, India",683572,"4-star hotel in Nedumbassery with 3 restaurants, spa",1,1,60,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Flora Airport Hotel,4499,4,0.9,"Opp. Cochin International Airport, Nedumbassery Nayathodu, Nedumbassery, Kerala, India",683572,"4-star hotel in Nedumbassery with 3 restaurants, spa",1,1,60,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Flora Airport Hotel,5199,4,0.9,"Opp. Cochin International Airport, Nedumbassery Nayathodu, Nedumbassery, Kerala, India",683572,"4-star hotel in Nedumbassery with 3 restaurants, spa",1,1,60,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Flora Airport Hotel,5199,4,0.9,"Opp. Cochin International Airport, Nedumbassery Nayathodu, Nedumbassery, Kerala, India",683572,"4-star hotel in Nedumbassery with 3 restaurants, spa",1,1,60,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Fort Beach Service Apartments,2076,2,26,"1/506R, 3rd Floor, Cycril's Estuary, Opp Brunton Boatyard Hotel, Cochin, Kerala",682001,No-frills apartment in Fort Kochi,1,0,6,0
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Fort Beach Service Apartments,2502,2,26,"1/506R, 3rd Floor, Cycril's Estuary, Opp Brunton Boatyard Hotel, Cochin, Kerala",682001,No-frills apartment in Fort Kochi,1,0,6,0
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Fort Beach Service Apartments,2919,2,26,"1/506R, 3rd Floor, Cycril's Estuary, Opp Brunton Boatyard Hotel, Cochin, Kerala",682001,No-frills apartment in Fort Kochi,1,0,6,0
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Fort Beach Service Apartments,2919,2,26,"1/506R, 3rd Floor, Cycril's Estuary, Opp Brunton Boatyard Hotel, Cochin, Kerala",682001,No-frills apartment in Fort Kochi,1,0,6,0
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Fort Beach Service Apartments,2919,2,26,"1/506R, 3rd Floor, Cycril's Estuary, Opp Brunton Boatyard Hotel, Cochin, Kerala",682001,No-frills apartment in Fort Kochi,1,0,6,0
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Fort Beach Service Apartments,2919,2,26,"1/506R, 3rd Floor, Cycril's Estuary, Opp Brunton Boatyard Hotel, Cochin, Kerala",682001,No-frills apartment in Fort Kochi,1,0,6,0
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Fort Beach Service Apartments,2502,2,26,"1/506R, 3rd Floor, Cycril's Estuary, Opp Brunton Boatyard Hotel, Cochin, Kerala",682001,No-frills apartment in Fort Kochi,1,0,6,0
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Fort Beach Service Apartments,2076,2,26,"1/506R, 3rd Floor, Cycril's Estuary, Opp Brunton Boatyard Hotel, Cochin, Kerala",682001,No-frills apartment in Fort Kochi,1,0,6,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Fort Beach Service Department,2076,2.5,26,"1/506R, 3rd Floor, Cycril's Estuary, Opp Brunton Boatyard Hotel, Cochin, Kerala, 682001 India",682001,No-frills apartment in Fort Kochi,1,0,6,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Fort Beach Service Department,2252,2.5,26,"1/506R, 3rd Floor, Cycril's Estuary, Opp Brunton Boatyard Hotel, Cochin, Kerala, 682001 India",682001,No-frills apartment in Fort Kochi,1,0,6,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Fort Beach Service Department,2919,2.5,26,"1/506R, 3rd Floor, Cycril's Estuary, Opp Brunton Boatyard Hotel, Cochin, Kerala, 682001 India",682001,No-frills apartment in Fort Kochi,1,0,6,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Fort Beach Service Department,2919,2.5,26,"1/506R, 3rd Floor, Cycril's Estuary, Opp Brunton Boatyard Hotel, Cochin, Kerala, 682001 India",682001,No-frills apartment in Fort Kochi,1,0,6,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Fort Beach Service Department,2919,2.5,26,"1/506R, 3rd Floor, Cycril's Estuary, Opp Brunton Boatyard Hotel, Cochin, Kerala, 682001 India",682001,No-frills apartment in Fort Kochi,1,0,6,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Fort Beach Service Department,2919,2.5,26,"1/506R, 3rd Floor, Cycril's Estuary, Opp Brunton Boatyard Hotel, Cochin, Kerala, 682001 India",682001,No-frills apartment in Fort Kochi,1,0,6,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Fort Beach Service Department,2252,2.5,26,"1/506R, 3rd Floor, Cycril's Estuary, Opp Brunton Boatyard Hotel, Cochin, Kerala, 682001 India",682001,No-frills apartment in Fort Kochi,1,0,6,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Fort Beach Service Department,2252,2.5,26,"1/506R, 3rd Floor, Cycril's Estuary, Opp Brunton Boatyard Hotel, Cochin, Kerala, 682001 India",682001,No-frills apartment in Fort Kochi,1,0,6,0
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Gokulam Park Hotel & Convention Centre,2500,4,21,"Kaloor, Cochin, Kerala, India",682017,"4-star hotel in Ernakulam with outdoor pool, restaurant",1,1,39,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Gokulam Park Hotel & Convention Centre,3000,4,21,"Kaloor, Cochin, Kerala, India",682017,"4-star hotel in Ernakulam with outdoor pool, restaurant",1,1,39,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Gokulam Park Hotel & Convention Centre,3500,4,21,"Kaloor, Cochin, Kerala, India",682017,"4-star hotel in Ernakulam with outdoor pool, restaurant",1,1,39,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Gokulam Park Hotel & Convention Centre,3500,4,21,"Kaloor, Cochin, Kerala, India",682017,"4-star hotel in Ernakulam with outdoor pool, restaurant",1,1,39,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Gokulam Park Hotel & Convention Centre,3000,4,21,"Kaloor, Cochin, Kerala, India",682017,"4-star hotel in Ernakulam with outdoor pool, restaurant",1,1,39,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Gokulam Park Hotel & Convention Centre,3500,4,21,"Kaloor, Cochin, Kerala, India",682017,"4-star hotel in Ernakulam with outdoor pool, restaurant",1,1,39,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Gokulam Park Hotel & Convention Centre,3500,4,21,"Kaloor, Cochin, Kerala, India",682017,"4-star hotel in Ernakulam with outdoor pool, restaurant",1,1,39,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Gokulam Park Hotel & Convention Centre,2500,4,21,"Kaloor, Cochin, Kerala, India",682017,"4-star hotel in Ernakulam with outdoor pool, restaurant",1,1,39,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Holiday Inn Cochin,5490,5,20,"33/1739 A Chakkaraparambu Junction, Cochin, Kerala, India",682028,"Luxury hotel in Ernakulam with 3 restaurants, 2 bars/lounges",1,1,211,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Holiday Inn Cochin,5877,5,20,"33/1739 A Chakkaraparambu Junction, Cochin, Kerala, India",682028,"Luxury hotel in Ernakulam with 3 restaurants, 2 bars/lounges",1,1,211,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Holiday Inn Cochin,6255,5,20,"33/1739 A Chakkaraparambu Junction, Cochin, Kerala, India",682028,"Luxury hotel in Ernakulam with 3 restaurants, 2 bars/lounges",1,1,211,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Holiday Inn Cochin,6606,5,20,"33/1739 A Chakkaraparambu Junction, Cochin, Kerala, India",682028,"Luxury hotel in Ernakulam with 3 restaurants, 2 bars/lounges",1,1,211,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Holiday Inn Cochin,7272,5,20,"33/1739 A Chakkaraparambu Junction, Cochin, Kerala, India",682028,"Luxury hotel in Ernakulam with 3 restaurants, 2 bars/lounges",1,1,211,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Holiday Inn Cochin,5850,5,20,"33/1739 A Chakkaraparambu Junction, Cochin, Kerala, India",682028,"Luxury hotel in Ernakulam with 3 restaurants, 2 bars/lounges",1,1,211,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Holiday Inn Cochin,5796,5,20,"33/1739 A Chakkaraparambu Junction, Cochin, Kerala, India",682028,"Luxury hotel in Ernakulam with 3 restaurants, 2 bars/lounges",1,1,211,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Holiday Inn Cochin,5643,5,20,"33/1739 A Chakkaraparambu Junction, Cochin, Kerala, India",682028,"Luxury hotel in Ernakulam with 3 restaurants, 2 bars/lounges",1,1,211,1
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Honolulu Home,953,2.5,27,"House No. 1/1596, C.C.E.A Hall Roa, Fort Kochi, Cochin, Kerala, 682001 India",682001,"Fort Kochi beach B&B with 2 restaurants, 24-hour fitness",1,1,8,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Honolulu Home,953,2.5,27,"House No. 1/1596, C.C.E.A Hall Roa, Fort Kochi, Cochin, Kerala, 682001 India",682001,"Fort Kochi beach B&B with 2 restaurants, 24-hour fitness",1,1,8,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Honolulu Home,1059,2.5,27,"House No. 1/1596, C.C.E.A Hall Roa, Fort Kochi, Cochin, Kerala, 682001 India",682001,"Fort Kochi beach B&B with 2 restaurants, 24-hour fitness",1,1,8,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Honolulu Home,1647,2.5,27,"House No. 1/1596, C.C.E.A Hall Roa, Fort Kochi, Cochin, Kerala, 682001 India",682001,"Fort Kochi beach B&B with 2 restaurants, 24-hour fitness",1,1,8,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Honolulu Home,1059,2.5,27,"House No. 1/1596, C.C.E.A Hall Roa, Fort Kochi, Cochin, Kerala, 682001 India",682001,"Fort Kochi beach B&B with 2 restaurants, 24-hour fitness",1,1,8,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Honolulu Home,1647,2.5,27,"House No. 1/1596, C.C.E.A Hall Roa, Fort Kochi, Cochin, Kerala, 682001 India",682001,"Fort Kochi beach B&B with 2 restaurants, 24-hour fitness",1,1,8,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Honolulu Home,953,2.5,27,"House No. 1/1596, C.C.E.A Hall Roa, Fort Kochi, Cochin, Kerala, 682001 India",682001,"Fort Kochi beach B&B with 2 restaurants, 24-hour fitness",1,1,8,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Honolulu Home,953,2.5,27,"House No. 1/1596, C.C.E.A Hall Roa, Fort Kochi, Cochin, Kerala, 682001 India",682001,"Fort Kochi beach B&B with 2 restaurants, 24-hour fitness",1,1,8,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Hotel Abad Plaza,4916,3,28.7,"M.G. Road, Ernakulam, Cochin, Kerala, 682035, India",682035,"3-star hotel in Ernakulam with 2 restaurants, outdoor pool",1,1,80,1
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Hotel Abad Plaza,3403,3,28.7,"M.G. Road, Ernakulam, Cochin, Kerala, 682035, India",682035,"3-star hotel in Ernakulam with 2 restaurants, outdoor pool",1,1,80,1
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Hotel Abad Plaza,3782,3,28.7,"M.G. Road, Ernakulam, Cochin, Kerala, 682035, India",682035,"3-star hotel in Ernakulam with 2 restaurants, outdoor pool",1,1,80,1
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Hotel Abad Plaza,3782,3,28.7,"M.G. Road, Ernakulam, Cochin, Kerala, 682035, India",682035,"3-star hotel in Ernakulam with 2 restaurants, outdoor pool",1,1,80,1
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Hotel Abad Plaza,3782,3,28.7,"M.G. Road, Ernakulam, Cochin, Kerala, 682035, India",682035,"3-star hotel in Ernakulam with 2 restaurants, outdoor pool",1,1,80,1
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Hotel Abad Plaza,3782,3,28.7,"M.G. Road, Ernakulam, Cochin, Kerala, 682035, India",682035,"3-star hotel in Ernakulam with 2 restaurants, outdoor pool",1,1,80,1
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Hotel Abad Plaza,3403,3,28.7,"M.G. Road, Ernakulam, Cochin, Kerala, 682035, India",682035,"3-star hotel in Ernakulam with 2 restaurants, outdoor pool",1,1,80,1
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Hotel Abad Plaza,3403,3,28.7,"M.G. Road, Ernakulam, Cochin, Kerala, 682035, India",682035,"3-star hotel in Ernakulam with 2 restaurants, outdoor pool",1,1,80,1
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Hotel Airlink Castle,2500,5,4,"Near Cochin International Airport, Athani, Ernakulam, Nedumbassery, Kerala, 683 585 India",683585,"Luxury hotel in Nedumbassery with 2 restaurants, 2 bars/lounges",1,0,54,1
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Hotel Airlink Castle,2500,5,4,"Near Cochin International Airport, Athani, Ernakulam, Nedumbassery, Kerala, 683 585 India",683585,"Luxury hotel in Nedumbassery with 2 restaurants, 2 bars/lounges",1,0,54,1
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Hotel Airlink Castle,3636,5,4,"Near Cochin International Airport, Athani, Ernakulam, Nedumbassery, Kerala, 683 585 India",683585,"Luxury hotel in Nedumbassery with 2 restaurants, 2 bars/lounges",1,0,54,1
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Hotel Airlink Castle,2500,5,4,"Near Cochin International Airport, Athani, Ernakulam, Nedumbassery, Kerala, 683 585 India",683585,"Luxury hotel in Nedumbassery with 2 restaurants, 2 bars/lounges",1,0,54,1
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Hotel Airlink Castle,3636,5,4,"Near Cochin International Airport, Athani, Ernakulam, Nedumbassery, Kerala, 683 585 India",683585,"Luxury hotel in Nedumbassery with 2 restaurants, 2 bars/lounges",1,0,54,1
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Hotel Airlink Castle,2500,5,4,"Near Cochin International Airport, Athani, Ernakulam, Nedumbassery, Kerala, 683 585 India",683585,"Luxury hotel in Nedumbassery with 2 restaurants, 2 bars/lounges",1,0,54,1
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Hotel Airlink Castle,2500,5,4,"Near Cochin International Airport, Athani, Ernakulam, Nedumbassery, Kerala, 683 585 India",683585,"Luxury hotel in Nedumbassery with 2 restaurants, 2 bars/lounges",1,0,54,1
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Hotel Airlink Castle,3636,5,4,"Near Cochin International Airport, Athani, Ernakulam, Nedumbassery, Kerala, 683 585 India",683585,"Luxury hotel in Nedumbassery with 2 restaurants, 2 bars/lounges",1,0,54,1
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Hotel Aiswarya,1653,3,24,"Off M G Road, Warriam Road, Opp. Lotus Club, Cochin, 682 016 India",682016,3-star Cochin hotel with restaurant,1,1,56,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Hotel Aiswarya,1818,3,24,"Off M G Road, Warriam Road, Opp. Lotus Club, Cochin, 682 016 India",682016,3-star Cochin hotel with restaurant,1,1,56,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Hotel Aiswarya,1818,3,24,"Off M G Road, Warriam Road, Opp. Lotus Club, Cochin, 682 016 India",682016,3-star Cochin hotel with restaurant,1,1,56,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Hotel Aiswarya,1818,3,24,"Off M G Road, Warriam Road, Opp. Lotus Club, Cochin, 682 016 India",682016,3-star Cochin hotel with restaurant,1,1,56,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Hotel Aiswarya,1818,3,24,"Off M G Road, Warriam Road, Opp. Lotus Club, Cochin, 682 016 India",682016,3-star Cochin hotel with restaurant,1,1,56,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Hotel Aiswarya,1818,3,24,"Off M G Road, Warriam Road, Opp. Lotus Club, Cochin, 682 016 India",682016,3-star Cochin hotel with restaurant,1,1,56,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Hotel Aiswarya,1818,3,24,"Off M G Road, Warriam Road, Opp. Lotus Club, Cochin, 682 016 India",682016,3-star Cochin hotel with restaurant,1,1,56,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Hotel Aiswarya,1818,3,24,"Off M G Road, Warriam Road, Opp. Lotus Club, Cochin, 682 016 India",682016,3-star Cochin hotel with restaurant,1,1,56,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Hotel Arches,5758,3,26,"1/341, Rose Street, Next to St. Francis Church, Cochin, Kerala, 682001 India",682001,3-star Cochin hotel with restaurant,0,1,11,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Hotel Arches,7874,3,26,"1/341, Rose Street, Next to St. Francis Church, Cochin, Kerala, 682001 India",682001,3-star Cochin hotel with restaurant,0,1,11,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Hotel Arches,6398,3,26,"1/341, Rose Street, Next to St. Francis Church, Cochin, Kerala, 682001 India",682001,3-star Cochin hotel with restaurant,0,1,11,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Hotel Arches,6398,3,26,"1/341, Rose Street, Next to St. Francis Church, Cochin, Kerala, 682001 India",682001,3-star Cochin hotel with restaurant,0,1,11,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Hotel Arches,7874,3,26,"1/341, Rose Street, Next to St. Francis Church, Cochin, Kerala, 682001 India",682001,3-star Cochin hotel with restaurant,0,1,11,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Hotel Arches,7874,3,26,"1/341, Rose Street, Next to St. Francis Church, Cochin, Kerala, 682001 India",682001,3-star Cochin hotel with restaurant,0,1,11,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Hotel Arches,5758,3,26,"1/341, Rose Street, Next to St. Francis Church, Cochin, Kerala, 682001 India",682001,3-star Cochin hotel with restaurant,0,1,11,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Hotel Arches,5758,3,26,"1/341, Rose Street, Next to St. Francis Church, Cochin, Kerala, 682001 India",682001,3-star Cochin hotel with restaurant,0,1,11,0
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Hotel Dewland,2520,5,12,"Cochin, Kodanad, Kerala, India",683544,"Lakefront hotel in Kodanad with outdoor pool, bar/lounge",1,1,19,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Hotel Dewland,3000,5,12,"Cochin, Kodanad, Kerala, India",683544,"Lakefront hotel in Kodanad with outdoor pool, bar/lounge",1,1,19,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Hotel Dewland,3000,5,12,"Cochin, Kodanad, Kerala, India",683544,"Lakefront hotel in Kodanad with outdoor pool, bar/lounge",1,1,19,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Hotel Dewland,3000,5,12,"Cochin, Kodanad, Kerala, India",683544,"Lakefront hotel in Kodanad with outdoor pool, bar/lounge",1,1,19,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Hotel Dewland,3000,5,12,"Cochin, Kodanad, Kerala, India",683544,"Lakefront hotel in Kodanad with outdoor pool, bar/lounge",1,1,19,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Hotel Dewland,3000,5,12,"Cochin, Kodanad, Kerala, India",683544,"Lakefront hotel in Kodanad with outdoor pool, bar/lounge",1,1,19,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Hotel Dewland,3000,5,12,"Cochin, Kodanad, Kerala, India",683544,"Lakefront hotel in Kodanad with outdoor pool, bar/lounge",1,1,19,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Hotel Dewland,3000,5,12,"Cochin, Kodanad, Kerala, India",683544,"Lakefront hotel in Kodanad with outdoor pool, bar/lounge",1,1,19,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Hotel Fort Castle,2647,4,26,"Rose Lane, Cochin, Kerala, India",682001,3.5-star hotel in Cochin,0,1,16,0
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Hotel Fort Castle,3529,4,26,"Rose Lane, Cochin, Kerala, India",682001,3.5-star hotel in Cochin,0,1,16,0
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Hotel Fort Castle,3529,4,26,"Rose Lane, Cochin, Kerala, India",682001,3.5-star hotel in Cochin,0,1,16,0
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Hotel Fort Castle,3529,4,26,"Rose Lane, Cochin, Kerala, India",682001,3.5-star hotel in Cochin,0,1,16,0
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Hotel Fort Castle,3529,4,26,"Rose Lane, Cochin, Kerala, India",682001,3.5-star hotel in Cochin,0,1,16,0
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Hotel Fort Castle,3529,4,26,"Rose Lane, Cochin, Kerala, India",682001,3.5-star hotel in Cochin,0,1,16,0
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Hotel Fort Castle,3529,4,26,"Rose Lane, Cochin, Kerala, India",682001,3.5-star hotel in Cochin,0,1,16,0
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Hotel Fort Castle,3529,4,26,"Rose Lane, Cochin, Kerala, India",682001,3.5-star hotel in Cochin,0,1,16,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Hotel Millennium Continental,2520,4.5,23,"Narakathara Road, opp: Shenoys Theatre, M.G Road, Ernakulam, Cochin, Kerala, 682035, India",682035,"3.5-star hotel in Cochin with restaurant, conference center",1,0,31,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Hotel Millennium Continental,2800,4.5,23,"Narakathara Road, opp: Shenoys Theatre, M.G Road, Ernakulam, Cochin, Kerala, 682035, India",682035,"3.5-star hotel in Cochin with restaurant, conference center",1,0,31,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Hotel Millennium Continental,2800,4.5,23,"Narakathara Road, opp: Shenoys Theatre, M.G Road, Ernakulam, Cochin, Kerala, 682035, India",682035,"3.5-star hotel in Cochin with restaurant, conference center",1,0,31,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Hotel Millennium Continental,2800,4.5,23,"Narakathara Road, opp: Shenoys Theatre, M.G Road, Ernakulam, Cochin, Kerala, 682035, India",682035,"3.5-star hotel in Cochin with restaurant, conference center",1,0,31,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Hotel Millennium Continental,2800,4.5,23,"Narakathara Road, opp: Shenoys Theatre, M.G Road, Ernakulam, Cochin, Kerala, 682035, India",682035,"3.5-star hotel in Cochin with restaurant, conference center",1,0,31,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Hotel Millennium Continental,2800,4.5,23,"Narakathara Road, opp: Shenoys Theatre, M.G Road, Ernakulam, Cochin, Kerala, 682035, India",682035,"3.5-star hotel in Cochin with restaurant, conference center",1,0,31,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Hotel Millennium Continental,2800,4.5,23,"Narakathara Road, opp: Shenoys Theatre, M.G Road, Ernakulam, Cochin, Kerala, 682035, India",682035,"3.5-star hotel in Cochin with restaurant, conference center",1,0,31,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Hotel Millennium Continental,2800,4.5,23,"Narakathara Road, opp: Shenoys Theatre, M.G Road, Ernakulam, Cochin, Kerala, 682035, India",682035,"3.5-star hotel in Cochin with restaurant, conference center",1,0,31,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Hotel Presidency,2520,4,22,"Ernakulam Town, Cochin, Kerala, 682018, India",682018,"4-star hotel in Ernakulam with 2 restaurants, spa",0,1,114,1
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Hotel Presidency,2450,4,22,"Ernakulam Town, Cochin, Kerala, 682018, India",682018,"4-star hotel in Ernakulam with 2 restaurants, spa",0,1,114,1
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Hotel Presidency,2450,4,22,"Ernakulam Town, Cochin, Kerala, 682018, India",682018,"4-star hotel in Ernakulam with 2 restaurants, spa",0,1,114,1
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Hotel Presidency,2450,4,22,"Ernakulam Town, Cochin, Kerala, 682018, India",682018,"4-star hotel in Ernakulam with 2 restaurants, spa",0,1,114,1
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Hotel Presidency,2450,4,22,"Ernakulam Town, Cochin, Kerala, 682018, India",682018,"4-star hotel in Ernakulam with 2 restaurants, spa",0,1,114,1
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Hotel Presidency,2450,4,22,"Ernakulam Town, Cochin, Kerala, 682018, India",682018,"4-star hotel in Ernakulam with 2 restaurants, spa",0,1,114,1
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Hotel Presidency,2450,4,22,"Ernakulam Town, Cochin, Kerala, 682018, India",682018,"4-star hotel in Ernakulam with 2 restaurants, spa",0,1,114,1
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Hotel Presidency,2380,4,22,"Ernakulam Town, Cochin, Kerala, 682018, India",682018,"4-star hotel in Ernakulam with 2 restaurants, spa",0,1,114,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Imperial Regency,4060,3,22,"Imperial Trade Centre, M.G Road, Cochin, Kerala",683035,3-star hotel in Ernakulam,1,1,20,0
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Imperial Regency,2456,3,22,"Imperial Trade Centre, M.G Road, Cochin, Kerala",683035,3-star hotel in Ernakulam,1,1,20,0
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Imperial Regency,3509,3,22,"Imperial Trade Centre, M.G Road, Cochin, Kerala",683035,3-star hotel in Ernakulam,1,1,20,0
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Imperial Regency,3158,3,22,"Imperial Trade Centre, M.G Road, Cochin, Kerala",683035,3-star hotel in Ernakulam,1,1,20,0
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Imperial Regency,3158,3,22,"Imperial Trade Centre, M.G Road, Cochin, Kerala",683035,3-star hotel in Ernakulam,1,1,20,0
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Imperial Regency,3509,3,22,"Imperial Trade Centre, M.G Road, Cochin, Kerala",683035,3-star hotel in Ernakulam,1,1,20,0
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Imperial Regency,2456,3,22,"Imperial Trade Centre, M.G Road, Cochin, Kerala",683035,3-star hotel in Ernakulam,1,1,20,0
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Imperial Regency,3158,3,22,"Imperial Trade Centre, M.G Road, Cochin, Kerala",683035,3-star hotel in Ernakulam,1,1,20,0
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Kapithan's Inn,1313,3,27,"Opp. Santa Cruz Ground, K. L. Bernard Road, Fort Kochi, Cochin, Kerala, India",682001,3-star B&B in Cochin,1,0,10,0
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Kapithan's Inn,1013,3,27,"Opp. Santa Cruz Ground, K. L. Bernard Road, Fort Kochi, Cochin, Kerala, India",682001,3-star B&B in Cochin,1,0,10,0
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Kapithan's Inn,1013,3,27,"Opp. Santa Cruz Ground, K. L. Bernard Road, Fort Kochi, Cochin, Kerala, India",682001,3-star B&B in Cochin,1,0,10,0
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Kapithan's Inn,1013,3,27,"Opp. Santa Cruz Ground, K. L. Bernard Road, Fort Kochi, Cochin, Kerala, India",682001,3-star B&B in Cochin,1,0,10,0
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Kapithan's Inn,1013,3,27,"Opp. Santa Cruz Ground, K. L. Bernard Road, Fort Kochi, Cochin, Kerala, India",682001,3-star B&B in Cochin,1,0,10,0
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Kapithan's Inn,1501,3,27,"Opp. Santa Cruz Ground, K. L. Bernard Road, Fort Kochi, Cochin, Kerala, India",682001,3-star B&B in Cochin,1,0,10,0
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Kapithan's Inn,1501,3,27,"Opp. Santa Cruz Ground, K. L. Bernard Road, Fort Kochi, Cochin, Kerala, India",682001,3-star B&B in Cochin,1,0,10,0
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Kapithan's Inn,1501,3,27,"Opp. Santa Cruz Ground, K. L. Bernard Road, Fort Kochi, Cochin, Kerala, India",682001,3-star B&B in Cochin,1,0,10,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Keys Hotel,2975,3.5,26,"Near UP Bridge Shanthi Nagar, Thevara PO, Ernakulam, Cochin, Kerala, 682013 India",682013,3.5-star hotel in Ernakulam with restaurant,1,0,151,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Keys Hotel,4080,3.5,26,"Near UP Bridge Shanthi Nagar, Thevara PO, Ernakulam, Cochin, Kerala, 682013 India",682013,3.5-star hotel in Ernakulam with restaurant,1,0,151,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Keys Hotel,4080,3.5,26,"Near UP Bridge Shanthi Nagar, Thevara PO, Ernakulam, Cochin, Kerala, 682013 India",682013,3.5-star hotel in Ernakulam with restaurant,1,0,151,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Keys Hotel,4080,3.5,26,"Near UP Bridge Shanthi Nagar, Thevara PO, Ernakulam, Cochin, Kerala, 682013 India",682013,3.5-star hotel in Ernakulam with restaurant,1,0,151,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Keys Hotel,4080,3.5,26,"Near UP Bridge Shanthi Nagar, Thevara PO, Ernakulam, Cochin, Kerala, 682013 India",682013,3.5-star hotel in Ernakulam with restaurant,1,0,151,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Keys Hotel,4080,3.5,26,"Near UP Bridge Shanthi Nagar, Thevara PO, Ernakulam, Cochin, Kerala, 682013 India",682013,3.5-star hotel in Ernakulam with restaurant,1,0,151,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Keys Hotel,4080,3.5,26,"Near UP Bridge Shanthi Nagar, Thevara PO, Ernakulam, Cochin, Kerala, 682013 India",682013,3.5-star hotel in Ernakulam with restaurant,1,0,151,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Keys Hotel,4080,3.5,26,"Near UP Bridge Shanthi Nagar, Thevara PO, Ernakulam, Cochin, Kerala, 682013 India",682013,3.5-star hotel in Ernakulam with restaurant,1,0,151,0
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Keys Hotel Kochin,2975,3,26,"Near UP Bridge Shanthi Nagar, Thevara PO, Ernakulam, Cochin",682013,3.5-star hotel in Ernakulam with restaurant,1,1,151,0
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Keys Hotel Kochin,4080,3,26,"Near UP Bridge Shanthi Nagar, Thevara PO, Ernakulam, Cochin",682013,3.5-star hotel in Ernakulam with restaurant,1,1,151,0
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Keys Hotel Kochin,4080,3,26,"Near UP Bridge Shanthi Nagar, Thevara PO, Ernakulam, Cochin",682013,3.5-star hotel in Ernakulam with restaurant,1,1,151,0
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Keys Hotel Kochin,4080,3,26,"Near UP Bridge Shanthi Nagar, Thevara PO, Ernakulam, Cochin",682013,3.5-star hotel in Ernakulam with restaurant,1,1,151,0
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Keys Hotel Kochin,4080,3,26,"Near UP Bridge Shanthi Nagar, Thevara PO, Ernakulam, Cochin",682013,3.5-star hotel in Ernakulam with restaurant,1,1,151,0
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Keys Hotel Kochin,4080,3,26,"Near UP Bridge Shanthi Nagar, Thevara PO, Ernakulam, Cochin",682013,3.5-star hotel in Ernakulam with restaurant,1,1,151,0
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Keys Hotel Kochin,4080,3,26,"Near UP Bridge Shanthi Nagar, Thevara PO, Ernakulam, Cochin",682013,3.5-star hotel in Ernakulam with restaurant,1,1,151,0
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Keys Hotel Kochin,4080,3,26,"Near UP Bridge Shanthi Nagar, Thevara PO, Ernakulam, Cochin",682013,3.5-star hotel in Ernakulam with restaurant,1,1,151,0
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Kochi Marriott Hotel,7500,5,17,"Lulu International Shopping Mall, 34/1111 N.H. 47, Cochin, Kerala, India",682024,"Luxury hotel in Cochin with 3 restaurants, spa",1,1,273,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Kochi Marriott Hotel,7500,5,17,"Lulu International Shopping Mall, 34/1111 N.H. 47, Cochin, Kerala, India",682024,"Luxury hotel in Cochin with 3 restaurants, spa",1,1,273,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Kochi Marriott Hotel,14500,5,17,"Lulu International Shopping Mall, 34/1111 N.H. 47, Cochin, Kerala, India",682024,"Luxury hotel in Cochin with 3 restaurants, spa",1,1,273,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Kochi Marriott Hotel,8500,5,17,"Lulu International Shopping Mall, 34/1111 N.H. 47, Cochin, Kerala, India",682024,"Luxury hotel in Cochin with 3 restaurants, spa",1,1,273,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Kochi Marriott Hotel,8500,5,17,"Lulu International Shopping Mall, 34/1111 N.H. 47, Cochin, Kerala, India",682024,"Luxury hotel in Cochin with 3 restaurants, spa",1,1,273,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Kochi Marriott Hotel,14500,5,17,"Lulu International Shopping Mall, 34/1111 N.H. 47, Cochin, Kerala, India",682024,"Luxury hotel in Cochin with 3 restaurants, spa",1,1,273,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Kochi Marriott Hotel,7000,5,17,"Lulu International Shopping Mall, 34/1111 N.H. 47, Cochin, Kerala, India",682024,"Luxury hotel in Cochin with 3 restaurants, spa",1,1,273,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Kochi Marriott Hotel,7000,5,17,"Lulu International Shopping Mall, 34/1111 N.H. 47, Cochin, Kerala, India",682024,"Luxury hotel in Cochin with 3 restaurants, spa",1,1,273,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Koder House,9488,3,26,"Tower Road, Fort Cochin, Cochin, Kerala",682001,"Historic inn in Fort Kochi with indoor pool, restaurant",0,1,6,0
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Koder House,11921,3,26,"Tower Road, Fort Cochin, Cochin, Kerala",682001,"Historic inn in Fort Kochi with indoor pool, restaurant",0,1,6,0
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Koder House,11921,3,26,"Tower Road, Fort Cochin, Cochin, Kerala",682001,"Historic inn in Fort Kochi with indoor pool, restaurant",0,1,6,0
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Koder House,11921,3,26,"Tower Road, Fort Cochin, Cochin, Kerala",682001,"Historic inn in Fort Kochi with indoor pool, restaurant",0,1,6,0
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Koder House,11921,3,26,"Tower Road, Fort Cochin, Cochin, Kerala",682001,"Historic inn in Fort Kochi with indoor pool, restaurant",0,1,6,0
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Koder House,11921,3,26,"Tower Road, Fort Cochin, Cochin, Kerala",682001,"Historic inn in Fort Kochi with indoor pool, restaurant",0,1,6,0
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Koder House,11921,3,26,"Tower Road, Fort Cochin, Cochin, Kerala",682001,"Historic inn in Fort Kochi with indoor pool, restaurant",0,1,6,0
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Koder House,11921,3,26,"Tower Road, Fort Cochin, Cochin, Kerala",682001,"Historic inn in Fort Kochi with indoor pool, restaurant",0,1,6,0
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Madeleine Inn,1391,2,26,"1/336,Rose street, Fort Kochi, Cochin, Kerala",682001,No-frills guesthouse in Fort Kochi,1,1,3,0
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Madeleine Inn,1739,2,26,"1/336,Rose street, Fort Kochi, Cochin, Kerala",682001,No-frills guesthouse in Fort Kochi,1,1,3,0
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Madeleine Inn,1739,2,26,"1/336,Rose street, Fort Kochi, Cochin, Kerala",682001,No-frills guesthouse in Fort Kochi,1,1,3,0
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Madeleine Inn,1739,2,26,"1/336,Rose street, Fort Kochi, Cochin, Kerala",682001,No-frills guesthouse in Fort Kochi,1,1,3,0
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Madeleine Inn,1739,2,26,"1/336,Rose street, Fort Kochi, Cochin, Kerala",682001,No-frills guesthouse in Fort Kochi,1,1,3,0
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Madeleine Inn,1739,2,26,"1/336,Rose street, Fort Kochi, Cochin, Kerala",682001,No-frills guesthouse in Fort Kochi,1,1,3,0
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Madeleine Inn,1739,2,26,"1/336,Rose street, Fort Kochi, Cochin, Kerala",682001,No-frills guesthouse in Fort Kochi,1,1,3,0
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Madeleine Inn,1217,2,26,"1/336,Rose street, Fort Kochi, Cochin, Kerala",682001,No-frills guesthouse in Fort Kochi,1,1,3,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Madeleine Inn,1391,2.5,26,"1/336,Rose street, Fort Kochi, Cochin, Kerala, 682001 India",682001,No-frills guesthouse in Fort Kochi,1,0,3,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Madeleine Inn,1739,2.5,26,"1/336,Rose street, Fort Kochi, Cochin, Kerala, 682001 India",682001,No-frills guesthouse in Fort Kochi,1,0,3,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Madeleine Inn,1739,2.5,26,"1/336,Rose street, Fort Kochi, Cochin, Kerala, 682001 India",682001,No-frills guesthouse in Fort Kochi,1,0,3,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Madeleine Inn,1739,2.5,26,"1/336,Rose street, Fort Kochi, Cochin, Kerala, 682001 India",682001,No-frills guesthouse in Fort Kochi,1,0,3,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Madeleine Inn,1739,2.5,26,"1/336,Rose street, Fort Kochi, Cochin, Kerala, 682001 India",682001,No-frills guesthouse in Fort Kochi,1,0,3,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Madeleine Inn,1739,2.5,26,"1/336,Rose street, Fort Kochi, Cochin, Kerala, 682001 India",682001,No-frills guesthouse in Fort Kochi,1,0,3,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Madeleine Inn,1739,2.5,26,"1/336,Rose street, Fort Kochi, Cochin, Kerala, 682001 India",682001,No-frills guesthouse in Fort Kochi,1,0,3,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Madeleine Inn,1217,2.5,26,"1/336,Rose street, Fort Kochi, Cochin, Kerala, 682001 India",682001,No-frills guesthouse in Fort Kochi,1,0,3,0
+Kochi,595575,28,0,1,1,0,Dec 18 2016,MS Residence,2501,2,27,"Pullupalam Road, Kunnumpuram, Fort Cochin, Cochin",682001,No-frills Cochin guestrooms with kitchens,1,1,5,0
+Kochi,595575,28,0,1,0,0,Dec 21 2016,MS Residence,3335,2,27,"Pullupalam Road, Kunnumpuram, Fort Cochin, Cochin",682001,No-frills Cochin guestrooms with kitchens,1,1,5,0
+Kochi,595575,28,0,1,1,0,Dec 24 2016,MS Residence,3335,2,27,"Pullupalam Road, Kunnumpuram, Fort Cochin, Cochin",682001,No-frills Cochin guestrooms with kitchens,1,1,5,0
+Kochi,595575,28,0,1,1,0,Dec 25 2016,MS Residence,3335,2,27,"Pullupalam Road, Kunnumpuram, Fort Cochin, Cochin",682001,No-frills Cochin guestrooms with kitchens,1,1,5,0
+Kochi,595575,28,0,1,0,0,Dec 28 2016,MS Residence,3335,2,27,"Pullupalam Road, Kunnumpuram, Fort Cochin, Cochin",682001,No-frills Cochin guestrooms with kitchens,1,1,5,0
+Kochi,595575,28,0,1,1,1,Dec 31 2016,MS Residence,3335,2,27,"Pullupalam Road, Kunnumpuram, Fort Cochin, Cochin",682001,No-frills Cochin guestrooms with kitchens,1,1,5,0
+Kochi,595575,28,0,1,0,0,Jan 04 2017,MS Residence,3335,2,27,"Pullupalam Road, Kunnumpuram, Fort Cochin, Cochin",682001,No-frills Cochin guestrooms with kitchens,1,1,5,0
+Kochi,595575,28,0,1,1,0,Jan 08 2017,MS Residence,3335,2,27,"Pullupalam Road, Kunnumpuram, Fort Cochin, Cochin",682001,No-frills Cochin guestrooms with kitchens,1,1,5,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Napier House,1418,3,27,"1/275, Napier Lane, Napier Street,, Fort Kochi, Cochin, Kerala, 682001, India",682001,3-star Cochin hotel with restaurant,0,1,6,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Napier House,1418,3,27,"1/275, Napier Lane, Napier Street,, Fort Kochi, Cochin, Kerala, 682001, India",682001,3-star Cochin hotel with restaurant,0,1,6,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Napier House,4905,3,27,"1/275, Napier Lane, Napier Street,, Fort Kochi, Cochin, Kerala, 682001, India",682001,3-star Cochin hotel with restaurant,0,1,6,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Napier House,4905,3,27,"1/275, Napier Lane, Napier Street,, Fort Kochi, Cochin, Kerala, 682001, India",682001,3-star Cochin hotel with restaurant,0,1,6,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Napier House,4905,3,27,"1/275, Napier Lane, Napier Street,, Fort Kochi, Cochin, Kerala, 682001, India",682001,3-star Cochin hotel with restaurant,0,1,6,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Napier House,4905,3,27,"1/275, Napier Lane, Napier Street,, Fort Kochi, Cochin, Kerala, 682001, India",682001,3-star Cochin hotel with restaurant,0,1,6,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Napier House,1418,3,27,"1/275, Napier Lane, Napier Street,, Fort Kochi, Cochin, Kerala, 682001, India",682001,3-star Cochin hotel with restaurant,0,1,6,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Napier House,1418,3,27,"1/275, Napier Lane, Napier Street,, Fort Kochi, Cochin, Kerala, 682001, India",682001,3-star Cochin hotel with restaurant,0,1,6,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Niyati-Boutique Stay,834,2.5,27,"H No: 1/635, Quiros Street, Cochin, Kerala, 682001 India",682001,Fort Kochi hotel by sea,1,0,7,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Niyati-Boutique Stay,2502,2.5,27,"H No: 1/635, Quiros Street, Cochin, Kerala, 682001 India",682001,Fort Kochi hotel by sea,1,0,7,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Niyati-Boutique Stay,1251,2.5,27,"H No: 1/635, Quiros Street, Cochin, Kerala, 682001 India",682001,Fort Kochi hotel by sea,1,0,7,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Niyati-Boutique Stay,2502,2.5,27,"H No: 1/635, Quiros Street, Cochin, Kerala, 682001 India",682001,Fort Kochi hotel by sea,1,0,7,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Niyati-Boutique Stay,2502,2.5,27,"H No: 1/635, Quiros Street, Cochin, Kerala, 682001 India",682001,Fort Kochi hotel by sea,1,0,7,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Niyati-Boutique Stay,2502,2.5,27,"H No: 1/635, Quiros Street, Cochin, Kerala, 682001 India",682001,Fort Kochi hotel by sea,1,0,7,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Niyati-Boutique Stay,834,2.5,27,"H No: 1/635, Quiros Street, Cochin, Kerala, 682001 India",682001,Fort Kochi hotel by sea,1,0,7,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Niyati-Boutique Stay,2502,2.5,27,"H No: 1/635, Quiros Street, Cochin, Kerala, 682001 India",682001,Fort Kochi hotel by sea,1,0,7,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,No. 18 Hotel,4920,4,26,"Near Fort Kochi Bus Terminus, Fort Kochi, Cochin, Kerala, 682001 India",682001,"4-star hotel in Fort Kochi with 2 restaurants, bar/lounge",0,0,28,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,No. 18 Hotel,5212,4,26,"Near Fort Kochi Bus Terminus, Fort Kochi, Cochin, Kerala, 682001 India",682001,"4-star hotel in Fort Kochi with 2 restaurants, bar/lounge",0,0,28,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,No. 18 Hotel,5420,4,26,"Near Fort Kochi Bus Terminus, Fort Kochi, Cochin, Kerala, 682001 India",682001,"4-star hotel in Fort Kochi with 2 restaurants, bar/lounge",0,0,28,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,No. 18 Hotel,5420,4,26,"Near Fort Kochi Bus Terminus, Fort Kochi, Cochin, Kerala, 682001 India",682001,"4-star hotel in Fort Kochi with 2 restaurants, bar/lounge",0,0,28,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,No. 18 Hotel,5420,4,26,"Near Fort Kochi Bus Terminus, Fort Kochi, Cochin, Kerala, 682001 India",682001,"4-star hotel in Fort Kochi with 2 restaurants, bar/lounge",0,0,28,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,No. 18 Hotel,5420,4,26,"Near Fort Kochi Bus Terminus, Fort Kochi, Cochin, Kerala, 682001 India",682001,"4-star hotel in Fort Kochi with 2 restaurants, bar/lounge",0,0,28,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,No. 18 Hotel,5003,4,26,"Near Fort Kochi Bus Terminus, Fort Kochi, Cochin, Kerala, 682001 India",682001,"4-star hotel in Fort Kochi with 2 restaurants, bar/lounge",0,0,28,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,No. 18 Hotel,5003,4,26,"Near Fort Kochi Bus Terminus, Fort Kochi, Cochin, Kerala, 682001 India",682001,"4-star hotel in Fort Kochi with 2 restaurants, bar/lounge",0,0,28,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,North Center,1511,2.5,21,"SRM road, opposite vattoly tower, Cochin, Kerala, 682018 India",682018,No-frills hotel in Cochin,1,0,24,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,North Center,1511,2.5,21,"SRM road, opposite vattoly tower, Cochin, Kerala, 682018 India",682018,No-frills hotel in Cochin,1,0,24,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,North Center,1778,2.5,21,"SRM road, opposite vattoly tower, Cochin, Kerala, 682018 India",682018,No-frills hotel in Cochin,1,0,24,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,North Center,1778,2.5,21,"SRM road, opposite vattoly tower, Cochin, Kerala, 682018 India",682018,No-frills hotel in Cochin,1,0,24,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,North Center,1778,2.5,21,"SRM road, opposite vattoly tower, Cochin, Kerala, 682018 India",682018,No-frills hotel in Cochin,1,0,24,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,North Center,1778,2.5,21,"SRM road, opposite vattoly tower, Cochin, Kerala, 682018 India",682018,No-frills hotel in Cochin,1,0,24,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,North Center,1778,2.5,21,"SRM road, opposite vattoly tower, Cochin, Kerala, 682018 India",682018,No-frills hotel in Cochin,1,0,24,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,North Center,1511,2.5,21,"SRM road, opposite vattoly tower, Cochin, Kerala, 682018 India",682018,No-frills hotel in Cochin,1,0,24,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Olive Downtown Kochi,5891,4,23,"28/286, Kadavanthra Jn., Cochin, Kerala, 682 020, India",682020,"4-star hotel in Ernakulam with 2 restaurants, outdoor pool",1,1,92,1
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Olive Downtown Kochi,10500,4,23,"28/286, Kadavanthra Jn., Cochin, Kerala, 682 020, India",682020,"4-star hotel in Ernakulam with 2 restaurants, outdoor pool",1,1,92,1
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Olive Downtown Kochi,10500,4,23,"28/286, Kadavanthra Jn., Cochin, Kerala, 682 020, India",682020,"4-star hotel in Ernakulam with 2 restaurants, outdoor pool",1,1,92,1
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Olive Downtown Kochi,10500,4,23,"28/286, Kadavanthra Jn., Cochin, Kerala, 682 020, India",682020,"4-star hotel in Ernakulam with 2 restaurants, outdoor pool",1,1,92,1
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Olive Downtown Kochi,10500,4,23,"28/286, Kadavanthra Jn., Cochin, Kerala, 682 020, India",682020,"4-star hotel in Ernakulam with 2 restaurants, outdoor pool",1,1,92,1
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Olive Downtown Kochi,10500,4,23,"28/286, Kadavanthra Jn., Cochin, Kerala, 682 020, India",682020,"4-star hotel in Ernakulam with 2 restaurants, outdoor pool",1,1,92,1
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Olive Downtown Kochi,10500,4,23,"28/286, Kadavanthra Jn., Cochin, Kerala, 682 020, India",682020,"4-star hotel in Ernakulam with 2 restaurants, outdoor pool",1,1,92,1
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Olive Downtown Kochi,10500,4,23,"28/286, Kadavanthra Jn., Cochin, Kerala, 682 020, India",682020,"4-star hotel in Ernakulam with 2 restaurants, outdoor pool",1,1,92,1
+Kochi,595575,17,0,1,1,0,Dec 18 2016,OYO Premium Kakkanad Civil Station,2980,3.5,16,"Seaport-Airport Road, Near Kakkanad Civil Station, Cochin, Kerala, 682030, India",682030,"3.5-star hotel in Ernakulam with bar/lounge, conference center",1,1,10,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,OYO Premium Kakkanad Civil Station,2980,3.5,16,"Seaport-Airport Road, Near Kakkanad Civil Station, Cochin, Kerala, 682030, India",682030,"3.5-star hotel in Ernakulam with bar/lounge, conference center",1,1,10,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,OYO Premium Kakkanad Civil Station,2810,3.5,16,"Seaport-Airport Road, Near Kakkanad Civil Station, Cochin, Kerala, 682030, India",682030,"3.5-star hotel in Ernakulam with bar/lounge, conference center",1,1,10,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,OYO Premium Kakkanad Civil Station,2810,3.5,16,"Seaport-Airport Road, Near Kakkanad Civil Station, Cochin, Kerala, 682030, India",682030,"3.5-star hotel in Ernakulam with bar/lounge, conference center",1,1,10,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,OYO Premium Kakkanad Civil Station,7663,3.5,16,"Seaport-Airport Road, Near Kakkanad Civil Station, Cochin, Kerala, 682030, India",682030,"3.5-star hotel in Ernakulam with bar/lounge, conference center",1,1,10,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,OYO Premium Kakkanad Civil Station,7663,3.5,16,"Seaport-Airport Road, Near Kakkanad Civil Station, Cochin, Kerala, 682030, India",682030,"3.5-star hotel in Ernakulam with bar/lounge, conference center",1,1,10,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,OYO Premium Kakkanad Civil Station,7663,3.5,16,"Seaport-Airport Road, Near Kakkanad Civil Station, Cochin, Kerala, 682030, India",682030,"3.5-star hotel in Ernakulam with bar/lounge, conference center",1,1,10,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,OYO Premium Kakkanad Civil Station,7663,3.5,16,"Seaport-Airport Road, Near Kakkanad Civil Station, Cochin, Kerala, 682030, India",682030,"3.5-star hotel in Ernakulam with bar/lounge, conference center",1,1,10,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,OYO Premium Vytilla Bypass,3278,3,24,"NH 47 Bypass, Maradu, Near Nairs Hospital, Cochin, Kerela, 682304, India",682304,3-star hotel in Ernakulam,1,1,40,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,OYO Premium Vytilla Bypass,3278,3,24,"NH 47 Bypass, Maradu, Near Nairs Hospital, Cochin, Kerela, 682304, India",682304,3-star hotel in Ernakulam,1,1,40,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,OYO Premium Vytilla Bypass,3278,3,24,"NH 47 Bypass, Maradu, Near Nairs Hospital, Cochin, Kerela, 682304, India",682304,3-star hotel in Ernakulam,1,1,40,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,OYO Premium Vytilla Bypass,5000,3,24,"NH 47 Bypass, Maradu, Near Nairs Hospital, Cochin, Kerela, 682304, India",682304,3-star hotel in Ernakulam,1,1,40,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,OYO Premium Vytilla Bypass,3278,3,24,"NH 47 Bypass, Maradu, Near Nairs Hospital, Cochin, Kerela, 682304, India",682304,3-star hotel in Ernakulam,1,1,40,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,OYO Premium Vytilla Bypass,4097,3,24,"NH 47 Bypass, Maradu, Near Nairs Hospital, Cochin, Kerela, 682304, India",682304,3-star hotel in Ernakulam,1,1,40,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,OYO Premium Vytilla Bypass,9898,3,24,"NH 47 Bypass, Maradu, Near Nairs Hospital, Cochin, Kerela, 682304, India",682304,3-star hotel in Ernakulam,1,1,40,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,OYO Premium Vytilla Bypass,9898,3,24,"NH 47 Bypass, Maradu, Near Nairs Hospital, Cochin, Kerela, 682304, India",682304,3-star hotel in Ernakulam,1,1,40,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Pepper Route,2689,3,26,"Near Fort Kochi Bustand, KB Jacob Road, Fort Kochi, Cochin, Kerala, 682001 India",682001,3-star hotel in Cochin,1,1,10,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Pepper Route,3529,3,26,"Near Fort Kochi Bustand, KB Jacob Road, Fort Kochi, Cochin, Kerala, 682001 India",682001,3-star hotel in Cochin,1,1,10,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Pepper Route,3529,3,26,"Near Fort Kochi Bustand, KB Jacob Road, Fort Kochi, Cochin, Kerala, 682001 India",682001,3-star hotel in Cochin,1,1,10,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Pepper Route,3529,3,26,"Near Fort Kochi Bustand, KB Jacob Road, Fort Kochi, Cochin, Kerala, 682001 India",682001,3-star hotel in Cochin,1,1,10,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Pepper Route,3529,3,26,"Near Fort Kochi Bustand, KB Jacob Road, Fort Kochi, Cochin, Kerala, 682001 India",682001,3-star hotel in Cochin,1,1,10,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Pepper Route,3529,3,26,"Near Fort Kochi Bustand, KB Jacob Road, Fort Kochi, Cochin, Kerala, 682001 India",682001,3-star hotel in Cochin,1,1,10,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Pepper Route,3529,3,26,"Near Fort Kochi Bustand, KB Jacob Road, Fort Kochi, Cochin, Kerala, 682001 India",682001,3-star hotel in Cochin,1,1,10,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Pepper Route,3529,3,26,"Near Fort Kochi Bustand, KB Jacob Road, Fort Kochi, Cochin, Kerala, 682001 India",682001,3-star hotel in Cochin,1,1,10,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Phils Residency,3085,3.5,27,"Kunnumpuram Road, Fort Kochi, Cochin, Kerala, 682001 India",682001,"Comfortable Fort Kochi apartment with kitchen, balcony",1,0,11,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Phils Residency,3085,3.5,27,"Kunnumpuram Road, Fort Kochi, Cochin, Kerala, 682001 India",682001,"Comfortable Fort Kochi apartment with kitchen, balcony",1,0,11,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Phils Residency,3085,3.5,27,"Kunnumpuram Road, Fort Kochi, Cochin, Kerala, 682001 India",682001,"Comfortable Fort Kochi apartment with kitchen, balcony",1,0,11,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Phils Residency,3085,3.5,27,"Kunnumpuram Road, Fort Kochi, Cochin, Kerala, 682001 India",682001,"Comfortable Fort Kochi apartment with kitchen, balcony",1,0,11,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Phils Residency,3085,3.5,27,"Kunnumpuram Road, Fort Kochi, Cochin, Kerala, 682001 India",682001,"Comfortable Fort Kochi apartment with kitchen, balcony",1,0,11,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Phils Residency,5003,3.5,27,"Kunnumpuram Road, Fort Kochi, Cochin, Kerala, 682001 India",682001,"Comfortable Fort Kochi apartment with kitchen, balcony",1,0,11,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Phils Residency,3085,3.5,27,"Kunnumpuram Road, Fort Kochi, Cochin, Kerala, 682001 India",682001,"Comfortable Fort Kochi apartment with kitchen, balcony",1,0,11,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Phils Residency,3085,3.5,27,"Kunnumpuram Road, Fort Kochi, Cochin, Kerala, 682001 India",682001,"Comfortable Fort Kochi apartment with kitchen, balcony",1,0,11,0
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Purity,18847,4,61,"East of Muhamma Police Station, Muhamma, Kerala",688525,"Waterfront hotel in Alleppey with 2 outdoor pools, spa",1,1,14,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Purity,24437,4,61,"East of Muhamma Police Station, Muhamma, Kerala",688525,"Waterfront hotel in Alleppey with 2 outdoor pools, spa",1,1,14,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Purity,24437,4,61,"East of Muhamma Police Station, Muhamma, Kerala",688525,"Waterfront hotel in Alleppey with 2 outdoor pools, spa",1,1,14,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Purity,24437,4,61,"East of Muhamma Police Station, Muhamma, Kerala",688525,"Waterfront hotel in Alleppey with 2 outdoor pools, spa",1,1,14,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Purity,24437,4,61,"East of Muhamma Police Station, Muhamma, Kerala",688525,"Waterfront hotel in Alleppey with 2 outdoor pools, spa",1,1,14,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Purity,24437,4,61,"East of Muhamma Police Station, Muhamma, Kerala",688525,"Waterfront hotel in Alleppey with 2 outdoor pools, spa",1,1,14,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Purity,20444,4,61,"East of Muhamma Police Station, Muhamma, Kerala",688525,"Waterfront hotel in Alleppey with 2 outdoor pools, spa",1,1,14,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Purity,18847,4,61,"East of Muhamma Police Station, Muhamma, Kerala",688525,"Waterfront hotel in Alleppey with 2 outdoor pools, spa",1,1,14,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Radisson Blu Kochi,8000,3,23,"S.A Road, Elamkulam Junction, Kadavanthra, Cochin, Kerala",682020,"3.5-star hotel in Cochin with 2 restaurants, indoor pool",1,1,150,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Radisson Blu Kochi,4800,3,23,"S.A Road, Elamkulam Junction, Kadavanthra, Cochin, Kerala",682020,"3.5-star hotel in Cochin with 2 restaurants, indoor pool",1,1,150,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Radisson Blu Kochi,6400,3,23,"S.A Road, Elamkulam Junction, Kadavanthra, Cochin, Kerala",682020,"3.5-star hotel in Cochin with 2 restaurants, indoor pool",1,1,150,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Radisson Blu Kochi,6400,3,23,"S.A Road, Elamkulam Junction, Kadavanthra, Cochin, Kerala",682020,"3.5-star hotel in Cochin with 2 restaurants, indoor pool",1,1,150,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Radisson Blu Kochi,6400,3,23,"S.A Road, Elamkulam Junction, Kadavanthra, Cochin, Kerala",682020,"3.5-star hotel in Cochin with 2 restaurants, indoor pool",1,1,150,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Radisson Blu Kochi,6400,3,23,"S.A Road, Elamkulam Junction, Kadavanthra, Cochin, Kerala",682020,"3.5-star hotel in Cochin with 2 restaurants, indoor pool",1,1,150,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Radisson Blu Kochi,4400,3,23,"S.A Road, Elamkulam Junction, Kadavanthra, Cochin, Kerala",682020,"3.5-star hotel in Cochin with 2 restaurants, indoor pool",1,1,150,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Radisson Blu Kochi,4400,3,23,"S.A Road, Elamkulam Junction, Kadavanthra, Cochin, Kerala",682020,"3.5-star hotel in Cochin with 2 restaurants, indoor pool",1,1,150,1
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Ramada Resort,7000,5,31,"Pv Sreedharan Road, Kumbalam South, Cochin, Kerala, 682506 India",682506,"Lakefront resort in Cochin with outdoor pool, restaurant",1,0,58,1
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Ramada Resort,7000,5,31,"Pv Sreedharan Road, Kumbalam South, Cochin, Kerala, 682506 India",682506,"Lakefront resort in Cochin with outdoor pool, restaurant",1,0,58,1
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Ramada Resort,10000,5,31,"Pv Sreedharan Road, Kumbalam South, Cochin, Kerala, 682506 India",682506,"Lakefront resort in Cochin with outdoor pool, restaurant",1,0,58,1
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Ramada Resort,10000,5,31,"Pv Sreedharan Road, Kumbalam South, Cochin, Kerala, 682506 India",682506,"Lakefront resort in Cochin with outdoor pool, restaurant",1,0,58,1
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Ramada Resort,10000,5,31,"Pv Sreedharan Road, Kumbalam South, Cochin, Kerala, 682506 India",682506,"Lakefront resort in Cochin with outdoor pool, restaurant",1,0,58,1
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Ramada Resort,10000,5,31,"Pv Sreedharan Road, Kumbalam South, Cochin, Kerala, 682506 India",682506,"Lakefront resort in Cochin with outdoor pool, restaurant",1,0,58,1
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Ramada Resort,10000,5,31,"Pv Sreedharan Road, Kumbalam South, Cochin, Kerala, 682506 India",682506,"Lakefront resort in Cochin with outdoor pool, restaurant",1,0,58,1
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Ramada Resort,10000,5,31,"Pv Sreedharan Road, Kumbalam South, Cochin, Kerala, 682506 India",682506,"Lakefront resort in Cochin with outdoor pool, restaurant",1,0,58,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Ramada Resort Cochin,7000,5,31,"Pv Sreedharan Road, Kumbalam South, Cochin, Kerala, India",682506,"Lakefront resort in Cochin with outdoor pool, restaurant",1,0,58,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Ramada Resort Cochin,7000,5,31,"Pv Sreedharan Road, Kumbalam South, Cochin, Kerala, India",682506,"Lakefront resort in Cochin with outdoor pool, restaurant",1,0,58,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Ramada Resort Cochin,10000,5,31,"Pv Sreedharan Road, Kumbalam South, Cochin, Kerala, India",682506,"Lakefront resort in Cochin with outdoor pool, restaurant",1,0,58,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Ramada Resort Cochin,10000,5,31,"Pv Sreedharan Road, Kumbalam South, Cochin, Kerala, India",682506,"Lakefront resort in Cochin with outdoor pool, restaurant",1,0,58,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Ramada Resort Cochin,10000,5,31,"Pv Sreedharan Road, Kumbalam South, Cochin, Kerala, India",682506,"Lakefront resort in Cochin with outdoor pool, restaurant",1,0,58,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Ramada Resort Cochin,10000,5,31,"Pv Sreedharan Road, Kumbalam South, Cochin, Kerala, India",682506,"Lakefront resort in Cochin with outdoor pool, restaurant",1,0,58,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Ramada Resort Cochin,10000,5,31,"Pv Sreedharan Road, Kumbalam South, Cochin, Kerala, India",682506,"Lakefront resort in Cochin with outdoor pool, restaurant",1,0,58,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Ramada Resort Cochin,7000,5,31,"Pv Sreedharan Road, Kumbalam South, Cochin, Kerala, India",682506,"Lakefront resort in Cochin with outdoor pool, restaurant",1,0,58,1
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Rossitta Wood Castle,4691,2.5,26,"1/334,Rose Street,Fort Kochi, Cochin, Kerala, 682001, India",682001,No-frills hotel in Fort Kochi with restaurant,0,0,15,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Rossitta Wood Castle,2168,2.5,26,"1/334,Rose Street,Fort Kochi, Cochin, Kerala, 682001, India",682001,No-frills hotel in Fort Kochi with restaurant,0,0,15,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Rossitta Wood Castle,4691,2.5,26,"1/334,Rose Street,Fort Kochi, Cochin, Kerala, 682001, India",682001,No-frills hotel in Fort Kochi with restaurant,0,0,15,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Rossitta Wood Castle,3085,2.5,26,"1/334,Rose Street,Fort Kochi, Cochin, Kerala, 682001, India",682001,No-frills hotel in Fort Kochi with restaurant,0,0,15,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Rossitta Wood Castle,3085,2.5,26,"1/334,Rose Street,Fort Kochi, Cochin, Kerala, 682001, India",682001,No-frills hotel in Fort Kochi with restaurant,0,0,15,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Rossitta Wood Castle,2168,2.5,26,"1/334,Rose Street,Fort Kochi, Cochin, Kerala, 682001, India",682001,No-frills hotel in Fort Kochi with restaurant,0,0,15,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Rossitta Wood Castle,2168,2.5,26,"1/334,Rose Street,Fort Kochi, Cochin, Kerala, 682001, India",682001,No-frills hotel in Fort Kochi with restaurant,0,0,15,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Rossitta Wood Castle,2168,2.5,26,"1/334,Rose Street,Fort Kochi, Cochin, Kerala, 682001, India",682001,No-frills hotel in Fort Kochi with restaurant,0,0,15,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Spice Fort by Dune Eco Group,9450,3.5,43.9,"Princess Street, Cochin, Kerala, 682001, India",682001,"3.5-star hotel in Cochin with outdoor pool, restaurant",1,0,27,1
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Spice Fort by Dune Eco Group,7830,3.5,43.9,"Princess Street, Cochin, Kerala, 682001, India",682001,"3.5-star hotel in Cochin with outdoor pool, restaurant",1,0,27,1
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Spice Fort by Dune Eco Group,9450,3.5,43.9,"Princess Street, Cochin, Kerala, 682001, India",682001,"3.5-star hotel in Cochin with outdoor pool, restaurant",1,0,27,1
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Spice Fort by Dune Eco Group,9450,3.5,43.9,"Princess Street, Cochin, Kerala, 682001, India",682001,"3.5-star hotel in Cochin with outdoor pool, restaurant",1,0,27,1
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Spice Fort by Dune Eco Group,9450,3.5,43.9,"Princess Street, Cochin, Kerala, 682001, India",682001,"3.5-star hotel in Cochin with outdoor pool, restaurant",1,0,27,1
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Spice Fort by Dune Eco Group,9450,3.5,43.9,"Princess Street, Cochin, Kerala, 682001, India",682001,"3.5-star hotel in Cochin with outdoor pool, restaurant",1,0,27,1
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Spice Fort by Dune Eco Group,9450,3.5,43.9,"Princess Street, Cochin, Kerala, 682001, India",682001,"3.5-star hotel in Cochin with outdoor pool, restaurant",1,0,27,1
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Spice Fort by Dune Eco Group,9450,3.5,43.9,"Princess Street, Cochin, Kerala, 682001, India",682001,"3.5-star hotel in Cochin with outdoor pool, restaurant",1,0,27,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Spice Heritage,4195,3,26,"5/712, Gujarathi Road, Opp. Jalaram Dham Temple, Mattanchery, Cochin, India",682002,"3-star hotel in Cochin with outdoor pool, restaurant",1,1,9,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Spice Heritage,5593,3,26,"5/712, Gujarathi Road, Opp. Jalaram Dham Temple, Mattanchery, Cochin, India",682002,"3-star hotel in Cochin with outdoor pool, restaurant",1,1,9,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Spice Heritage,5593,3,26,"5/712, Gujarathi Road, Opp. Jalaram Dham Temple, Mattanchery, Cochin, India",682002,"3-star hotel in Cochin with outdoor pool, restaurant",1,1,9,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Spice Heritage,5593,3,26,"5/712, Gujarathi Road, Opp. Jalaram Dham Temple, Mattanchery, Cochin, India",682002,"3-star hotel in Cochin with outdoor pool, restaurant",1,1,9,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Spice Heritage,5593,3,26,"5/712, Gujarathi Road, Opp. Jalaram Dham Temple, Mattanchery, Cochin, India",682002,"3-star hotel in Cochin with outdoor pool, restaurant",1,1,9,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Spice Heritage,5593,3,26,"5/712, Gujarathi Road, Opp. Jalaram Dham Temple, Mattanchery, Cochin, India",682002,"3-star hotel in Cochin with outdoor pool, restaurant",1,1,9,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Spice Heritage,5593,3,26,"5/712, Gujarathi Road, Opp. Jalaram Dham Temple, Mattanchery, Cochin, India",682002,"3-star hotel in Cochin with outdoor pool, restaurant",1,1,9,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Spice Heritage,4195,3,26,"5/712, Gujarathi Road, Opp. Jalaram Dham Temple, Mattanchery, Cochin, India",682002,"3-star hotel in Cochin with outdoor pool, restaurant",1,1,9,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,St. Anthonys Lodge,623,3,23,"Basin Road, Ernakulam Vegitable Market Canal Side, Cochin, Kerala, India",682031,Ernakulam B&B in shopping district,1,1,5,0
+Kochi,595575,28,0,1,0,0,Dec 21 2016,St. Anthonys Lodge,642,3,23,"Basin Road, Ernakulam Vegitable Market Canal Side, Cochin, Kerala, India",682031,Ernakulam B&B in shopping district,1,1,5,0
+Kochi,595575,28,0,1,1,0,Dec 24 2016,St. Anthonys Lodge,642,3,23,"Basin Road, Ernakulam Vegitable Market Canal Side, Cochin, Kerala, India",682031,Ernakulam B&B in shopping district,1,1,5,0
+Kochi,595575,28,0,1,1,0,Dec 25 2016,St. Anthonys Lodge,642,3,23,"Basin Road, Ernakulam Vegitable Market Canal Side, Cochin, Kerala, India",682031,Ernakulam B&B in shopping district,1,1,5,0
+Kochi,595575,28,0,1,0,0,Dec 28 2016,St. Anthonys Lodge,698,3,23,"Basin Road, Ernakulam Vegitable Market Canal Side, Cochin, Kerala, India",682031,Ernakulam B&B in shopping district,1,1,5,0
+Kochi,595575,28,0,1,1,1,Dec 31 2016,St. Anthonys Lodge,698,3,23,"Basin Road, Ernakulam Vegitable Market Canal Side, Cochin, Kerala, India",682031,Ernakulam B&B in shopping district,1,1,5,0
+Kochi,595575,28,0,1,0,0,Jan 04 2017,St. Anthonys Lodge,605,3,23,"Basin Road, Ernakulam Vegitable Market Canal Side, Cochin, Kerala, India",682031,Ernakulam B&B in shopping district,1,1,5,0
+Kochi,595575,28,0,1,1,0,Jan 08 2017,St. Anthonys Lodge,605,3,23,"Basin Road, Ernakulam Vegitable Market Canal Side, Cochin, Kerala, India",682031,Ernakulam B&B in shopping district,1,1,5,0
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Tea Bungalow,10007,4,27,"1/1901 Kunumpuram Fort Kochi, Cochin, Kerala, India",682001,"4-star resort in Fort Kochi with 2 restaurants, outdoor pool",1,1,10,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Tea Bungalow,15010,4,27,"1/1901 Kunumpuram Fort Kochi, Cochin, Kerala, India",682001,"4-star resort in Fort Kochi with 2 restaurants, outdoor pool",1,1,10,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Tea Bungalow,15010,4,27,"1/1901 Kunumpuram Fort Kochi, Cochin, Kerala, India",682001,"4-star resort in Fort Kochi with 2 restaurants, outdoor pool",1,1,10,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Tea Bungalow,16261,4,27,"1/1901 Kunumpuram Fort Kochi, Cochin, Kerala, India",682001,"4-star resort in Fort Kochi with 2 restaurants, outdoor pool",1,1,10,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Tea Bungalow,16261,4,27,"1/1901 Kunumpuram Fort Kochi, Cochin, Kerala, India",682001,"4-star resort in Fort Kochi with 2 restaurants, outdoor pool",1,1,10,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Tea Bungalow,16261,4,27,"1/1901 Kunumpuram Fort Kochi, Cochin, Kerala, India",682001,"4-star resort in Fort Kochi with 2 restaurants, outdoor pool",1,1,10,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Tea Bungalow,16261,4,27,"1/1901 Kunumpuram Fort Kochi, Cochin, Kerala, India",682001,"4-star resort in Fort Kochi with 2 restaurants, outdoor pool",1,1,10,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Tea Bungalow,15010,4,27,"1/1901 Kunumpuram Fort Kochi, Cochin, Kerala, India",682001,"4-star resort in Fort Kochi with 2 restaurants, outdoor pool",1,1,10,1
+Kochi,595575,17,0,1,1,0,Dec 18 2016,The Gateway Hotel,4770,4.5,23,"Marine Drive Ernakulam, Cochin, Kerala, 682011, India",682011,"Luxury hotel in Ernakulam with 3 restaurants, outdoor pool",1,0,108,1
+Kochi,595575,17,0,1,0,0,Dec 21 2016,The Gateway Hotel,5300,4.5,23,"Marine Drive Ernakulam, Cochin, Kerala, 682011, India",682011,"Luxury hotel in Ernakulam with 3 restaurants, outdoor pool",1,0,108,1
+Kochi,595575,17,0,1,1,0,Dec 24 2016,The Gateway Hotel,5300,4.5,23,"Marine Drive Ernakulam, Cochin, Kerala, 682011, India",682011,"Luxury hotel in Ernakulam with 3 restaurants, outdoor pool",1,0,108,1
+Kochi,595575,17,0,1,1,0,Dec 25 2016,The Gateway Hotel,5300,4.5,23,"Marine Drive Ernakulam, Cochin, Kerala, 682011, India",682011,"Luxury hotel in Ernakulam with 3 restaurants, outdoor pool",1,0,108,1
+Kochi,595575,17,0,1,0,0,Dec 28 2016,The Gateway Hotel,5300,4.5,23,"Marine Drive Ernakulam, Cochin, Kerala, 682011, India",682011,"Luxury hotel in Ernakulam with 3 restaurants, outdoor pool",1,0,108,1
+Kochi,595575,17,0,1,1,1,Dec 31 2016,The Gateway Hotel,5300,4.5,23,"Marine Drive Ernakulam, Cochin, Kerala, 682011, India",682011,"Luxury hotel in Ernakulam with 3 restaurants, outdoor pool",1,0,108,1
+Kochi,595575,17,0,1,0,0,Jan 04 2017,The Gateway Hotel,4240,4.5,23,"Marine Drive Ernakulam, Cochin, Kerala, 682011, India",682011,"Luxury hotel in Ernakulam with 3 restaurants, outdoor pool",1,0,108,1
+Kochi,595575,17,0,1,0,0,Jan 08 2017,The Gateway Hotel,4240,4.5,23,"Marine Drive Ernakulam, Cochin, Kerala, 682011, India",682011,"Luxury hotel in Ernakulam with 3 restaurants, outdoor pool",1,0,108,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,The Gateway Hotel Marine Drive,4770,5,23,"Marine Drive Ernakulam, Cochin, Kerala, India",682011,"Luxury hotel in Ernakulam with 3 restaurants, outdoor pool",1,1,108,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,The Gateway Hotel Marine Drive,5300,5,23,"Marine Drive Ernakulam, Cochin, Kerala, India",682011,"Luxury hotel in Ernakulam with 3 restaurants, outdoor pool",1,1,108,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,The Gateway Hotel Marine Drive,4770,5,23,"Marine Drive Ernakulam, Cochin, Kerala, India",682011,"Luxury hotel in Ernakulam with 3 restaurants, outdoor pool",1,1,108,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,The Gateway Hotel Marine Drive,4770,5,23,"Marine Drive Ernakulam, Cochin, Kerala, India",682011,"Luxury hotel in Ernakulam with 3 restaurants, outdoor pool",1,1,108,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,The Gateway Hotel Marine Drive,5300,5,23,"Marine Drive Ernakulam, Cochin, Kerala, India",682011,"Luxury hotel in Ernakulam with 3 restaurants, outdoor pool",1,1,108,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,The Gateway Hotel Marine Drive,5300,5,23,"Marine Drive Ernakulam, Cochin, Kerala, India",682011,"Luxury hotel in Ernakulam with 3 restaurants, outdoor pool",1,1,108,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,The Gateway Hotel Marine Drive,4240,5,23,"Marine Drive Ernakulam, Cochin, Kerala, India",682011,"Luxury hotel in Ernakulam with 3 restaurants, outdoor pool",1,1,108,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,The Gateway Hotel Marine Drive,4240,5,23,"Marine Drive Ernakulam, Cochin, Kerala, India",682011,"Luxury hotel in Ernakulam with 3 restaurants, outdoor pool",1,1,108,1
+Kochi,595575,17,0,1,1,0,Dec 18 2016,The International Hotel,2752,3,22,"P.B. No. 3563, Veekshanam Road, Off M.G. Road, Ernakulam, Cochin, Kerala, 682 035 India",682035,"3-star hotel in Cochin with restaurant, conference center",1,0,36,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,The International Hotel,1811,3,22,"P.B. No. 3563, Veekshanam Road, Off M.G. Road, Ernakulam, Cochin, Kerala, 682 035 India",682035,"3-star hotel in Cochin with restaurant, conference center",1,0,36,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,The International Hotel,2699,3,22,"P.B. No. 3563, Veekshanam Road, Off M.G. Road, Ernakulam, Cochin, Kerala, 682 035 India",682035,"3-star hotel in Cochin with restaurant, conference center",1,0,36,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,The International Hotel,2699,3,22,"P.B. No. 3563, Veekshanam Road, Off M.G. Road, Ernakulam, Cochin, Kerala, 682 035 India",682035,"3-star hotel in Cochin with restaurant, conference center",1,0,36,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,The International Hotel,2699,3,22,"P.B. No. 3563, Veekshanam Road, Off M.G. Road, Ernakulam, Cochin, Kerala, 682 035 India",682035,"3-star hotel in Cochin with restaurant, conference center",1,0,36,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,The International Hotel,2699,3,22,"P.B. No. 3563, Veekshanam Road, Off M.G. Road, Ernakulam, Cochin, Kerala, 682 035 India",682035,"3-star hotel in Cochin with restaurant, conference center",1,0,36,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,The International Hotel,1872,3,22,"P.B. No. 3563, Veekshanam Road, Off M.G. Road, Ernakulam, Cochin, Kerala, 682 035 India",682035,"3-star hotel in Cochin with restaurant, conference center",1,0,36,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,The International Hotel,1872,3,22,"P.B. No. 3563, Veekshanam Road, Off M.G. Road, Ernakulam, Cochin, Kerala, 682 035 India",682035,"3-star hotel in Cochin with restaurant, conference center",1,0,36,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,The Malabar House,16954,4,27,"1/268 - 1/269 Parade Road, Cochin, Kerala, 682001 India",682001,"4-star hotel in Fort Kochi with outdoor pool, restaurant",1,0,17,1
+Kochi,595575,17,0,1,0,0,Dec 21 2016,The Malabar House,16954,4,27,"1/268 - 1/269 Parade Road, Cochin, Kerala, 682001 India",682001,"4-star hotel in Fort Kochi with outdoor pool, restaurant",1,0,17,1
+Kochi,595575,17,0,1,1,0,Dec 24 2016,The Malabar House,23352,4,27,"1/268 - 1/269 Parade Road, Cochin, Kerala, 682001 India",682001,"4-star hotel in Fort Kochi with outdoor pool, restaurant",1,0,17,1
+Kochi,595575,17,0,1,1,0,Dec 25 2016,The Malabar House,23352,4,27,"1/268 - 1/269 Parade Road, Cochin, Kerala, 682001 India",682001,"4-star hotel in Fort Kochi with outdoor pool, restaurant",1,0,17,1
+Kochi,595575,17,0,1,0,0,Dec 28 2016,The Malabar House,23352,4,27,"1/268 - 1/269 Parade Road, Cochin, Kerala, 682001 India",682001,"4-star hotel in Fort Kochi with outdoor pool, restaurant",1,0,17,1
+Kochi,595575,17,0,1,1,1,Dec 31 2016,The Malabar House,23352,4,27,"1/268 - 1/269 Parade Road, Cochin, Kerala, 682001 India",682001,"4-star hotel in Fort Kochi with outdoor pool, restaurant",1,0,17,1
+Kochi,595575,17,0,1,0,0,Jan 04 2017,The Malabar House,22072,4,27,"1/268 - 1/269 Parade Road, Cochin, Kerala, 682001 India",682001,"4-star hotel in Fort Kochi with outdoor pool, restaurant",1,0,17,1
+Kochi,595575,17,0,1,0,0,Jan 08 2017,The Malabar House,22072,4,27,"1/268 - 1/269 Parade Road, Cochin, Kerala, 682001 India",682001,"4-star hotel in Fort Kochi with outdoor pool, restaurant",1,0,17,1
+Kochi,595575,17,0,1,1,0,Dec 18 2016,The Mercy Luxury Business Hotel,3300,3,33,"M.G Road, Ravipuram, Cochin, Kerala, 682015, India",682015,"Waterfront hotel in Ernakulam with outdoor pool, restaurant",1,1,60,1
+Kochi,595575,17,0,1,0,0,Dec 21 2016,The Mercy Luxury Business Hotel,3300,3,33,"M.G Road, Ravipuram, Cochin, Kerala, 682015, India",682015,"Waterfront hotel in Ernakulam with outdoor pool, restaurant",1,1,60,1
+Kochi,595575,17,0,1,1,0,Dec 24 2016,The Mercy Luxury Business Hotel,3300,3,33,"M.G Road, Ravipuram, Cochin, Kerala, 682015, India",682015,"Waterfront hotel in Ernakulam with outdoor pool, restaurant",1,1,60,1
+Kochi,595575,17,0,1,1,0,Dec 25 2016,The Mercy Luxury Business Hotel,3300,3,33,"M.G Road, Ravipuram, Cochin, Kerala, 682015, India",682015,"Waterfront hotel in Ernakulam with outdoor pool, restaurant",1,1,60,1
+Kochi,595575,17,0,1,0,0,Dec 28 2016,The Mercy Luxury Business Hotel,3667,3,33,"M.G Road, Ravipuram, Cochin, Kerala, 682015, India",682015,"Waterfront hotel in Ernakulam with outdoor pool, restaurant",1,1,60,1
+Kochi,595575,17,0,1,1,1,Dec 31 2016,The Mercy Luxury Business Hotel,3667,3,33,"M.G Road, Ravipuram, Cochin, Kerala, 682015, India",682015,"Waterfront hotel in Ernakulam with outdoor pool, restaurant",1,1,60,1
+Kochi,595575,17,0,1,0,0,Jan 04 2017,The Mercy Luxury Business Hotel,3300,3,33,"M.G Road, Ravipuram, Cochin, Kerala, 682015, India",682015,"Waterfront hotel in Ernakulam with outdoor pool, restaurant",1,1,60,1
+Kochi,595575,17,0,1,0,0,Jan 08 2017,The Mercy Luxury Business Hotel,3300,3,33,"M.G Road, Ravipuram, Cochin, Kerala, 682015, India",682015,"Waterfront hotel in Ernakulam with outdoor pool, restaurant",1,1,60,1
+Kochi,595575,17,0,1,1,0,Dec 18 2016,THE PGS VEDANTA COCHIN,3055,4,21,"Lissie Junction, Kaloor, Nr. North Overbridge, Cochin, Kerala, 682018, India",682018,"4-star hotel in Ernakulam with outdoor pool, restaurant",1,1,60,1
+Kochi,595575,17,0,1,0,0,Dec 21 2016,THE PGS VEDANTA COCHIN,4000,4,21,"Lissie Junction, Kaloor, Nr. North Overbridge, Cochin, Kerala, 682018, India",682018,"4-star hotel in Ernakulam with outdoor pool, restaurant",1,1,60,1
+Kochi,595575,17,0,1,1,0,Dec 24 2016,THE PGS VEDANTA COCHIN,4000,4,21,"Lissie Junction, Kaloor, Nr. North Overbridge, Cochin, Kerala, 682018, India",682018,"4-star hotel in Ernakulam with outdoor pool, restaurant",1,1,60,1
+Kochi,595575,17,0,1,1,0,Dec 25 2016,THE PGS VEDANTA COCHIN,4000,4,21,"Lissie Junction, Kaloor, Nr. North Overbridge, Cochin, Kerala, 682018, India",682018,"4-star hotel in Ernakulam with outdoor pool, restaurant",1,1,60,1
+Kochi,595575,17,0,1,0,0,Dec 28 2016,THE PGS VEDANTA COCHIN,4000,4,21,"Lissie Junction, Kaloor, Nr. North Overbridge, Cochin, Kerala, 682018, India",682018,"4-star hotel in Ernakulam with outdoor pool, restaurant",1,1,60,1
+Kochi,595575,17,0,1,1,1,Dec 31 2016,THE PGS VEDANTA COCHIN,4000,4,21,"Lissie Junction, Kaloor, Nr. North Overbridge, Cochin, Kerala, 682018, India",682018,"4-star hotel in Ernakulam with outdoor pool, restaurant",1,1,60,1
+Kochi,595575,17,0,1,0,0,Jan 04 2017,THE PGS VEDANTA COCHIN,4000,4,21,"Lissie Junction, Kaloor, Nr. North Overbridge, Cochin, Kerala, 682018, India",682018,"4-star hotel in Ernakulam with outdoor pool, restaurant",1,1,60,1
+Kochi,595575,17,0,1,0,0,Jan 08 2017,THE PGS VEDANTA COCHIN,4000,4,21,"Lissie Junction, Kaloor, Nr. North Overbridge, Cochin, Kerala, 682018, India",682018,"4-star hotel in Ernakulam with outdoor pool, restaurant",1,1,60,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,The Senate Hotel,2166,3,22,"St. Benedict Road, Near Kacheripady Junction Ernakulam, Cochin, Kerala",682018,City-center Cochin hotel with restaurant,1,1,33,0
+Kochi,595575,28,0,1,0,0,Dec 21 2016,The Senate Hotel,2166,3,22,"St. Benedict Road, Near Kacheripady Junction Ernakulam, Cochin, Kerala",682018,City-center Cochin hotel with restaurant,1,1,33,0
+Kochi,595575,28,0,1,1,0,Dec 24 2016,The Senate Hotel,2166,3,22,"St. Benedict Road, Near Kacheripady Junction Ernakulam, Cochin, Kerala",682018,City-center Cochin hotel with restaurant,1,1,33,0
+Kochi,595575,28,0,1,1,0,Dec 25 2016,The Senate Hotel,2166,3,22,"St. Benedict Road, Near Kacheripady Junction Ernakulam, Cochin, Kerala",682018,City-center Cochin hotel with restaurant,1,1,33,0
+Kochi,595575,28,0,1,0,0,Dec 28 2016,The Senate Hotel,2166,3,22,"St. Benedict Road, Near Kacheripady Junction Ernakulam, Cochin, Kerala",682018,City-center Cochin hotel with restaurant,1,1,33,0
+Kochi,595575,28,0,1,1,1,Dec 31 2016,The Senate Hotel,2333,3,22,"St. Benedict Road, Near Kacheripady Junction Ernakulam, Cochin, Kerala",682018,City-center Cochin hotel with restaurant,1,1,33,0
+Kochi,595575,28,0,1,0,0,Jan 04 2017,The Senate Hotel,2166,3,22,"St. Benedict Road, Near Kacheripady Junction Ernakulam, Cochin, Kerala",682018,City-center Cochin hotel with restaurant,1,1,33,0
+Kochi,595575,28,0,1,1,0,Jan 08 2017,The Senate Hotel,2166,3,22,"St. Benedict Road, Near Kacheripady Junction Ernakulam, Cochin, Kerala",682018,City-center Cochin hotel with restaurant,1,1,33,0
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Tissa's Inn,9349,4,26,"1/1128, Kunnumpuram, Opp. Canara Bank, Cochin, Kerala, India",682001,"3.5-star inn in Fort Kochi with outdoor pool, restaurant",1,1,9,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Tissa's Inn,9349,4,26,"1/1128, Kunnumpuram, Opp. Canara Bank, Cochin, Kerala, India",682001,"3.5-star inn in Fort Kochi with outdoor pool, restaurant",1,1,9,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Tissa's Inn,9349,4,26,"1/1128, Kunnumpuram, Opp. Canara Bank, Cochin, Kerala, India",682001,"3.5-star inn in Fort Kochi with outdoor pool, restaurant",1,1,9,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Tissa's Inn,9349,4,26,"1/1128, Kunnumpuram, Opp. Canara Bank, Cochin, Kerala, India",682001,"3.5-star inn in Fort Kochi with outdoor pool, restaurant",1,1,9,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Tissa's Inn,9349,4,26,"1/1128, Kunnumpuram, Opp. Canara Bank, Cochin, Kerala, India",682001,"3.5-star inn in Fort Kochi with outdoor pool, restaurant",1,1,9,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Tissa's Inn,9349,4,26,"1/1128, Kunnumpuram, Opp. Canara Bank, Cochin, Kerala, India",682001,"3.5-star inn in Fort Kochi with outdoor pool, restaurant",1,1,9,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Tissa's Inn,9349,4,26,"1/1128, Kunnumpuram, Opp. Canara Bank, Cochin, Kerala, India",682001,"3.5-star inn in Fort Kochi with outdoor pool, restaurant",1,1,9,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Tissa's Inn,7125,4,26,"1/1128, Kunnumpuram, Opp. Canara Bank, Cochin, Kerala, India",682001,"3.5-star inn in Fort Kochi with outdoor pool, restaurant",1,1,9,1
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Treebo Mart View,1571,2,22,"Market Road, 40/5340, Panakkal Tower, Cochin, 682035 India",682035,No-frills hotel in Ernakulam,1,1,20,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Treebo Mart View,1571,2,22,"Market Road, 40/5340, Panakkal Tower, Cochin, 682035 India",682035,No-frills hotel in Ernakulam,1,1,20,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Treebo Mart View,1785,2,22,"Market Road, 40/5340, Panakkal Tower, Cochin, 682035 India",682035,No-frills hotel in Ernakulam,1,1,20,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Treebo Mart View,1785,2,22,"Market Road, 40/5340, Panakkal Tower, Cochin, 682035 India",682035,No-frills hotel in Ernakulam,1,1,20,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Treebo Mart View,1785,2,22,"Market Road, 40/5340, Panakkal Tower, Cochin, 682035 India",682035,No-frills hotel in Ernakulam,1,1,20,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Treebo Mart View,1785,2,22,"Market Road, 40/5340, Panakkal Tower, Cochin, 682035 India",682035,No-frills hotel in Ernakulam,1,1,20,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Treebo Mart View,1571,2,22,"Market Road, 40/5340, Panakkal Tower, Cochin, 682035 India",682035,No-frills hotel in Ernakulam,1,1,20,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Treebo Mart View,1571,2,22,"Market Road, 40/5340, Panakkal Tower, Cochin, 682035 India",682035,No-frills hotel in Ernakulam,1,1,20,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Treebo OG's Kanthari,1341,3,26,"N.H.- 47, Kundannoor Junction, Maradu, Ernakulam, Kerala, Cochin, 682304 India",682304,3-star hotel in Ernakulam with restaurant,1,1,15,0
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Treebo OG's Kanthari,1341,3,26,"N.H.- 47, Kundannoor Junction, Maradu, Ernakulam, Kerala, Cochin, 682304 India",682304,3-star hotel in Ernakulam with restaurant,1,1,15,0
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Treebo OG's Kanthari,2268,3,26,"N.H.- 47, Kundannoor Junction, Maradu, Ernakulam, Kerala, Cochin, 682304 India",682304,3-star hotel in Ernakulam with restaurant,1,1,15,0
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Treebo OG's Kanthari,1764,3,26,"N.H.- 47, Kundannoor Junction, Maradu, Ernakulam, Kerala, Cochin, 682304 India",682304,3-star hotel in Ernakulam with restaurant,1,1,15,0
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Treebo OG's Kanthari,1764,3,26,"N.H.- 47, Kundannoor Junction, Maradu, Ernakulam, Kerala, Cochin, 682304 India",682304,3-star hotel in Ernakulam with restaurant,1,1,15,0
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Treebo OG's Kanthari,1764,3,26,"N.H.- 47, Kundannoor Junction, Maradu, Ernakulam, Kerala, Cochin, 682304 India",682304,3-star hotel in Ernakulam with restaurant,1,1,15,0
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Treebo OG's Kanthari,1764,3,26,"N.H.- 47, Kundannoor Junction, Maradu, Ernakulam, Kerala, Cochin, 682304 India",682304,3-star hotel in Ernakulam with restaurant,1,1,15,0
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Treebo OG's Kanthari,1764,3,26,"N.H.- 47, Kundannoor Junction, Maradu, Ernakulam, Kerala, Cochin, 682304 India",682304,3-star hotel in Ernakulam with restaurant,1,1,15,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Trident Cochin,4250,4.5,25,"Bristow Road Willingdon Island, Cochin, Kerala, 682003 India",682003,"Luxury hotel in Willingdon Island with 3 restaurants, outdoor pool",1,0,85,1
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Trident Cochin,4250,4.5,25,"Bristow Road Willingdon Island, Cochin, Kerala, 682003 India",682003,"Luxury hotel in Willingdon Island with 3 restaurants, outdoor pool",1,0,85,1
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Trident Cochin,5750,4.5,25,"Bristow Road Willingdon Island, Cochin, Kerala, 682003 India",682003,"Luxury hotel in Willingdon Island with 3 restaurants, outdoor pool",1,0,85,1
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Trident Cochin,11500,4.5,25,"Bristow Road Willingdon Island, Cochin, Kerala, 682003 India",682003,"Luxury hotel in Willingdon Island with 3 restaurants, outdoor pool",1,0,85,1
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Trident Cochin,5250,4.5,25,"Bristow Road Willingdon Island, Cochin, Kerala, 682003 India",682003,"Luxury hotel in Willingdon Island with 3 restaurants, outdoor pool",1,0,85,1
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Trident Cochin,5750,4.5,25,"Bristow Road Willingdon Island, Cochin, Kerala, 682003 India",682003,"Luxury hotel in Willingdon Island with 3 restaurants, outdoor pool",1,0,85,1
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Trident Cochin,11500,4.5,25,"Bristow Road Willingdon Island, Cochin, Kerala, 682003 India",682003,"Luxury hotel in Willingdon Island with 3 restaurants, outdoor pool",1,0,85,1
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Trident Cochin,11500,4.5,25,"Bristow Road Willingdon Island, Cochin, Kerala, 682003 India",682003,"Luxury hotel in Willingdon Island with 3 restaurants, outdoor pool",1,0,85,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Vedanta Wake Up,844,3,22,"St. Benedict Road, Near Kacheripady Junction Ernakulam, Cochin, Kerala, India",682018,3-star hotel in Ernakulam,1,0,27,0
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Vedanta Wake Up,844,3,22,"St. Benedict Road, Near Kacheripady Junction Ernakulam, Cochin, Kerala, India",682018,3-star hotel in Ernakulam,1,0,27,0
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Vedanta Wake Up,984,3,22,"St. Benedict Road, Near Kacheripady Junction Ernakulam, Cochin, Kerala, India",682018,3-star hotel in Ernakulam,1,0,27,0
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Vedanta Wake Up,1158,3,22,"St. Benedict Road, Near Kacheripady Junction Ernakulam, Cochin, Kerala, India",682018,3-star hotel in Ernakulam,1,0,27,0
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Vedanta Wake Up,1158,3,22,"St. Benedict Road, Near Kacheripady Junction Ernakulam, Cochin, Kerala, India",682018,3-star hotel in Ernakulam,1,0,27,0
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Vedanta Wake Up,1158,3,22,"St. Benedict Road, Near Kacheripady Junction Ernakulam, Cochin, Kerala, India",682018,3-star hotel in Ernakulam,1,0,27,0
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Vedanta Wake Up,1158,3,22,"St. Benedict Road, Near Kacheripady Junction Ernakulam, Cochin, Kerala, India",682018,3-star hotel in Ernakulam,1,0,27,0
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Vedanta Wake Up,1158,3,22,"St. Benedict Road, Near Kacheripady Junction Ernakulam, Cochin, Kerala, India",682018,3-star hotel in Ernakulam,1,0,27,0
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Vivanta by Taj,11000,5,25,"Willingdon Island, Cochin, Kerala, 682009 India",682009,"Waterfront hotel in Willingdon Island with 5 restaurants, spa",1,0,96,1
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Vivanta by Taj,11000,5,25,"Willingdon Island, Cochin, Kerala, 682009 India",682009,"Waterfront hotel in Willingdon Island with 5 restaurants, spa",1,0,96,1
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Vivanta by Taj,33500,5,25,"Willingdon Island, Cochin, Kerala, 682009 India",682009,"Waterfront hotel in Willingdon Island with 5 restaurants, spa",1,0,96,1
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Vivanta by Taj,13000,5,25,"Willingdon Island, Cochin, Kerala, 682009 India",682009,"Waterfront hotel in Willingdon Island with 5 restaurants, spa",1,0,96,1
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Vivanta by Taj,17500,5,25,"Willingdon Island, Cochin, Kerala, 682009 India",682009,"Waterfront hotel in Willingdon Island with 5 restaurants, spa",1,0,96,1
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Vivanta by Taj,43500,5,25,"Willingdon Island, Cochin, Kerala, 682009 India",682009,"Waterfront hotel in Willingdon Island with 5 restaurants, spa",1,0,96,1
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Vivanta by Taj,12150,5,25,"Willingdon Island, Cochin, Kerala, 682009 India",682009,"Waterfront hotel in Willingdon Island with 5 restaurants, spa",1,0,96,1
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Vivanta by Taj,12150,5,25,"Willingdon Island, Cochin, Kerala, 682009 India",682009,"Waterfront hotel in Willingdon Island with 5 restaurants, spa",1,0,96,1
+Kochi,595575,17,0,1,1,0,Dec 18 2016,Xandari Harbour,13613,3.5,26,"Bazaar Road, Mattancherry, Cochin, Kerala, India",682016,"Waterfront hotel in Cochin with outdoor pool, restaurant",1,0,16,1
+Kochi,595575,17,0,1,0,0,Dec 21 2016,Xandari Harbour,13613,3.5,26,"Bazaar Road, Mattancherry, Cochin, Kerala, India",682016,"Waterfront hotel in Cochin with outdoor pool, restaurant",1,0,16,1
+Kochi,595575,17,0,1,1,0,Dec 24 2016,Xandari Harbour,22689,3.5,26,"Bazaar Road, Mattancherry, Cochin, Kerala, India",682016,"Waterfront hotel in Cochin with outdoor pool, restaurant",1,0,16,1
+Kochi,595575,17,0,1,1,0,Dec 25 2016,Xandari Harbour,22689,3.5,26,"Bazaar Road, Mattancherry, Cochin, Kerala, India",682016,"Waterfront hotel in Cochin with outdoor pool, restaurant",1,0,16,1
+Kochi,595575,17,0,1,0,0,Dec 28 2016,Xandari Harbour,51765,3.5,26,"Bazaar Road, Mattancherry, Cochin, Kerala, India",682016,"Waterfront hotel in Cochin with outdoor pool, restaurant",1,0,16,1
+Kochi,595575,17,0,1,1,1,Dec 31 2016,Xandari Harbour,51765,3.5,26,"Bazaar Road, Mattancherry, Cochin, Kerala, India",682016,"Waterfront hotel in Cochin with outdoor pool, restaurant",1,0,16,1
+Kochi,595575,17,0,1,0,0,Jan 04 2017,Xandari Harbour,13613,3.5,26,"Bazaar Road, Mattancherry, Cochin, Kerala, India",682016,"Waterfront hotel in Cochin with outdoor pool, restaurant",1,0,16,1
+Kochi,595575,17,0,1,0,0,Jan 08 2017,Xandari Harbour,28235,3.5,26,"Bazaar Road, Mattancherry, Cochin, Kerala, India",682016,"Waterfront hotel in Cochin with outdoor pool, restaurant",1,0,16,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,Xandari Hotel,12252,3,26,"Bazaar Road, Mattancherry, Cochin, Kerala",682001,"Waterfront hotel in Cochin with outdoor pool, restaurant",1,1,16,1
+Kochi,595575,28,0,1,0,0,Dec 21 2016,Xandari Hotel,13613,3,26,"Bazaar Road, Mattancherry, Cochin, Kerala",682001,"Waterfront hotel in Cochin with outdoor pool, restaurant",1,1,16,1
+Kochi,595575,28,0,1,1,0,Dec 24 2016,Xandari Hotel,51765,3,26,"Bazaar Road, Mattancherry, Cochin, Kerala",682001,"Waterfront hotel in Cochin with outdoor pool, restaurant",1,1,16,1
+Kochi,595575,28,0,1,1,0,Dec 25 2016,Xandari Hotel,22689,3,26,"Bazaar Road, Mattancherry, Cochin, Kerala",682001,"Waterfront hotel in Cochin with outdoor pool, restaurant",1,1,16,1
+Kochi,595575,28,0,1,0,0,Dec 28 2016,Xandari Hotel,51765,3,26,"Bazaar Road, Mattancherry, Cochin, Kerala",682001,"Waterfront hotel in Cochin with outdoor pool, restaurant",1,1,16,1
+Kochi,595575,28,0,1,1,1,Dec 31 2016,Xandari Hotel,51765,3,26,"Bazaar Road, Mattancherry, Cochin, Kerala",682001,"Waterfront hotel in Cochin with outdoor pool, restaurant",1,1,16,1
+Kochi,595575,28,0,1,0,0,Jan 04 2017,Xandari Hotel,13613,3,26,"Bazaar Road, Mattancherry, Cochin, Kerala",682001,"Waterfront hotel in Cochin with outdoor pool, restaurant",1,1,16,1
+Kochi,595575,28,0,1,1,0,Jan 08 2017,Xandari Hotel,13613,3,26,"Bazaar Road, Mattancherry, Cochin, Kerala",682001,"Waterfront hotel in Cochin with outdoor pool, restaurant",1,1,16,1
+Kochi,595575,28,0,1,1,0,Dec 18 2016,XL Homestay,1800,2,26,"Rose street, Fort Cochin - 1, Cochin, Kerala",682001,No-frills B&B in Cochin,0,1,5,0
+Kochi,595575,28,0,1,0,0,Dec 21 2016,XL Homestay,1800,2,26,"Rose street, Fort Cochin - 1, Cochin, Kerala",682001,No-frills B&B in Cochin,0,1,5,0
+Kochi,595575,28,0,1,1,0,Dec 24 2016,XL Homestay,1800,2,26,"Rose street, Fort Cochin - 1, Cochin, Kerala",682001,No-frills B&B in Cochin,0,1,5,0
+Kochi,595575,28,0,1,1,0,Dec 25 2016,XL Homestay,1800,2,26,"Rose street, Fort Cochin - 1, Cochin, Kerala",682001,No-frills B&B in Cochin,0,1,5,0
+Kochi,595575,28,0,1,0,0,Dec 28 2016,XL Homestay,1800,2,26,"Rose street, Fort Cochin - 1, Cochin, Kerala",682001,No-frills B&B in Cochin,0,1,5,0
+Kochi,595575,28,0,1,1,1,Dec 31 2016,XL Homestay,1800,2,26,"Rose street, Fort Cochin - 1, Cochin, Kerala",682001,No-frills B&B in Cochin,0,1,5,0
+Kochi,595575,28,0,1,0,0,Jan 04 2017,XL Homestay,2000,2,26,"Rose street, Fort Cochin - 1, Cochin, Kerala",682001,No-frills B&B in Cochin,0,1,5,0
+Kochi,595575,28,0,1,1,0,Jan 08 2017,XL Homestay,2000,2,26,"Rose street, Fort Cochin - 1, Cochin, Kerala",682001,No-frills B&B in Cochin,0,1,5,0

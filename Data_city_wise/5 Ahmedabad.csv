@@ -1,0 +1,425 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,OYO Premium Shahibaug Airport Road,9792,3,3.6,"Shahibaug Under Bridge,,Ahmedabad,Gujarat,India",380004,3,1,1,10,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 21 2016,OYO Premium Shahibaug Airport Road,9898,3,3.6,"Shahibaug Under Bridge,,Ahmedabad,Gujarat,India",380004,3,1,1,10,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,OYO Premium Shahibaug Airport Road,9898,3,3.6,"Shahibaug Under Bridge,,Ahmedabad,Gujarat,India",380004,3,1,1,10,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,OYO Premium Shahibaug Airport Road,9898,3,3.6,"Shahibaug Under Bridge,,Ahmedabad,Gujarat,India",380004,3,1,1,10,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 28 2016,OYO Premium Shahibaug Airport Road,9792,3,3.6,"Shahibaug Under Bridge,,Ahmedabad,Gujarat,India",380004,3,1,1,10,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,OYO Premium Shahibaug Airport Road,9898,3,3.6,"Shahibaug Under Bridge,,Ahmedabad,Gujarat,India",380004,3,1,1,10,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 04 2017,OYO Premium Shahibaug Airport Road,9898,3,3.6,"Shahibaug Under Bridge,,Ahmedabad,Gujarat,India",380004,3,1,1,10,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,OYO Premium Shahibaug Airport Road,9898,3,3.6,"Shahibaug Under Bridge,,Ahmedabad,Gujarat,India",380004,3,1,1,10,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,OYO Premium Law Garden C G Road,3150,3,7.8,Law Garden Cross Road,380009,Ahmedabad City Centre hotel in shopping district,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,OYO Premium Law Garden C G Road,3619,3,7.8,Law Garden Cross Road,380009,Ahmedabad City Centre hotel in shopping district,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,OYO Premium Law Garden C G Road,3619,3,7.8,Law Garden Cross Road,380009,Ahmedabad City Centre hotel in shopping district,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,OYO Premium Law Garden C G Road,8727,3,7.8,Law Garden Cross Road,380009,Ahmedabad City Centre hotel in shopping district,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,OYO Premium Law Garden C G Road,8727,3,7.8,Law Garden Cross Road,380009,Ahmedabad City Centre hotel in shopping district,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,OYO Premium Law Garden C G Road,4523,3,7.8,Law Garden Cross Road,380009,Ahmedabad City Centre hotel in shopping district,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,OYO Premium Law Garden C G Road,8727,3,7.8,Law Garden Cross Road,380009,Ahmedabad City Centre hotel in shopping district,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,OYO Premium Law Garden C G Road,8727,3,7.8,Law Garden Cross Road,380009,Ahmedabad City Centre hotel in shopping district,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,OYO Rooms Ahmedabad Station II,2724,3,5.1,Station Road,380002,Ahmedabad City Centre hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,OYO Rooms Ahmedabad Station II,2724,3,5.1,Station Road,380002,Ahmedabad City Centre hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,OYO Rooms Ahmedabad Station II,2724,3,5.1,Station Road,380002,Ahmedabad City Centre hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,OYO Rooms Ahmedabad Station II,2724,3,5.1,Station Road,380002,Ahmedabad City Centre hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,OYO Rooms Ahmedabad Station II,2724,3,5.1,Station Road,380002,Ahmedabad City Centre hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,OYO Rooms Ahmedabad Station II,3406,3,5.1,Station Road,380002,Ahmedabad City Centre hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,OYO Rooms Ahmedabad Station II,3406,3,5.1,Station Road,380002,Ahmedabad City Centre hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,OYO Rooms Ahmedabad Station II,3406,3,5.1,Station Road,380002,Ahmedabad City Centre hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,OYO Rooms Ashram Road II,1745,3,6.6,"1st Floor,Jivabhai Chamber,Opp BATA Showroom, Ashram Road,Ahmedabad,Gujarat,India",380009,Ahmedabad City Centre hotel next to shopping,1,0,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 21 2016,OYO Rooms Ashram Road II,1745,3,6.6,"1st Floor,Jivabhai Chamber,Opp BATA Showroom, Ashram Road,Ahmedabad,Gujarat,India",380009,Ahmedabad City Centre hotel next to shopping,1,0,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,OYO Rooms Ashram Road II,1745,3,6.6,"1st Floor,Jivabhai Chamber,Opp BATA Showroom, Ashram Road,Ahmedabad,Gujarat,India",380009,Ahmedabad City Centre hotel next to shopping,1,0,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,OYO Rooms Ashram Road II,1745,3,6.6,"1st Floor,Jivabhai Chamber,Opp BATA Showroom, Ashram Road,Ahmedabad,Gujarat,India",380009,Ahmedabad City Centre hotel next to shopping,1,0,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 28 2016,OYO Rooms Ashram Road II,1745,3,6.6,"1st Floor,Jivabhai Chamber,Opp BATA Showroom, Ashram Road,Ahmedabad,Gujarat,India",380009,Ahmedabad City Centre hotel next to shopping,1,0,15,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,OYO Rooms Ashram Road II,1745,3,6.6,"1st Floor,Jivabhai Chamber,Opp BATA Showroom, Ashram Road,Ahmedabad,Gujarat,India",380009,Ahmedabad City Centre hotel next to shopping,1,0,15,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 04 2017,OYO Rooms Ashram Road II,1745,3,6.6,"1st Floor,Jivabhai Chamber,Opp BATA Showroom, Ashram Road,Ahmedabad,Gujarat,India",380009,Ahmedabad City Centre hotel next to shopping,1,0,15,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,OYO Rooms Ashram Road II,1745,3,6.6,"1st Floor,Jivabhai Chamber,Opp BATA Showroom, Ashram Road,Ahmedabad,Gujarat,India",380009,Ahmedabad City Centre hotel next to shopping,1,0,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,OYO Premium Ashram Road II,2682,3,5.5,Near Champaner Society Usmanpura,380013,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,OYO Premium Ashram Road II,18947,3,5.5,Near Champaner Society Usmanpura,380013,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,OYO Premium Ashram Road II,2682,3,5.5,Near Champaner Society Usmanpura,380013,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,OYO Premium Ashram Road II,2682,3,5.5,Near Champaner Society Usmanpura,380013,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,OYO Premium Ashram Road II,2682,3,5.5,Near Champaner Society Usmanpura,380013,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,OYO Premium Ashram Road II,3352,3,5.5,Near Champaner Society Usmanpura,380013,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,OYO Premium Ashram Road II,18947,3,5.5,Near Champaner Society Usmanpura,380013,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,OYO Premium Ashram Road II,18947,3,5.5,Near Champaner Society Usmanpura,380013,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,OYO Rooms Kankaria Lake Maninagar,2213,3,5.9,Radhe Mall A Block Khokra Circle,380026,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,OYO Rooms Kankaria Lake Maninagar,2213,3,5.9,Radhe Mall A Block Khokra Circle,380026,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,OYO Rooms Kankaria Lake Maninagar,2213,3,5.9,Radhe Mall A Block Khokra Circle,380026,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,OYO Rooms Kankaria Lake Maninagar,2213,3,5.9,Radhe Mall A Block Khokra Circle,380026,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,OYO Rooms Kankaria Lake Maninagar,2213,3,5.9,Radhe Mall A Block Khokra Circle,380026,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,OYO Rooms Kankaria Lake Maninagar,2213,3,5.9,Radhe Mall A Block Khokra Circle,380026,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,OYO Rooms Kankaria Lake Maninagar,2213,3,5.9,Radhe Mall A Block Khokra Circle,380026,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,OYO Rooms Kankaria Lake Maninagar,2213,3,5.9,Radhe Mall A Block Khokra Circle,380026,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,OYO Rooms Near ONGC Chandkheda,1702,3,14.2,2nd Floor Srushti Arcade,380005,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,OYO Rooms Near ONGC Chandkheda,1702,3,14.2,2nd Floor Srushti Arcade,380005,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,OYO Rooms Near ONGC Chandkheda,1702,3,14.2,2nd Floor Srushti Arcade,380005,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,OYO Rooms Near ONGC Chandkheda,1702,3,14.2,2nd Floor Srushti Arcade,380005,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,OYO Rooms Near ONGC Chandkheda,1702,3,14.2,2nd Floor Srushti Arcade,380005,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,OYO Rooms Near ONGC Chandkheda,1702,3,14.2,2nd Floor Srushti Arcade,380005,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,OYO Rooms Near ONGC Chandkheda,1702,3,14.2,2nd Floor Srushti Arcade,380005,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,OYO Rooms Near ONGC Chandkheda,1702,3,14.2,2nd Floor Srushti Arcade,380005,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,OYO Rooms Sola Bridge SG Highway,2086,3,9.9,Malhar Complex,380060,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,OYO Rooms Sola Bridge SG Highway,2086,3,9.9,Malhar Complex,380060,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,OYO Rooms Sola Bridge SG Highway,2086,3,9.9,Malhar Complex,380060,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,OYO Rooms Sola Bridge SG Highway,2086,3,9.9,Malhar Complex,380060,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,OYO Rooms Sola Bridge SG Highway,2086,3,9.9,Malhar Complex,380060,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,OYO Rooms Sola Bridge SG Highway,2086,3,9.9,Malhar Complex,380060,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,OYO Rooms Sola Bridge SG Highway,2086,3,9.9,Malhar Complex,380060,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,OYO Rooms Sola Bridge SG Highway,2086,3,9.9,Malhar Complex,380060,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,OYO Rooms Thaltej SG Highway,2469,3,10,3rd Floor JB Tower,380054,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,OYO Rooms Thaltej SG Highway,2469,3,10,3rd Floor JB Tower,380054,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,OYO Rooms Thaltej SG Highway,2469,3,10,3rd Floor JB Tower,380054,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,OYO Rooms Thaltej SG Highway,2469,3,10,3rd Floor JB Tower,380054,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,OYO Rooms Thaltej SG Highway,2469,3,10,3rd Floor JB Tower,380054,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,OYO Rooms Thaltej SG Highway,3086,3,10,3rd Floor JB Tower,380054,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,OYO Rooms Thaltej SG Highway,5640,3,10,3rd Floor JB Tower,380054,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,OYO Rooms Thaltej SG Highway,5959,3,10,3rd Floor JB Tower,380054,Ahmedabad hotel next to shopping,1,1,15,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Hotel Salute,2199,3,6.2,Above Bata Showroom Opp Times of India,380009,3,1,1,21,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Hotel Salute,1899,3,6.2,Above Bata Showroom Opp Times of India,380009,3,1,1,21,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Hotel Salute,1899,3,6.2,Above Bata Showroom Opp Times of India,380009,3,1,1,21,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Hotel Salute,1899,3,6.2,Above Bata Showroom Opp Times of India,380009,3,1,1,21,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Hotel Salute,1899,3,6.2,Above Bata Showroom Opp Times of India,380009,3,1,1,21,1
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Hotel Salute,1899,3,6.2,Above Bata Showroom Opp Times of India,380009,3,1,1,21,1
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Hotel Salute,1899,3,6.2,Above Bata Showroom Opp Times of India,380009,3,1,1,21,1
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Hotel Salute,1899,3,6.2,Above Bata Showroom Opp Times of India,380009,3,1,1,21,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Krios Hotel,3000,3,9.2,2 Devang Park Panjarapole Char Rasta,380015,3,1,1,24,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Krios Hotel,3000,3,9.2,2 Devang Park Panjarapole Char Rasta,380015,3,1,1,24,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Krios Hotel,3000,3,9.2,2 Devang Park Panjarapole Char Rasta,380015,3,1,1,24,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Krios Hotel,3000,3,9.2,2 Devang Park Panjarapole Char Rasta,380015,3,1,1,24,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Krios Hotel,2800,3,9.2,2 Devang Park Panjarapole Char Rasta,380015,3,1,1,24,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Krios Hotel,2800,3,9.2,2 Devang Park Panjarapole Char Rasta,380015,3,1,1,24,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Krios Hotel,2800,3,9.2,2 Devang Park Panjarapole Char Rasta,380015,3,1,1,24,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Krios Hotel,3150,3,9.2,2 Devang Park Panjarapole Char Rasta,380015,3,1,1,24,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,The Grand Bhagwati,5100,3.5,11,"Opposite to Gurudwara, Near Thaltej Cross Road, S.G. Road, Ahmedabad, Gujarat, 380054 India",380054,3.5,1,1,25,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,The Grand Bhagwati,5100,3.5,11,"Opposite to Gurudwara, Near Thaltej Cross Road, S.G. Road, Ahmedabad, Gujarat, 380054 India",380054,3.5,1,1,25,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,The Grand Bhagwati,5100,3.5,11,"Opposite to Gurudwara, Near Thaltej Cross Road, S.G. Road, Ahmedabad, Gujarat, 380054 India",380054,3.5,1,1,25,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,The Grand Bhagwati,5100,3.5,11,"Opposite to Gurudwara, Near Thaltej Cross Road, S.G. Road, Ahmedabad, Gujarat, 380054 India",380054,3.5,1,1,25,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,The Grand Bhagwati,5100,3.5,11,"Opposite to Gurudwara, Near Thaltej Cross Road, S.G. Road, Ahmedabad, Gujarat, 380054 India",380054,3.5,1,1,25,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,The Grand Bhagwati,5100,3.5,11,"Opposite to Gurudwara, Near Thaltej Cross Road, S.G. Road, Ahmedabad, Gujarat, 380054 India",380054,3.5,1,1,25,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,The Grand Bhagwati,5100,3.5,11,"Opposite to Gurudwara, Near Thaltej Cross Road, S.G. Road, Ahmedabad, Gujarat, 380054 India",380054,3.5,1,1,25,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,The Grand Bhagwati,6000,3.5,11,"Opposite to Gurudwara, Near Thaltej Cross Road, S.G. Road, Ahmedabad, Gujarat, 380054 India",380054,3.5,1,1,25,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Hotel Volga,1700,2,6.4,Near Ankelsharia Hospital,380001,City-center hotel in Ahmedabad,1,0,30,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Hotel Volga,1700,2,6.4,Near Ankelsharia Hospital,380001,City-center hotel in Ahmedabad,1,0,30,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Hotel Volga,1700,2,6.4,Near Ankelsharia Hospital,380001,City-center hotel in Ahmedabad,1,0,30,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Hotel Volga,1700,2,6.4,Near Ankelsharia Hospital,380001,City-center hotel in Ahmedabad,1,0,30,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Hotel Volga,1700,2,6.4,Near Ankelsharia Hospital,380001,City-center hotel in Ahmedabad,1,0,30,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Hotel Volga,1700,2,6.4,Near Ankelsharia Hospital,380001,City-center hotel in Ahmedabad,1,0,30,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Hotel Volga,1900,2,6.4,Near Ankelsharia Hospital,380001,City-center hotel in Ahmedabad,1,0,30,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Hotel Volga,1900,2,6.4,Near Ankelsharia Hospital,380001,City-center hotel in Ahmedabad,1,0,30,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Hotel Vice President,1493,2.5,12,Opp Bata Showroom Nr. Times of India,380006,No-frills Ahmedabad hotel with restaurant,1,1,32,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Hotel Vice President,1493,2.5,12,Opp Bata Showroom Nr. Times of India,380006,No-frills Ahmedabad hotel with restaurant,1,1,32,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Hotel Vice President,1493,2.5,12,Opp Bata Showroom Nr. Times of India,380006,No-frills Ahmedabad hotel with restaurant,1,1,32,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Hotel Vice President,1493,2.5,12,Opp Bata Showroom Nr. Times of India,380006,No-frills Ahmedabad hotel with restaurant,1,1,32,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Hotel Vice President,1493,2.5,12,Opp Bata Showroom Nr. Times of India,380006,No-frills Ahmedabad hotel with restaurant,1,1,32,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Hotel Vice President,1493,2.5,12,Opp Bata Showroom Nr. Times of India,380006,No-frills Ahmedabad hotel with restaurant,1,1,32,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Hotel Vice President,6068,2.5,12,Opp Bata Showroom Nr. Times of India,380006,No-frills Ahmedabad hotel with restaurant,1,1,32,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Hotel Vice President,6068,2.5,12,Opp Bata Showroom Nr. Times of India,380006,No-frills Ahmedabad hotel with restaurant,1,1,32,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Hotel Platinum Inn,3200,3,10,B/S. Gujarat Gram Haat,380007,Adults-only hotel in Ahmedabad with restaurant conference center,1,1,35,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Hotel Platinum Inn,3200,3,10,B/S. Gujarat Gram Haat,380007,Adults-only hotel in Ahmedabad with restaurant conference center,1,1,35,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Hotel Platinum Inn,3500,3,10,B/S. Gujarat Gram Haat,380007,Adults-only hotel in Ahmedabad with restaurant conference center,1,1,35,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Hotel Platinum Inn,3500,3,10,B/S. Gujarat Gram Haat,380007,Adults-only hotel in Ahmedabad with restaurant conference center,1,1,35,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Hotel Platinum Inn,3500,3,10,B/S. Gujarat Gram Haat,380007,Adults-only hotel in Ahmedabad with restaurant conference center,1,1,35,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Hotel Platinum Inn,3500,3,10,B/S. Gujarat Gram Haat,380007,Adults-only hotel in Ahmedabad with restaurant conference center,1,1,35,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Hotel Platinum Inn,3500,3,10,B/S. Gujarat Gram Haat,380007,Adults-only hotel in Ahmedabad with restaurant conference center,1,1,35,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Hotel Platinum Inn,3150,3,10,B/S. Gujarat Gram Haat,380007,Adults-only hotel in Ahmedabad with restaurant conference center,1,1,35,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Parker Lords Eco Inn Ahmedabad,2800,3,8.2,10 Vasant Baugh SocietyGulbai Tekra Rd,380006,3,1,1,36,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Parker Lords Eco Inn Ahmedabad,2800,3,8.2,10 Vasant Baugh SocietyGulbai Tekra Rd,380006,3,1,1,36,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Parker Lords Eco Inn Ahmedabad,2500,3,8.2,10 Vasant Baugh SocietyGulbai Tekra Rd,380006,3,1,1,36,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Parker Lords Eco Inn Ahmedabad,2500,3,8.2,10 Vasant Baugh SocietyGulbai Tekra Rd,380006,3,1,1,36,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Parker Lords Eco Inn Ahmedabad,2500,3,8.2,10 Vasant Baugh SocietyGulbai Tekra Rd,380006,3,1,1,36,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Parker Lords Eco Inn Ahmedabad,2500,3,8.2,10 Vasant Baugh SocietyGulbai Tekra Rd,380006,3,1,1,36,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Parker Lords Eco Inn Ahmedabad,3000,3,8.2,10 Vasant Baugh SocietyGulbai Tekra Rd,380006,3,1,1,36,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Parker Lords Eco Inn Ahmedabad,3000,3,8.2,10 Vasant Baugh SocietyGulbai Tekra Rd,380006,3,1,1,36,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Hotel Suba Star,3280,3.5,11,"Judges Bungalow Road, Bodakdev, Opp. Premchand Nagar, Ahmedabad, Gujarat, 380054 India",380054,3.5,1,1,36,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Hotel Suba Star,3280,3.5,11,"Judges Bungalow Road, Bodakdev, Opp. Premchand Nagar, Ahmedabad, Gujarat, 380054 India",380054,3.5,1,1,36,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Hotel Suba Star,3280,3.5,11,"Judges Bungalow Road, Bodakdev, Opp. Premchand Nagar, Ahmedabad, Gujarat, 380054 India",380054,3.5,1,1,36,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Hotel Suba Star,3280,3.5,11,"Judges Bungalow Road, Bodakdev, Opp. Premchand Nagar, Ahmedabad, Gujarat, 380054 India",380054,3.5,1,1,36,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Hotel Suba Star,3280,3.5,11,"Judges Bungalow Road, Bodakdev, Opp. Premchand Nagar, Ahmedabad, Gujarat, 380054 India",380054,3.5,1,1,36,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Hotel Suba Star,3280,3.5,11,"Judges Bungalow Road, Bodakdev, Opp. Premchand Nagar, Ahmedabad, Gujarat, 380054 India",380054,3.5,1,1,36,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Hotel Suba Star,3280,3.5,11,"Judges Bungalow Road, Bodakdev, Opp. Premchand Nagar, Ahmedabad, Gujarat, 380054 India",380054,3.5,1,1,36,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Hotel Suba Star,3859,3.5,11,"Judges Bungalow Road, Bodakdev, Opp. Premchand Nagar, Ahmedabad, Gujarat, 380054 India",380054,3.5,1,1,36,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Hotel Summit,2900,3,7.9,Opp. Lal Bunglow C G Road,380009,3,1,1,38,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Hotel Summit,2900,3,7.9,Opp. Lal Bunglow C G Road,380009,3,1,1,38,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Hotel Summit,2900,3,7.9,Opp. Lal Bunglow C G Road,380009,3,1,1,38,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Hotel Summit,2900,3,7.9,Opp. Lal Bunglow C G Road,380009,3,1,1,38,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Hotel Summit,2900,3,7.9,Opp. Lal Bunglow C G Road,380009,3,1,1,38,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Hotel Summit,2900,3,7.9,Opp. Lal Bunglow C G Road,380009,3,1,1,38,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Hotel Summit,3100,3,7.9,Opp. Lal Bunglow C G Road,380009,3,1,1,38,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Hotel Summit,3100,3,7.9,Opp. Lal Bunglow C G Road,380009,3,1,1,38,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,The House of MG,5680,3.5,6.4,"Opp. Sidi Saiyad Jali, Lal Darwaja, Ahmedabad, Gujarat, 380001 India",380001,"Historic hotel in Ahmedabad City Centre with spa, indoor pool",1,1,38,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,The House of MG,4800,3.5,6.4,"Opp. Sidi Saiyad Jali, Lal Darwaja, Ahmedabad, Gujarat, 380001 India",380001,"Historic hotel in Ahmedabad City Centre with spa, indoor pool",1,1,38,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,The House of MG,5440,3.5,6.4,"Opp. Sidi Saiyad Jali, Lal Darwaja, Ahmedabad, Gujarat, 380001 India",380001,"Historic hotel in Ahmedabad City Centre with spa, indoor pool",1,1,38,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,The House of MG,3840,3.5,6.4,"Opp. Sidi Saiyad Jali, Lal Darwaja, Ahmedabad, Gujarat, 380001 India",380001,"Historic hotel in Ahmedabad City Centre with spa, indoor pool",1,1,38,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,The House of MG,5100,3.5,6.4,"Opp. Sidi Saiyad Jali, Lal Darwaja, Ahmedabad, Gujarat, 380001 India",380001,"Historic hotel in Ahmedabad City Centre with spa, indoor pool",1,1,38,1
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,The House of MG,4080,3.5,6.4,"Opp. Sidi Saiyad Jali, Lal Darwaja, Ahmedabad, Gujarat, 380001 India",380001,"Historic hotel in Ahmedabad City Centre with spa, indoor pool",1,1,38,1
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,The House of MG,7300,3.5,6.4,"Opp. Sidi Saiyad Jali, Lal Darwaja, Ahmedabad, Gujarat, 380001 India",380001,"Historic hotel in Ahmedabad City Centre with spa, indoor pool",1,1,38,1
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,The House of MG,7440,3.5,6.4,"Opp. Sidi Saiyad Jali, Lal Darwaja, Ahmedabad, Gujarat, 380001 India",380001,"Historic hotel in Ahmedabad City Centre with spa, indoor pool",1,1,38,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Hotel El Dorado,3801,3.5,7.1,"Opp Shree Krishna Complex, Across Cross World, Ahmedabad, Gujarat, 380009 India",380009,Art Deco hotel in Ahmedabad City Centre with restaurant,1,1,40,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Hotel El Dorado,3780,3.5,7.1,"Opp Shree Krishna Complex, Across Cross World, Ahmedabad, Gujarat, 380009 India",380009,Art Deco hotel in Ahmedabad City Centre with restaurant,1,1,40,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Hotel El Dorado,3801,3.5,7.1,"Opp Shree Krishna Complex, Across Cross World, Ahmedabad, Gujarat, 380009 India",380009,Art Deco hotel in Ahmedabad City Centre with restaurant,1,1,40,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Hotel El Dorado,3801,3.5,7.1,"Opp Shree Krishna Complex, Across Cross World, Ahmedabad, Gujarat, 380009 India",380009,Art Deco hotel in Ahmedabad City Centre with restaurant,1,1,40,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Hotel El Dorado,3801,3.5,7.1,"Opp Shree Krishna Complex, Across Cross World, Ahmedabad, Gujarat, 380009 India",380009,Art Deco hotel in Ahmedabad City Centre with restaurant,1,1,40,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Hotel El Dorado,3801,3.5,7.1,"Opp Shree Krishna Complex, Across Cross World, Ahmedabad, Gujarat, 380009 India",380009,Art Deco hotel in Ahmedabad City Centre with restaurant,1,1,40,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Hotel El Dorado,3801,3.5,7.1,"Opp Shree Krishna Complex, Across Cross World, Ahmedabad, Gujarat, 380009 India",380009,Art Deco hotel in Ahmedabad City Centre with restaurant,1,1,40,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Hotel El Dorado,3801,3.5,7.1,"Opp Shree Krishna Complex, Across Cross World, Ahmedabad, Gujarat, 380009 India",380009,Art Deco hotel in Ahmedabad City Centre with restaurant,1,1,40,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,HOTEL REZAAS,3128,3.5,7.5,"375/1 Sheetal Baug, Gujarat, Mithakhali, Ellishbridge, Ahmedabad",380006,City-center Ahmedabad hotel with restaurant,1,1,40,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 21 2016,HOTEL REZAAS,3128,3.5,7.5,"375/1 Sheetal Baug, Gujarat, Mithakhali, Ellishbridge, Ahmedabad",380006,City-center Ahmedabad hotel with restaurant,1,1,40,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,HOTEL REZAAS,3128,3.5,7.5,"375/1 Sheetal Baug, Gujarat, Mithakhali, Ellishbridge, Ahmedabad",380006,City-center Ahmedabad hotel with restaurant,1,1,40,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,HOTEL REZAAS,3128,3.5,7.5,"375/1 Sheetal Baug, Gujarat, Mithakhali, Ellishbridge, Ahmedabad",380006,City-center Ahmedabad hotel with restaurant,1,1,40,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 28 2016,HOTEL REZAAS,3128,3.5,7.5,"375/1 Sheetal Baug, Gujarat, Mithakhali, Ellishbridge, Ahmedabad",380006,City-center Ahmedabad hotel with restaurant,1,1,40,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,HOTEL REZAAS,3128,3.5,7.5,"375/1 Sheetal Baug, Gujarat, Mithakhali, Ellishbridge, Ahmedabad",380006,City-center Ahmedabad hotel with restaurant,1,1,40,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 04 2017,HOTEL REZAAS,3374,3.5,7.5,"375/1 Sheetal Baug, Gujarat, Mithakhali, Ellishbridge, Ahmedabad",380006,City-center Ahmedabad hotel with restaurant,1,1,40,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,HOTEL REZAAS,3374,3.5,7.5,"375/1 Sheetal Baug, Gujarat, Mithakhali, Ellishbridge, Ahmedabad",380006,City-center Ahmedabad hotel with restaurant,1,1,40,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Hotel Kadamb Inn,2000,2.5,6.8,Ashram Road NR City Gold Cinema,380009,No-frills hotel in Ahmedabad City Centre with bar/lounge,1,1,40,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Hotel Kadamb Inn,2000,2.5,6.8,Ashram Road NR City Gold Cinema,380009,No-frills hotel in Ahmedabad City Centre with bar/lounge,1,1,40,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Hotel Kadamb Inn,2000,2.5,6.8,Ashram Road NR City Gold Cinema,380009,No-frills hotel in Ahmedabad City Centre with bar/lounge,1,1,40,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Hotel Kadamb Inn,2000,2.5,6.8,Ashram Road NR City Gold Cinema,380009,No-frills hotel in Ahmedabad City Centre with bar/lounge,1,1,40,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Hotel Kadamb Inn,2000,2.5,6.8,Ashram Road NR City Gold Cinema,380009,No-frills hotel in Ahmedabad City Centre with bar/lounge,1,1,40,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Hotel Kadamb Inn,2000,2.5,6.8,Ashram Road NR City Gold Cinema,380009,No-frills hotel in Ahmedabad City Centre with bar/lounge,1,1,40,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Hotel Kadamb Inn,2400,2.5,6.8,Ashram Road NR City Gold Cinema,380009,No-frills hotel in Ahmedabad City Centre with bar/lounge,1,1,40,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Hotel Kadamb Inn,2400,2.5,6.8,Ashram Road NR City Gold Cinema,380009,No-frills hotel in Ahmedabad City Centre with bar/lounge,1,1,40,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Hotel Grand Ambience,1887,3.5,6.3,"Near Sidi Sayyed Masjid, Opp Dinbai tower, Lal Darwaja, Ahmedabad, Gujarat, 380001 India",380001,3.5,1,1,41,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Hotel Grand Ambience,1887,3.5,6.3,"Near Sidi Sayyed Masjid, Opp Dinbai tower, Lal Darwaja, Ahmedabad, Gujarat, 380001 India",380001,3.5,1,1,41,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Hotel Grand Ambience,1887,3.5,6.3,"Near Sidi Sayyed Masjid, Opp Dinbai tower, Lal Darwaja, Ahmedabad, Gujarat, 380001 India",380001,3.5,1,1,41,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Hotel Grand Ambience,1887,3.5,6.3,"Near Sidi Sayyed Masjid, Opp Dinbai tower, Lal Darwaja, Ahmedabad, Gujarat, 380001 India",380001,3.5,1,1,41,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Hotel Grand Ambience,1887,3.5,6.3,"Near Sidi Sayyed Masjid, Opp Dinbai tower, Lal Darwaja, Ahmedabad, Gujarat, 380001 India",380001,3.5,1,1,41,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Hotel Grand Ambience,1887,3.5,6.3,"Near Sidi Sayyed Masjid, Opp Dinbai tower, Lal Darwaja, Ahmedabad, Gujarat, 380001 India",380001,3.5,1,1,41,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Hotel Grand Ambience,2358,3.5,6.3,"Near Sidi Sayyed Masjid, Opp Dinbai tower, Lal Darwaja, Ahmedabad, Gujarat, 380001 India",380001,3.5,1,1,41,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Hotel Grand Ambience,2358,3.5,6.3,"Near Sidi Sayyed Masjid, Opp Dinbai tower, Lal Darwaja, Ahmedabad, Gujarat, 380001 India",380001,3.5,1,1,41,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Pristine Residency,2830,3.5,0.9,"Next to S.V.P. International Airport, Airport Road, Ahmedabad, Gujarat, 382475 India",382475,3.5,1,1,42,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Pristine Residency,2830,3.5,0.9,"Next to S.V.P. International Airport, Airport Road, Ahmedabad, Gujarat, 382475 India",382475,3.5,1,1,42,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Pristine Residency,2830,3.5,0.9,"Next to S.V.P. International Airport, Airport Road, Ahmedabad, Gujarat, 382475 India",382475,3.5,1,1,42,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Pristine Residency,2830,3.5,0.9,"Next to S.V.P. International Airport, Airport Road, Ahmedabad, Gujarat, 382475 India",382475,3.5,1,1,42,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Pristine Residency,2830,3.5,0.9,"Next to S.V.P. International Airport, Airport Road, Ahmedabad, Gujarat, 382475 India",382475,3.5,1,1,42,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Pristine Residency,2830,3.5,0.9,"Next to S.V.P. International Airport, Airport Road, Ahmedabad, Gujarat, 382475 India",382475,3.5,1,1,42,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Pristine Residency,2830,3.5,0.9,"Next to S.V.P. International Airport, Airport Road, Ahmedabad, Gujarat, 382475 India",382475,3.5,1,1,42,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Pristine Residency,2830,3.5,0.9,"Next to S.V.P. International Airport, Airport Road, Ahmedabad, Gujarat, 382475 India",382475,3.5,1,1,42,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Hotel Silver Cloud Ahmedabad,3000,3,4.6,Opp. Gandhi Ashram &amp; Dandi Bridge,380027,3,0,1,44,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Hotel Silver Cloud Ahmedabad,3000,3,4.6,Opp. Gandhi Ashram &amp; Dandi Bridge,380027,3,0,1,44,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Hotel Silver Cloud Ahmedabad,4500,3,4.6,Opp. Gandhi Ashram &amp; Dandi Bridge,380027,3,0,1,44,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Hotel Silver Cloud Ahmedabad,4500,3,4.6,Opp. Gandhi Ashram &amp; Dandi Bridge,380027,3,0,1,44,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Hotel Silver Cloud Ahmedabad,3000,3,4.6,Opp. Gandhi Ashram &amp; Dandi Bridge,380027,3,0,1,44,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Hotel Silver Cloud Ahmedabad,3000,3,4.6,Opp. Gandhi Ashram &amp; Dandi Bridge,380027,3,0,1,44,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Hotel Silver Cloud Ahmedabad,4500,3,4.6,Opp. Gandhi Ashram &amp; Dandi Bridge,380027,3,0,1,44,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Hotel Silver Cloud Ahmedabad,4500,3,4.6,Opp. Gandhi Ashram &amp; Dandi Bridge,380027,3,0,1,44,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Hotel Ritz Inn,3900,3,5.2,Station Road Kapasia Bazaar,380002,3,1,1,49,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Hotel Ritz Inn,3900,3,5.2,Station Road Kapasia Bazaar,380002,3,1,1,49,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Hotel Ritz Inn,3900,3,5.2,Station Road Kapasia Bazaar,380002,3,1,1,49,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Hotel Ritz Inn,3900,3,5.2,Station Road Kapasia Bazaar,380002,3,1,1,49,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Hotel Ritz Inn,3900,3,5.2,Station Road Kapasia Bazaar,380002,3,1,1,49,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Hotel Ritz Inn,3900,3,5.2,Station Road Kapasia Bazaar,380002,3,1,1,49,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Hotel Ritz Inn,3900,3,5.2,Station Road Kapasia Bazaar,380002,3,1,1,49,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Hotel Ritz Inn,3900,3,5.2,Station Road Kapasia Bazaar,380002,3,1,1,49,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Epsilon the Hotel,2640,3,8.2,Opp. Kothawala Flats,380006,City-center Ahmedabad motel with restaurant,1,1,49,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Epsilon the Hotel,2640,3,8.2,Opp. Kothawala Flats,380006,City-center Ahmedabad motel with restaurant,1,1,49,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Epsilon the Hotel,2640,3,8.2,Opp. Kothawala Flats,380006,City-center Ahmedabad motel with restaurant,1,1,49,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Epsilon the Hotel,2640,3,8.2,Opp. Kothawala Flats,380006,City-center Ahmedabad motel with restaurant,1,1,49,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Epsilon the Hotel,2640,3,8.2,Opp. Kothawala Flats,380006,City-center Ahmedabad motel with restaurant,1,1,49,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Epsilon the Hotel,2640,3,8.2,Opp. Kothawala Flats,380006,City-center Ahmedabad motel with restaurant,1,1,49,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Epsilon the Hotel,3100,3,8.2,Opp. Kothawala Flats,380006,City-center Ahmedabad motel with restaurant,1,1,49,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Epsilon the Hotel,3100,3,8.2,Opp. Kothawala Flats,380006,City-center Ahmedabad motel with restaurant,1,1,49,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Hotel Cosmopolitan Ahmedabad,2799,3.5,6.7,"Opp Darshan Society, Darshan Society Rd,Near Stadium Circle, Navrangpura,Ahmedabad,Gujarat,India",380009,3.5,1,0,52,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 21 2016,Hotel Cosmopolitan Ahmedabad,3999,3.5,6.7,"Opp Darshan Society, Darshan Society Rd,Near Stadium Circle, Navrangpura,Ahmedabad,Gujarat,India",380009,3.5,1,0,52,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Hotel Cosmopolitan Ahmedabad,3999,3.5,6.7,"Opp Darshan Society, Darshan Society Rd,Near Stadium Circle, Navrangpura,Ahmedabad,Gujarat,India",380009,3.5,1,0,52,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Hotel Cosmopolitan Ahmedabad,2799,3.5,6.7,"Opp Darshan Society, Darshan Society Rd,Near Stadium Circle, Navrangpura,Ahmedabad,Gujarat,India",380009,3.5,1,0,52,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 28 2016,Hotel Cosmopolitan Ahmedabad,3999,3.5,6.7,"Opp Darshan Society, Darshan Society Rd,Near Stadium Circle, Navrangpura,Ahmedabad,Gujarat,India",380009,3.5,1,0,52,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Hotel Cosmopolitan Ahmedabad,2799,3.5,6.7,"Opp Darshan Society, Darshan Society Rd,Near Stadium Circle, Navrangpura,Ahmedabad,Gujarat,India",380009,3.5,1,0,52,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 04 2017,Hotel Cosmopolitan Ahmedabad,3999,3.5,6.7,"Opp Darshan Society, Darshan Society Rd,Near Stadium Circle, Navrangpura,Ahmedabad,Gujarat,India",380009,3.5,1,0,52,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Hotel Cosmopolitan Ahmedabad,3999,3.5,6.7,"Opp Darshan Society, Darshan Society Rd,Near Stadium Circle, Navrangpura,Ahmedabad,Gujarat,India",380009,3.5,1,0,52,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,"Lemon Tree Premier The Atrium, Ahmedabad",5084,4,6.5,"Off Nehru Bridge, Sabarmati River Front, Ahmedabad, Gujarat, 380001, India",380001,4,1,1,63,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,"Lemon Tree Premier The Atrium, Ahmedabad",5084,4,6.5,"Off Nehru Bridge, Sabarmati River Front, Ahmedabad, Gujarat, 380001, India",380001,4,1,1,63,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,"Lemon Tree Premier The Atrium, Ahmedabad",3416,4,6.5,"Off Nehru Bridge, Sabarmati River Front, Ahmedabad, Gujarat, 380001, India",380001,4,1,1,63,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,"Lemon Tree Premier The Atrium, Ahmedabad",3416,4,6.5,"Off Nehru Bridge, Sabarmati River Front, Ahmedabad, Gujarat, 380001, India",380001,4,1,1,63,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,"Lemon Tree Premier The Atrium, Ahmedabad",3416,4,6.5,"Off Nehru Bridge, Sabarmati River Front, Ahmedabad, Gujarat, 380001, India",380001,4,1,1,63,1
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,"Lemon Tree Premier The Atrium, Ahmedabad",3416,4,6.5,"Off Nehru Bridge, Sabarmati River Front, Ahmedabad, Gujarat, 380001, India",380001,4,1,1,63,1
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,"Lemon Tree Premier The Atrium, Ahmedabad",3416,4,6.5,"Off Nehru Bridge, Sabarmati River Front, Ahmedabad, Gujarat, 380001, India",380001,4,1,1,63,1
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,"Lemon Tree Premier The Atrium, Ahmedabad",3416,4,6.5,"Off Nehru Bridge, Sabarmati River Front, Ahmedabad, Gujarat, 380001, India",380001,4,1,1,63,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Hotel Nami Residency,3199,3.5,7.6,"OPP VS HOSPITAL, ELLISBRIDGE ASHRAM ROAD, Ahmedabad, Gujarat, 380006 India",380006,City-center Ahmedabad hotel with restaurant,1,1,66,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Hotel Nami Residency,3499,3.5,7.6,"OPP VS HOSPITAL, ELLISBRIDGE ASHRAM ROAD, Ahmedabad, Gujarat, 380006 India",380006,City-center Ahmedabad hotel with restaurant,1,1,66,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Hotel Nami Residency,3199,3.5,7.6,"OPP VS HOSPITAL, ELLISBRIDGE ASHRAM ROAD, Ahmedabad, Gujarat, 380006 India",380006,City-center Ahmedabad hotel with restaurant,1,1,66,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Hotel Nami Residency,3199,3.5,7.6,"OPP VS HOSPITAL, ELLISBRIDGE ASHRAM ROAD, Ahmedabad, Gujarat, 380006 India",380006,City-center Ahmedabad hotel with restaurant,1,1,66,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Hotel Nami Residency,3499,3.5,7.6,"OPP VS HOSPITAL, ELLISBRIDGE ASHRAM ROAD, Ahmedabad, Gujarat, 380006 India",380006,City-center Ahmedabad hotel with restaurant,1,1,66,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Hotel Nami Residency,3199,3.5,7.6,"OPP VS HOSPITAL, ELLISBRIDGE ASHRAM ROAD, Ahmedabad, Gujarat, 380006 India",380006,City-center Ahmedabad hotel with restaurant,1,1,66,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Hotel Nami Residency,5000,3.5,7.6,"OPP VS HOSPITAL, ELLISBRIDGE ASHRAM ROAD, Ahmedabad, Gujarat, 380006 India",380006,City-center Ahmedabad hotel with restaurant,1,1,66,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Hotel Nami Residency,5000,3.5,7.6,"OPP VS HOSPITAL, ELLISBRIDGE ASHRAM ROAD, Ahmedabad, Gujarat, 380006 India",380006,City-center Ahmedabad hotel with restaurant,1,1,66,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,The Cloud Hotel,3500,3,7.6,Near Khokhra Circle Maninagar(E),380008,3,1,1,68,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,The Cloud Hotel,3500,3,7.6,Near Khokhra Circle Maninagar(E),380008,3,1,1,68,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,The Cloud Hotel,3500,3,7.6,Near Khokhra Circle Maninagar(E),380008,3,1,1,68,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,The Cloud Hotel,3500,3,7.6,Near Khokhra Circle Maninagar(E),380008,3,1,1,68,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,The Cloud Hotel,3500,3,7.6,Near Khokhra Circle Maninagar(E),380008,3,1,1,68,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,The Cloud Hotel,3500,3,7.6,Near Khokhra Circle Maninagar(E),380008,3,1,1,68,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,The Cloud Hotel,4000,3,7.6,Near Khokhra Circle Maninagar(E),380008,3,1,1,68,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,The Cloud Hotel,4000,3,7.6,Near Khokhra Circle Maninagar(E),380008,3,1,1,68,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Country Inns & Suites By Carlson - Ahmedabad,3721,3.5,11,"Surdhara Circle; Off Drive In Road, Ahmedabad, Gujarat, 380054, India",380054,Suburban hotel in Ahmedabad with 2 restaurants,1,1,68,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Country Inns & Suites By Carlson - Ahmedabad,3994,3.5,11,"Surdhara Circle; Off Drive In Road, Ahmedabad, Gujarat, 380054, India",380054,Suburban hotel in Ahmedabad with 2 restaurants,1,1,68,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Country Inns & Suites By Carlson - Ahmedabad,3723,3.5,11,"Surdhara Circle; Off Drive In Road, Ahmedabad, Gujarat, 380054, India",380054,Suburban hotel in Ahmedabad with 2 restaurants,1,1,68,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Country Inns & Suites By Carlson - Ahmedabad,3723,3.5,11,"Surdhara Circle; Off Drive In Road, Ahmedabad, Gujarat, 380054, India",380054,Suburban hotel in Ahmedabad with 2 restaurants,1,1,68,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Country Inns & Suites By Carlson - Ahmedabad,3989,3.5,11,"Surdhara Circle; Off Drive In Road, Ahmedabad, Gujarat, 380054, India",380054,Suburban hotel in Ahmedabad with 2 restaurants,1,1,68,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Country Inns & Suites By Carlson - Ahmedabad,3725,3.5,11,"Surdhara Circle; Off Drive In Road, Ahmedabad, Gujarat, 380054, India",380054,Suburban hotel in Ahmedabad with 2 restaurants,1,1,68,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Country Inns & Suites By Carlson - Ahmedabad,5599,3.5,11,"Surdhara Circle; Off Drive In Road, Ahmedabad, Gujarat, 380054, India",380054,Suburban hotel in Ahmedabad with 2 restaurants,1,1,68,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Country Inns & Suites By Carlson - Ahmedabad,5599,3.5,11,"Surdhara Circle; Off Drive In Road, Ahmedabad, Gujarat, 380054, India",380054,Suburban hotel in Ahmedabad with 2 restaurants,1,1,68,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Sarovar Portico Ahmedabad,3600,3,7.2,Bhawan&#39;s College Road,380001,3,1,1,69,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Sarovar Portico Ahmedabad,3900,3,7.2,Bhawan&#39;s College Road,380001,3,1,1,69,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Sarovar Portico Ahmedabad,3600,3,7.2,Bhawan&#39;s College Road,380001,3,1,1,69,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Sarovar Portico Ahmedabad,3600,3,7.2,Bhawan&#39;s College Road,380001,3,1,1,69,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Sarovar Portico Ahmedabad,3900,3,7.2,Bhawan&#39;s College Road,380001,3,1,1,69,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Sarovar Portico Ahmedabad,5400,3,7.2,Bhawan&#39;s College Road,380001,3,1,1,69,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Sarovar Portico Ahmedabad,5400,3,7.2,Bhawan&#39;s College Road,380001,3,1,1,69,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Sarovar Portico Ahmedabad,5400,3,7.2,Bhawan&#39;s College Road,380001,3,1,1,69,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,The Metropole Hotel,3800,4,3.8,"Near R.T.O. Circle, Subhash Bridge Corner, Ahmedabad, Gujarat, 380 027 India",380027,"Riverfront hotel in Ahmedabad with restaurant, health club",1,1,70,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,The Metropole Hotel,3800,4,3.8,"Near R.T.O. Circle, Subhash Bridge Corner, Ahmedabad, Gujarat, 380 027 India",380027,"Riverfront hotel in Ahmedabad with restaurant, health club",1,1,70,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,The Metropole Hotel,3800,4,3.8,"Near R.T.O. Circle, Subhash Bridge Corner, Ahmedabad, Gujarat, 380 027 India",380027,"Riverfront hotel in Ahmedabad with restaurant, health club",1,1,70,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,The Metropole Hotel,3800,4,3.8,"Near R.T.O. Circle, Subhash Bridge Corner, Ahmedabad, Gujarat, 380 027 India",380027,"Riverfront hotel in Ahmedabad with restaurant, health club",1,1,70,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,The Metropole Hotel,3800,4,3.8,"Near R.T.O. Circle, Subhash Bridge Corner, Ahmedabad, Gujarat, 380 027 India",380027,"Riverfront hotel in Ahmedabad with restaurant, health club",1,1,70,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,The Metropole Hotel,3800,4,3.8,"Near R.T.O. Circle, Subhash Bridge Corner, Ahmedabad, Gujarat, 380 027 India",380027,"Riverfront hotel in Ahmedabad with restaurant, health club",1,1,70,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,The Metropole Hotel,3800,4,3.8,"Near R.T.O. Circle, Subhash Bridge Corner, Ahmedabad, Gujarat, 380 027 India",380027,"Riverfront hotel in Ahmedabad with restaurant, health club",1,1,70,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,The Metropole Hotel,5000,4,3.8,"Near R.T.O. Circle, Subhash Bridge Corner, Ahmedabad, Gujarat, 380 027 India",380027,"Riverfront hotel in Ahmedabad with restaurant, health club",1,1,70,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Fortune Park,4410,4,7.7,"Opposite Gujarat College, Ellis Bridge, Ahmedabad, Gujarat, 380 006, India",380006,Upscale hotel in Ahmedabad City Centre with restaurant,1,1,77,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Fortune Park,4410,4,7.7,"Opposite Gujarat College, Ellis Bridge, Ahmedabad, Gujarat, 380 006, India",380006,Upscale hotel in Ahmedabad City Centre with restaurant,1,1,77,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Fortune Park,4600,4,7.7,"Opposite Gujarat College, Ellis Bridge, Ahmedabad, Gujarat, 380 006, India",380006,Upscale hotel in Ahmedabad City Centre with restaurant,1,1,77,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Fortune Park,4900,4,7.7,"Opposite Gujarat College, Ellis Bridge, Ahmedabad, Gujarat, 380 006, India",380006,Upscale hotel in Ahmedabad City Centre with restaurant,1,1,77,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Fortune Park,4900,4,7.7,"Opposite Gujarat College, Ellis Bridge, Ahmedabad, Gujarat, 380 006, India",380006,Upscale hotel in Ahmedabad City Centre with restaurant,1,1,77,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Fortune Park,4600,4,7.7,"Opposite Gujarat College, Ellis Bridge, Ahmedabad, Gujarat, 380 006, India",380006,Upscale hotel in Ahmedabad City Centre with restaurant,1,1,77,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Fortune Park,5220,4,7.7,"Opposite Gujarat College, Ellis Bridge, Ahmedabad, Gujarat, 380 006, India",380006,Upscale hotel in Ahmedabad City Centre with restaurant,1,1,77,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Fortune Park,5220,4,7.7,"Opposite Gujarat College, Ellis Bridge, Ahmedabad, Gujarat, 380 006, India",380006,Upscale hotel in Ahmedabad City Centre with restaurant,1,1,77,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Hotel Inder Residency,3099,3.5,7.6,"Plot No 578/5, Opp Gujarat College, EllisBridge, Ahmedabad, Gujarat, 380006 India",380006,3.5,0,1,79,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Hotel Inder Residency,3699,3.5,7.6,"Plot No 578/5, Opp Gujarat College, EllisBridge, Ahmedabad, Gujarat, 380006 India",380006,3.5,0,1,79,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Hotel Inder Residency,3099,3.5,7.6,"Plot No 578/5, Opp Gujarat College, EllisBridge, Ahmedabad, Gujarat, 380006 India",380006,3.5,0,1,79,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Hotel Inder Residency,3099,3.5,7.6,"Plot No 578/5, Opp Gujarat College, EllisBridge, Ahmedabad, Gujarat, 380006 India",380006,3.5,0,1,79,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Hotel Inder Residency,3699,3.5,7.6,"Plot No 578/5, Opp Gujarat College, EllisBridge, Ahmedabad, Gujarat, 380006 India",380006,3.5,0,1,79,1
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Hotel Inder Residency,3099,3.5,7.6,"Plot No 578/5, Opp Gujarat College, EllisBridge, Ahmedabad, Gujarat, 380006 India",380006,3.5,0,1,79,1
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Hotel Inder Residency,3699,3.5,7.6,"Plot No 578/5, Opp Gujarat College, EllisBridge, Ahmedabad, Gujarat, 380006 India",380006,3.5,0,1,79,1
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Hotel Inder Residency,3699,3.5,7.6,"Plot No 578/5, Opp Gujarat College, EllisBridge, Ahmedabad, Gujarat, 380006 India",380006,3.5,0,1,79,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Fortune Inn Haveli,5100,4,17,"235 Sector 11, Gandhinagar, Gujarat, 382011, India",382011,Gandhinagar upscale hotel with restaurant,0,1,83,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Fortune Inn Haveli,5100,4,17,"236 Sector 11, Gandhinagar, Gujarat, 382011, India",382011,Gandhinagar upscale hotel with restaurant,0,1,83,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Fortune Inn Haveli,4800,4,17,"237 Sector 11, Gandhinagar, Gujarat, 382011, India",382011,Gandhinagar upscale hotel with restaurant,0,1,83,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Fortune Inn Haveli,4800,4,17,"238 Sector 11, Gandhinagar, Gujarat, 382011, India",382011,Gandhinagar upscale hotel with restaurant,0,1,83,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Fortune Inn Haveli,4800,4,17,"239 Sector 11, Gandhinagar, Gujarat, 382011, India",382011,Gandhinagar upscale hotel with restaurant,0,1,83,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Fortune Inn Haveli,5100,4,17,"240 Sector 11, Gandhinagar, Gujarat, 382011, India",382011,Gandhinagar upscale hotel with restaurant,0,1,83,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Fortune Inn Haveli,5100,4,17,"241 Sector 11, Gandhinagar, Gujarat, 382011, India",382011,Gandhinagar upscale hotel with restaurant,0,1,83,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Fortune Inn Haveli,5100,4,17,"242 Sector 11, Gandhinagar, Gujarat, 382011, India",382011,Gandhinagar upscale hotel with restaurant,0,1,83,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Ginger Ahmedabad,2551,3,9.6,Behind Himalaya Mall Drive-In Road,380015,3,1,1,93,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Ginger Ahmedabad,2551,3,9.6,Behind Himalaya Mall Drive-In Road,380015,3,1,1,93,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Ginger Ahmedabad,2551,3,9.6,Behind Himalaya Mall Drive-In Road,380015,3,1,1,93,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Ginger Ahmedabad,2551,3,9.6,Behind Himalaya Mall Drive-In Road,380015,3,1,1,93,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Ginger Ahmedabad,2551,3,9.6,Behind Himalaya Mall Drive-In Road,380015,3,1,1,93,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Ginger Ahmedabad,2551,3,9.6,Behind Himalaya Mall Drive-In Road,380015,3,1,1,93,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Ginger Ahmedabad,4299,3,9.6,Behind Himalaya Mall Drive-In Road,380015,3,1,1,93,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Ginger Ahmedabad,4299,3,9.6,Behind Himalaya Mall Drive-In Road,380015,3,1,1,93,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Ramada Ahmedabad,4876,4,14,"Corporate Road Opposite Prahla, Ahmedabad Polytechnic, Ahmedabad, Gujarat, 380015, India",380015,Ahmedabad upscale hotel with 2 restaurants,0,1,93,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Ramada Ahmedabad,5100,4,14,"Corporate Road Opposite Prahla, Ahmedabad Polytechnic, Ahmedabad, Gujarat, 380015, India",380015,Ahmedabad upscale hotel with 2 restaurants,0,1,93,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Ramada Ahmedabad,4876,4,14,"Corporate Road Opposite Prahla, Ahmedabad Polytechnic, Ahmedabad, Gujarat, 380015, India",380015,Ahmedabad upscale hotel with 2 restaurants,0,1,93,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Ramada Ahmedabad,4876,4,14,"Corporate Road Opposite Prahla, Ahmedabad Polytechnic, Ahmedabad, Gujarat, 380015, India",380015,Ahmedabad upscale hotel with 2 restaurants,0,1,93,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Ramada Ahmedabad,5100,4,14,"Corporate Road Opposite Prahla, Ahmedabad Polytechnic, Ahmedabad, Gujarat, 380015, India",380015,Ahmedabad upscale hotel with 2 restaurants,0,1,93,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Ramada Ahmedabad,4876,4,14,"Corporate Road Opposite Prahla, Ahmedabad Polytechnic, Ahmedabad, Gujarat, 380015, India",380015,Ahmedabad upscale hotel with 2 restaurants,0,1,93,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Ramada Ahmedabad,5100,4,14,"Corporate Road Opposite Prahla, Ahmedabad Polytechnic, Ahmedabad, Gujarat, 380015, India",380015,Ahmedabad upscale hotel with 2 restaurants,0,1,93,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Ramada Ahmedabad,5100,4,14,"Corporate Road Opposite Prahla, Ahmedabad Polytechnic, Ahmedabad, Gujarat, 380015, India",380015,Ahmedabad upscale hotel with 2 restaurants,0,1,93,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Fortune Landmark,5354,4,5.6,"Ashram Road, Ahmedabad, Gujarat, 380013, India",380013,4,1,1,95,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Fortune Landmark,5950,4,5.6,"Ashram Road, Ahmedabad, Gujarat, 380013, India",380013,4,1,1,95,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Fortune Landmark,5839,4,5.6,"Ashram Road, Ahmedabad, Gujarat, 380013, India",380013,4,1,1,95,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Fortune Landmark,5839,4,5.6,"Ashram Road, Ahmedabad, Gujarat, 380013, India",380013,4,1,1,95,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Fortune Landmark,5600,4,5.6,"Ashram Road, Ahmedabad, Gujarat, 380013, India",380013,4,1,1,95,1
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Fortune Landmark,5039,4,5.6,"Ashram Road, Ahmedabad, Gujarat, 380013, India",380013,4,1,1,95,1
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Fortune Landmark,5359,4,5.6,"Ashram Road, Ahmedabad, Gujarat, 380013, India",380013,4,1,1,95,1
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Fortune Landmark,7359,4,5.6,"Ashram Road, Ahmedabad, Gujarat, 380013, India",380013,4,1,1,95,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,"Tune by Mango Hotels, Ahmedabad",1499,3.5,4.3,"4-D Square Mall, Visat-Gandhinagar Highway, Ahmedabad, Gujarat, 382424 India",382424,3.5,1,0,100,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,"Tune by Mango Hotels, Ahmedabad",1499,3.5,4.3,"4-D Square Mall, Visat-Gandhinagar Highway, Ahmedabad, Gujarat, 382424 India",382424,3.5,1,0,100,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,"Tune by Mango Hotels, Ahmedabad",1666,3.5,4.3,"4-D Square Mall, Visat-Gandhinagar Highway, Ahmedabad, Gujarat, 382424 India",382424,3.5,1,0,100,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,"Tune by Mango Hotels, Ahmedabad",1666,3.5,4.3,"4-D Square Mall, Visat-Gandhinagar Highway, Ahmedabad, Gujarat, 382424 India",382424,3.5,1,0,100,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,"Tune by Mango Hotels, Ahmedabad",1666,3.5,4.3,"4-D Square Mall, Visat-Gandhinagar Highway, Ahmedabad, Gujarat, 382424 India",382424,3.5,1,0,100,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,"Tune by Mango Hotels, Ahmedabad",1666,3.5,4.3,"4-D Square Mall, Visat-Gandhinagar Highway, Ahmedabad, Gujarat, 382424 India",382424,3.5,1,0,100,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,"Tune by Mango Hotels, Ahmedabad",1666,3.5,4.3,"4-D Square Mall, Visat-Gandhinagar Highway, Ahmedabad, Gujarat, 382424 India",382424,3.5,1,0,100,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,"Tune by Mango Hotels, Ahmedabad",2499,3.5,4.3,"4-D Square Mall, Visat-Gandhinagar Highway, Ahmedabad, Gujarat, 382424 India",382424,3.5,1,0,100,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Radisson Blu Hotel Ahmedabad,5000,4.5,8.4,"Near Panchvati Cross Roads, Off C.G. Road, Ahmedabad, Gujarat, 380006 India",380006,"Luxury hotel in Ahmedabad City Centre with bar/lounge, health club",1,0,115,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Radisson Blu Hotel Ahmedabad,5000,4.5,8.4,"Near Panchvati Cross Roads, Off C.G. Road, Ahmedabad, Gujarat, 380006 India",380006,"Luxury hotel in Ahmedabad City Centre with bar/lounge, health club",1,0,115,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Radisson Blu Hotel Ahmedabad,5000,4.5,8.4,"Near Panchvati Cross Roads, Off C.G. Road, Ahmedabad, Gujarat, 380006 India",380006,"Luxury hotel in Ahmedabad City Centre with bar/lounge, health club",1,0,115,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Radisson Blu Hotel Ahmedabad,5000,4.5,8.4,"Near Panchvati Cross Roads, Off C.G. Road, Ahmedabad, Gujarat, 380006 India",380006,"Luxury hotel in Ahmedabad City Centre with bar/lounge, health club",1,0,115,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Radisson Blu Hotel Ahmedabad,5000,4.5,8.4,"Near Panchvati Cross Roads, Off C.G. Road, Ahmedabad, Gujarat, 380006 India",380006,"Luxury hotel in Ahmedabad City Centre with bar/lounge, health club",1,0,115,1
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Radisson Blu Hotel Ahmedabad,5000,4.5,8.4,"Near Panchvati Cross Roads, Off C.G. Road, Ahmedabad, Gujarat, 380006 India",380006,"Luxury hotel in Ahmedabad City Centre with bar/lounge, health club",1,0,115,1
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Radisson Blu Hotel Ahmedabad,5000,4.5,8.4,"Near Panchvati Cross Roads, Off C.G. Road, Ahmedabad, Gujarat, 380006 India",380006,"Luxury hotel in Ahmedabad City Centre with bar/lounge, health club",1,0,115,1
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Radisson Blu Hotel Ahmedabad,6800,4.5,8.4,"Near Panchvati Cross Roads, Off C.G. Road, Ahmedabad, Gujarat, 380006 India",380006,"Luxury hotel in Ahmedabad City Centre with bar/lounge, health club",1,0,115,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Cambay Sapphire,4000,4,20,"Plot No.X22, 23, and 24, GIDC, Sector25, Gandhinagar, Gujarat,  India",382044,4,0,0,119,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Cambay Sapphire,4000,4,20,"Plot No.X22, 23, and 24, GIDC, Sector25, Gandhinagar, Gujarat, \ India",382044,4,0,0,119,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Cambay Sapphire,4000,4,20,"Plot No.X22, 23, and 24, GIDC, Sector25, Gandhinagar, Gujarat, \ India",382044,4,0,0,119,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Cambay Sapphire,4000,4,20,"Plot No.X22, 23, and 24, GIDC, Sector25, Gandhinagar, Gujarat, \ India",382044,4,0,0,119,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Cambay Sapphire,4000,4,20,"Plot No.X22, 23, and 24, GIDC, Sector25, Gandhinagar, Gujarat, \ India",382044,4,0,0,119,1
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Cambay Sapphire,4000,4,20,"Plot No.X22, 23, and 24, GIDC, Sector25, Gandhinagar, Gujarat, \ India",382044,4,0,0,119,1
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Cambay Sapphire,7999,4,20,"Plot No.X22, 23, and 24, GIDC, Sector25, Gandhinagar, Gujarat, \ India",382044,4,0,0,119,1
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Cambay Sapphire,7999,4,20,"Plot No.X22, 23, and 24, GIDC, Sector25, Gandhinagar, Gujarat, \ India",382044,4,0,0,119,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,"Regenta, Ahmedabad",5580,4,6.4,"15 Ashram Road, Ahmedabad, Gujarat, 380013 India",380013,4,1,1,129,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,"Regenta, Ahmedabad",4675,4,6.4,"16 Ashram Road, Ahmedabad, Gujarat, 380013 India",380013,4,1,1,129,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,"Regenta, Ahmedabad",4675,4,6.4,"17 Ashram Road, Ahmedabad, Gujarat, 380013 India",380013,4,1,1,129,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,"Regenta, Ahmedabad",4675,4,6.4,"18 Ashram Road, Ahmedabad, Gujarat, 380013 India",380013,4,1,1,129,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,"Regenta, Ahmedabad",4675,4,6.4,"19 Ashram Road, Ahmedabad, Gujarat, 380013 India",380013,4,1,1,129,1
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,"Regenta, Ahmedabad",4675,4,6.4,"20 Ashram Road, Ahmedabad, Gujarat, 380013 India",380013,4,1,1,129,1
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,"Regenta, Ahmedabad",5580,4,6.4,"21 Ashram Road, Ahmedabad, Gujarat, 380013 India",380013,4,1,1,129,1
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,"Regenta, Ahmedabad",5580,4,6.4,"22 Ashram Road, Ahmedabad, Gujarat, 380013 India",380013,4,1,1,129,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Hotel FORMULE1 Ahmedabad-An AccorHotels Brand,1999,2.5,13,Plot 38/1,380015,No-frills Ahmedabad guestrooms with fireplaces,1,1,132,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Hotel FORMULE1 Ahmedabad-An AccorHotels Brand,2124,2.5,13,Plot 38/1,380015,No-frills Ahmedabad guestrooms with fireplaces,1,1,132,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Hotel FORMULE1 Ahmedabad-An AccorHotels Brand,1999,2.5,13,Plot 38/1,380015,No-frills Ahmedabad guestrooms with fireplaces,1,1,132,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Hotel FORMULE1 Ahmedabad-An AccorHotels Brand,1999,2.5,13,Plot 38/1,380015,No-frills Ahmedabad guestrooms with fireplaces,1,1,132,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Hotel FORMULE1 Ahmedabad-An AccorHotels Brand,2124,2.5,13,Plot 38/1,380015,No-frills Ahmedabad guestrooms with fireplaces,1,1,132,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Hotel FORMULE1 Ahmedabad-An AccorHotels Brand,1999,2.5,13,Plot 38/1,380015,No-frills Ahmedabad guestrooms with fireplaces,1,1,132,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Hotel FORMULE1 Ahmedabad-An AccorHotels Brand,1699,2.5,13,Plot 38/1,380015,No-frills Ahmedabad guestrooms with fireplaces,1,1,132,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Hotel FORMULE1 Ahmedabad-An AccorHotels Brand,1599,2.5,13,Plot 38/1,380015,No-frills Ahmedabad guestrooms with fireplaces,1,1,132,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Cambay Grand,4250,4,10,"Near Perd Centre, Sola Over Bridge, Ahmedabad, Gujarat, 380054, India",380054,4,0,1,154,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Cambay Grand,4250,4,10,"Near Perd Centre, Sola Over Bridge, Ahmedabad, Gujarat, 380054, India",380054,4,0,1,154,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Cambay Grand,4250,4,10,"Near Perd Centre, Sola Over Bridge, Ahmedabad, Gujarat, 380054, India",380054,4,0,1,154,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Cambay Grand,4250,4,10,"Near Perd Centre, Sola Over Bridge, Ahmedabad, Gujarat, 380054, India",380054,4,0,1,154,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Cambay Grand,4750,4,10,"Near Perd Centre, Sola Over Bridge, Ahmedabad, Gujarat, 380054, India",380054,4,0,1,154,1
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Cambay Grand,4750,4,10,"Near Perd Centre, Sola Over Bridge, Ahmedabad, Gujarat, 380054, India",380054,4,0,1,154,1
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Cambay Grand,4750,4,10,"Near Perd Centre, Sola Over Bridge, Ahmedabad, Gujarat, 380054, India",380054,4,0,1,154,1
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Cambay Grand,4750,4,10,"Near Perd Centre, Sola Over Bridge, Ahmedabad, Gujarat, 380054, India",380054,4,0,1,154,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,"Pride Plaza Hotel, Ahmedabad",4467,4,11,"Judges Bungalow Road, Off S.G. Road, Ahmedabad, Gujarat, 380054 India",380054,4,0,0,164,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,"Pride Plaza Hotel, Ahmedabad",4467,4,11,"Judges Bungalow Road, Off S.G. Road, Ahmedabad, Gujarat, 380054 India",380054,4,0,0,164,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,"Pride Plaza Hotel, Ahmedabad",4467,4,11,"Judges Bungalow Road, Off S.G. Road, Ahmedabad, Gujarat, 380054 India",380054,4,0,0,164,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,"Pride Plaza Hotel, Ahmedabad",4059,4,11,"Judges Bungalow Road, Off S.G. Road, Ahmedabad, Gujarat, 380054 India",380054,4,0,0,164,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,"Pride Plaza Hotel, Ahmedabad",4059,4,11,"Judges Bungalow Road, Off S.G. Road, Ahmedabad, Gujarat, 380054 India",380054,4,0,0,164,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,"Pride Plaza Hotel, Ahmedabad",4059,4,11,"Judges Bungalow Road, Off S.G. Road, Ahmedabad, Gujarat, 380054 India",380054,4,0,0,164,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,"Pride Plaza Hotel, Ahmedabad",5459,4,11,"Judges Bungalow Road, Off S.G. Road, Ahmedabad, Gujarat, 380054 India",380054,4,0,0,164,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,"Pride Plaza Hotel, Ahmedabad",5459,4,11,"Judges Bungalow Road, Off S.G. Road, Ahmedabad, Gujarat, 380054 India",380054,4,0,0,164,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Courtyard by Marriott Ahmedabad,9200,5,12,"Ramdevnagar Cross Road Satellite Road, Satellite, Ahmedabad, Gujarat, 380015 India",380015,"Luxury hotel in Satellite with 2 restaurants, spa",1,1,164,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Courtyard by Marriott Ahmedabad,11500,5,12,"Ramdevnagar Cross Road Satellite Road, Satellite, Ahmedabad, Gujarat, 380015 India",380015,"Luxury hotel in Satellite with 2 restaurants, spa",1,1,164,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Courtyard by Marriott Ahmedabad,9200,5,12,"Ramdevnagar Cross Road Satellite Road, Satellite, Ahmedabad, Gujarat, 380015 India",380015,"Luxury hotel in Satellite with 2 restaurants, spa",1,1,164,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Courtyard by Marriott Ahmedabad,9200,5,12,"Ramdevnagar Cross Road Satellite Road, Satellite, Ahmedabad, Gujarat, 380015 India",380015,"Luxury hotel in Satellite with 2 restaurants, spa",1,1,164,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Courtyard by Marriott Ahmedabad,11500,5,12,"Ramdevnagar Cross Road Satellite Road, Satellite, Ahmedabad, Gujarat, 380015 India",380015,"Luxury hotel in Satellite with 2 restaurants, spa",1,1,164,1
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Courtyard by Marriott Ahmedabad,9200,5,12,"Ramdevnagar Cross Road Satellite Road, Satellite, Ahmedabad, Gujarat, 380015 India",380015,"Luxury hotel in Satellite with 2 restaurants, spa",1,1,164,1
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Courtyard by Marriott Ahmedabad,11850,5,12,"Ramdevnagar Cross Road Satellite Road, Satellite, Ahmedabad, Gujarat, 380015 India",380015,"Luxury hotel in Satellite with 2 restaurants, spa",1,1,164,1
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Courtyard by Marriott Ahmedabad,9050,5,12,"Ramdevnagar Cross Road Satellite Road, Satellite, Ahmedabad, Gujarat, 380015 India",380015,"Luxury hotel in Satellite with 2 restaurants, spa",1,1,164,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Holiday Inn Express Ahmedabad,2700,3.5,6,"Ashram Road, Ahmedabad, Gujarat, 380013 India",380013,3.5,1,1,173,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Holiday Inn Express Ahmedabad,3600,3.5,6,"Ashram Road, Ahmedabad, Gujarat, 380013 India",380013,3.5,1,1,173,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Holiday Inn Express Ahmedabad,2700,3.5,6,"Ashram Road, Ahmedabad, Gujarat, 380013 India",380013,3.5,1,1,173,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Holiday Inn Express Ahmedabad,2700,3.5,6,"Ashram Road, Ahmedabad, Gujarat, 380013 India",380013,3.5,1,1,173,0
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Holiday Inn Express Ahmedabad,3600,3.5,6,"Ashram Road, Ahmedabad, Gujarat, 380013 India",380013,3.5,1,1,173,0
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Holiday Inn Express Ahmedabad,2700,3.5,6,"Ashram Road, Ahmedabad, Gujarat, 380013 India",380013,3.5,1,1,173,0
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Holiday Inn Express Ahmedabad,3600,3.5,6,"Ashram Road, Ahmedabad, Gujarat, 380013 India",380013,3.5,1,1,173,0
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Holiday Inn Express Ahmedabad,3600,3.5,6,"Ashram Road, Ahmedabad, Gujarat, 380013 India",380013,3.5,1,1,173,0
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Hyatt Ahmedabad,5525,5,9.9,"Near Vastrapur Lake, Vastrapur, Ahmedabad, Gujarat, 380015 India",380015,"Luxury resort in Ahmedabad with 3 restaurants, spa",1,0,178,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Hyatt Ahmedabad,5950,5,9.9,"Near Vastrapur Lake, Vastrapur, Ahmedabad, Gujarat, 380015 India",380015,"Luxury resort in Ahmedabad with 3 restaurants, spa",1,0,178,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Hyatt Ahmedabad,4463,5,9.9,"Near Vastrapur Lake, Vastrapur, Ahmedabad, Gujarat, 380015 India",380015,"Luxury resort in Ahmedabad with 3 restaurants, spa",1,0,178,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Hyatt Ahmedabad,4400,5,9.9,"Near Vastrapur Lake, Vastrapur, Ahmedabad, Gujarat, 380015 India",380015,"Luxury resort in Ahmedabad with 3 restaurants, spa",1,0,178,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Hyatt Ahmedabad,4888,5,9.9,"Near Vastrapur Lake, Vastrapur, Ahmedabad, Gujarat, 380015 India",380015,"Luxury resort in Ahmedabad with 3 restaurants, spa",1,0,178,1
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Hyatt Ahmedabad,4463,5,9.9,"Near Vastrapur Lake, Vastrapur, Ahmedabad, Gujarat, 380015 India",380015,"Luxury resort in Ahmedabad with 3 restaurants, spa",1,0,178,1
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Hyatt Ahmedabad,5100,5,9.9,"Near Vastrapur Lake, Vastrapur, Ahmedabad, Gujarat, 380015 India",380015,"Luxury resort in Ahmedabad with 3 restaurants, spa",1,0,178,1
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Hyatt Ahmedabad,7225,5,9.9,"Near Vastrapur Lake, Vastrapur, Ahmedabad, Gujarat, 380015 India",380015,"Luxury resort in Ahmedabad with 3 restaurants, spa",1,0,178,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Novotel Ahmedabad,5525,5,13,"ISKCON Cross Road, S.G. Highway, Next To Wide Angle Cinema, Ahmedabad, Gujarat, 380015 India",380015,5,1,1,184,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Novotel Ahmedabad,5525,5,13,"ISKCON Cross Road, S.G. Highway, Next To Wide Angle Cinema, Ahmedabad, Gujarat, 380015 India",380015,5,1,1,184,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Novotel Ahmedabad,4675,5,13,"ISKCON Cross Road, S.G. Highway, Next To Wide Angle Cinema, Ahmedabad, Gujarat, 380015 India",380015,5,1,1,184,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Novotel Ahmedabad,4675,5,13,"ISKCON Cross Road, S.G. Highway, Next To Wide Angle Cinema, Ahmedabad, Gujarat, 380015 India",380015,5,1,1,184,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Novotel Ahmedabad,4675,5,13,"ISKCON Cross Road, S.G. Highway, Next To Wide Angle Cinema, Ahmedabad, Gujarat, 380015 India",380015,5,1,1,184,1
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Novotel Ahmedabad,4675,5,13,"ISKCON Cross Road, S.G. Highway, Next To Wide Angle Cinema, Ahmedabad, Gujarat, 380015 India",380015,5,1,1,184,1
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Novotel Ahmedabad,5100,5,13,"ISKCON Cross Road, S.G. Highway, Next To Wide Angle Cinema, Ahmedabad, Gujarat, 380015 India",380015,5,1,1,184,1
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Novotel Ahmedabad,12750,5,13,"ISKCON Cross Road, S.G. Highway, Next To Wide Angle Cinema, Ahmedabad, Gujarat, 380015 India",380015,5,1,1,184,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Crowne Plaza Ahmedabad City Centre,56775,5,14,"S.G. Road near Shapath - V, Ahmedabad, Gujarat, 380015 India",380015,"Luxury hotel in Ahmedabad with 3 restaurants, 2 bars/lounges",1,1,200,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Crowne Plaza Ahmedabad City Centre,7350,5,14,"S.G. Road near Shapath - V, Ahmedabad, Gujarat, 380015 India",380015,"Luxury hotel in Ahmedabad with 3 restaurants, 2 bars/lounges",1,1,200,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Crowne Plaza Ahmedabad City Centre,6113,5,14,"S.G. Road near Shapath - V, Ahmedabad, Gujarat, 380015 India",380015,"Luxury hotel in Ahmedabad with 3 restaurants, 2 bars/lounges",1,1,200,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Crowne Plaza Ahmedabad City Centre,6113,5,14,"S.G. Road near Shapath - V, Ahmedabad, Gujarat, 380015 India",380015,"Luxury hotel in Ahmedabad with 3 restaurants, 2 bars/lounges",1,1,200,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Crowne Plaza Ahmedabad City Centre,6500,5,14,"S.G. Road near Shapath - V, Ahmedabad, Gujarat, 380015 India",380015,"Luxury hotel in Ahmedabad with 3 restaurants, 2 bars/lounges",1,1,200,1
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Crowne Plaza Ahmedabad City Centre,7500,5,14,"S.G. Road near Shapath - V, Ahmedabad, Gujarat, 380015 India",380015,"Luxury hotel in Ahmedabad with 3 restaurants, 2 bars/lounges",1,1,200,1
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Crowne Plaza Ahmedabad City Centre,7500,5,14,"S.G. Road near Shapath - V, Ahmedabad, Gujarat, 380015 India",380015,"Luxury hotel in Ahmedabad with 3 restaurants, 2 bars/lounges",1,1,200,1
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Crowne Plaza Ahmedabad City Centre,8500,5,14,"S.G. Road near Shapath - V, Ahmedabad, Gujarat, 380015 India",380015,"Luxury hotel in Ahmedabad with 3 restaurants, 2 bars/lounges",1,1,200,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 18 2016,Hyatt Regency Ahmedabad,5400,5,6,"17/A, Ashram Road, Ahmedabad, Gujarat, 380014 India",380014,"Luxury hotel in Ahmedabad with 3 restaurants, spa",1,0,210,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 21 2016,Hyatt Regency Ahmedabad,6300,5,6,"17/A, Ashram Road, Ahmedabad, Gujarat, 380014 India",380014,"Luxury hotel in Ahmedabad with 3 restaurants, spa",1,0,210,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 24 2016,Hyatt Regency Ahmedabad,5400,5,6,"17/A, Ashram Road, Ahmedabad, Gujarat, 380014 India",380014,"Luxury hotel in Ahmedabad with 3 restaurants, spa",1,0,210,1
+Ahmedabad,5577940,5,0,0,1,0,Dec 25 2016,Hyatt Regency Ahmedabad,5400,5,6,"17/A, Ashram Road, Ahmedabad, Gujarat, 380014 India",380014,"Luxury hotel in Ahmedabad with 3 restaurants, spa",1,0,210,1
+Ahmedabad,5577940,5,0,0,0,0,Dec 28 2016,Hyatt Regency Ahmedabad,5400,5,6,"17/A, Ashram Road, Ahmedabad, Gujarat, 380014 India",380014,"Luxury hotel in Ahmedabad with 3 restaurants, spa",1,0,210,1
+Ahmedabad,5577940,5,0,0,1,1,Dec 31 2016,Hyatt Regency Ahmedabad,5400,5,6,"17/A, Ashram Road, Ahmedabad, Gujarat, 380014 India",380014,"Luxury hotel in Ahmedabad with 3 restaurants, spa",1,0,210,1
+Ahmedabad,5577940,5,0,0,0,0,Jan 04 2017,Hyatt Regency Ahmedabad,5400,5,6,"17/A, Ashram Road, Ahmedabad, Gujarat, 380014 India",380014,"Luxury hotel in Ahmedabad with 3 restaurants, spa",1,0,210,1
+Ahmedabad,5577940,5,0,0,1,0,Jan 08 2017,Hyatt Regency Ahmedabad,6300,5,6,"17/A, Ashram Road, Ahmedabad, Gujarat, 380014 India",380014,"Luxury hotel in Ahmedabad with 3 restaurants, spa",1,0,210,1

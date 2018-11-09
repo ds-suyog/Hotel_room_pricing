@@ -1,0 +1,33 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Thrissur,2975440,10,0,1,1,0,Dec 18 2016,36 PALMS BOUTIQUE RETREAT,4250,4,28.6,"1/485, Pallipuram - Munambam Rd, Cherai Beach, Vypin, Kerala, 683515, India",683515,Vypin beachfront resort with restaurant,1,1,10,0
+Thrissur,2975440,10,0,1,0,0,Dec 21 2016,37 PALMS BOUTIQUE RETREAT,4900,4,28.6,"1/485, Pallipuram - Munambam Rd, Cherai Beach, Vypin, Kerala, 683515, India",683515,Vypin beachfront resort with restaurant,1,1,10,0
+Thrissur,2975440,10,0,1,1,0,Dec 24 2016,38 PALMS BOUTIQUE RETREAT,8000,4,28.6,"1/485, Pallipuram - Munambam Rd, Cherai Beach, Vypin, Kerala, 683515, India",683515,Vypin beachfront resort with restaurant,1,1,10,0
+Thrissur,2975440,10,0,1,1,0,Dec 25 2016,39 PALMS BOUTIQUE RETREAT,8000,4,28.6,"1/485, Pallipuram - Munambam Rd, Cherai Beach, Vypin, Kerala, 683515, India",683515,Vypin beachfront resort with restaurant,1,1,10,0
+Thrissur,2975440,10,0,1,0,0,Dec 28 2016,40 PALMS BOUTIQUE RETREAT,9500,4,28.6,"1/485, Pallipuram - Munambam Rd, Cherai Beach, Vypin, Kerala, 683515, India",683515,Vypin beachfront resort with restaurant,1,1,10,0
+Thrissur,2975440,10,0,1,1,1,Dec 31 2016,41 PALMS BOUTIQUE RETREAT,9500,4,28.6,"1/485, Pallipuram - Munambam Rd, Cherai Beach, Vypin, Kerala, 683515, India",683515,Vypin beachfront resort with restaurant,1,1,10,0
+Thrissur,2975440,10,0,1,0,0,Jan 04 2017,42 PALMS BOUTIQUE RETREAT,8000,4,28.6,"1/485, Pallipuram - Munambam Rd, Cherai Beach, Vypin, Kerala, 683515, India",683515,Vypin beachfront resort with restaurant,1,1,10,0
+Thrissur,2975440,10,0,1,0,0,Jan 08 2017,43 PALMS BOUTIQUE RETREAT,8000,4,28.6,"1/485, Pallipuram - Munambam Rd, Cherai Beach, Vypin, Kerala, 683515, India",683515,Vypin beachfront resort with restaurant,1,1,10,0
+Thrissur,2975440,10,0,1,1,0,Dec 18 2016,Hare Krishna Inn,824,3,80.3,"Manjira Road, North Nada, Kerala, Guruvayur, Thrissur, 680101, India",680101,3-star beach hotel in Guruvayur with restaurant,1,0,36,0
+Thrissur,2975440,10,0,1,0,0,Dec 21 2016,Hare Krishna Inn,824,3,80.3,"Manjira Road, North Nada, Kerala, Guruvayur, Thrissur, 680101, India",680101,3-star beach hotel in Guruvayur with restaurant,1,0,36,0
+Thrissur,2975440,10,0,1,1,0,Dec 24 2016,Hare Krishna Inn,824,3,80.3,"Manjira Road, North Nada, Kerala, Guruvayur, Thrissur, 680101, India",680101,3-star beach hotel in Guruvayur with restaurant,1,0,36,0
+Thrissur,2975440,10,0,1,1,0,Dec 25 2016,Hare Krishna Inn,1176,3,80.3,"Manjira Road, North Nada, Kerala, Guruvayur, Thrissur, 680101, India",680101,3-star beach hotel in Guruvayur with restaurant,1,0,36,0
+Thrissur,2975440,10,0,1,0,0,Dec 28 2016,Hare Krishna Inn,1176,3,80.3,"Manjira Road, North Nada, Kerala, Guruvayur, Thrissur, 680101, India",680101,3-star beach hotel in Guruvayur with restaurant,1,0,36,0
+Thrissur,2975440,10,0,1,1,1,Dec 31 2016,Hare Krishna Inn,2000,3,80.3,"Manjira Road, North Nada, Kerala, Guruvayur, Thrissur, 680101, India",680101,3-star beach hotel in Guruvayur with restaurant,1,0,36,0
+Thrissur,2975440,10,0,1,0,0,Jan 04 2017,Hare Krishna Inn,1059,3,80.3,"Manjira Road, North Nada, Kerala, Guruvayur, Thrissur, 680101, India",680101,3-star beach hotel in Guruvayur with restaurant,1,0,36,0
+Thrissur,2975440,10,0,1,0,0,Jan 08 2017,Hare Krishna Inn,1059,3,80.3,"Manjira Road, North Nada, Kerala, Guruvayur, Thrissur, 680101, India",680101,3-star beach hotel in Guruvayur with restaurant,1,0,36,0
+Thrissur,2975440,10,0,1,1,0,Dec 18 2016,OYO Rooms East Nada,2554,3,80,"Door No 27/636-1, Nr Balakrishna Theater, East Nada, Guruvayur, Kerala, 680104, India",680104,3-star hotel in Guruvayur,1,1,15,0
+Thrissur,2975440,10,0,1,0,0,Dec 21 2016,OYO Rooms East Nada,2554,3,81,"Door No 27/636-1, Nr Balakrishna Theater, East Nada, Guruvayur, Kerala, 680104, India",680104,3-star hotel in Guruvayur,1,1,15,0
+Thrissur,2975440,10,0,1,1,0,Dec 24 2016,OYO Rooms East Nada,2554,3,82,"Door No 27/636-1, Nr Balakrishna Theater, East Nada, Guruvayur, Kerala, 680104, India",680104,3-star hotel in Guruvayur,1,1,15,0
+Thrissur,2975440,10,0,1,1,0,Dec 25 2016,OYO Rooms East Nada,2554,3,83,"Door No 27/636-1, Nr Balakrishna Theater, East Nada, Guruvayur, Kerala, 680104, India",680104,3-star hotel in Guruvayur,1,1,15,0
+Thrissur,2975440,10,0,1,0,0,Dec 28 2016,OYO Rooms East Nada,2554,3,84,"Door No 27/636-1, Nr Balakrishna Theater, East Nada, Guruvayur, Kerala, 680104, India",680104,3-star hotel in Guruvayur,1,1,15,0
+Thrissur,2975440,10,0,1,1,1,Dec 31 2016,OYO Rooms East Nada,2554,3,85,"Door No 27/636-1, Nr Balakrishna Theater, East Nada, Guruvayur, Kerala, 680104, India",680104,3-star hotel in Guruvayur,1,1,15,0
+Thrissur,2975440,10,0,1,0,0,Jan 04 2017,OYO Rooms East Nada,2554,3,86,"Door No 27/636-1, Nr Balakrishna Theater, East Nada, Guruvayur, Kerala, 680104, India",680104,3-star hotel in Guruvayur,1,1,15,0
+Thrissur,2975440,10,0,1,0,0,Jan 08 2017,OYO Rooms East Nada,2554,3,87,"Door No 27/636-1, Nr Balakrishna Theater, East Nada, Guruvayur, Kerala, 680104, India",680104,3-star hotel in Guruvayur,1,1,15,0
+Thrissur,2975440,10,0,1,1,0,Dec 18 2016,Casino Hotel,2224,4,50.1,"T.B Road, Thrissur, Kerala, 680021, India",680021,"4-star hotel in Thrissur with restaurant, bar/lounge",1,1,51,0
+Thrissur,2975440,10,0,1,0,0,Dec 21 2016,Casino Hotel,2224,4,50.1,"T.B Road, Thrissur, Kerala, 680021, India",680021,"4-star hotel in Thrissur with restaurant, bar/lounge",1,1,51,0
+Thrissur,2975440,10,0,1,1,0,Dec 24 2016,Casino Hotel,2224,4,50.1,"T.B Road, Thrissur, Kerala, 680021, India",680021,"4-star hotel in Thrissur with restaurant, bar/lounge",1,1,51,0
+Thrissur,2975440,10,0,1,1,0,Dec 25 2016,Casino Hotel,3319,4,50.1,"T.B Road, Thrissur, Kerala, 680021, India",680021,"4-star hotel in Thrissur with restaurant, bar/lounge",1,1,51,0
+Thrissur,2975440,10,0,1,0,0,Dec 28 2016,Casino Hotel,2224,4,50.1,"T.B Road, Thrissur, Kerala, 680021, India",680021,"4-star hotel in Thrissur with restaurant, bar/lounge",1,1,51,0
+Thrissur,2975440,10,0,1,1,1,Dec 31 2016,Casino Hotel,2224,4,50.1,"T.B Road, Thrissur, Kerala, 680021, India",680021,"4-star hotel in Thrissur with restaurant, bar/lounge",1,1,51,0
+Thrissur,2975440,10,0,1,0,0,Jan 04 2017,Casino Hotel,2224,4,50.1,"T.B Road, Thrissur, Kerala, 680021, India",680021,"4-star hotel in Thrissur with restaurant, bar/lounge",1,1,51,0
+Thrissur,2975440,10,0,1,0,0,Jan 08 2017,Casino Hotel,2224,4,50.1,"T.B Road, Thrissur, Kerala, 680021, India",680021,"4-star hotel in Thrissur with restaurant, bar/lounge",1,1,51,0

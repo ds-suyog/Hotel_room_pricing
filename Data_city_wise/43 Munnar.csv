@@ -1,0 +1,329 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Abad Copper Castle,8457,3,105,"Kannan Devan Hills, Munnar",685612,Mountain Munnar hotel with restaurant,1,1,38,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Abad Copper Castle,5776,3,105,"Kannan Devan Hills, Munnar",685612,Mountain Munnar hotel with restaurant,1,1,38,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Abad Copper Castle,7632,3,105,"Kannan Devan Hills, Munnar",685612,Mountain Munnar hotel with restaurant,1,1,38,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Abad Copper Castle,8457,3,105,"Kannan Devan Hills, Munnar",685612,Mountain Munnar hotel with restaurant,1,1,38,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Abad Copper Castle,8457,3,105,"Kannan Devan Hills, Munnar",685612,Mountain Munnar hotel with restaurant,1,1,38,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Abad Copper Castle,8457,3,105,"Kannan Devan Hills, Munnar",685612,Mountain Munnar hotel with restaurant,1,1,38,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Abad Copper Castle,5157,3,105,"Kannan Devan Hills, Munnar",685612,Mountain Munnar hotel with restaurant,1,1,38,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Abad Copper Castle,5157,3,105,"Kannan Devan Hills, Munnar",685612,Mountain Munnar hotel with restaurant,1,1,38,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Aruvi Resorts,4400,3,96.5,"Thekkinkanam,,Munnar,Kerala,India",685566,"Riverfront hotel in Munnar with restaurant, bar/lounge",1,1,9,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Aruvi Resorts,4400,3,96.5,"Thekkinkanam,,Munnar,Kerala,India",685566,"Riverfront hotel in Munnar with restaurant, bar/lounge",1,1,9,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Aruvi Resorts,3900,3,96.5,"Thekkinkanam,,Munnar,Kerala,India",685566,"Riverfront hotel in Munnar with restaurant, bar/lounge",1,1,9,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Aruvi Resorts,4400,3,96.5,"Thekkinkanam,,Munnar,Kerala,India",685566,"Riverfront hotel in Munnar with restaurant, bar/lounge",1,1,9,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Aruvi Resorts,3900,3,96.5,"Thekkinkanam,,Munnar,Kerala,India",685566,"Riverfront hotel in Munnar with restaurant, bar/lounge",1,1,9,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Aruvi Resorts,3900,3,96.5,"Thekkinkanam,,Munnar,Kerala,India",685566,"Riverfront hotel in Munnar with restaurant, bar/lounge",1,1,9,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Aruvi Resorts,3044,3,96.5,"Thekkinkanam,,Munnar,Kerala,India",685566,"Riverfront hotel in Munnar with restaurant, bar/lounge",1,1,9,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Aruvi Resorts,2627,3,96.5,"Thekkinkanam,,Munnar,Kerala,India",685566,"Riverfront hotel in Munnar with restaurant, bar/lounge",1,1,9,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Ayur County,4412,3,117.4,"Chinnakanal,,Munnar,Kerala,India",685618,"Mountain hotel in Munnar with 2 restaurants, outdoor pool",1,1,150,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Ayur County,6955,3,117.4,"Chinnakanal,,Munnar,Kerala,India",685618,"Mountain hotel in Munnar with 2 restaurants, outdoor pool",1,1,150,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Ayur County,6955,3,117.4,"Chinnakanal,,Munnar,Kerala,India",685618,"Mountain hotel in Munnar with 2 restaurants, outdoor pool",1,1,150,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Ayur County,6955,3,117.4,"Chinnakanal,,Munnar,Kerala,India",685618,"Mountain hotel in Munnar with 2 restaurants, outdoor pool",1,1,150,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Ayur County,6955,3,117.4,"Chinnakanal,,Munnar,Kerala,India",685618,"Mountain hotel in Munnar with 2 restaurants, outdoor pool",1,1,150,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Ayur County,6955,3,117.4,"Chinnakanal,,Munnar,Kerala,India",685618,"Mountain hotel in Munnar with 2 restaurants, outdoor pool",1,1,150,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Ayur County,6955,3,117.4,"Chinnakanal,,Munnar,Kerala,India",685618,"Mountain hotel in Munnar with 2 restaurants, outdoor pool",1,1,150,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Ayur County,4557,3,117.4,"Chinnakanal,,Munnar,Kerala,India",685618,"Mountain hotel in Munnar with 2 restaurants, outdoor pool",1,1,150,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Blackberry Hills Retreat & Spa,7130,4,105,"Bison Valley Road, Pothamedu View Point, Munnar",685612,"Mountain hotel in Chithirapuram with spa, restaurant",1,1,16,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Blackberry Hills Retreat & Spa,7130,4,105,"Bison Valley Road, Pothamedu View Point, Munnar",685612,"Mountain hotel in Chithirapuram with spa, restaurant",1,1,16,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Blackberry Hills Retreat & Spa,7130,4,105,"Bison Valley Road, Pothamedu View Point, Munnar",685612,"Mountain hotel in Chithirapuram with spa, restaurant",1,1,16,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Blackberry Hills Retreat & Spa,13384,4,105,"Bison Valley Road, Pothamedu View Point, Munnar",685612,"Mountain hotel in Chithirapuram with spa, restaurant",1,1,16,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Blackberry Hills Retreat & Spa,13384,4,105,"Bison Valley Road, Pothamedu View Point, Munnar",685612,"Mountain hotel in Chithirapuram with spa, restaurant",1,1,16,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Blackberry Hills Retreat & Spa,13384,4,105,"Bison Valley Road, Pothamedu View Point, Munnar",685612,"Mountain hotel in Chithirapuram with spa, restaurant",1,1,16,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Blackberry Hills Retreat & Spa,7130,4,105,"Bison Valley Road, Pothamedu View Point, Munnar",685612,"Mountain hotel in Chithirapuram with spa, restaurant",1,1,16,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Blackberry Hills Retreat & Spa,6025,4,105,"Bison Valley Road, Pothamedu View Point, Munnar",685612,"Mountain hotel in Chithirapuram with spa, restaurant",1,1,16,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Club Mahindra Mount Serene,6999,3.5,105,"Chinnakanal Village, Suryanelli(Via), Munnar",685618,3.5-star Munnar hotel with restaurant,1,0,51,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Club Mahindra Mount Serene,6999,3.5,105,"Chinnakanal Village, Suryanelli(Via), Munnar",685618,3.5-star Munnar hotel with restaurant,1,0,51,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Club Mahindra Mount Serene,6999,3.5,105,"Chinnakanal Village, Suryanelli(Via), Munnar",685618,3.5-star Munnar hotel with restaurant,1,0,51,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Club Mahindra Mount Serene,6999,3.5,105,"Chinnakanal Village, Suryanelli(Via), Munnar",685618,3.5-star Munnar hotel with restaurant,1,0,51,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Club Mahindra Mount Serene,6999,3.5,105,"Chinnakanal Village, Suryanelli(Via), Munnar",685618,3.5-star Munnar hotel with restaurant,1,0,51,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Club Mahindra Mount Serene,6999,3.5,105,"Chinnakanal Village, Suryanelli(Via), Munnar",685618,3.5-star Munnar hotel with restaurant,1,0,51,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Club Mahindra Mount Serene,6000,3.5,105,"Chinnakanal Village, Suryanelli(Via), Munnar",685618,3.5-star Munnar hotel with restaurant,1,0,51,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Club Mahindra Mount Serene,6999,3.5,105,"Chinnakanal Village, Suryanelli(Via), Munnar",685618,3.5-star Munnar hotel with restaurant,1,0,51,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Club Mahindra Munnar,7999,4.5,105,"Chinnakanal Village, via Suryanelli, Iddukki District, Munnar",685618,Munnar upscale hotel with restaurant,1,1,130,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Club Mahindra Munnar,11999,4.5,105,"Chinnakanal Village, via Suryanelli, Iddukki District, Munnar",685618,Munnar upscale hotel with restaurant,1,1,130,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Club Mahindra Munnar,11999,4.5,105,"Chinnakanal Village, via Suryanelli, Iddukki District, Munnar",685618,Munnar upscale hotel with restaurant,1,1,130,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Club Mahindra Munnar,11999,4.5,105,"Chinnakanal Village, via Suryanelli, Iddukki District, Munnar",685618,Munnar upscale hotel with restaurant,1,1,130,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Club Mahindra Munnar,11999,4.5,105,"Chinnakanal Village, via Suryanelli, Iddukki District, Munnar",685618,Munnar upscale hotel with restaurant,1,1,130,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Club Mahindra Munnar,11999,4.5,105,"Chinnakanal Village, via Suryanelli, Iddukki District, Munnar",685618,Munnar upscale hotel with restaurant,1,1,130,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Club Mahindra Munnar,8499,4.5,105,"Chinnakanal Village, via Suryanelli, Iddukki District, Munnar",685618,Munnar upscale hotel with restaurant,1,1,130,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Club Mahindra Munnar,11999,4.5,105,"Chinnakanal Village, via Suryanelli, Iddukki District, Munnar",685618,Munnar upscale hotel with restaurant,1,1,19,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Cuc ere Holidays,5300,3.5,105,"Near Pallivasal Power House, Chithirapuram, Munnar",685565,"3.5-star hotel in Chithirapuram with restaurant, free children's club",1,1,22,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Cuc ere Holidays,6001,3.5,105,"Near Pallivasal Power House, Chithirapuram, Munnar",685565,"3.5-star hotel in Chithirapuram with restaurant, free children's club",1,1,22,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Cuc ere Holidays,6667,3.5,105,"Near Pallivasal Power House, Chithirapuram, Munnar",685565,"3.5-star hotel in Chithirapuram with restaurant, free children's club",1,1,22,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Cuc ere Holidays,6667,3.5,105,"Near Pallivasal Power House, Chithirapuram, Munnar",685565,"3.5-star hotel in Chithirapuram with restaurant, free children's club",1,1,22,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Cuc ere Holidays,6667,3.5,105,"Near Pallivasal Power House, Chithirapuram, Munnar",685565,"3.5-star hotel in Chithirapuram with restaurant, free children's club",1,1,22,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Cuc ere Holidays,6667,3.5,105,"Near Pallivasal Power House, Chithirapuram, Munnar",685565,"3.5-star hotel in Chithirapuram with restaurant, free children's club",1,1,22,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Cuc ere Holidays,6001,3.5,105,"Near Pallivasal Power House, Chithirapuram, Munnar",685565,"3.5-star hotel in Chithirapuram with restaurant, free children's club",1,1,22,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Cuc ere Holidays,6667,3.5,105,"Near Pallivasal Power House, Chithirapuram, Munnar",685565,"3.5-star hotel in Chithirapuram with restaurant, free children's club",1,1,22,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Devonshire Greens,7591,4.5,105,"Attukad Waterfall Road, Pullivasal, Munnar",685565,"Mountain hotel in Munnar with restaurant, 24-hour fitness",1,1,40,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Devonshire Greens,9043,4.5,105,"Attukad Waterfall Road, Pullivasal, Munnar",685565,"Mountain hotel in Munnar with restaurant, 24-hour fitness",1,1,40,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Devonshire Greens,12211,4.5,105,"Attukad Waterfall Road, Pullivasal, Munnar",685565,"Mountain hotel in Munnar with restaurant, 24-hour fitness",1,1,40,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Devonshire Greens,12211,4.5,105,"Attukad Waterfall Road, Pullivasal, Munnar",685565,"Mountain hotel in Munnar with restaurant, 24-hour fitness",1,1,40,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Devonshire Greens,12211,4.5,105,"Attukad Waterfall Road, Pullivasal, Munnar",685565,"Mountain hotel in Munnar with restaurant, 24-hour fitness",1,1,40,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Devonshire Greens,12211,4.5,105,"Attukad Waterfall Road, Pullivasal, Munnar",685565,"Mountain hotel in Munnar with restaurant, 24-hour fitness",1,1,40,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Devonshire Greens,9043,4.5,105,"Attukad Waterfall Road, Pullivasal, Munnar",685565,"Mountain hotel in Munnar with restaurant, 24-hour fitness",1,1,40,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Devonshire Greens,7459,4.5,105,"Attukad Waterfall Road, Pullivasal, Munnar",685565,"Mountain hotel in Munnar with restaurant, 24-hour fitness",1,1,40,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Dream Catcher Plantation Resort,10525,3.5,105,"Ratnagiri, Tea Company Bisonvalley Road, Idukki District, Munnar",685565,"3.5-star hotel in Munnar with spa, restaurant",1,1,19,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Dream Catcher Plantation Resort,5361,3.5,105,"Ratnagiri, Tea Company Bisonvalley Road, Idukki District, Munnar",685565,"3.5-star hotel in Munnar with spa, restaurant",1,1,19,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Dream Catcher Plantation Resort,8089,3.5,105,"Ratnagiri, Tea Company Bisonvalley Road, Idukki District, Munnar",685565,"3.5-star hotel in Munnar with spa, restaurant",1,1,19,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Dream Catcher Plantation Resort,10525,3.5,105,"Ratnagiri, Tea Company Bisonvalley Road, Idukki District, Munnar",685565,"3.5-star hotel in Munnar with spa, restaurant",1,1,19,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Dream Catcher Plantation Resort,10525,3.5,105,"Ratnagiri, Tea Company Bisonvalley Road, Idukki District, Munnar",685565,"3.5-star hotel in Munnar with spa, restaurant",1,1,19,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Dream Catcher Plantation Resort,7212,3.5,105,"Ratnagiri, Tea Company Bisonvalley Road, Idukki District, Munnar",685565,"3.5-star hotel in Munnar with spa, restaurant",1,1,19,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Dream Catcher Plantation Resort,4483,3.5,105,"Ratnagiri, Tea Company Bisonvalley Road, Idukki District, Munnar",685565,"3.5-star hotel in Munnar with spa, restaurant",1,1,19,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Dream Catcher Plantation Resort,4483,3.5,105,"Ratnagiri, Tea Company Bisonvalley Road, Idukki District, Munnar",685565,"3.5-star hotel in Munnar with spa, restaurant",1,1,19,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Falling Waters,4125,3,105,"Kallar-Mangulam Road, Munnar",685565,3-star Munnar hotel with restaurant,1,1,12,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Falling Waters,5375,3,105,"Kallar-Mangulam Road, Munnar",685565,3-star Munnar hotel with restaurant,1,1,12,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Falling Waters,9125,3,105,"Kallar-Mangulam Road, Munnar",685565,3-star Munnar hotel with restaurant,1,1,12,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Falling Waters,9125,3,105,"Kallar-Mangulam Road, Munnar",685565,3-star Munnar hotel with restaurant,1,1,12,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Falling Waters,9125,3,105,"Kallar-Mangulam Road, Munnar",685565,3-star Munnar hotel with restaurant,1,1,12,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Falling Waters,5375,3,105,"Kallar-Mangulam Road, Munnar",685565,3-star Munnar hotel with restaurant,1,1,12,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Falling Waters,4750,3,105,"Kallar-Mangulam Road, Munnar",685565,3-star Munnar hotel with restaurant,1,1,12,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Falling Waters,3500,3,105,"Kallar-Mangulam Road, Munnar",685565,3-star Munnar hotel with restaurant,1,1,12,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Forest Glade,9696,4,105,"2nd Mile, Pallivasal P.O, Munnar",685565,Munnar upscale hotel with restaurant,1,1,24,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Forest Glade,9696,4,105,"3rd Mile, Pallivasal P.O, Munnar",685565,Munnar upscale hotel with restaurant,1,1,24,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Forest Glade,9696,4,105,"4th Mile, Pallivasal P.O, Munnar",685565,Munnar upscale hotel with restaurant,1,1,24,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Forest Glade,10302,4,105,"5th Mile, Pallivasal P.O, Munnar",685565,Munnar upscale hotel with restaurant,1,1,24,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Forest Glade,10302,4,105,"6th Mile, Pallivasal P.O, Munnar",685565,Munnar upscale hotel with restaurant,1,1,24,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Forest Glade,9696,4,105,"7th Mile, Pallivasal P.O, Munnar",685565,Munnar upscale hotel with restaurant,1,1,24,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Forest Glade,9696,4,105,"8th Mile, Pallivasal P.O, Munnar",685565,Munnar upscale hotel with restaurant,1,1,24,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Forest Glade,9696,4,105,"9th Mile, Pallivasal P.O, Munnar",685565,Munnar upscale hotel with restaurant,1,1,10,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Forest Haven Resort,7059,2.5,105,"Vattayar PO, Mankula Road, Kallar, Munnar",685612,No-frills Munnar hotel with restaurant,1,0,24,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Forest Haven Resort,7647,2.5,105,"Vattayar PO, Mankula Road, Kallar, Munnar",685612,No-frills Munnar hotel with restaurant,1,0,24,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Forest Haven Resort,7647,2.5,105,"Vattayar PO, Mankula Road, Kallar, Munnar",685612,No-frills Munnar hotel with restaurant,1,0,24,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Forest Haven Resort,7647,2.5,105,"Vattayar PO, Mankula Road, Kallar, Munnar",685612,No-frills Munnar hotel with restaurant,1,0,24,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Forest Haven Resort,7647,2.5,105,"Vattayar PO, Mankula Road, Kallar, Munnar",685612,No-frills Munnar hotel with restaurant,1,0,24,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Forest Haven Resort,7647,2.5,105,"Vattayar PO, Mankula Road, Kallar, Munnar",685612,No-frills Munnar hotel with restaurant,1,0,24,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Forest Haven Resort,2870,2.5,105,"Vattayar PO, Mankula Road, Kallar, Munnar",685612,No-frills Munnar hotel with restaurant,1,0,24,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Forest Haven Resort,1913,2.5,105,"Vattayar PO, Mankula Road, Kallar, Munnar",685612,No-frills Munnar hotel with restaurant,1,0,24,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Fragrant Nature Munnar,12000,3.5,105,"Baison valley Road, Pothamedu, Munnar",685612,"3.5-star hotel in Munnar with restaurant, bar/lounge",1,1,43,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Fragrant Nature Munnar,10000,3.5,105,"Baison valley Road, Pothamedu, Munnar",685612,"3.5-star hotel in Munnar with restaurant, bar/lounge",1,1,43,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Fragrant Nature Munnar,10000,3.5,105,"Baison valley Road, Pothamedu, Munnar",685612,"3.5-star hotel in Munnar with restaurant, bar/lounge",1,1,43,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Fragrant Nature Munnar,10000,3.5,105,"Baison valley Road, Pothamedu, Munnar",685612,"3.5-star hotel in Munnar with restaurant, bar/lounge",1,1,43,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Fragrant Nature Munnar,12000,3.5,105,"Baison valley Road, Pothamedu, Munnar",685612,"3.5-star hotel in Munnar with restaurant, bar/lounge",1,1,43,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Fragrant Nature Munnar,12000,3.5,105,"Baison valley Road, Pothamedu, Munnar",685612,"3.5-star hotel in Munnar with restaurant, bar/lounge",1,1,43,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Fragrant Nature Munnar,10000,3.5,105,"Baison valley Road, Pothamedu, Munnar",685612,"3.5-star hotel in Munnar with restaurant, bar/lounge",1,1,43,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Fragrant Nature Munnar,10000,3.5,105,"Baison valley Road, Pothamedu, Munnar",685612,"3.5-star hotel in Munnar with restaurant, bar/lounge",1,1,43,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Hill View Munnar,2943,3,105,"Near KSRTC Bus Stand, Kannan Devan Hills, Munnar",685612,"Mountain hotel in Munnar with restaurant, conference center",1,1,45,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Hill View Munnar,2943,3,105,"Near KSRTC Bus Stand, Kannan Devan Hills, Munnar",685612,"Mountain hotel in Munnar with restaurant, conference center",1,1,45,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Hill View Munnar,4781,3,105,"Near KSRTC Bus Stand, Kannan Devan Hills, Munnar",685612,"Mountain hotel in Munnar with restaurant, conference center",1,1,45,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Hill View Munnar,4781,3,105,"Near KSRTC Bus Stand, Kannan Devan Hills, Munnar",685612,"Mountain hotel in Munnar with restaurant, conference center",1,1,45,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Hill View Munnar,4781,3,105,"Near KSRTC Bus Stand, Kannan Devan Hills, Munnar",685612,"Mountain hotel in Munnar with restaurant, conference center",1,1,45,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Hill View Munnar,4781,3,105,"Near KSRTC Bus Stand, Kannan Devan Hills, Munnar",685612,"Mountain hotel in Munnar with restaurant, conference center",1,1,45,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Hill View Munnar,4781,3,105,"Near KSRTC Bus Stand, Kannan Devan Hills, Munnar",685612,"Mountain hotel in Munnar with restaurant, conference center",1,1,45,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Hill View Munnar,4781,3,105,"Near KSRTC Bus Stand, Kannan Devan Hills, Munnar",685612,"Mountain hotel in Munnar with restaurant, conference center",1,1,45,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Hotel Emerald Inn,6400,3,110,"Silent Valley Road, Munnar, Kerala, 685612, India",685612,3-star Munnar hotel with restaurant,1,0,19,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Hotel Emerald Inn,2370,3,110,"Silent Valley Road, Munnar, Kerala, 685612, India",685612,3-star Munnar hotel with restaurant,1,0,19,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Hotel Emerald Inn,6400,3,110,"Silent Valley Road, Munnar, Kerala, 685612, India",685612,3-star Munnar hotel with restaurant,1,0,19,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Hotel Emerald Inn,6400,3,110,"Silent Valley Road, Munnar, Kerala, 685612, India",685612,3-star Munnar hotel with restaurant,1,0,19,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Hotel Emerald Inn,6400,3,110,"Silent Valley Road, Munnar, Kerala, 685612, India",685612,3-star Munnar hotel with restaurant,1,0,19,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Hotel Emerald Inn,6400,3,110,"Silent Valley Road, Munnar, Kerala, 685612, India",685612,3-star Munnar hotel with restaurant,1,0,19,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Hotel Emerald Inn,2370,3,110,"Silent Valley Road, Munnar, Kerala, 685612, India",685612,3-star Munnar hotel with restaurant,1,0,19,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Hotel Emerald Inn,2370,3,110,"Silent Valley Road, Munnar, Kerala, 685612, India",685612,3-star Munnar hotel with restaurant,1,0,19,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Issacs Residency,3647,3,105,"Mattupatty Road, Munnar",685612,"3-star hotel in Munnar with restaurant, bar/lounge",1,1,32,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Issacs Residency,3647,3,105,"Mattupatty Road, Munnar",685612,"3-star hotel in Munnar with restaurant, bar/lounge",1,1,32,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Issacs Residency,4706,3,105,"Mattupatty Road, Munnar",685612,"3-star hotel in Munnar with restaurant, bar/lounge",1,1,32,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Issacs Residency,4706,3,105,"Mattupatty Road, Munnar",685612,"3-star hotel in Munnar with restaurant, bar/lounge",1,1,32,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Issacs Residency,4706,3,105,"Mattupatty Road, Munnar",685612,"3-star hotel in Munnar with restaurant, bar/lounge",1,1,32,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Issacs Residency,4706,3,105,"Mattupatty Road, Munnar",685612,"3-star hotel in Munnar with restaurant, bar/lounge",1,1,32,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Issacs Residency,3882,3,105,"Mattupatty Road, Munnar",685612,"3-star hotel in Munnar with restaurant, bar/lounge",1,1,32,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Issacs Residency,3882,3,105,"Mattupatty Road, Munnar",685612,"3-star hotel in Munnar with restaurant, bar/lounge",1,1,32,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Kaivalayam Retreat,5412,3,110,"Moolakada, Pallivasal, Munnar, Kerala, 685612, India",685612,Munnar Colonial hotel with restaurant,1,1,10,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Kaivalayam Retreat,5412,3,110,"Moolakada, Pallivasal, Munnar, Kerala, 685612, India",685612,Munnar Colonial hotel with restaurant,1,1,10,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Kaivalayam Retreat,5412,3,110,"Moolakada, Pallivasal, Munnar, Kerala, 685612, India",685612,Munnar Colonial hotel with restaurant,1,1,10,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Kaivalayam Retreat,5412,3,110,"Moolakada, Pallivasal, Munnar, Kerala, 685612, India",685612,Munnar Colonial hotel with restaurant,1,1,10,0
+Munnar,38472,43,0,1,0,0,Dec 28 2016,Kaivalayam Retreat,5412,3,110,"Moolakada, Pallivasal, Munnar, Kerala, 685612, India",685612,Munnar Colonial hotel with restaurant,1,1,10,0
+Munnar,38473,43,0,1,1,1,Dec 31 2016,Kaivalayam Retreat,5412,3,110,"Moolakada, Pallivasal, Munnar, Kerala, 685612, India",685612,Munnar Colonial hotel with restaurant,1,1,10,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Kaivalayam Retreat,5412,3,110,"Moolakada, Pallivasal, Munnar, Kerala, 685612, India",685612,Munnar Colonial hotel with restaurant,1,1,10,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Kaivalayam Retreat,4941,3,110,"Moolakada, Pallivasal, Munnar, Kerala, 685612, India",685612,Munnar Colonial hotel with restaurant,1,1,10,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,LAKEZONE HOLIDAY RESORT,2059,3,105,"Vilakku, Chinnakanal",685618,"3-star hotel in Munnar with restaurant, children's club",1,1,10,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,LAKEZONE HOLIDAY RESORT,2350,3,105,"Vilakku, Chinnakanal",685618,"3-star hotel in Munnar with restaurant, children's club",1,1,10,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,LAKEZONE HOLIDAY RESORT,2718,3,105,"Vilakku, Chinnakanal",685618,"3-star hotel in Munnar with restaurant, children's club",1,1,10,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,LAKEZONE HOLIDAY RESORT,3106,3,105,"Vilakku, Chinnakanal",685618,"3-star hotel in Munnar with restaurant, children's club",1,1,10,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,LAKEZONE HOLIDAY RESORT,3106,3,105,"Vilakku, Chinnakanal",685618,"3-star hotel in Munnar with restaurant, children's club",1,1,10,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,LAKEZONE HOLIDAY RESORT,2350,3,105,"Vilakku, Chinnakanal",685618,"3-star hotel in Munnar with restaurant, children's club",1,1,10,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,LAKEZONE HOLIDAY RESORT,2350,3,105,"Vilakku, Chinnakanal",685618,"3-star hotel in Munnar with restaurant, children's club",1,1,10,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,LAKEZONE HOLIDAY RESORT,2059,3,105,"Vilakku, Chinnakanal",685618,"3-star hotel in Munnar with restaurant, children's club",1,1,10,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Madhumanthra Resort,8089,3.5,102.4,"Iruttala, Pothamedu Bison Valley Road,,Munnar,Idukki,India",685612,3.5-star Munnar hotel with restaurant,1,1,8,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Madhumanthra Resort,5361,3.5,102.4,"Iruttala, Pothamedu Bison Valley Road,,Munnar,Idukki,India",685612,3.5-star Munnar hotel with restaurant,1,1,8,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Madhumanthra Resort,8089,3.5,102.4,"Iruttala, Pothamedu Bison Valley Road,,Munnar,Idukki,India",685612,3.5-star Munnar hotel with restaurant,1,1,8,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Madhumanthra Resort,5361,3.5,102.4,"Iruttala, Pothamedu Bison Valley Road,,Munnar,Idukki,India",685612,3.5-star Munnar hotel with restaurant,1,1,8,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Madhumanthra Resort,5847,3.5,102.4,"Iruttala, Pothamedu Bison Valley Road,,Munnar,Idukki,India",685612,3.5-star Munnar hotel with restaurant,1,1,8,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Madhumanthra Resort,8089,3.5,102.4,"Iruttala, Pothamedu Bison Valley Road,,Munnar,Idukki,India",685612,3.5-star Munnar hotel with restaurant,1,1,8,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Madhumanthra Resort,5361,3.5,102.4,"Iruttala, Pothamedu Bison Valley Road,,Munnar,Idukki,India",685612,3.5-star Munnar hotel with restaurant,1,1,8,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Madhumanthra Resort,5361,3.5,102.4,"Iruttala, Pothamedu Bison Valley Road,,Munnar,Idukki,India",685612,3.5-star Munnar hotel with restaurant,1,1,8,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Mistletoe Munnar,4548,3.5,105,"NH 49, Kochi, Iruttukanam, Munnar",685561,3.5-star Munnar resort with restaurant,1,1,5,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Mistletoe Munnar,4548,3.5,105,"NH 49, Kochi, Iruttukanam, Munnar",685561,3.5-star Munnar resort with restaurant,1,1,5,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Mistletoe Munnar,4548,3.5,105,"NH 49, Kochi, Iruttukanam, Munnar",685561,3.5-star Munnar resort with restaurant,1,1,5,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Mistletoe Munnar,4548,3.5,105,"NH 49, Kochi, Iruttukanam, Munnar",685561,3.5-star Munnar resort with restaurant,1,1,5,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Mistletoe Munnar,4548,3.5,105,"NH 49, Kochi, Iruttukanam, Munnar",685561,3.5-star Munnar resort with restaurant,1,1,5,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Mistletoe Munnar,4548,3.5,105,"NH 49, Kochi, Iruttukanam, Munnar",685561,3.5-star Munnar resort with restaurant,1,1,5,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Mistletoe Munnar,4548,3.5,105,"NH 49, Kochi, Iruttukanam, Munnar",685561,3.5-star Munnar resort with restaurant,1,1,5,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Mistletoe Munnar,4135,3.5,105,"NH 49, Kochi, Iruttukanam, Munnar",685561,3.5-star Munnar resort with restaurant,1,1,5,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Mountain Trail Resort,6500,3,105,"Venadu, Chinnakanal, Munnar",685612,"Mountain hotel in Munnar with restaurant, conference center",1,1,20,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Mountain Trail Resort,6500,3,105,"Venadu, Chinnakanal, Munnar",685612,"Mountain hotel in Munnar with restaurant, conference center",1,1,20,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Mountain Trail Resort,8500,3,105,"Venadu, Chinnakanal, Munnar",685612,"Mountain hotel in Munnar with restaurant, conference center",1,1,20,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Mountain Trail Resort,6500,3,105,"Venadu, Chinnakanal, Munnar",685612,"Mountain hotel in Munnar with restaurant, conference center",1,1,20,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Mountain Trail Resort,6500,3,105,"Venadu, Chinnakanal, Munnar",685612,"Mountain hotel in Munnar with restaurant, conference center",1,1,20,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Mountain Trail Resort,8500,3,105,"Venadu, Chinnakanal, Munnar",685612,"Mountain hotel in Munnar with restaurant, conference center",1,1,20,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Mountain Trail Resort,6500,3,105,"Venadu, Chinnakanal, Munnar",685612,"Mountain hotel in Munnar with restaurant, conference center",1,1,20,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Mountain Trail Resort,4200,3,105,"Venadu, Chinnakanal, Munnar",685612,"Mountain hotel in Munnar with restaurant, conference center",1,1,20,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Munnar Tea Country Resort,6840,4,105,"Thattathimukku, Chithirapuram PO, Munnar",685565,Mountain Munnar resort with restaurant,1,1,33,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Munnar Tea Country Resort,9600,4,105,"Thattathimukku, Chithirapuram PO, Munnar",685565,Mountain Munnar resort with restaurant,1,1,33,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Munnar Tea Country Resort,10600,4,105,"Thattathimukku, Chithirapuram PO, Munnar",685565,Mountain Munnar resort with restaurant,1,1,33,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Munnar Tea Country Resort,10600,4,105,"Thattathimukku, Chithirapuram PO, Munnar",685565,Mountain Munnar resort with restaurant,1,1,33,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Munnar Tea Country Resort,10600,4,105,"Thattathimukku, Chithirapuram PO, Munnar",685565,Mountain Munnar resort with restaurant,1,1,33,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Munnar Tea Country Resort,9600,4,105,"Thattathimukku, Chithirapuram PO, Munnar",685565,Mountain Munnar resort with restaurant,1,1,33,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Munnar Tea Country Resort,9600,4,105,"Thattathimukku, Chithirapuram PO, Munnar",685565,Mountain Munnar resort with restaurant,1,1,33,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Munnar Tea Country Resort,6840,4,105,"Thattathimukku, Chithirapuram PO, Munnar",685565,Mountain Munnar resort with restaurant,1,1,33,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Munnar Terrace Greens A Sterling Resort,5759,4,105,"Chinnakanal Village, Idukki District, Munnar, Chinnakanal",685612,"4-star hotel in Chinnakanal with restaurant, conference center",0,1,135,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Munnar Terrace Greens A Sterling Resort,5759,4,105,"Chinnakanal Village, Idukki District, Munnar, Chinnakanal",685612,"4-star hotel in Chinnakanal with restaurant, conference center",0,1,135,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Munnar Terrace Greens A Sterling Resort,8999,4,105,"Chinnakanal Village, Idukki District, Munnar, Chinnakanal",685612,"4-star hotel in Chinnakanal with restaurant, conference center",0,1,135,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Munnar Terrace Greens A Sterling Resort,10799,4,105,"Chinnakanal Village, Idukki District, Munnar, Chinnakanal",685612,"4-star hotel in Chinnakanal with restaurant, conference center",0,1,135,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Munnar Terrace Greens A Sterling Resort,11696,4,105,"Chinnakanal Village, Idukki District, Munnar, Chinnakanal",685612,"4-star hotel in Chinnakanal with restaurant, conference center",0,1,135,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Munnar Terrace Greens A Sterling Resort,7999,4,105,"Chinnakanal Village, Idukki District, Munnar, Chinnakanal",685612,"4-star hotel in Chinnakanal with restaurant, conference center",0,1,135,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Munnar Terrace Greens A Sterling Resort,5399,4,105,"Chinnakanal Village, Idukki District, Munnar, Chinnakanal",685612,"4-star hotel in Chinnakanal with restaurant, conference center",0,1,135,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Munnar Terrace Greens A Sterling Resort,5399,4,105,"Chinnakanal Village, Idukki District, Munnar, Chinnakanal",685612,"4-star hotel in Chinnakanal with restaurant, conference center",0,1,135,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Nature Zone Jungle Resort,6670,3,105,"Pulippara, Pallivasal, Munnar",685612,Mountain Munnar resort with restaurant,0,0,17,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Nature Zone Jungle Resort,8755,3,105,"Pulippara, Pallivasal, Munnar",685612,Mountain Munnar resort with restaurant,0,0,17,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Nature Zone Jungle Resort,8755,3,105,"Pulippara, Pallivasal, Munnar",685612,Mountain Munnar resort with restaurant,0,0,17,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Nature Zone Jungle Resort,8755,3,105,"Pulippara, Pallivasal, Munnar",685612,Mountain Munnar resort with restaurant,0,0,17,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Nature Zone Jungle Resort,8755,3,105,"Pulippara, Pallivasal, Munnar",685612,Mountain Munnar resort with restaurant,0,0,17,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Nature Zone Jungle Resort,8755,3,105,"Pulippara, Pallivasal, Munnar",685612,Mountain Munnar resort with restaurant,0,0,17,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Nature Zone Jungle Resort,8755,3,105,"Pulippara, Pallivasal, Munnar",685612,Mountain Munnar resort with restaurant,0,0,17,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Nature Zone Jungle Resort,8755,3,105,"Pulippara, Pallivasal, Munnar",685612,Mountain Munnar resort with restaurant,0,0,17,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Neelakurunji Luxury Plantation,10200,3,105,"Venadu, Muttukad-Periakanal Road, Chinnakkanal P.O, Munnar",685618,Munnar Colonial guesthouse with restaurant,1,1,10,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Neelakurunji Luxury Plantation,9000,3,105,"Venadu, Muttukad-Periakanal Road, Chinnakkanal P.O, Munnar",685618,Munnar Colonial guesthouse with restaurant,1,1,10,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Neelakurunji Luxury Plantation,9000,3,105,"Venadu, Muttukad-Periakanal Road, Chinnakkanal P.O, Munnar",685618,Munnar Colonial guesthouse with restaurant,1,1,10,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Neelakurunji Luxury Plantation,9000,3,105,"Venadu, Muttukad-Periakanal Road, Chinnakkanal P.O, Munnar",685618,Munnar Colonial guesthouse with restaurant,1,1,10,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Neelakurunji Luxury Plantation,9000,3,105,"Venadu, Muttukad-Periakanal Road, Chinnakkanal P.O, Munnar",685618,Munnar Colonial guesthouse with restaurant,1,1,10,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Neelakurunji Luxury Plantation,10200,3,105,"Venadu, Muttukad-Periakanal Road, Chinnakkanal P.O, Munnar",685618,Munnar Colonial guesthouse with restaurant,1,1,10,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Neelakurunji Luxury Plantation,9000,3,105,"Venadu, Muttukad-Periakanal Road, Chinnakkanal P.O, Munnar",685618,Munnar Colonial guesthouse with restaurant,1,1,10,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Neelakurunji Luxury Plantation,9000,3,105,"Venadu, Muttukad-Periakanal Road, Chinnakkanal P.O, Munnar",685618,Munnar Colonial guesthouse with restaurant,1,1,10,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,OYO Rooms AM Road CSI Church,3150,3,110,"Near CSI Church, AM Road, Munnar, India",685612,3-star hotel in Munnar,1,1,19,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,OYO Rooms AM Road CSI Church,10324,3,110,"Near CSI Church, AM Road, Munnar, India",685612,3-star hotel in Munnar,1,1,19,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,OYO Rooms AM Road CSI Church,10324,3,110,"Near CSI Church, AM Road, Munnar, India",685612,3-star hotel in Munnar,1,1,19,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,OYO Rooms AM Road CSI Church,10324,3,110,"Near CSI Church, AM Road, Munnar, India",685612,3-star hotel in Munnar,1,1,19,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,OYO Rooms AM Road CSI Church,10324,3,110,"Near CSI Church, AM Road, Munnar, India",685612,3-star hotel in Munnar,1,1,19,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,OYO Rooms AM Road CSI Church,10324,3,110,"Near CSI Church, AM Road, Munnar, India",685612,3-star hotel in Munnar,1,1,19,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,OYO Rooms AM Road CSI Church,10324,3,110,"Near CSI Church, AM Road, Munnar, India",685612,3-star hotel in Munnar,1,1,19,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,OYO Rooms AM Road CSI Church,10324,3,110,"Near CSI Church, AM Road, Munnar, India",685612,3-star hotel in Munnar,1,1,19,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Parakkat Nature Resorts,5400,4,105,"2nd Mile, Pallivasal, Munnar",685565,Munnar upscale hotel with restaurant,1,1,15,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Parakkat Nature Resorts,5400,4,105,"3rd Mile, Pallivasal, Munnar",685565,Munnar upscale hotel with restaurant,1,1,15,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Parakkat Nature Resorts,6000,4,105,"4th Mile, Pallivasal, Munnar",685565,Munnar upscale hotel with restaurant,1,1,15,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Parakkat Nature Resorts,13500,4,105,"5th Mile, Pallivasal, Munnar",685565,Munnar upscale hotel with restaurant,1,1,15,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Parakkat Nature Resorts,13500,4,105,"6th Mile, Pallivasal, Munnar",685565,Munnar upscale hotel with restaurant,1,1,15,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Parakkat Nature Resorts,9000,4,105,"7th Mile, Pallivasal, Munnar",685565,Munnar upscale hotel with restaurant,1,1,15,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Parakkat Nature Resorts,13500,4,105,"8th Mile, Pallivasal, Munnar",685565,Munnar upscale hotel with restaurant,1,1,15,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Parakkat Nature Resorts,5400,4,105,"9th Mile, Pallivasal, Munnar",685565,Munnar upscale hotel with restaurant,1,1,43,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Ragamaya Resort & Spa Munnar,7505,4,105,"View Point, Kallimaly, Off Munnar, Thekkady bypass Road, Munnar",685566,"Mountain hotel in Munnar with outdoor pool, restaurant",1,1,20,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Ragamaya Resort & Spa Munnar,12091,4,105,"View Point, Kallimaly, Off Munnar, Thekkady bypass Road, Munnar",685566,"Mountain hotel in Munnar with outdoor pool, restaurant",1,1,20,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Ragamaya Resort & Spa Munnar,8339,4,105,"View Point, Kallimaly, Off Munnar, Thekkady bypass Road, Munnar",685566,"Mountain hotel in Munnar with outdoor pool, restaurant",1,1,20,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Ragamaya Resort & Spa Munnar,12091,4,105,"View Point, Kallimaly, Off Munnar, Thekkady bypass Road, Munnar",685566,"Mountain hotel in Munnar with outdoor pool, restaurant",1,1,20,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Ragamaya Resort & Spa Munnar,11674,4,105,"View Point, Kallimaly, Off Munnar, Thekkady bypass Road, Munnar",685566,"Mountain hotel in Munnar with outdoor pool, restaurant",1,1,20,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Ragamaya Resort & Spa Munnar,12091,4,105,"View Point, Kallimaly, Off Munnar, Thekkady bypass Road, Munnar",685566,"Mountain hotel in Munnar with outdoor pool, restaurant",1,1,20,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Ragamaya Resort & Spa Munnar,8339,4,105,"View Point, Kallimaly, Off Munnar, Thekkady bypass Road, Munnar",685566,"Mountain hotel in Munnar with outdoor pool, restaurant",1,1,20,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Ragamaya Resort & Spa Munnar,7922,4,105,"View Point, Kallimaly, Off Munnar, Thekkady bypass Road, Munnar",685566,"Mountain hotel in Munnar with outdoor pool, restaurant",1,1,20,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Rivulet,4753,3,110,"Pallivassal Power House, Chithirapuram P O, Munnar, Kerala, 686555, India",686555,Mountain Chithirapuram resort with restaurant,1,1,24,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Rivulet,5420,3,110,"Pallivassal Power House, Chithirapuram P O, Munnar, Kerala, 686555, India",686555,Mountain Chithirapuram resort with restaurant,1,1,24,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Rivulet,8026,3,110,"Pallivassal Power House, Chithirapuram P O, Munnar, Kerala, 686555, India",686555,Mountain Chithirapuram resort with restaurant,1,1,24,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Rivulet,8026,3,110,"Pallivassal Power House, Chithirapuram P O, Munnar, Kerala, 686555, India",686555,Mountain Chithirapuram resort with restaurant,1,1,24,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Rivulet,8026,3,110,"Pallivassal Power House, Chithirapuram P O, Munnar, Kerala, 686555, India",686555,Mountain Chithirapuram resort with restaurant,1,1,24,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Rivulet,8026,3,110,"Pallivassal Power House, Chithirapuram P O, Munnar, Kerala, 686555, India",686555,Mountain Chithirapuram resort with restaurant,1,1,24,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Rivulet,5420,3,110,"Pallivassal Power House, Chithirapuram P O, Munnar, Kerala, 686555, India",686555,Mountain Chithirapuram resort with restaurant,1,1,24,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Rivulet,5420,3,110,"Pallivassal Power House, Chithirapuram P O, Munnar, Kerala, 686555, India",686555,Mountain Chithirapuram resort with restaurant,1,1,24,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Shamrock,2481,2.5,110,"Bison Valley Rd, Pothamedu, Idukki(Dist.), Munnar, Kerala, 685612, India",685612,No-frills Munnar guestrooms with balconies,1,0,7,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Shamrock,2481,2.5,110,"Bison Valley Rd, Pothamedu, Idukki(Dist.), Munnar, Kerala, 685612, India",685612,No-frills Munnar guestrooms with balconies,1,0,7,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Shamrock,3473,2.5,110,"Bison Valley Rd, Pothamedu, Idukki(Dist.), Munnar, Kerala, 685612, India",685612,No-frills Munnar guestrooms with balconies,1,0,7,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Shamrock,3473,2.5,110,"Bison Valley Rd, Pothamedu, Idukki(Dist.), Munnar, Kerala, 685612, India",685612,No-frills Munnar guestrooms with balconies,1,0,7,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Shamrock,3473,2.5,110,"Bison Valley Rd, Pothamedu, Idukki(Dist.), Munnar, Kerala, 685612, India",685612,No-frills Munnar guestrooms with balconies,1,0,7,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Shamrock,3473,2.5,110,"Bison Valley Rd, Pothamedu, Idukki(Dist.), Munnar, Kerala, 685612, India",685612,No-frills Munnar guestrooms with balconies,1,0,7,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Shamrock,3473,2.5,110,"Bison Valley Rd, Pothamedu, Idukki(Dist.), Munnar, Kerala, 685612, India",685612,No-frills Munnar guestrooms with balconies,1,0,7,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Shamrock,2481,2.5,110,"Bison Valley Rd, Pothamedu, Idukki(Dist.), Munnar, Kerala, 685612, India",685612,No-frills Munnar guestrooms with balconies,1,0,7,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Silver Oak Plantation Bungalow,11099,2.5,105,"No.27/3057-A, Opposite Bhavans School, Vandanmedu",682020,No-frills hotel in Vandanmedu,0,1,3,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Silver Oak Plantation Bungalow,11099,2.5,105,"No.27/3057-A, Opposite Bhavans School, Vandanmedu",682020,No-frills hotel in Vandanmedu,0,1,3,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Silver Oak Plantation Bungalow,12000,2.5,105,"No.27/3057-A, Opposite Bhavans School, Vandanmedu",682020,No-frills hotel in Vandanmedu,0,1,3,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Silver Oak Plantation Bungalow,12000,2.5,105,"No.27/3057-A, Opposite Bhavans School, Vandanmedu",682020,No-frills hotel in Vandanmedu,0,1,3,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Silver Oak Plantation Bungalow,11099,2.5,105,"No.27/3057-A, Opposite Bhavans School, Vandanmedu",682020,No-frills hotel in Vandanmedu,0,1,3,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Silver Oak Plantation Bungalow,12000,2.5,105,"No.27/3057-A, Opposite Bhavans School, Vandanmedu",682020,No-frills hotel in Vandanmedu,0,1,3,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Silver Oak Plantation Bungalow,11099,2.5,105,"No.27/3057-A, Opposite Bhavans School, Vandanmedu",682020,No-frills hotel in Vandanmedu,0,1,3,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Silver Oak Plantation Bungalow,11099,2.5,105,"No.27/3057-A, Opposite Bhavans School, Vandanmedu",682020,No-frills hotel in Vandanmedu,0,1,3,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Spice Country Resort,5361,3.5,105,"Chithirapuram, Munnar",685612,"3.5-star hotel in Chithirapuram with restaurant, conference center",0,1,20,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Spice Country Resort,4483,3.5,105,"Chithirapuram, Munnar",685612,"3.5-star hotel in Chithirapuram with restaurant, conference center",0,1,20,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Spice Country Resort,7212,3.5,105,"Chithirapuram, Munnar",685612,"3.5-star hotel in Chithirapuram with restaurant, conference center",0,1,20,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Spice Country Resort,4483,3.5,105,"Chithirapuram, Munnar",685612,"3.5-star hotel in Chithirapuram with restaurant, conference center",0,1,20,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Spice Country Resort,7212,3.5,105,"Chithirapuram, Munnar",685612,"3.5-star hotel in Chithirapuram with restaurant, conference center",0,1,20,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Spice Country Resort,7212,3.5,105,"Chithirapuram, Munnar",685612,"3.5-star hotel in Chithirapuram with restaurant, conference center",0,1,20,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Spice Country Resort,4483,3.5,105,"Chithirapuram, Munnar",685612,"3.5-star hotel in Chithirapuram with restaurant, conference center",0,1,20,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Spice Country Resort,4483,3.5,105,"Chithirapuram, Munnar",685612,"3.5-star hotel in Chithirapuram with restaurant, conference center",0,1,20,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Swiss County,7713,3.5,105,"Chitirapuram, Pallivasal, Munnar",685565,Comfortable Chithirapuram guestrooms with balconies,0,1,5,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Swiss County,7713,3.5,105,"Chitirapuram, Pallivasal, Munnar",685565,Comfortable Chithirapuram guestrooms with balconies,0,1,5,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Swiss County,6046,3.5,105,"Chitirapuram, Pallivasal, Munnar",685565,Comfortable Chithirapuram guestrooms with balconies,0,1,5,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Swiss County,7713,3.5,105,"Chitirapuram, Pallivasal, Munnar",685565,Comfortable Chithirapuram guestrooms with balconies,0,1,5,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Swiss County,7713,3.5,105,"Chitirapuram, Pallivasal, Munnar",685565,Comfortable Chithirapuram guestrooms with balconies,0,1,5,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Swiss County,6046,3.5,105,"Chitirapuram, Pallivasal, Munnar",685565,Comfortable Chithirapuram guestrooms with balconies,0,1,5,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Swiss County,6046,3.5,105,"Chitirapuram, Pallivasal, Munnar",685565,Comfortable Chithirapuram guestrooms with balconies,0,1,5,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Swiss County,6671,3.5,105,"Chitirapuram, Pallivasal, Munnar",685565,Comfortable Chithirapuram guestrooms with balconies,0,1,5,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,T And U Leisure Hotel,4420,3,105,"Mattupetty Road, Munnar",685612,"3-star hotel in Munnar with spa, restaurant",1,1,30,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,T And U Leisure Hotel,6004,3,105,"Mattupetty Road, Munnar",685612,"3-star hotel in Munnar with spa, restaurant",1,1,30,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,T And U Leisure Hotel,6004,3,105,"Mattupetty Road, Munnar",685612,"3-star hotel in Munnar with spa, restaurant",1,1,30,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,T And U Leisure Hotel,6004,3,105,"Mattupetty Road, Munnar",685612,"3-star hotel in Munnar with spa, restaurant",1,1,30,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,T And U Leisure Hotel,6004,3,105,"Mattupetty Road, Munnar",685612,"3-star hotel in Munnar with spa, restaurant",1,1,30,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,T And U Leisure Hotel,6004,3,105,"Mattupetty Road, Munnar",685612,"3-star hotel in Munnar with spa, restaurant",1,1,30,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,T And U Leisure Hotel,6004,3,105,"Mattupetty Road, Munnar",685612,"3-star hotel in Munnar with spa, restaurant",1,1,30,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,T And U Leisure Hotel,4420,3,105,"Mattupetty Road, Munnar",685612,"3-star hotel in Munnar with spa, restaurant",1,1,30,0
+Munnar,38473,43,0,1,1,0,Dec 18 2016,Tea Harvester Munnar,6355,3.5,110,"Chungath Estate, Power House Road, Dobipalam, Chithirapuram P.O, Munnar, Kerala, 685565, India",686565,"Mountain hotel in Chithirapuram with 2 restaurants, health club",1,1,15,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Tea Harvester Munnar,7264,3.5,110,"Chungath Estate, Power House Road, Dobipalam, Chithirapuram P.O, Munnar, Kerala, 685565, India",686565,"Mountain hotel in Chithirapuram with 2 restaurants, health club",1,1,15,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Tea Harvester Munnar,9991,3.5,110,"Chungath Estate, Power House Road, Dobipalam, Chithirapuram P.O, Munnar, Kerala, 685565, India",686565,"Mountain hotel in Chithirapuram with 2 restaurants, health club",1,1,15,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Tea Harvester Munnar,11809,3.5,110,"Chungath Estate, Power House Road, Dobipalam, Chithirapuram P.O, Munnar, Kerala, 685565, India",686565,"Mountain hotel in Chithirapuram with 2 restaurants, health club",1,1,15,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Tea Harvester Munnar,11809,3.5,110,"Chungath Estate, Power House Road, Dobipalam, Chithirapuram P.O, Munnar, Kerala, 685565, India",686565,"Mountain hotel in Chithirapuram with 2 restaurants, health club",1,1,15,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Tea Harvester Munnar,11809,3.5,110,"Chungath Estate, Power House Road, Dobipalam, Chithirapuram P.O, Munnar, Kerala, 685565, India",686565,"Mountain hotel in Chithirapuram with 2 restaurants, health club",1,1,15,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Tea Harvester Munnar,7264,3.5,110,"Chungath Estate, Power House Road, Dobipalam, Chithirapuram P.O, Munnar, Kerala, 685565, India",686565,"Mountain hotel in Chithirapuram with 2 restaurants, health club",1,1,15,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Tea Harvester Munnar,5900,3.5,110,"Chungath Estate, Power House Road, Dobipalam, Chithirapuram P.O, Munnar, Kerala, 685565, India",686565,"Mountain hotel in Chithirapuram with 2 restaurants, health club",1,1,15,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,Tea Valley Resort,6500,3,105,"Pothamedu, Munnar",685612,"Mountain hotel in Munnar with restaurant, free children's club",1,1,29,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,Tea Valley Resort,7500,3,105,"Pothamedu, Munnar",685612,"Mountain hotel in Munnar with restaurant, free children's club",1,1,29,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,Tea Valley Resort,7500,3,105,"Pothamedu, Munnar",685612,"Mountain hotel in Munnar with restaurant, free children's club",1,1,29,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,Tea Valley Resort,7500,3,105,"Pothamedu, Munnar",685612,"Mountain hotel in Munnar with restaurant, free children's club",1,1,29,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,Tea Valley Resort,7500,3,105,"Pothamedu, Munnar",685612,"Mountain hotel in Munnar with restaurant, free children's club",1,1,29,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,Tea Valley Resort,7500,3,105,"Pothamedu, Munnar",685612,"Mountain hotel in Munnar with restaurant, free children's club",1,1,29,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,Tea Valley Resort,6500,3,105,"Pothamedu, Munnar",685612,"Mountain hotel in Munnar with restaurant, free children's club",1,1,29,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,Tea Valley Resort,6500,3,105,"Pothamedu, Munnar",685612,"Mountain hotel in Munnar with restaurant, free children's club",1,1,29,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,The Fog Munnar Resorts & Spa,13600,4,105,"Eatty City Road, Chithirapuram P.O., Munnar",685565,"Mountain resort in Munnar with outdoor pool, restaurant",1,1,40,1
+Munnar,38471,43,0,1,0,0,Dec 21 2016,The Fog Munnar Resorts & Spa,8500,4,105,"Eatty City Road, Chithirapuram P.O., Munnar",685565,"Mountain resort in Munnar with outdoor pool, restaurant",1,1,40,1
+Munnar,38471,43,0,1,1,0,Dec 24 2016,The Fog Munnar Resorts & Spa,13600,4,105,"Eatty City Road, Chithirapuram P.O., Munnar",685565,"Mountain resort in Munnar with outdoor pool, restaurant",1,1,40,1
+Munnar,38471,43,0,1,1,0,Dec 25 2016,The Fog Munnar Resorts & Spa,13600,4,105,"Eatty City Road, Chithirapuram P.O., Munnar",685565,"Mountain resort in Munnar with outdoor pool, restaurant",1,1,40,1
+Munnar,38471,43,0,1,0,0,Dec 28 2016,The Fog Munnar Resorts & Spa,13600,4,105,"Eatty City Road, Chithirapuram P.O., Munnar",685565,"Mountain resort in Munnar with outdoor pool, restaurant",1,1,40,1
+Munnar,38471,43,0,1,1,1,Dec 31 2016,The Fog Munnar Resorts & Spa,13600,4,105,"Eatty City Road, Chithirapuram P.O., Munnar",685565,"Mountain resort in Munnar with outdoor pool, restaurant",1,1,40,1
+Munnar,38471,43,0,1,0,0,Jan 04 2017,The Fog Munnar Resorts & Spa,8500,4,105,"Eatty City Road, Chithirapuram P.O., Munnar",685565,"Mountain resort in Munnar with outdoor pool, restaurant",1,1,40,1
+Munnar,38471,43,0,1,1,0,Jan 08 2017,The Fog Munnar Resorts & Spa,13600,4,105,"Eatty City Road, Chithirapuram P.O., Munnar",685565,"Mountain resort in Munnar with outdoor pool, restaurant",1,1,40,1
+Munnar,38471,43,0,1,1,0,Dec 18 2016,The Munnar Queen,5850,3.5,110,"Chithirapuram, Munnar, 685565, India",685565,"3.5-star hotel in Chithirapuram with 2 restaurants, outdoor pool",1,1,18,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,The Munnar Queen,5850,3.5,110,"Chithirapuram, Munnar, 685565, India",685565,"3.5-star hotel in Chithirapuram with 2 restaurants, outdoor pool",1,1,18,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,The Munnar Queen,6500,3.5,110,"Chithirapuram, Munnar, 685565, India",685565,"3.5-star hotel in Chithirapuram with 2 restaurants, outdoor pool",1,1,18,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,The Munnar Queen,6500,3.5,110,"Chithirapuram, Munnar, 685565, India",685565,"3.5-star hotel in Chithirapuram with 2 restaurants, outdoor pool",1,1,18,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,The Munnar Queen,6500,3.5,110,"Chithirapuram, Munnar, 685565, India",685565,"3.5-star hotel in Chithirapuram with 2 restaurants, outdoor pool",1,1,18,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,The Munnar Queen,6500,3.5,110,"Chithirapuram, Munnar, 685565, India",685565,"3.5-star hotel in Chithirapuram with 2 restaurants, outdoor pool",1,1,18,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,The Munnar Queen,5850,3.5,110,"Chithirapuram, Munnar, 685565, India",685565,"3.5-star hotel in Chithirapuram with 2 restaurants, outdoor pool",1,1,18,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,The Munnar Queen,5850,3.5,110,"Chithirapuram, Munnar, 685565, India",685565,"3.5-star hotel in Chithirapuram with 2 restaurants, outdoor pool",1,1,18,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,The Panoramic Getaway,10800,4,105,"Anachal-Munnar Road, Chithirapuram, Munnar",685565,"4-star hotel in Munnar with 2 restaurants, spa",1,1,55,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,The Panoramic Getaway,12000,4,105,"Anachal-Munnar Road, Chithirapuram, Munnar",685565,"4-star hotel in Munnar with 2 restaurants, spa",1,1,55,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,The Panoramic Getaway,12000,4,105,"Anachal-Munnar Road, Chithirapuram, Munnar",685565,"4-star hotel in Munnar with 2 restaurants, spa",1,1,55,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,The Panoramic Getaway,12000,4,105,"Anachal-Munnar Road, Chithirapuram, Munnar",685565,"4-star hotel in Munnar with 2 restaurants, spa",1,1,55,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,The Panoramic Getaway,12000,4,105,"Anachal-Munnar Road, Chithirapuram, Munnar",685565,"4-star hotel in Munnar with 2 restaurants, spa",1,1,55,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,The Panoramic Getaway,12000,4,105,"Anachal-Munnar Road, Chithirapuram, Munnar",685565,"4-star hotel in Munnar with 2 restaurants, spa",1,1,55,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,The Panoramic Getaway,12000,4,105,"Anachal-Munnar Road, Chithirapuram, Munnar",685565,"4-star hotel in Munnar with 2 restaurants, spa",1,1,55,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,The Panoramic Getaway,10800,4,105,"Anachal-Munnar Road, Chithirapuram, Munnar",685565,"4-star hotel in Munnar with 2 restaurants, spa",1,1,55,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,The Tall Trees Munnar,9999,3.5,105,"Bison Valley Road, PB. No. 40, Munnar",685612,"Mountain resort in Munnar with 2 restaurants, bar/lounge",1,1,19,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,The Tall Trees Munnar,17999,3.5,105,"Bison Valley Road, PB. No. 40, Munnar",685612,"Mountain resort in Munnar with 2 restaurants, bar/lounge",1,1,19,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,The Tall Trees Munnar,14499,3.5,105,"Bison Valley Road, PB. No. 40, Munnar",685612,"Mountain resort in Munnar with 2 restaurants, bar/lounge",1,1,19,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,The Tall Trees Munnar,17999,3.5,105,"Bison Valley Road, PB. No. 40, Munnar",685612,"Mountain resort in Munnar with 2 restaurants, bar/lounge",1,1,19,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,The Tall Trees Munnar,17999,3.5,105,"Bison Valley Road, PB. No. 40, Munnar",685612,"Mountain resort in Munnar with 2 restaurants, bar/lounge",1,1,19,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,The Tall Trees Munnar,17999,3.5,105,"Bison Valley Road, PB. No. 40, Munnar",685612,"Mountain resort in Munnar with 2 restaurants, bar/lounge",1,1,19,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,The Tall Trees Munnar,14999,3.5,105,"Bison Valley Road, PB. No. 40, Munnar",685612,"Mountain resort in Munnar with 2 restaurants, bar/lounge",1,1,19,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,The Tall Trees Munnar,17999,3.5,105,"Bison Valley Road, PB. No. 40, Munnar",685612,"Mountain resort in Munnar with 2 restaurants, bar/lounge",1,1,19,0
+Munnar,38471,43,0,1,1,0,Dec 18 2016,"Vedanta Wake Up - Munnar, Devikulam",2399,2.5,110,"Near KTDC Yathra Nivas, Devikulam, Munnar, Kerala, 685613, India",685613,No-frills hotel in Munnar,1,0,22,0
+Munnar,38471,43,0,1,0,0,Dec 21 2016,"Vedanta Wake Up - Munnar, Devikulam",2399,2.5,110,"Near KTDC Yathra Nivas, Devikulam, Munnar, Kerala, 685613, India",685613,No-frills hotel in Munnar,1,0,22,0
+Munnar,38471,43,0,1,1,0,Dec 24 2016,"Vedanta Wake Up - Munnar, Devikulam",3999,2.5,110,"Near KTDC Yathra Nivas, Devikulam, Munnar, Kerala, 685613, India",685613,No-frills hotel in Munnar,1,0,22,0
+Munnar,38471,43,0,1,1,0,Dec 25 2016,"Vedanta Wake Up - Munnar, Devikulam",3999,2.5,110,"Near KTDC Yathra Nivas, Devikulam, Munnar, Kerala, 685613, India",685613,No-frills hotel in Munnar,1,0,22,0
+Munnar,38471,43,0,1,0,0,Dec 28 2016,"Vedanta Wake Up - Munnar, Devikulam",3999,2.5,110,"Near KTDC Yathra Nivas, Devikulam, Munnar, Kerala, 685613, India",685613,No-frills hotel in Munnar,1,0,22,0
+Munnar,38471,43,0,1,1,1,Dec 31 2016,"Vedanta Wake Up - Munnar, Devikulam",3999,2.5,110,"Near KTDC Yathra Nivas, Devikulam, Munnar, Kerala, 685613, India",685613,No-frills hotel in Munnar,1,0,22,0
+Munnar,38471,43,0,1,0,0,Jan 04 2017,"Vedanta Wake Up - Munnar, Devikulam",2399,2.5,110,"Near KTDC Yathra Nivas, Devikulam, Munnar, Kerala, 685613, India",685613,No-frills hotel in Munnar,1,0,22,0
+Munnar,38471,43,0,1,1,0,Jan 08 2017,"Vedanta Wake Up - Munnar, Devikulam",2399,2.5,110,"Near KTDC Yathra Nivas, Devikulam, Munnar, Kerala, 685613, India",685613,No-frills hotel in Munnar,1,0,22,0

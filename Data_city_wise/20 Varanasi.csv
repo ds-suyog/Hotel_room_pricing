@@ -1,0 +1,265 @@
+CityName,Population,CityRank,IsMetroCity,IsTouristDestination,IsWeekend,IsNewYearEve,Date,HotelName,RoomRent,StarRating,Airport,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,A Palace On River,6053,3.5,22,"D, 16/28-A, Manmandir Ghat, Dasaswamedh, Varanasi, Uttar Pradesh",221001,3.5-star Varanasi hotel with restaurant,1,0,16,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,A Palace On River,2522,3.5,22,"D, 16/28-A, Manmandir Ghat, Dasaswamedh, Varanasi, Uttar Pradesh",221001,3.5-star Varanasi hotel with restaurant,1,0,16,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,A Palace On River,2522,3.5,22,"D, 16/28-A, Manmandir Ghat, Dasaswamedh, Varanasi, Uttar Pradesh",221001,3.5-star Varanasi hotel with restaurant,1,0,16,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,A Palace On River,2522,3.5,22,"D, 16/28-A, Manmandir Ghat, Dasaswamedh, Varanasi, Uttar Pradesh",221001,3.5-star Varanasi hotel with restaurant,1,0,16,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,A Palace On River,2522,3.5,22,"D, 16/28-A, Manmandir Ghat, Dasaswamedh, Varanasi, Uttar Pradesh",221001,3.5-star Varanasi hotel with restaurant,1,0,16,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,A Palace On River,6053,3.5,22,"D, 16/28-A, Manmandir Ghat, Dasaswamedh, Varanasi, Uttar Pradesh",221001,3.5-star Varanasi hotel with restaurant,1,0,16,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,A Palace On River,6053,3.5,22,"D, 16/28-A, Manmandir Ghat, Dasaswamedh, Varanasi, Uttar Pradesh",221001,3.5-star Varanasi hotel with restaurant,1,0,16,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,A Palace On River,6053,3.5,22,"D, 16/28-A, Manmandir Ghat, Dasaswamedh, Varanasi, Uttar Pradesh",221001,3.5-star Varanasi hotel with restaurant,1,0,16,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Baba Guest House,799,2,23,"D 20/15 Munshi Ghat, Near Darbhanga Ghat, Varanasi",221001,A No frill Guest House,1,0,15,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Baba Guest House,799,2,23,"D 20/15 Munshi Ghat, Near Darbhanga Ghat, Varanasi",221001,A No frill Guest House,1,0,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Baba Guest House,799,2,23,"D 20/15 Munshi Ghat, Near Darbhanga Ghat, Varanasi",221001,A No frill Guest House,1,0,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Baba Guest House,799,2,23,"D 20/15 Munshi Ghat, Near Darbhanga Ghat, Varanasi",221001,A No frill Guest House,1,0,15,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Baba Guest House,877,2,23,"D 20/15 Munshi Ghat, Near Darbhanga Ghat, Varanasi",221001,A No frill Guest House,1,0,15,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Baba Guest House,877,2,23,"D 20/15 Munshi Ghat, Near Darbhanga Ghat, Varanasi",221001,A No frill Guest House,1,0,15,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Baba Guest House,799,2,23,"D 20/15 Munshi Ghat, Near Darbhanga Ghat, Varanasi",221001,A No frill Guest House,1,0,15,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Baba Guest House,799,2,23,"D 20/15 Munshi Ghat, Near Darbhanga Ghat, Varanasi",221001,A No frill Guest House,1,0,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,BrijRama Palace,19999,4,22,"Munshi Ghat, Near Dashaswamedh",221001,4 star hotel with free wifi and buffet breakfast,1,1,32,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,BrijRama Palace,24999,4,22,"Munshi Ghat, Near Dashaswamedh",221001,4 star hotel with free wifi and buffet breakfast,1,1,32,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,BrijRama Palace,24999,4,22,"Munshi Ghat, Near Dashaswamedh",221001,4 star hotel with free wifi and buffet breakfast,1,1,32,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,BrijRama Palace,21999,4,22,"Munshi Ghat, Near Dashaswamedh",221001,4 star hotel with free wifi and buffet breakfast,1,1,32,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,BrijRama Palace,24999,4,22,"Munshi Ghat, Near Dashaswamedh",221001,4 star hotel with free wifi and buffet breakfast,1,1,32,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,BrijRama Palace,24999,4,22,"Munshi Ghat, Near Dashaswamedh",221001,4 star hotel with free wifi and buffet breakfast,1,1,32,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,BrijRama Palace,19999,4,22,"Munshi Ghat, Near Dashaswamedh",221001,4 star hotel with free wifi and buffet breakfast,1,1,32,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,BrijRama Palace,21999,4,22,"Munshi Ghat, Near Dashaswamedh",221001,4 star hotel with free wifi and buffet breakfast,1,1,32,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Diamond Hotel,3500,3.5,23,"B 20/44 A-3 Bhelupur, Varanasi",221010,3.5-star Varanasi hotel with restaurant,1,1,40,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Diamond Hotel,2800,3.5,23,"B 20/44 A-3 Bhelupur, Varanasi",221010,3.5-star Varanasi hotel with restaurant,1,1,40,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Diamond Hotel,3500,3.5,23,"B 20/44 A-3 Bhelupur, Varanasi",221010,3.5-star Varanasi hotel with restaurant,1,1,40,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Diamond Hotel,3500,3.5,23,"B 20/44 A-3 Bhelupur, Varanasi",221010,3.5-star Varanasi hotel with restaurant,1,1,40,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Diamond Hotel,3500,3.5,23,"B 20/44 A-3 Bhelupur, Varanasi",221010,3.5-star Varanasi hotel with restaurant,1,1,40,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Diamond Hotel,3500,3.5,23,"B 20/44 A-3 Bhelupur, Varanasi",221010,3.5-star Varanasi hotel with restaurant,1,1,40,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Diamond Hotel,3500,3.5,23,"B 20/44 A-3 Bhelupur, Varanasi",221010,3.5-star Varanasi hotel with restaurant,1,1,40,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Diamond Hotel,3500,3.5,23,"B 20/44 A-3 Bhelupur, Varanasi",221010,3.5-star Varanasi hotel with restaurant,1,1,40,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Divine Destinataion,1579,3.3,25,"D-47/196, Ramapura, Luxa road, Varanasi, Uttar Pradesh",221001,"3-star hotel in Varanasi with restaurant, conference center",1,1,21,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Divine Destinataion,1579,3.3,25,"D-47/196, Ramapura, Luxa road, Varanasi, Uttar Pradesh",221001,"3-star hotel in Varanasi with restaurant, conference center",1,1,21,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Divine Destinataion,1579,3.3,25,"D-47/196, Ramapura, Luxa road, Varanasi, Uttar Pradesh",221001,"3-star hotel in Varanasi with restaurant, conference center",1,1,21,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Divine Destinataion,1579,3.3,25,"D-47/196, Ramapura, Luxa road, Varanasi, Uttar Pradesh",221001,"3-star hotel in Varanasi with restaurant, conference center",1,1,21,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Divine Destinataion,1579,3.3,25,"D-47/196, Ramapura, Luxa road, Varanasi, Uttar Pradesh",221001,"3-star hotel in Varanasi with restaurant, conference center",1,1,21,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Divine Destinataion,2700,3.3,25,"D-47/196, Ramapura, Luxa road, Varanasi, Uttar Pradesh",221001,"3-star hotel in Varanasi with restaurant, conference center",1,1,21,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Divine Destinataion,1491,3.3,25,"D-47/196, Ramapura, Luxa road, Varanasi, Uttar Pradesh",221001,"3-star hotel in Varanasi with restaurant, conference center",1,1,21,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Divine Destinataion,1491,3.3,25,"D-47/196, Ramapura, Luxa road, Varanasi, Uttar Pradesh",221001,"3-star hotel in Varanasi with restaurant, conference center",1,1,21,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Ganga Maonestary,2300,3,27,"N-1/2 RM, Near Ravidas Ghat, Assi-Nagwa Road",221005,No-frills Varanasi hotel with restaurant,1,1,16,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Ganga Maonestary,2300,3,27,"N-1/2 RM, Near Ravidas Ghat, Assi-Nagwa Road",221005,No-frills Varanasi hotel with restaurant,1,1,16,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Ganga Maonestary,2300,3,27,"N-1/2 RM, Near Ravidas Ghat, Assi-Nagwa Road",221005,No-frills Varanasi hotel with restaurant,1,1,16,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Ganga Maonestary,2300,3,27,"N-1/2 RM, Near Ravidas Ghat, Assi-Nagwa Road",221005,No-frills Varanasi hotel with restaurant,1,1,16,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Ganga Maonestary,2300,3,27,"N-1/2 RM, Near Ravidas Ghat, Assi-Nagwa Road",221005,No-frills Varanasi hotel with restaurant,1,1,16,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Ganga Maonestary,2300,3,27,"N-1/2 RM, Near Ravidas Ghat, Assi-Nagwa Road",221005,No-frills Varanasi hotel with restaurant,1,1,16,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Ganga Maonestary,3500,3,27,"N-1/2 RM, Near Ravidas Ghat, Assi-Nagwa Road",221005,No-frills Varanasi hotel with restaurant,1,1,16,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Ganga Maonestary,3500,3,27,"N-1/2 RM, Near Ravidas Ghat, Assi-Nagwa Road",221005,No-frills Varanasi hotel with restaurant,1,1,16,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Ganges Inn,2550,2.5,22,"D20/10,Munshi Ghat, Bengali Tola, (Behind Darbhanga Palace), Varanasi",221001,Riverfront Varanasi hotel with restaurant,1,1,6,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Ganges Inn,2550,2.5,22,"D20/10,Munshi Ghat, Bengali Tola, (Behind Darbhanga Palace), Varanasi",221001,Riverfront Varanasi hotel with restaurant,1,1,6,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Ganges Inn,2550,2.5,22,"D20/10,Munshi Ghat, Bengali Tola, (Behind Darbhanga Palace), Varanasi",221001,Riverfront Varanasi hotel with restaurant,1,1,6,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Ganges Inn,2550,2.5,22,"D20/10,Munshi Ghat, Bengali Tola, (Behind Darbhanga Palace), Varanasi",221001,Riverfront Varanasi hotel with restaurant,1,1,6,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Ganges Inn,2550,2.5,22,"D20/10,Munshi Ghat, Bengali Tola, (Behind Darbhanga Palace), Varanasi",221001,Riverfront Varanasi hotel with restaurant,1,1,6,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Ganges Inn,2550,2.5,22,"D20/10,Munshi Ghat, Bengali Tola, (Behind Darbhanga Palace), Varanasi",221001,Riverfront Varanasi hotel with restaurant,1,1,6,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Ganges Inn,3000,2.5,22,"D20/10,Munshi Ghat, Bengali Tola, (Behind Darbhanga Palace), Varanasi",221001,Riverfront Varanasi hotel with restaurant,1,1,6,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Ganges Inn,3000,2.5,22,"D20/10,Munshi Ghat, Bengali Tola, (Behind Darbhanga Palace), Varanasi",221001,Riverfront Varanasi hotel with restaurant,1,1,6,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Gupta Inn,780,3,18,"S 19/122, P.W.D Road Varuna Bridge, (Behind UP Motor Petrol Pump), Varanasi, Uttar Pradesh",221002,City-center Varanasi hotel with restaurant,1,1,10,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Gupta Inn,2500,3,18,"S 19/122, P.W.D Road Varuna Bridge, (Behind UP Motor Petrol Pump), Varanasi, Uttar Pradesh",221002,City-center Varanasi hotel with restaurant,1,1,10,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Gupta Inn,2500,3,18,"S 19/122, P.W.D Road Varuna Bridge, (Behind UP Motor Petrol Pump), Varanasi, Uttar Pradesh",221002,City-center Varanasi hotel with restaurant,1,1,10,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Gupta Inn,780,3,18,"S 19/122, P.W.D Road Varuna Bridge, (Behind UP Motor Petrol Pump), Varanasi, Uttar Pradesh",221002,City-center Varanasi hotel with restaurant,1,1,10,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Gupta Inn,780,3,18,"S 19/122, P.W.D Road Varuna Bridge, (Behind UP Motor Petrol Pump), Varanasi, Uttar Pradesh",221002,City-center Varanasi hotel with restaurant,1,1,10,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Gupta Inn,780,3,18,"S 19/122, P.W.D Road Varuna Bridge, (Behind UP Motor Petrol Pump), Varanasi, Uttar Pradesh",221002,City-center Varanasi hotel with restaurant,1,1,10,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Gupta Inn,2500,3,18,"S 19/122, P.W.D Road Varuna Bridge, (Behind UP Motor Petrol Pump), Varanasi, Uttar Pradesh",221002,City-center Varanasi hotel with restaurant,1,1,10,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Gupta Inn,2500,3,18,"S 19/122, P.W.D Road Varuna Bridge, (Behind UP Motor Petrol Pump), Varanasi, Uttar Pradesh",221002,City-center Varanasi hotel with restaurant,1,1,10,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Hotel Alka,3144,3,22,"D3/23, Meer Ghat,,Varanasi,Uttar Pradesh,India",221001,"Riverfront hotel in Varanasi with spa, restaurant",1,0,20,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Hotel Alka,801,3,22,"D3/23, Meer Ghat,,Varanasi,Uttar Pradesh,India",221001,"Riverfront hotel in Varanasi with spa, restaurant",1,0,20,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Hotel Alka,801,3,22,"D3/23, Meer Ghat,,Varanasi,Uttar Pradesh,India",221001,"Riverfront hotel in Varanasi with spa, restaurant",1,0,20,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Hotel Alka,801,3,22,"D3/23, Meer Ghat,,Varanasi,Uttar Pradesh,India",221001,"Riverfront hotel in Varanasi with spa, restaurant",1,0,20,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Hotel Alka,801,3,22,"D3/23, Meer Ghat,,Varanasi,Uttar Pradesh,India",221001,"Riverfront hotel in Varanasi with spa, restaurant",1,0,20,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Hotel Alka,3144,3,22,"D3/23, Meer Ghat,,Varanasi,Uttar Pradesh,India",221001,"Riverfront hotel in Varanasi with spa, restaurant",1,0,20,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Hotel Alka,801,3,22,"D3/23, Meer Ghat,,Varanasi,Uttar Pradesh,India",221001,"Riverfront hotel in Varanasi with spa, restaurant",1,0,20,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Hotel Alka,801,3,22,"D3/23, Meer Ghat,,Varanasi,Uttar Pradesh,India",221001,"Riverfront hotel in Varanasi with spa, restaurant",1,0,20,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Hotel Buddha,4050,3.3,23,"C-26/35 Lahurabir, (Behind Hotel Ajay), Varanasi, Uttar Pradesh",221001,"3-star hotel in Varanasi with 4 restaurants, health club",1,0,30,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Hotel Buddha,4050,3.3,23,"C-26/35 Lahurabir, (Behind Hotel Ajay), Varanasi, Uttar Pradesh",221001,"3-star hotel in Varanasi with 4 restaurants, health club",1,0,30,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Hotel Buddha,4050,3.3,23,"C-26/35 Lahurabir, (Behind Hotel Ajay), Varanasi, Uttar Pradesh",221001,"3-star hotel in Varanasi with 4 restaurants, health club",1,0,30,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Hotel Buddha,4050,3.3,23,"C-26/35 Lahurabir, (Behind Hotel Ajay), Varanasi, Uttar Pradesh",221001,"3-star hotel in Varanasi with 4 restaurants, health club",1,0,30,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Hotel Buddha,4050,3.3,23,"C-26/35 Lahurabir, (Behind Hotel Ajay), Varanasi, Uttar Pradesh",221001,"3-star hotel in Varanasi with 4 restaurants, health club",1,0,30,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Hotel Buddha,4050,3.3,23,"C-26/35 Lahurabir, (Behind Hotel Ajay), Varanasi, Uttar Pradesh",221001,"3-star hotel in Varanasi with 4 restaurants, health club",1,0,30,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Hotel Buddha,3790,3.3,23,"C-26/35 Lahurabir, (Behind Hotel Ajay), Varanasi, Uttar Pradesh",221001,"3-star hotel in Varanasi with 4 restaurants, health club",1,0,30,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Hotel Buddha,3790,3.3,23,"C-26/35 Lahurabir, (Behind Hotel Ajay), Varanasi, Uttar Pradesh",221001,"3-star hotel in Varanasi with 4 restaurants, health club",1,0,30,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Hotel Central Residency,2400,3,20,"C 19/122 A-Ka, Sigra Thana Road, Varanasi",221001,3-star Varanasi hotel with restaurant,1,0,10,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Hotel Central Residency,2400,3,20,"C 19/122 A-Ka, Sigra Thana Road, Varanasi",221001,3-star Varanasi hotel with restaurant,1,0,10,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Hotel Central Residency,2400,3,20,"C 19/122 A-Ka, Sigra Thana Road, Varanasi",221001,3-star Varanasi hotel with restaurant,1,0,10,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Hotel Central Residency,2700,3,20,"C 19/122 A-Ka, Sigra Thana Road, Varanasi",221001,3-star Varanasi hotel with restaurant,1,0,10,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Hotel Central Residency,2400,3,20,"C 19/122 A-Ka, Sigra Thana Road, Varanasi",221001,3-star Varanasi hotel with restaurant,1,0,10,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Hotel Central Residency,2400,3,20,"C 19/122 A-Ka, Sigra Thana Road, Varanasi",221001,3-star Varanasi hotel with restaurant,1,0,10,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Hotel Central Residency,2400,3,20,"C 19/122 A-Ka, Sigra Thana Road, Varanasi",221001,3-star Varanasi hotel with restaurant,1,0,10,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Hotel Central Residency,2400,3,20,"C 19/122 A-Ka, Sigra Thana Road, Varanasi",221001,3-star Varanasi hotel with restaurant,1,0,10,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Hotel Ganesha,850,2,27,"B1/48 Assi, Opp Abhay Cinema, Varanasi",221005,City-center Varanasi hotel with restaurant,1,0,15,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Hotel Ganesha,850,2,27,"B1/48 Assi, Opp Abhay Cinema, Varanasi",221005,City-center Varanasi hotel with restaurant,1,0,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Hotel Ganesha,850,2,27,"B1/48 Assi, Opp Abhay Cinema, Varanasi",221005,City-center Varanasi hotel with restaurant,1,0,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Hotel Ganesha,850,2,27,"B1/48 Assi, Opp Abhay Cinema, Varanasi",221005,City-center Varanasi hotel with restaurant,1,0,15,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Hotel Ganesha,850,2,27,"B1/48 Assi, Opp Abhay Cinema, Varanasi",221005,City-center Varanasi hotel with restaurant,1,0,15,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Hotel Ganesha,850,2,27,"B1/48 Assi, Opp Abhay Cinema, Varanasi",221005,City-center Varanasi hotel with restaurant,1,0,15,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Hotel Ganesha,1221,2,27,"B1/48 Assi, Opp Abhay Cinema, Varanasi",221005,City-center Varanasi hotel with restaurant,1,0,15,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Hotel Ganesha,1221,2,27,"B1/48 Assi, Opp Abhay Cinema, Varanasi",221005,City-center Varanasi hotel with restaurant,1,0,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Hotel Surya,5200,3.5,21,"S-20/51 A-5, The Mall Road, Varanasi, Uttar Pradesh",221002,"Riverfront hotel in Varanasi with 2 restaurants, spa",1,1,65,1
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Hotel Surya,4200,3.5,21,"S-20/51 A-5, The Mall Road, Varanasi, Uttar Pradesh",221002,"Riverfront hotel in Varanasi with 2 restaurants, spa",1,1,65,1
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Hotel Surya,4500,3.5,21,"S-20/51 A-5, The Mall Road, Varanasi, Uttar Pradesh",221002,"Riverfront hotel in Varanasi with 2 restaurants, spa",1,1,65,1
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Hotel Surya,4200,3.5,21,"S-20/51 A-5, The Mall Road, Varanasi, Uttar Pradesh",221002,"Riverfront hotel in Varanasi with 2 restaurants, spa",1,1,65,1
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Hotel Surya,4500,3.5,21,"S-20/51 A-5, The Mall Road, Varanasi, Uttar Pradesh",221002,"Riverfront hotel in Varanasi with 2 restaurants, spa",1,1,65,1
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Hotel Surya,4200,3.5,21,"S-20/51 A-5, The Mall Road, Varanasi, Uttar Pradesh",221002,"Riverfront hotel in Varanasi with 2 restaurants, spa",1,1,65,1
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Hotel Surya,4200,3.5,21,"S-20/51 A-5, The Mall Road, Varanasi, Uttar Pradesh",221002,"Riverfront hotel in Varanasi with 2 restaurants, spa",1,1,65,1
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Hotel Surya,4200,3.5,21,"S-20/51 A-5, The Mall Road, Varanasi, Uttar Pradesh",221002,"Riverfront hotel in Varanasi with 2 restaurants, spa",1,1,65,1
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Hotel Vaibhav Harsh,3050,3,21,"Jangambari Road Godowlia, Varanasi, Uttar Pradesh",221001,Varanasi award-winning hotel with 3 restaurants,1,1,30,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Hotel Vaibhav Harsh,3050,3,21,"Jangambari Road Godowlia, Varanasi, Uttar Pradesh",221001,Varanasi award-winning hotel with 3 restaurants,1,1,30,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Hotel Vaibhav Harsh,3050,3,21,"Jangambari Road Godowlia, Varanasi, Uttar Pradesh",221001,Varanasi award-winning hotel with 3 restaurants,1,1,30,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Hotel Vaibhav Harsh,3450,3,21,"Jangambari Road Godowlia, Varanasi, Uttar Pradesh",221001,Varanasi award-winning hotel with 3 restaurants,1,1,30,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Hotel Vaibhav Harsh,3050,3,21,"Jangambari Road Godowlia, Varanasi, Uttar Pradesh",221001,Varanasi award-winning hotel with 3 restaurants,1,1,30,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Hotel Vaibhav Harsh,3050,3,21,"Jangambari Road Godowlia, Varanasi, Uttar Pradesh",221001,Varanasi award-winning hotel with 3 restaurants,1,1,30,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Hotel Vaibhav Harsh,3050,3,21,"Jangambari Road Godowlia, Varanasi, Uttar Pradesh",221001,Varanasi award-winning hotel with 3 restaurants,1,1,30,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Hotel Vaibhav Harsh,3050,3,21,"Jangambari Road Godowlia, Varanasi, Uttar Pradesh",221001,Varanasi award-winning hotel with 3 restaurants,1,1,30,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Hotel Varuna,2560,3,20,"22 Gulab Bagh, Sigra, 2 km from Kashi Vishwanath Temple, Varanasi",221002,"3-star hotel in Varanasi with restaurant, bar/lounge",1,0,25,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Hotel Varuna,2000,3,20,"23 Gulab Bagh, Sigra, 2 km from Kashi Vishwanath Temple, Varanasi",221002,"3-star hotel in Varanasi with restaurant, bar/lounge",1,0,25,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Hotel Varuna,2560,3,20,"24 Gulab Bagh, Sigra, 2 km from Kashi Vishwanath Temple, Varanasi",221002,"3-star hotel in Varanasi with restaurant, bar/lounge",1,0,25,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Hotel Varuna,2000,3,20,"25 Gulab Bagh, Sigra, 2 km from Kashi Vishwanath Temple, Varanasi",221002,"3-star hotel in Varanasi with restaurant, bar/lounge",1,0,25,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Hotel Varuna,2000,3,20,"26 Gulab Bagh, Sigra, 2 km from Kashi Vishwanath Temple, Varanasi",221002,"3-star hotel in Varanasi with restaurant, bar/lounge",1,0,25,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Hotel Varuna,2000,3,20,"27 Gulab Bagh, Sigra, 2 km from Kashi Vishwanath Temple, Varanasi",221002,"3-star hotel in Varanasi with restaurant, bar/lounge",1,0,25,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Hotel Varuna,2000,3,20,"28 Gulab Bagh, Sigra, 2 km from Kashi Vishwanath Temple, Varanasi",221002,"3-star hotel in Varanasi with restaurant, bar/lounge",1,0,25,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Hotel Varuna,2000,3,20,"29 Gulab Bagh, Sigra, 2 km from Kashi Vishwanath Temple, Varanasi",221002,"3-star hotel in Varanasi with restaurant, bar/lounge",1,0,25,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Hotel Varuna,2000,3,23,"22 Gulab Bagh, Sigra, 2 km from Kashi Vishwanath Temple, Varanasi",221002,"3-star hotel in Varanasi with restaurant, bar/lounge",1,1,25,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Hotel Varuna,2000,3,23,"22 Gulab Bagh, Sigra, 2 km from Kashi Vishwanath Temple, Varanasi",221002,"3-star hotel in Varanasi with restaurant, bar/lounge",1,1,25,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Hotel Varuna,2560,3,23,"22 Gulab Bagh, Sigra, 2 km from Kashi Vishwanath Temple, Varanasi",221002,"3-star hotel in Varanasi with restaurant, bar/lounge",1,1,25,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Hotel Varuna,2000,3,23,"22 Gulab Bagh, Sigra, 2 km from Kashi Vishwanath Temple, Varanasi",221002,"3-star hotel in Varanasi with restaurant, bar/lounge",1,1,25,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Hotel Varuna,2000,3,23,"22 Gulab Bagh, Sigra, 2 km from Kashi Vishwanath Temple, Varanasi",221002,"3-star hotel in Varanasi with restaurant, bar/lounge",1,1,25,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Hotel Varuna,2560,3,23,"22 Gulab Bagh, Sigra, 2 km from Kashi Vishwanath Temple, Varanasi",221002,"3-star hotel in Varanasi with restaurant, bar/lounge",1,1,25,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Hotel Varuna,2000,3,23,"22 Gulab Bagh, Sigra, 2 km from Kashi Vishwanath Temple, Varanasi",221002,"3-star hotel in Varanasi with restaurant, bar/lounge",1,1,25,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Hotel Varuna,2000,3,23,"22 Gulab Bagh, Sigra, 2 km from Kashi Vishwanath Temple, Varanasi",221002,"3-star hotel in Varanasi with restaurant, bar/lounge",1,1,25,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Kedareswar Bed and Breakfast,2200,2.5,23,"B14/1 Mansarovar, Chowki Ghat, (Near Kedar Ghat), Sonarpura, Varanasi",221001,No-frills B&B in Varanasi,1,1,6,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Kedareswar Bed and Breakfast,3200,2.5,23,"B14/1 Mansarovar, Chowki Ghat, (Near Kedar Ghat), Sonarpura, Varanasi",221001,No-frills B&B in Varanasi,1,1,6,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Kedareswar Bed and Breakfast,2200,2.5,23,"B14/1 Mansarovar, Chowki Ghat, (Near Kedar Ghat), Sonarpura, Varanasi",221001,No-frills B&B in Varanasi,1,1,6,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Kedareswar Bed and Breakfast,2200,2.5,23,"B14/1 Mansarovar, Chowki Ghat, (Near Kedar Ghat), Sonarpura, Varanasi",221001,No-frills B&B in Varanasi,1,1,6,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Kedareswar Bed and Breakfast,2200,2.5,23,"B14/1 Mansarovar, Chowki Ghat, (Near Kedar Ghat), Sonarpura, Varanasi",221001,No-frills B&B in Varanasi,1,1,6,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Kedareswar Bed and Breakfast,2200,2.5,23,"B14/1 Mansarovar, Chowki Ghat, (Near Kedar Ghat), Sonarpura, Varanasi",221001,No-frills B&B in Varanasi,1,1,6,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Kedareswar Bed and Breakfast,2200,2.5,23,"B14/1 Mansarovar, Chowki Ghat, (Near Kedar Ghat), Sonarpura, Varanasi",221001,No-frills B&B in Varanasi,1,1,6,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Kedareswar Bed and Breakfast,2200,2.5,23,"B14/1 Mansarovar, Chowki Ghat, (Near Kedar Ghat), Sonarpura, Varanasi",221001,No-frills B&B in Varanasi,1,1,6,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Nadesar Palace,75000,5,19,"Nadesar Palace Grounds, Varanasi, Uttar Pradesh",221002,"Luxury resort in Varanasi with golf course, spa",1,1,10,1
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Nadesar Palace,75000,5,19,"Nadesar Palace Grounds, Varanasi, Uttar Pradesh",221002,"Luxury resort in Varanasi with golf course, spa",1,1,10,1
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Nadesar Palace,55000,5,19,"Nadesar Palace Grounds, Varanasi, Uttar Pradesh",221002,"Luxury resort in Varanasi with golf course, spa",1,1,10,1
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Nadesar Palace,75000,5,19,"Nadesar Palace Grounds, Varanasi, Uttar Pradesh",221002,"Luxury resort in Varanasi with golf course, spa",1,1,10,1
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Nadesar Palace,55000,5,19,"Nadesar Palace Grounds, Varanasi, Uttar Pradesh",221002,"Luxury resort in Varanasi with golf course, spa",1,1,10,1
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Nadesar Palace,55000,5,19,"Nadesar Palace Grounds, Varanasi, Uttar Pradesh",221002,"Luxury resort in Varanasi with golf course, spa",1,1,10,1
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Nadesar Palace,75000,5,19,"Nadesar Palace Grounds, Varanasi, Uttar Pradesh",221002,"Luxury resort in Varanasi with golf course, spa",1,1,10,1
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Nadesar Palace,75000,5,19,"Nadesar Palace Grounds, Varanasi, Uttar Pradesh",221002,"Luxury resort in Varanasi with golf course, spa",1,1,10,1
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,OYO Premium Airforce Board Cantonment,3959,3,18,"S 20/51-A-4-AI, Nepali Kothi, The Mall Road, Varanasi, Uttar Pradesh",221002,3-star hotel in Varanasi,1,1,16,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,OYO Premium Airforce Board Cantonment,3959,3,18,"S 20/51-A-4-AI, Nepali Kothi, The Mall Road, Varanasi, Uttar Pradesh",221002,3-star hotel in Varanasi,1,1,16,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,OYO Premium Airforce Board Cantonment,3959,3,18,"S 20/51-A-4-AI, Nepali Kothi, The Mall Road, Varanasi, Uttar Pradesh",221002,3-star hotel in Varanasi,1,1,16,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,OYO Premium Airforce Board Cantonment,3959,3,18,"S 20/51-A-4-AI, Nepali Kothi, The Mall Road, Varanasi, Uttar Pradesh",221002,3-star hotel in Varanasi,1,1,16,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,OYO Premium Airforce Board Cantonment,3959,3,18,"S 20/51-A-4-AI, Nepali Kothi, The Mall Road, Varanasi, Uttar Pradesh",221002,3-star hotel in Varanasi,1,1,16,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,OYO Premium Airforce Board Cantonment,9898,3,18,"S 20/51-A-4-AI, Nepali Kothi, The Mall Road, Varanasi, Uttar Pradesh",221002,3-star hotel in Varanasi,1,1,16,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,OYO Premium Airforce Board Cantonment,10324,3,18,"S 20/51-A-4-AI, Nepali Kothi, The Mall Road, Varanasi, Uttar Pradesh",221002,3-star hotel in Varanasi,1,1,16,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,OYO Premium Airforce Board Cantonment,10324,3,18,"S 20/51-A-4-AI, Nepali Kothi, The Mall Road, Varanasi, Uttar Pradesh",221002,3-star hotel in Varanasi,1,1,16,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,OYO Premium Near Sankat Mochan Mandir,2384,3,24,"B-36/4-M-26 Saket Nagar Rd, Near Sankat Mochan, Saket Nagar Colony, Varanasi, Uttar Pradesh",221005,3-star hotel in Varanasi,1,1,5,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,OYO Premium Near Sankat Mochan Mandir,2384,3,24,"B-36/4-M-26 Saket Nagar Rd, Near Sankat Mochan, Saket Nagar Colony, Varanasi, Uttar Pradesh",221005,3-star hotel in Varanasi,1,1,5,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,OYO Premium Near Sankat Mochan Mandir,6279,3,24,"B-36/4-M-26 Saket Nagar Rd, Near Sankat Mochan, Saket Nagar Colony, Varanasi, Uttar Pradesh",221005,3-star hotel in Varanasi,1,1,5,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,OYO Premium Near Sankat Mochan Mandir,2384,3,24,"B-36/4-M-26 Saket Nagar Rd, Near Sankat Mochan, Saket Nagar Colony, Varanasi, Uttar Pradesh",221005,3-star hotel in Varanasi,1,1,5,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,OYO Premium Near Sankat Mochan Mandir,6279,3,24,"B-36/4-M-26 Saket Nagar Rd, Near Sankat Mochan, Saket Nagar Colony, Varanasi, Uttar Pradesh",221005,3-star hotel in Varanasi,1,1,5,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,OYO Premium Near Sankat Mochan Mandir,5959,3,24,"B-36/4-M-26 Saket Nagar Rd, Near Sankat Mochan, Saket Nagar Colony, Varanasi, Uttar Pradesh",221005,3-star hotel in Varanasi,1,1,5,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,OYO Premium Near Sankat Mochan Mandir,6279,3,24,"B-36/4-M-26 Saket Nagar Rd, Near Sankat Mochan, Saket Nagar Colony, Varanasi, Uttar Pradesh",221005,3-star hotel in Varanasi,1,1,5,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,OYO Premium Near Sankat Mochan Mandir,6279,3,24,"B-36/4-M-26 Saket Nagar Rd, Near Sankat Mochan, Saket Nagar Colony, Varanasi, Uttar Pradesh",221005,3-star hotel in Varanasi,1,1,5,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,OYO Premium Railway Station,2767,3,19,"C31/4, B-12, Englishia Line Cantt, Varanasi,",221002,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,OYO Premium Railway Station,2767,3,19,"C31/4, B-12, Englishia Line Cantt, Varanasi,",221002,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,OYO Premium Railway Station,2767,3,19,"C31/4, B-12, Englishia Line Cantt, Varanasi,",221002,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,OYO Premium Railway Station,2767,3,19,"C31/4, B-12, Englishia Line Cantt, Varanasi,",221002,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,OYO Premium Railway Station,2767,3,19,"C31/4, B-12, Englishia Line Cantt, Varanasi,",221002,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,OYO Premium Railway Station,3459,3,19,"C31/4, B-12, Englishia Line Cantt, Varanasi,",221002,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,OYO Premium Railway Station,7450,3,19,"C31/4, B-12, Englishia Line Cantt, Varanasi,",221002,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,OYO Premium Railway Station,7450,3,19,"C31/4, B-12, Englishia Line Cantt, Varanasi,",221002,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,OYO room Mahmoorganj,1958,3,27,"D59/148,149,150 K, Sigra Road, Mahmoorganj",221010,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,OYO room Mahmoorganj,1915,3,27,"D59/148,149,150 K, Sigra Road, Mahmoorganj",221010,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,OYO room Mahmoorganj,1915,3,27,"D59/148,149,150 K, Sigra Road, Mahmoorganj",221010,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,OYO room Mahmoorganj,1915,3,27,"D59/148,149,150 K, Sigra Road, Mahmoorganj",221010,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,OYO room Mahmoorganj,1915,3,27,"D59/148,149,150 K, Sigra Road, Mahmoorganj",221010,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,OYO room Mahmoorganj,2394,3,27,"D59/148,149,150 K, Sigra Road, Mahmoorganj",221010,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,OYO room Mahmoorganj,5109,3,27,"D59/148,149,150 K, Sigra Road, Mahmoorganj",221010,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,OYO room Mahmoorganj,5109,3,27,"D59/148,149,150 K, Sigra Road, Mahmoorganj",221010,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,OYO Rooms Godowlia Shivala Road,2469,3,23,"B 10/7, Krim Kund, Shivala, Varanasi",221001,3-star Varanasi hotel with restaurant,1,1,15,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,OYO Rooms Godowlia Shivala Road,2469,3,23,"B 10/7, Krim Kund, Shivala, Varanasi",221001,3-star Varanasi hotel with restaurant,1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,OYO Rooms Godowlia Shivala Road,2469,3,23,"B 10/7, Krim Kund, Shivala, Varanasi",221001,3-star Varanasi hotel with restaurant,1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,OYO Rooms Godowlia Shivala Road,2469,3,23,"B 10/7, Krim Kund, Shivala, Varanasi",221001,3-star Varanasi hotel with restaurant,1,1,15,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,OYO Rooms Godowlia Shivala Road,2469,3,23,"B 10/7, Krim Kund, Shivala, Varanasi",221001,3-star Varanasi hotel with restaurant,1,1,15,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,OYO Rooms Godowlia Shivala Road,3086,3,23,"B 10/7, Krim Kund, Shivala, Varanasi",221001,3-star Varanasi hotel with restaurant,1,1,15,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,OYO Rooms Godowlia Shivala Road,6492,3,23,"B 10/7, Krim Kund, Shivala, Varanasi",221001,3-star Varanasi hotel with restaurant,1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,OYO Rooms Godowlia Shivala Road,6492,3,23,"B 10/7, Krim Kund, Shivala, Varanasi",221001,3-star Varanasi hotel with restaurant,1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,OYO Rooms IP Mall Sigra,5640,3,20,"C 19/122, Sigra Thana Road, Varanasi",221001,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,OYO Rooms IP Mall Sigra,5640,3,20,"C 19/122, Sigra Thana Road, Varanasi",221001,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,OYO Rooms IP Mall Sigra,2469,3,20,"C 19/122, Sigra Thana Road, Varanasi",221001,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,OYO Rooms IP Mall Sigra,5640,3,20,"C 19/122, Sigra Thana Road, Varanasi",221001,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,OYO Rooms IP Mall Sigra,5640,3,20,"C 19/122, Sigra Thana Road, Varanasi",221001,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,OYO Rooms IP Mall Sigra,3086,3,20,"C 19/122, Sigra Thana Road, Varanasi",221001,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,OYO Rooms IP Mall Sigra,5640,3,20,"C 19/122, Sigra Thana Road, Varanasi",221001,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,OYO Rooms IP Mall Sigra,5640,3,20,"C 19/122, Sigra Thana Road, Varanasi",221001,Varanasi hotel next to shopping,1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,OYO Rooms Mahmoorganj,1830,3,20,"D59/148,149,150 K, Sigra Road, Mahmoorganj, Varanasi",221010,"3 star with Free continental breakfast, free WiFi, and free parking",1,1,15,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,OYO Rooms Mahmoorganj,1830,3,20,"D59/148,149,150 K, Sigra Road, Mahmoorganj, Varanasi",221010,"3 star with Free continental breakfast, free WiFi, and free parking",1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,OYO Rooms Mahmoorganj,1830,3,20,"D59/148,149,150 K, Sigra Road, Mahmoorganj, Varanasi",221010,"3 star with Free continental breakfast, free WiFi, and free parking",1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,OYO Rooms Mahmoorganj,1830,3,20,"D59/148,149,150 K, Sigra Road, Mahmoorganj, Varanasi",221010,"3 star with Free continental breakfast, free WiFi, and free parking",1,1,15,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,OYO Rooms Mahmoorganj,1830,3,20,"D59/148,149,150 K, Sigra Road, Mahmoorganj, Varanasi",221010,"3 star with Free continental breakfast, free WiFi, and free parking",1,1,15,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,OYO Rooms Mahmoorganj,2288,3,20,"D59/148,149,150 K, Sigra Road, Mahmoorganj, Varanasi",221010,"3 star with Free continental breakfast, free WiFi, and free parking",1,1,15,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,OYO Rooms Mahmoorganj,4788,3,20,"D59/148,149,150 K, Sigra Road, Mahmoorganj, Varanasi",221010,"3 star with Free continental breakfast, free WiFi, and free parking",1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,OYO Rooms Mahmoorganj,4788,3,20,"D59/148,149,150 K, Sigra Road, Mahmoorganj, Varanasi",221010,"3 star with Free continental breakfast, free WiFi, and free parking",1,1,15,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Palace on Step,1500,2.5,22,"Rana Mahal Ghat, Banagali Tola, Near Godowlia, Varanasi",221001,Riverfront Varanasi hotel with restaurant,1,0,34,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Palace on Step,1500,2.5,22,"Rana Mahal Ghat, Banagali Tola, Near Godowlia, Varanasi",221001,Riverfront Varanasi hotel with restaurant,1,0,34,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Palace on Step,1500,2.5,22,"Rana Mahal Ghat, Banagali Tola, Near Godowlia, Varanasi",221001,Riverfront Varanasi hotel with restaurant,1,0,34,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Palace on Step,1500,2.5,22,"Rana Mahal Ghat, Banagali Tola, Near Godowlia, Varanasi",221001,Riverfront Varanasi hotel with restaurant,1,0,34,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Palace on Step,1500,2.5,22,"Rana Mahal Ghat, Banagali Tola, Near Godowlia, Varanasi",221001,Riverfront Varanasi hotel with restaurant,1,0,34,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Palace on Step,3000,2.5,22,"Rana Mahal Ghat, Banagali Tola, Near Godowlia, Varanasi",221001,Riverfront Varanasi hotel with restaurant,1,0,34,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Palace on Step,3000,2.5,22,"Rana Mahal Ghat, Banagali Tola, Near Godowlia, Varanasi",221001,Riverfront Varanasi hotel with restaurant,1,0,34,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Palace on Step,3000,2.5,22,"Rana Mahal Ghat, Banagali Tola, Near Godowlia, Varanasi",221001,Riverfront Varanasi hotel with restaurant,1,0,34,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Palace on step ,1500,3,25,"Rana Mahal Ghat, Banagali Tola, Near Godowlia, Varanas",221001,Riverfront Varanasi hotel with restaurant,1,0,32,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Palace on step ,1500,3,25,"Rana Mahal Ghat, Banagali Tola, Near Godowlia, Varanas",221001,Riverfront Varanasi hotel with restaurant,1,0,32,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Palace on step ,1500,3,25,"Rana Mahal Ghat, Banagali Tola, Near Godowlia, Varanas",221001,Riverfront Varanasi hotel with restaurant,1,0,32,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Palace on step ,3000,3,25,"Rana Mahal Ghat, Banagali Tola, Near Godowlia, Varanas",221001,Riverfront Varanasi hotel with restaurant,1,0,32,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Palace on step ,3000,3,25,"Rana Mahal Ghat, Banagali Tola, Near Godowlia, Varanas",221001,Riverfront Varanasi hotel with restaurant,1,0,32,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Palace on step ,3000,3,25,"Rana Mahal Ghat, Banagali Tola, Near Godowlia, Varanas",221001,Riverfront Varanasi hotel with restaurant,1,0,32,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Palace on step ,3000,3,25,"Rana Mahal Ghat, Banagali Tola, Near Godowlia, Varanas",221001,Riverfront Varanasi hotel with restaurant,1,0,32,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Palace on step ,3000,3,25,"Rana Mahal Ghat, Banagali Tola, Near Godowlia, Varanas",221001,Riverfront Varanasi hotel with restaurant,1,0,32,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Ramada Palaza JHV,6705,4,23,"The Mall, Cantonment, Varanasi, Uttar Pradesh",221001,"Luxury hotel in Varanasi with 2 restaurants, spa",1,1,120,1
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Ramada Palaza JHV,6705,4,23,"The Mall, Cantonment, Varanasi, Uttar Pradesh",221001,"Luxury hotel in Varanasi with 2 restaurants, spa",1,1,120,1
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Ramada Palaza JHV,6705,4,23,"The Mall, Cantonment, Varanasi, Uttar Pradesh",221001,"Luxury hotel in Varanasi with 2 restaurants, spa",1,1,120,1
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Ramada Palaza JHV,6705,4,23,"The Mall, Cantonment, Varanasi, Uttar Pradesh",221001,"Luxury hotel in Varanasi with 2 restaurants, spa",1,1,120,1
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Ramada Palaza JHV,6705,4,23,"The Mall, Cantonment, Varanasi, Uttar Pradesh",221001,"Luxury hotel in Varanasi with 2 restaurants, spa",1,1,120,1
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Ramada Palaza JHV,17523,4,23,"The Mall, Cantonment, Varanasi, Uttar Pradesh",221001,"Luxury hotel in Varanasi with 2 restaurants, spa",1,1,120,1
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Ramada Palaza JHV,7601,4,23,"The Mall, Cantonment, Varanasi, Uttar Pradesh",221001,"Luxury hotel in Varanasi with 2 restaurants, spa",1,1,120,1
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Ramada Palaza JHV,7601,4,23,"The Mall, Cantonment, Varanasi, Uttar Pradesh",221001,"Luxury hotel in Varanasi with 2 restaurants, spa",1,1,120,1
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Rivatas,8999,4,22,"The Mall Road, Cantonment, Varanasi",221002,"4-star hotel in Varanasi with 2 restaurants, spa",1,1,67,1
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Rivatas,8999,4,22,"The Mall Road, Cantonment, Varanasi",221002,"4-star hotel in Varanasi with 2 restaurants, spa",1,1,67,1
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Rivatas,6499,4,22,"The Mall Road, Cantonment, Varanasi",221002,"4-star hotel in Varanasi with 2 restaurants, spa",1,1,67,1
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Rivatas,6499,4,22,"The Mall Road, Cantonment, Varanasi",221002,"4-star hotel in Varanasi with 2 restaurants, spa",1,1,67,1
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Rivatas,9999,4,22,"The Mall Road, Cantonment, Varanasi",221002,"4-star hotel in Varanasi with 2 restaurants, spa",1,1,67,1
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Rivatas,6499,4,22,"The Mall Road, Cantonment, Varanasi",221002,"4-star hotel in Varanasi with 2 restaurants, spa",1,1,67,1
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Rivatas,7999,4,22,"The Mall Road, Cantonment, Varanasi",221002,"4-star hotel in Varanasi with 2 restaurants, spa",1,1,67,1
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Rivatas,7999,4,22,"The Mall Road, Cantonment, Varanasi",221002,"4-star hotel in Varanasi with 2 restaurants, spa",1,1,67,1
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Suryauday Haveli,13500,4.1,27,"B-4/25, Shivala Ghat, Nepali Kothi, Varanasi, Uttar Pradesh",221001,3-star beachfront hotel in Varanasi with restaurant,1,1,14,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Suryauday Haveli,13500,4.1,27,"B-4/25, Shivala Ghat, Nepali Kothi, Varanasi, Uttar Pradesh",221001,3-star beachfront hotel in Varanasi with restaurant,1,1,14,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Suryauday Haveli,15500,4.1,27,"B-4/25, Shivala Ghat, Nepali Kothi, Varanasi, Uttar Pradesh",221001,3-star beachfront hotel in Varanasi with restaurant,1,1,14,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Suryauday Haveli,15500,4.1,27,"B-4/25, Shivala Ghat, Nepali Kothi, Varanasi, Uttar Pradesh",221001,3-star beachfront hotel in Varanasi with restaurant,1,1,14,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Suryauday Haveli,15500,4.1,27,"B-4/25, Shivala Ghat, Nepali Kothi, Varanasi, Uttar Pradesh",221001,3-star beachfront hotel in Varanasi with restaurant,1,1,14,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Suryauday Haveli,15500,4.1,27,"B-4/25, Shivala Ghat, Nepali Kothi, Varanasi, Uttar Pradesh",221001,3-star beachfront hotel in Varanasi with restaurant,1,1,14,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Suryauday Haveli,15500,4.1,27,"B-4/25, Shivala Ghat, Nepali Kothi, Varanasi, Uttar Pradesh",221001,3-star beachfront hotel in Varanasi with restaurant,1,1,14,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Suryauday Haveli,13500,4.1,27,"B-4/25, Shivala Ghat, Nepali Kothi, Varanasi, Uttar Pradesh",221001,3-star beachfront hotel in Varanasi with restaurant,1,1,14,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Suryauday Haveli,13500,3,23,"B-4/25, Shivala Ghat, Nepali Kothi, Varanasi, Uttar Pradesh",221001,3-star beachfront hotel in Varanasi with restaurant,1,1,14,0
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Suryauday Haveli,15500,3,23,"B-4/25, Shivala Ghat, Nepali Kothi, Varanasi, Uttar Pradesh",221001,3-star beachfront hotel in Varanasi with restaurant,1,1,14,0
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Suryauday Haveli,15500,3,23,"B-4/25, Shivala Ghat, Nepali Kothi, Varanasi, Uttar Pradesh",221001,3-star beachfront hotel in Varanasi with restaurant,1,1,14,0
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Suryauday Haveli,15500,3,23,"B-4/25, Shivala Ghat, Nepali Kothi, Varanasi, Uttar Pradesh",221001,3-star beachfront hotel in Varanasi with restaurant,1,1,14,0
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Suryauday Haveli,15500,3,23,"B-4/25, Shivala Ghat, Nepali Kothi, Varanasi, Uttar Pradesh",221001,3-star beachfront hotel in Varanasi with restaurant,1,1,14,0
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Suryauday Haveli,15500,3,23,"B-4/25, Shivala Ghat, Nepali Kothi, Varanasi, Uttar Pradesh",221001,3-star beachfront hotel in Varanasi with restaurant,1,1,14,0
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Suryauday Haveli,15500,3,23,"B-4/25, Shivala Ghat, Nepali Kothi, Varanasi, Uttar Pradesh",221001,3-star beachfront hotel in Varanasi with restaurant,1,1,14,0
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Suryauday Haveli,13500,3,23,"B-4/25, Shivala Ghat, Nepali Kothi, Varanasi, Uttar Pradesh",221001,3-star beachfront hotel in Varanasi with restaurant,1,1,14,0
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,Taj Nadesar Palace,75000,4.5,19,"Nadesar Palace Grounds, Varanasi",221002,"Luxury resort in Varanasi with golf course, spa",1,0,10,1
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,Taj Nadesar Palace,75000,4.5,19,"Nadesar Palace Grounds, Varanasi",221002,"Luxury resort in Varanasi with golf course, spa",1,0,10,1
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,Taj Nadesar Palace,55000,4.5,19,"Nadesar Palace Grounds, Varanasi",221002,"Luxury resort in Varanasi with golf course, spa",1,0,10,1
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,Taj Nadesar Palace,75000,4.5,19,"Nadesar Palace Grounds, Varanasi",221002,"Luxury resort in Varanasi with golf course, spa",1,0,10,1
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,Taj Nadesar Palace,55000,4.5,19,"Nadesar Palace Grounds, Varanasi",221002,"Luxury resort in Varanasi with golf course, spa",1,0,10,1
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,Taj Nadesar Palace,55000,4.5,19,"Nadesar Palace Grounds, Varanasi",221002,"Luxury resort in Varanasi with golf course, spa",1,0,10,1
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,Taj Nadesar Palace,55000,4.5,19,"Nadesar Palace Grounds, Varanasi",221002,"Luxury resort in Varanasi with golf course, spa",1,0,10,1
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,Taj Nadesar Palace,75000,4.5,19,"Nadesar Palace Grounds, Varanasi",221002,"Luxury resort in Varanasi with golf course, spa",1,0,10,1
+Varanasi,1201815,20,0,1,1,0,Dec 18 2016,The Gateway Hotel Ganges,11500,5,21,"Nadesar Palace Grounds, Varanasi, Uttar Pradesh",221002,"Luxury hotel in Varanasi with spa, outdoor pool",1,1,130,1
+Varanasi,1201815,20,0,1,0,0,Dec 21 2016,The Gateway Hotel Ganges,9200,5,21,"Nadesar Palace Grounds, Varanasi, Uttar Pradesh",221002,"Luxury hotel in Varanasi with spa, outdoor pool",1,1,130,1
+Varanasi,1201815,20,0,1,1,0,Dec 24 2016,The Gateway Hotel Ganges,11500,5,21,"Nadesar Palace Grounds, Varanasi, Uttar Pradesh",221002,"Luxury hotel in Varanasi with spa, outdoor pool",1,1,130,1
+Varanasi,1201815,20,0,1,1,0,Dec 25 2016,The Gateway Hotel Ganges,11500,5,21,"Nadesar Palace Grounds, Varanasi, Uttar Pradesh",221002,"Luxury hotel in Varanasi with spa, outdoor pool",1,1,130,1
+Varanasi,1201815,20,0,1,0,0,Dec 28 2016,The Gateway Hotel Ganges,11500,5,21,"Nadesar Palace Grounds, Varanasi, Uttar Pradesh",221002,"Luxury hotel in Varanasi with spa, outdoor pool",1,1,130,1
+Varanasi,1201815,20,0,1,1,1,Dec 31 2016,The Gateway Hotel Ganges,11500,5,21,"Nadesar Palace Grounds, Varanasi, Uttar Pradesh",221002,"Luxury hotel in Varanasi with spa, outdoor pool",1,1,130,1
+Varanasi,1201815,20,0,1,0,0,Jan 04 2017,The Gateway Hotel Ganges,14500,5,21,"Nadesar Palace Grounds, Varanasi, Uttar Pradesh",221002,"Luxury hotel in Varanasi with spa, outdoor pool",1,1,130,1
+Varanasi,1201815,20,0,1,1,0,Jan 08 2017,The Gateway Hotel Ganges,9660,5,21,"Nadesar Palace Grounds, Varanasi, Uttar Pradesh",221002,"Luxury hotel in Varanasi with spa, outdoor pool",1,1,130,1
